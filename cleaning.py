@@ -16,7 +16,6 @@ df['Date'] = df['Date'].str.replace('th', '').str.replace('st', '').str.replace(
 df['date_time'] = df['Year'].astype(str) + '-' + df['Date'] + ' ' + df['Time']
 df['date_time'] = pd.to_datetime(df['date_time'], format = "%Y-%b-%d %I:%M%p")
 
-
 # Clean up the stadiums due to home teams changing stadium names
 
 stadiums = df['Stadium'].unique().tolist()
