@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-import sys 
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
@@ -10,9 +9,7 @@ def season_scraper(year):
 
 	year_ = [year]
 	url = 'https://www.rugbyleagueproject.org/seasons/nrl-{}/results.html'.format(year)
-
 	driver.get(url)
-
 	soup = BeautifulSoup(driver.page_source, 'lxml')
 
 	table = soup.find('table', class_ = 'list')
@@ -49,4 +46,4 @@ for year in np.arange(2008, 2018):
 		nrl_df = pd.concat([nrl_df, df])
 		
 
-nrl_df.to_csv('NRL.csv', index = False)
+nrl_df.to_csv('gameBygame.csv', index = False)
