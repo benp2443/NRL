@@ -3,6 +3,7 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
+pd.set_option("display.max_rows", 150)
 
 df = pd.read_csv('data/gameBygame.csv')
 
@@ -47,18 +48,23 @@ soo = pd.read_csv('data/soo_dates.csv')
 soo['date'] = soo['date'].str.replace('th', '').str.replace('st', '').str.replace('nd', '').str.replace('rd', '').str.replace(' ', '-')
 soo['date'] = pd.to_datetime(soo['date'], format = "%Y-%b-%d")
 
+# Add SOO period column which is true when the regular season game occurs during the origin period
+# period extends from one round prior to game 1 and 1 round post game 3
+
 years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
 
-df['SOO'] = False
+
+df['SOO'] = False # initialise column to False. Will update for True periods.
 
 df_date = df.columns.values.tolist().index('date_time')
-df_date = df.columns.values.tolist().index('SOO')
-soo_date = soo.columns.values.tolist().index('date')
+SOO = df.columns.values.tolist().index('SOO')
 
 for year_ in years:
-
 	idx_list = df.loc[df['date_time'].dt.year == year_, :].index.values.tolist()
 	date_interval = soo.loc[soo['date'].dt.year == year_, :]
+
+	start_soo_period = date_interval.iat[0, 0] - pd.DateOffset(days = 7)
+	end_soo_period = date_interval.iat[2, 0] + pd.DateOffset(days = 7)
 
 	i = idx_list[0]
 
@@ -66,7 +72,7 @@ for year_ in years:
 
 		row_date = df.iat[i, df_date]
 
-		if ((date_interval.iat[0, soo_date] - row_date).dt.days < 0) and ((date_interval.iat[2, soo_date] - row_date).dt.days > 0):
+		if ((start_soo_period - row_date).days < 0) and ((end_soo_period - row_date).days > 0):
 			df.iat[i, SOO] = True
 
 		i += 1
@@ -74,7 +80,6 @@ for year_ in years:
 
 
 
-
 # Save dataframe to csv
 
-#df.to_csv('data/NRL_cleaned.csv', index = False)
+df.to_csv('data/NRL_cleaned.csv', index = False)
