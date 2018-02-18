@@ -3,7 +3,7 @@ import numpy as np
 pd.set_option("display.max_columns", 20)
 pd.set_option("display.max_rows", 50)
 
-df = pd.read_csv('NRL_cleaned.csv')
+df = pd.read_csv('../data/NRL_cleaned.csv')
 
 df['date_time'] = pd.to_datetime(df['date_time'], format = "%Y-%m-%d %H:%M:%S")
 df['Date'] = df['Year'].astype(str) + '-' + df['Date']
@@ -67,4 +67,7 @@ while i < len(df):
 	i += 1
 
 
-df.to_csv('rest_temp.csv', index = False)
+print(df.Home_rest.unique())
+print(df.Away_rest.unique())
+
+df.to_csv('../data/rest_temp.csv', index = False)
