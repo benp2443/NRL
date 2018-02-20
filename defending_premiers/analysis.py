@@ -163,8 +163,136 @@ while i < len(new_season):
 
 df.loc[df['Period'] == True, 'Period'] = 'Origin'
 
+periods_list = ['Pre', 'Origin', 'Post']
 
+def win_percentage(df, period, team, wins = 0, games = 0):
+	
+	temp = df.loc[df['Period'] == period, :].reset_index(drop = True)
 
+	j = 0
+	while j < len(temp):
 
-aa
-df.to_csv('win_percentage.csv', index = False)	
+		if temp.loc[j, 'Home'] == team:
+
+			games += 1
+
+			if temp.loc[j, 'HomeWin'] == 1:
+				wins += 1
+			elif temp.loc[j, 'HomeWin'] == 0.5:
+				wins += 0.5
+		else:
+			games += 1
+
+			if temp.loc[j, 'HomeWin'] == 0:
+				wins += 1
+			elif temp.loc[j, 'HomeWin'] == 0.5:
+				wins += 0.5
+
+		j += 1
+
+	return wins, games
+
+results_df['prem_w_pre_%'] = -1
+results_df['prem_w_origin_%'] = -1
+results_df['prem_w_post_%'] = -1
+results_df['def_w_pre_%'] = -1
+results_df['def_w_origin_%'] = -1
+results_df['def_w_post_%'] = -1
+
+results_df['Year'] = results_df['Year'].astype(int)
+
+i = 0
+
+while i < len(premiers):
+	champs = premiers[i]
+	prem_year = years[i]
+	def_year = years[i + 1]
+
+	prem_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == prem_year), ['Home', 'Away', 'HomeWin', 'Period']]
+	def_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == def_year), ['Home', 'Away', 'HomeWin', 'Period']]
+
+	prem_results = []
+	prem_games = []
+	def_results = []
+	def_games = []
+
+	for period in periods_list:
+		p_wins, p_games = win_percentage(prem_df, period, champs)
+		d_wins, d_games = win_percentage(def_df, period, champs)
+		
+		if period == 'Pre':
+
+			results_df.loc[results_df['Year'] == prem_year, 'prem_w_pre_%'] = round(p_wins/p_games,2)
+			results_df.loc[results_df['Year'] == prem_year, 'def_w_pre_%'] = round(d_wins/d_games,2)
+
+		elif period == 'Origin':
+
+			results_df.loc[results_df['Year'] == prem_year, 'prem_w_origin_%'] = round(p_wins/p_games,2)
+			results_df.loc[results_df['Year'] == prem_year, 'def_w_origin_%'] = round(d_wins/d_games,2)
+
+		else:
+
+			results_df.loc[results_df['Year'] == prem_year, 'prem_w_post_%'] = round(p_wins/p_games,2)
+			results_df.loc[results_df['Year'] == prem_year, 'def_w_post_%'] = round(d_wins/d_games,2)
+			
+	i += 1
+	
+########## For and Against ##########
+
+results_df['prem_for'] = -1
+results_df['prem_against'] = -1
+results_df['def_for'] = -1
+results_df['def_against'] = -1
+
+def for_against_count(df, team):
+	
+	for_ = 0
+	against = 0
+
+	h = df.columns.values.tolist().index('Home')
+	a = df.columns.values.tolist().index('Away')
+	h_pts = df.columns.values.tolist().index('H_PTS')
+	a_pts = df.columns.values.tolist().index('A_PTS')
+
+	j = 0
+
+	while j < len(df):
+
+		if df.iat[j, h] == team:
+		
+			for_ += df.iat[j, h_pts]
+			against += df.iat[j, a_pts]
+
+		else:
+
+			for_ += df.iat[j, a_pts]
+			against += df.iat[j, h_pts]
+
+		j += 1
+	
+	return for_, against
+
+i = 0
+
+while i < len(premiers):
+
+	champs = premiers[i]
+	prem_year = years[i]
+	def_year = years[i + 1]
+
+	prem_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == prem_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
+	def_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == def_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
+
+	prem_for, prem_against = for_against_count(prem_df, champs)
+	def_for, def_against = for_against_count(def_df, champs)
+	
+	results_df.loc[results_df['Year'] == prem_year, 'prem_for'] = prem_for
+	results_df.loc[results_df['Year'] == prem_year, 'prem_against'] = prem_against
+	results_df.loc[results_df['Year'] == prem_year, 'def_for'] = def_for
+	results_df.loc[results_df['Year'] == prem_year, 'def_against'] = def_against
+
+	i += 1
+
+print(results_df)
+
+results_df.to_csv('win_percentage.csv', index = False)	
