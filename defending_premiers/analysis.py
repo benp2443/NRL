@@ -319,12 +319,19 @@ def for_against_count(df, team):
 
 		j += 1
 	
-	return for_, against, for_pre, against_pre, for_origin, against_origin, for_post, against_post
+	results = [for_, against, for_pre, against_pre, for_origin, against_origin, for_post, against_post]
 
-i = 0
+	return results
+
 
 def append_results(df, year, variable, value):
 	df.loc[df['Year'] == year, variable] = value
+
+
+idx = results_df.columns.values.tolist().index('prem_for')
+variables = results_df.columns.values.tolist()[idx:]
+
+i = 0
 
 while i < len(premiers):
 
@@ -335,14 +342,18 @@ while i < len(premiers):
 	prem_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == prem_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
 	def_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == def_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
 
-	prem_for, prem_against, prem_for_pre, prem_against_pre, prem_for_origin, prem_against_origin, prem_for_post, prem_against_post = for_against_count(prem_df, champs)
-	def_for, def_against, def_for_pre, def_against_pre, def_for_origin, def_against_origin, def_for_post, def_against_post = for_against_count(def_df, champs)
-	
-	results_df.loc[results_df['Year'] == prem_year, 'prem_for'] = prem_for
-	results_df.loc[results_df['Year'] == prem_year, 'prem_against'] = prem_against
-	results_df.loc[results_df['Year'] == prem_year, 'def_for'] = def_for
-	results_df.loc[results_df['Year'] == prem_year, 'def_against'] = def_against
+	prem_results = for_against_count(prem_df, champs)
+	def_results = for_against_count(def_df, champs)
 
+	results = prem_results + def_results
+
+	j = 0
+
+	while j < len(results):
+
+		append_results(results_df, prem_year, variables[j], results[j])
+		
+		j += 1
 
 	i += 1
 
