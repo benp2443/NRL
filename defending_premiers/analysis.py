@@ -244,35 +244,87 @@ results_df['prem_against'] = -1
 results_df['def_for'] = -1
 results_df['def_against'] = -1
 
+
+results_df['prem_for_pre'] = -1
+results_df['prem_againsts_pre'] = -1
+results_df['prem_for_origin'] = -1
+results_df['prem_againsts_origin'] = -1
+results_df['prem_for_post'] = -1
+results_df['prem_againsts_post'] = -1
+
+results_df['def_for_pre'] = -1
+results_df['def_againsts_pre'] = -1
+results_df['def_for_origin'] = -1
+results_df['def_against_origin'] = -1
+results_df['def_for_post'] = -1
+results_df['def_againsts_post'] = -1
+
 def for_against_count(df, team):
 	
 	for_ = 0
 	against = 0
 
+	for_pre = 0
+	against_pre = 0
+
+	for_origin = 0
+	against_origin = 0
+
+	for_post = 0
+	against_post = 0
+
 	h = df.columns.values.tolist().index('Home')
 	a = df.columns.values.tolist().index('Away')
 	h_pts = df.columns.values.tolist().index('H_PTS')
 	a_pts = df.columns.values.tolist().index('A_PTS')
+	p = df.columns.values.tolist().index('Period')
 
 	j = 0
 
 	while j < len(df):
+		
+		home_points = df.iat[j, h_pts]
+		away_points = df.iat[j, a_pts]
+		period = df.iat[j, p]
 
 		if df.iat[j, h] == team:
 		
-			for_ += df.iat[j, h_pts]
-			against += df.iat[j, a_pts]
+			for_ += home_points
+			against += away_points
+
+			if period == 'Pre':
+				for_pre += home_points
+				against_pre += away_points
+			elif period == 'Origin':
+				for_origin += home_points
+				against_origin += away_points
+			else:
+				for_post += home_points
+				against_post += away_points
 
 		else:
 
 			for_ += df.iat[j, a_pts]
 			against += df.iat[j, h_pts]
 
+			if period == 'Pre':
+				for_pre += away_points
+				against_pre += home_points
+			elif period == 'Origin':
+				for_origin += away_points
+				against_pre += home_points
+			else:
+				for_origin += away_points
+				against_pre += home_points
+
 		j += 1
 	
-	return for_, against
+	return for_, against, for_pre, against_pre, for_origin, against_origin, for_post, against_post
 
 i = 0
+
+def append_results(df, year, variable, value):
+	df.loc[df['Year'] == year, variable] = value
 
 while i < len(premiers):
 
@@ -283,13 +335,14 @@ while i < len(premiers):
 	prem_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == prem_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
 	def_df = df.loc[((df['Home'] == champs) | (df['Away'] == champs)) & (df['Year'] == def_year) & (df['Period'] != 'Finals'), ['Home', 'Away', 'H_PTS', 'A_PTS', 'HomeWin', 'Period']]
 
-	prem_for, prem_against = for_against_count(prem_df, champs)
-	def_for, def_against = for_against_count(def_df, champs)
+	prem_for, prem_against, prem_for_pre, prem_against_pre, prem_for_origin, prem_against_origin, prem_for_post, prem_against_post = for_against_count(prem_df, champs)
+	def_for, def_against, def_for_pre, def_against_pre, def_for_origin, def_against_origin, def_for_post, def_against_post = for_against_count(def_df, champs)
 	
 	results_df.loc[results_df['Year'] == prem_year, 'prem_for'] = prem_for
 	results_df.loc[results_df['Year'] == prem_year, 'prem_against'] = prem_against
 	results_df.loc[results_df['Year'] == prem_year, 'def_for'] = def_for
 	results_df.loc[results_df['Year'] == prem_year, 'def_against'] = def_against
+
 
 	i += 1
 
