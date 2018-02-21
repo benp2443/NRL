@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import sys
 
-df = pd.read_csv('../data/NRL_cleaned.csv')
+df = pd.read_csv('../data/NRL.csv')
 
 # Create list of premiers and corresponding years
 
@@ -111,58 +111,6 @@ results_df['Change'] = round((results_df['w_%_prem'] - results_df['w_%_def_prem'
 
 ########## Analysis of start, middle and end of regular season ##########
 
-# Season will be split on pre origin (start), origin (middle) and post origin (end)
-
-# Create period column and store idx values for each period in lists
-
-df['Period'] = df['SOO']
-
-start_origin = []
-end_origin = []
-new_season = []
-start_finals = []
-
-# Loop through each year finding idx of rows which divide the season between pre, origin, end and finals and store in lists
-
-for year in years:
-
-	temp = df.loc[df['Year'] == year, :]
-
-	# Get idx values
-
-	unique_idx = temp['SOO'].drop_duplicates(keep = 'first').index.values.tolist() # returns idx of first game of year and first game during origin period in a list
-	new_season_idx = [unique_idx[0]]
-	start_origin_idx = [unique_idx[1]]
-	end_origin_idx = [temp['SOO'].drop_duplicates(keep = 'last').index.values.tolist()[0]] 
-	qualif_final_idx = [temp.loc[temp['Round'] == 'Qualif Final', :].index.values.tolist()[0]]
-
-	# Add idx values to respective lists for current year
-
-	start_origin += start_origin_idx
-	end_origin += end_origin_idx
-	new_season += new_season_idx
-	start_finals += qualif_final_idx
-
-# Use the idx values found above to update the 'Period' column
-
-i = 0
-while i < len(new_season):
-
-	df.loc[new_season[i]: start_origin[i] - 1, 'Period'] = 'Pre'
-
-	if i < len(new_season) - 1:
-
-		df.loc[end_origin[i] + 1: new_season[i + 1], 'Period'] = 'Post'
-		df.loc[start_finals[i]: new_season[i + 1], 'Period'] = 'Finals'
-	else:
-			
-		df.loc[end_origin[i] + 1:, 'Period'] = 'Post'
-		df.loc[start_finals[i]:, 'Period'] = 'Finals'
-
-	i += 1
-
-df.loc[df['Period'] == True, 'Period'] = 'Origin'
-
 periods_list = ['Pre', 'Origin', 'Post']
 
 def win_percentage(df, period, team, wins = 0, games = 0):
@@ -241,10 +189,6 @@ while i < len(premiers):
 
 results_df['prem_for'] = -1
 results_df['prem_against'] = -1
-results_df['def_for'] = -1
-results_df['def_against'] = -1
-
-
 results_df['prem_for_pre'] = -1
 results_df['prem_againsts_pre'] = -1
 results_df['prem_for_origin'] = -1
@@ -252,6 +196,8 @@ results_df['prem_againsts_origin'] = -1
 results_df['prem_for_post'] = -1
 results_df['prem_againsts_post'] = -1
 
+results_df['def_for'] = -1
+results_df['def_against'] = -1
 results_df['def_for_pre'] = -1
 results_df['def_againsts_pre'] = -1
 results_df['def_for_origin'] = -1
@@ -304,18 +250,18 @@ def for_against_count(df, team):
 
 		else:
 
-			for_ += df.iat[j, a_pts]
-			against += df.iat[j, h_pts]
+			for_ += away_points
+			against += home_points
 
 			if period == 'Pre':
 				for_pre += away_points
 				against_pre += home_points
 			elif period == 'Origin':
 				for_origin += away_points
-				against_pre += home_points
+				against_origin += home_points
 			else:
-				for_origin += away_points
-				against_pre += home_points
+				for_post += away_points
+				against_post += home_points
 
 		j += 1
 	
