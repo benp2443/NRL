@@ -403,13 +403,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2009,Grand Final,Sun,Oct-4,5:00pm,Melbourne,23,Parramatta,16,"T. Archer, S. Hayne",ANZ,82538,2009-10-04 17:00:00
 2010,Round 1,Fri,Mar-12,8:30pm,Brisbane,30,North Queensland,24,"J. Maxwell, G. Sutton",Suncorp,48516,2010-03-12 20:30:00
 2010,Round 1,Fri,Mar-12,7:30pm,Parramatta,12,St George Illawarra,18,"T. Archer, G. Badger",Parramatta,18293,2010-03-12 19:30:00
-2010,Round 1,Sat,Mar-13,5:30pm,Canterbury,16,Newcastle,20,"J. Robinson, B. Sutton",ANZ,18110,2010-03-13 17:30:00
+2010,Round 1,Sat,Mar-13,5:30pm,Bulldogs,16,Newcastle,20,"J. Robinson, B. Sutton",ANZ,18110,2010-03-13 17:30:00
 2010,Round 1,Sat,Mar-13,7:30pm,Cronulla,10,Melbourne,14,"B. Cummins, B. Suttor",Toyota,11820,2010-03-13 19:30:00
 2010,Round 1,Sat,Mar-13,7:30pm,Penrith,34,Canberra,16,"S. Lyons, A. Shortall",CUA Stadium,11133,2010-03-13 19:30:00
 2010,Round 1,Sun,Mar-14,1:00pm,Gold Coast Titans,24,Warriors,18,"M. Cecchin, C. James",Skilled Park,16112,2010-03-14 13:00:00
 2010,Round 1,Sun,Mar-14,3:00pm,South Sydney,10,Sydney,36,"A. Klein, T. De Las Heras",ANZ,23149,2010-03-14 15:00:00
 2010,Round 1,Mon,Mar-15,7:00pm,Wests Tigers,26,Manly Warringah,22,"J. Maxwell, G. Badger",SFS,18421,2010-03-15 19:00:00
-2010,Round 2,Fri,Mar-19,7:30pm,St George Illawarra,26,Canterbury,6,"T. Archer, M. Cecchin",WIN Stadium,16177,2010-03-19 19:30:00
+2010,Round 2,Fri,Mar-19,7:30pm,St George Illawarra,26,Bulldogs,6,"T. Archer, M. Cecchin",WIN Stadium,16177,2010-03-19 19:30:00
 2010,Round 2,Fri,Mar-19,8:30pm,South Sydney,18,Gold Coast Titans,19,"A. Klein, T. De Las Heras",ANZ,10943,2010-03-19 20:30:00
 2010,Round 2,Sat,Mar-20,7:30pm,Newcastle,14,Melbourne,20,"S. Lyons, A. Shortall",EnergyAustralia,16242,2010-03-20 19:30:00
 2010,Round 2,Sat,Mar-20,6:30pm,North Queensland,28,Penrith,20,"B. Cummins, C. James",Dairy Farmers,13335,2010-03-20 18:30:00
@@ -423,7 +423,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 3,Sat,Mar-27,7:30pm,Manly Warringah,36,Newcastle,12,"A. Klein, T. De Las Heras",Central Coast,12138,2010-03-27 19:30:00
 2010,Round 3,Sat,Mar-27,5:30pm,Penrith,10,Melbourne,16,"G. Badger, P. Haines",CUA Stadium,11024,2010-03-27 17:30:00
 2010,Round 3,Sun,Mar-28,1:00pm,Brisbane,16,Warriors,48,"S. Lyons, A. Shortall",Suncorp,32338,2010-03-28 13:00:00
-2010,Round 3,Sun,Mar-28,3:00pm,Canterbury,60,Sydney,14,"J. Robinson, B. Sutton",ANZ,19738,2010-03-28 15:00:00
+2010,Round 3,Sun,Mar-28,3:00pm,Bulldogs,60,Sydney,14,"J. Robinson, B. Sutton",ANZ,19738,2010-03-28 15:00:00
 2010,Round 3,Mon,Mar-29,7:00pm,Cronulla,8,South Sydney,30,"S. Hayne, B. Suttor",Toyota,10741,2010-03-29 19:00:00
 2010,Round 4,Fri,Apr-2,2:00pm,Melbourne,17,St George Illawarra,4,"J. Maxwell, G. Sutton",Etihad,25480,2010-04-02 14:00:00
 2010,Round 4,Fri,Apr-2,8:35pm,Sydney,25,Brisbane,6,"T. Archer, M. Cecchin",SFS,17106,2010-04-02 20:35:00
@@ -432,24 +432,24 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 4,Sun,Apr-4,3:00pm,Canberra,22,Wests Tigers,35,"S. Hayne, B. Suttor",Canberra Stadium,17112,2010-04-04 15:00:00
 2010,Round 4,Sun,Apr-4,4:00pm,Warriors,6,Manly Warringah,14,"B. Cummins, C. James",Mt Smart,19230,2010-04-04 16:00:00
 2010,Round 4,Mon,Apr-5,4:00pm,Newcastle,30,Penrith,34,"J. Robinson, B. Sutton",EnergyAustralia,15894,2010-04-05 16:00:00
-2010,Round 4,Mon,Apr-5,7:00pm,South Sydney,38,Canterbury,16,"G. Badger, P. Haines",ANZ,30120,2010-04-05 19:00:00
+2010,Round 4,Mon,Apr-5,7:00pm,South Sydney,38,Bulldogs,16,"G. Badger, P. Haines",ANZ,30120,2010-04-05 19:00:00
 2010,Round 5,Fri,Apr-9,7:30pm,Gold Coast Titans,20,Melbourne,16,"B. Cummins, J. Maxwell",Skilled Park,20083,2010-04-09 19:30:00
 2010,Round 5,Fri,Apr-9,7:30pm,St George Illawarra,34,Brisbane,16,"A. Klein, M. Cecchin",WIN Stadium,15374,2010-04-09 19:30:00
-2010,Round 5,Sat,Apr-10,7:30pm,Canterbury,24,Warriors,30,"J. Robinson, T. De Las Heras",ANZ,17095,2010-04-10 19:30:00
+2010,Round 5,Sat,Apr-10,7:30pm,Bulldogs,24,Warriors,30,"J. Robinson, T. De Las Heras",ANZ,17095,2010-04-10 19:30:00
 2010,Round 5,Sat,Apr-10,7:30pm,North Queensland,16,Wests Tigers,23,"G. Badger, B. Suttor",Dairy Farmers,16273,2010-04-10 19:30:00
 2010,Round 5,Sat,Apr-10,5:30pm,South Sydney,28,Newcastle,10,"S. Lyons, P. Haines",Central Coast,16098,2010-04-10 17:30:00
 2010,Round 5,Sun,Apr-11,2:00pm,Manly Warringah,40,Cronulla,12,"T. Archer, A. Shortall",Brookvale,16055,2010-04-11 14:00:00
 2010,Round 5,Sun,Apr-11,3:00pm,Penrith,28,Sydney,6,"J. Maxwell, B. Sutton",CUA Stadium,14023,2010-04-11 15:00:00
 2010,Round 5,Mon,Apr-12,7:00pm,Parramatta,14,Canberra,24,"B. Cummins, G. Sutton",Parramatta,15122,2010-04-12 19:00:00
 2010,Round 6,Fri,Apr-16,7:35pm,Gold Coast Titans,6,St George Illawarra,19,"T. Archer, J. Robinson",Skilled Park,21336,2010-04-16 19:35:00
-2010,Round 6,Fri,Apr-16,7:35pm,Wests Tigers,4,Canterbury,24,"J. Maxwell, B. Sutton",SFS,19491,2010-04-16 19:35:00
+2010,Round 6,Fri,Apr-16,7:35pm,Wests Tigers,4,Bulldogs,24,"J. Maxwell, B. Sutton",SFS,19491,2010-04-16 19:35:00
 2010,Round 6,Sat,Apr-17,5:30pm,Newcastle,36,North Queensland,18,"A. Klein, C. James",EnergyAustralia,14205,2010-04-17 17:30:00
 2010,Round 6,Sat,Apr-17,7:30pm,Sydney,36,Canberra,6,"S. Lyons, M. Cecchin",SFS,9308,2010-04-17 19:30:00
 2010,Round 6,Sun,Apr-18,2:00pm,Brisbane,44,Cronulla,16,"J. Robinson, T. De Las Heras",Suncorp,25688,2010-04-18 14:00:00
 2010,Round 6,Sun,Apr-18,3:00pm,Parramatta,22,South Sydney,8,"B. Cummins, G. Sutton",ANZ,25152,2010-04-18 15:00:00
 2010,Round 6,Sun,Apr-18,2:00pm,Warriors,12,Penrith,40,"G. Badger, B. Suttor",Mt Smart,14620,2010-04-18 14:00:00
 2010,Round 6,Mon,Apr-19,7:00pm,Melbourne,16,Manly Warringah,18,"T. Archer, A. Shortall",Etihad,14171,2010-04-19 19:00:00
-2010,Round 7,Fri,Apr-23,7:35pm,Canterbury,36,Brisbane,18,"J. Maxwell, G. Badger",ANZ,17014,2010-04-23 19:35:00
+2010,Round 7,Fri,Apr-23,7:35pm,Bulldogs,36,Brisbane,18,"J. Maxwell, G. Badger",ANZ,17014,2010-04-23 19:35:00
 2010,Round 7,Fri,Apr-23,7:35pm,North Queensland,18,Parramatta,24,"J. Robinson, T. De Las Heras",Dairy Farmers,11335,2010-04-23 19:35:00
 2010,Round 7,Sat,Apr-24,7:30pm,Cronulla,26,Newcastle,6,"A. Klein, P. Haines",Toyota,10662,2010-04-24 19:30:00
 2010,Round 7,Sat,Apr-24,5:30pm,Penrith,26,Wests Tigers,18,"S. Hayne, C. James",CUA Stadium,19220,2010-04-24 17:30:00
@@ -458,7 +458,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 7,Sun,Apr-25,4:00pm,St George Illawarra,28,Sydney,6,"T. Archer, A. Shortall",SFS,36212,2010-04-25 16:00:00
 2010,Round 7,Mon,Apr-26,7:00pm,Manly Warringah,22,Gold Coast Titans,24,"J. Maxwell, B. Sutton",Brookvale,15195,2010-04-26 19:00:00
 2010,Round 8,Fri,Apr-30,7:35pm,Brisbane,22,Newcastle,30,"S. Lyons, M. Cecchin",Suncorp,25178,2010-04-30 19:35:00
-2010,Round 8,Fri,Apr-30,7:35pm,Parramatta,26,Canterbury,10,"T. Archer, S. Hayne",ANZ,31991,2010-04-30 19:35:00
+2010,Round 8,Fri,Apr-30,7:35pm,Parramatta,26,Bulldogs,10,"T. Archer, S. Hayne",ANZ,31991,2010-04-30 19:35:00
 2010,Round 8,Sat,May-1,5:30pm,Gold Coast Titans,38,Penrith,24,"J. Maxwell, B. Sutton",Skilled Park,15430,2010-05-01 17:30:00
 2010,Round 8,Sat,May-1,7:30pm,North Queensland,6,Melbourne,34,"G. Badger, G. Sutton",Dairy Farmers,19853,2010-05-01 19:30:00
 2010,Round 8,Sat,May-1,7:30pm,St George Illawarra,38,Cronulla,0,"J. Robinson, T. De Las Heras",WIN Stadium,15779,2010-05-01 19:30:00
@@ -470,7 +470,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 9,Sun,May-9,2:00pm,Newcastle,36,Gold Coast Titans,38,"B. Cummins, A. Shortall",EnergyAustralia,13384,2010-05-09 14:00:00
 2010,Round 9,Mon,May-10,7:00pm,Sydney,14,North Queensland,32,"J. Robinson, A. Klein",SFS,6478,2010-05-10 19:00:00
 2010,Round 10,Fri,May-14,7:35pm,Brisbane,28,Gold Coast Titans,6,"S. Hayne, M. Cecchin",Suncorp,40168,2010-05-14 19:35:00
-2010,Round 10,Fri,May-14,7:35pm,Canterbury,6,St George Illawarra,19,"T. Archer, B. Sutton",ANZ,37773,2010-05-14 19:35:00
+2010,Round 10,Fri,May-14,7:35pm,Bulldogs,6,St George Illawarra,19,"T. Archer, B. Sutton",ANZ,37773,2010-05-14 19:35:00
 2010,Round 10,Sat,May-15,7:30pm,Canberra,6,Melbourne,17,"B. Cummins, C. James",Canberra Stadium,12165,2010-05-15 19:30:00
 2010,Round 10,Sat,May-15,7:30pm,Sydney,18,Newcastle,34,"G. Badger, A. Devcich",Central Coast,10018,2010-05-15 19:30:00
 2010,Round 10,Sat,May-15,5:30pm,Warriors,24,North Queensland,12,"A. Klein, G. Sutton",Mt Smart,10800,2010-05-15 17:30:00
@@ -481,15 +481,15 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 11,Sat,May-22,7:30pm,Parramatta,18,Cronulla,22,"J. Maxwell, B. Suttor",Parramatta,13058,2010-05-22 19:30:00
 2010,Round 11,Sun,May-23,3:00pm,St George Illawarra,14,Canberra,22,"S. Lyons, T. De Las Heras",WIN Stadium,14728,2010-05-23 15:00:00
 2010,Round 11,Sun,May-23,2:00pm,Warriors,26,South Sydney,24,"G. Badger, G. Sutton",Mt Smart,10485,2010-05-23 14:00:00
-2010,Round 11,Mon,May-24,7:00pm,Penrith,31,Canterbury,16,"B. Cummins, M. Cecchin",CUA Stadium,11278,2010-05-24 19:00:00
+2010,Round 11,Mon,May-24,7:00pm,Penrith,31,Bulldogs,16,"B. Cummins, M. Cecchin",CUA Stadium,11278,2010-05-24 19:00:00
 2010,Round 12,Fri,May-28,7:35pm,St George Illawarra,30,Parramatta,0,"J. Maxwell, B. Cummins",WIN Jubilee,15068,2010-05-28 19:35:00
 2010,Round 12,Fri,May-28,7:35pm,Wests Tigers,50,Warriors,6,"S. Lyons, T. De Las Heras",Campbelltown,10061,2010-05-28 19:35:00
 2010,Round 12,Sat,May-29,5:30pm,Cronulla,4,Brisbane,20,"G. Badger, G. Sutton",Toyota,7826,2010-05-29 17:30:00
 2010,Round 12,Sat,May-29,7:30pm,North Queensland,20,Manly Warringah,24,"J. Robinson, A. Shortall",Dairy Farmers,13538,2010-05-29 19:30:00
-2010,Round 12,Sun,May-30,2:00pm,Melbourne,23,Canterbury,12,"S. Hayne, A. Klein",AAMI Park,12420,2010-05-30 14:00:00
+2010,Round 12,Sun,May-30,2:00pm,Melbourne,23,Bulldogs,12,"S. Hayne, A. Klein",AAMI Park,12420,2010-05-30 14:00:00
 2010,Round 12,Sun,May-30,3:00pm,South Sydney,42,Penrith,22,"T. Archer, B. Sutton",ANZ,11108,2010-05-30 15:00:00
 2010,Round 12,Mon,May-31,7:00pm,Gold Coast Titans,16,Sydney,30,"J. Maxwell, S. Lyons",Skilled Park,13235,2010-05-31 19:00:00
-2010,Round 13,Fri,Jun-4,7:35pm,Canterbury,12,Wests Tigers,19,"S. Hayne, A. Shortall",ANZ,11837,2010-06-04 19:35:00
+2010,Round 13,Fri,Jun-4,7:35pm,Bulldogs,12,Wests Tigers,19,"S. Hayne, A. Shortall",ANZ,11837,2010-06-04 19:35:00
 2010,Round 13,Fri,Jun-4,7:35pm,Parramatta,24,Melbourne,10,"T. Archer, G. Sutton",Parramatta,7572,2010-06-04 19:35:00
 2010,Round 13,Sat,Jun-5,5:30pm,Penrith,28,Newcastle,10,"J. Robinson, B. Suttor",CUA Stadium,10969,2010-06-05 17:30:00
 2010,Round 13,Sat,Jun-5,7:30pm,Sydney,18,Cronulla,42,"B. Cummins, T. De Las Heras",SFS,7934,2010-06-05 19:30:00
@@ -503,7 +503,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 14,Sun,Jun-13,2:00pm,Newcastle,24,Warriors,32,"S. Lyons, T. De Las Heras",EnergyAustralia,10535,2010-06-13 14:00:00
 2010,Round 14,Mon,Jun-14,7:00pm,Melbourne,6,Sydney,38,"A. Klein, B. Sutton",AAMI Park,10449,2010-06-14 19:00:00
 2010,Round 15,Fri,Jun-18,7:00pm,Brisbane,12,Penrith,22,"G. Badger, B. Suttor",Suncorp,42233,2010-06-18 19:00:00
-2010,Round 15,Fri,Jun-18,8:45pm,Canterbury,24,Gold Coast Titans,25,"S. Lyons, T. De Las Heras",Suncorp,42233,2010-06-18 20:45:00
+2010,Round 15,Fri,Jun-18,8:45pm,Bulldogs,24,Gold Coast Titans,25,"S. Lyons, T. De Las Heras",Suncorp,42233,2010-06-18 20:45:00
 2010,Round 15,Sat,Jun-19,7:30pm,Manly Warringah,26,South Sydney,25,"S. Hayne, J. Robinson",Brookvale,11661,2010-06-19 19:30:00
 2010,Round 15,Sat,Jun-19,5:30pm,Melbourne,58,North Queensland,12,"B. Cummins, B. Sutton",AAMI Park,10661,2010-06-19 17:30:00
 2010,Round 15,Sun,Jun-20,2:00pm,Cronulla,4,St George Illawarra,22,"T. Archer, A. Shortall",Toyota,16773,2010-06-20 14:00:00
@@ -516,15 +516,15 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 16,Sat,Jun-26,7:30pm,South Sydney,16,Melbourne,14,"A. Klein, M. Cecchin",ME Bank,13164,2010-06-26 19:30:00
 2010,Round 16,Sun,Jun-27,3:00pm,Gold Coast Titans,16,Newcastle,24,"S. Lyons, A. Shortall",Skilled Park,13396,2010-06-27 15:00:00
 2010,Round 16,Sun,Jun-27,4:00pm,Sydney,18,Warriors,20,"B. Cummins, G. Sutton",AMI Stadium,20721,2010-06-27 16:00:00
-2010,Round 16,Mon,Jun-28,7:00pm,Canberra,10,Canterbury,18,"S. Hayne, C. James",Canberra Stadium,11194,2010-06-28 19:00:00
+2010,Round 16,Mon,Jun-28,7:00pm,Canberra,10,Bulldogs,18,"S. Hayne, C. James",Canberra Stadium,11194,2010-06-28 19:00:00
 2010,Round 17,Fri,Jul-2,7:35pm,Brisbane,14,Wests Tigers,16,"B. Cummins, M. Cecchin",Suncorp,30127,2010-07-02 19:35:00
-2010,Round 17,Sat,Jul-3,7:30pm,Cronulla,12,Canterbury,24,"J. Robinson, A. Shortall",Central Coast,9826,2010-07-03 19:30:00
+2010,Round 17,Sat,Jul-3,7:30pm,Cronulla,12,Bulldogs,24,"J. Robinson, A. Shortall",Central Coast,9826,2010-07-03 19:30:00
 2010,Round 17,Sun,Jul-4,2:00pm,Canberra,12,Sydney,22,"B. Cummins, T. De Las Heras",Canberra Stadium,10767,2010-07-04 14:00:00
 2010,Round 17,Sun,Jul-4,4:00pm,Warriors,35,Parramatta,6,"G. Badger, A. Klein",Mt Smart,9912,2010-07-04 16:00:00
 2010,Round 17,Mon,Jul-5,7:00pm,St George Illawarra,8,Penrith,12,"J. Maxwell, B. Suttor",WIN Jubilee,12974,2010-07-05 19:00:00
 2010,Round 18,Fri,Jul-9,7:35pm,Sydney,18,South Sydney,14,"J. Robinson, A. Shortall",SFS,18424,2010-07-09 19:35:00
 2010,Round 18,Fri,Jul-9,7:35pm,Wests Tigers,15,Gold Coast Titans,14,"G. Badger, A. Klein",Campbelltown,14050,2010-07-09 19:35:00
-2010,Round 18,Sat,Jul-10,7:00pm,Canterbury,20,Melbourne,18,"M. Cecchin, T. De Las Heras",Adelaide,10350,2010-07-10 19:00:00
+2010,Round 18,Sat,Jul-10,7:00pm,Bulldogs,20,Melbourne,18,"M. Cecchin, T. De Las Heras",Adelaide,10350,2010-07-10 19:00:00
 2010,Round 18,Sat,Jul-10,5:30pm,Manly Warringah,22,Canberra,24,"B. Cummins, B. Suttor",Brookvale,10027,2010-07-10 17:30:00
 2010,Round 18,Sun,Jul-11,2:00pm,Newcastle,21,Cronulla,10,"T. Archer, G. Sutton",EnergyAustralia,12909,2010-07-11 14:00:00
 2010,Round 18,Sun,Jul-11,3:00pm,Penrith,6,Warriors,12,"S. Hayne, C. James",CUA Stadium,9983,2010-07-11 15:00:00
@@ -535,9 +535,9 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 19,Sat,Jul-17,7:30pm,Penrith,28,Parramatta,34,"B. Cummins, B. Suttor",CUA Stadium,22582,2010-07-17 19:30:00
 2010,Round 19,Sat,Jul-17,7:30pm,Warriors,13,Melbourne,6,"S. Lyons, G. Sutton",Mt Smart,13118,2010-07-17 19:30:00
 2010,Round 19,Sun,Jul-18,2:00pm,Canberra,52,Newcastle,18,"J. Robinson, A. Klein",Canberra Stadium,9459,2010-07-18 14:00:00
-2010,Round 19,Sun,Jul-18,3:00pm,Sydney,36,Canterbury,32,"G. Badger, T. De Las Heras",SFS,19129,2010-07-18 15:00:00
+2010,Round 19,Sun,Jul-18,3:00pm,Sydney,36,Bulldogs,32,"G. Badger, T. De Las Heras",SFS,19129,2010-07-18 15:00:00
 2010,Round 19,Mon,Jul-19,7:00pm,Wests Tigers,26,North Queensland,16,"S. Hayne, M. Cecchin",Leichhardt,11364,2010-07-19 19:00:00
-2010,Round 20,Fri,Jul-23,7:35pm,Canterbury,16,Parramatta,32,"T. Archer, G. Badger",ANZ,34662,2010-07-23 19:35:00
+2010,Round 20,Fri,Jul-23,7:35pm,Bulldogs,16,Parramatta,32,"T. Archer, G. Badger",ANZ,34662,2010-07-23 19:35:00
 2010,Round 20,Fri,Jul-23,7:35pm,St George Illawarra,10,Gold Coast Titans,11,"B. Cummins, T. De Las Heras",WIN Jubilee,12668,2010-07-23 19:35:00
 2010,Round 20,Sat,Jul-24,5:30pm,Canberra,20,Cronulla,13,"M. Cecchin, A. Klein",Canberra Stadium,9280,2010-07-24 17:30:00
 2010,Round 20,Sat,Jul-24,7:30pm,Melbourne,18,Penrith,10,"J. Robinson, B. Suttor",AAMI Park,11212,2010-07-24 19:30:00
@@ -545,7 +545,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 20,Sun,Jul-25,3:00pm,Manly Warringah,38,Wests Tigers,20,"S. Hayne, G. Sutton",Central Coast,20059,2010-07-25 15:00:00
 2010,Round 20,Sun,Jul-25,2:00pm,South Sydney,38,Warriors,28,"G. Badger, T. De Las Heras",ANZ,13895,2010-07-25 14:00:00
 2010,Round 20,Mon,Jul-26,7:00pm,Brisbane,30,Sydney,34,"T. Archer, A. Shortall",Suncorp,26486,2010-07-26 19:00:00
-2010,Round 21,Fri,Jul-30,7:35pm,Canterbury,32,South Sydney,12,"J. Maxwell, M. Cecchin",ANZ,15312,2010-07-30 19:35:00
+2010,Round 21,Fri,Jul-30,7:35pm,Bulldogs,32,South Sydney,12,"J. Maxwell, M. Cecchin",ANZ,15312,2010-07-30 19:35:00
 2010,Round 21,Fri,Jul-30,7:35pm,Penrith,24,North Queensland,16,"S. Lyons, T. De Las Heras",CUA Stadium,7080,2010-07-30 19:35:00
 2010,Round 21,Sat,Jul-31,5:30pm,Parramatta,12,Sydney,48,"S. Hayne, G. Sutton",Parramatta,19824,2010-07-31 17:30:00
 2010,Round 21,Sat,Jul-31,7:30pm,Wests Tigers,24,Cronulla,22,"J. Robinson, B. Suttor",Leichhardt,14942,2010-07-31 19:30:00
@@ -558,12 +558,12 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 22,Sat,Aug-7,7:30pm,Cronulla,10,Warriors,37,"S. Lyons, C. James",Toyota,7510,2010-08-07 19:30:00
 2010,Round 22,Sat,Aug-7,5:30pm,Manly Warringah,26,Melbourne,6,"M. Cecchin, B. Suttor",Brookvale,12550,2010-08-07 17:30:00
 2010,Round 22,Sat,Aug-7,7:30pm,South Sydney,34,Wests Tigers,30,"J. Maxwell, J. Robinson",ANZ,23298,2010-08-07 19:30:00
-2010,Round 22,Sun,Aug-8,2:00pm,Newcastle,30,Canterbury,6,"G. Badger, A. Klein",EnergyAustralia,17316,2010-08-08 14:00:00
+2010,Round 22,Sun,Aug-8,2:00pm,Newcastle,30,Bulldogs,6,"G. Badger, A. Klein",EnergyAustralia,17316,2010-08-08 14:00:00
 2010,Round 22,Sun,Aug-8,3:00pm,Sydney,12,St George Illawarra,19,"T. Archer, A. Shortall",SCG,37994,2010-08-08 15:00:00
 2010,Round 22,Mon,Aug-9,7:00pm,Canberra,30,Penrith,26,"B. Cummins, P. Haines",Canberra Stadium,8850,2010-08-09 19:00:00
 2010,Round 23,Fri,Aug-13,7:35pm,Brisbane,14,Parramatta,30,"T. Archer, A. Shortall",Suncorp,38193,2010-08-13 19:35:00
 2010,Round 23,Fri,Aug-13,7:35pm,Cronulla,18,Sydney,12,"M. Cecchin, T. De Las Heras",Toyota,8911,2010-08-13 19:35:00
-2010,Round 23,Sat,Aug-14,7:30pm,Canterbury,14,Canberra,28,"J. Maxwell, B. Suttor",ANZ,10116,2010-08-14 19:30:00
+2010,Round 23,Sat,Aug-14,7:30pm,Bulldogs,14,Canberra,28,"J. Maxwell, B. Suttor",ANZ,10116,2010-08-14 19:30:00
 2010,Round 23,Sat,Aug-14,5:30pm,Gold Coast Titans,37,North Queensland,18,"J. Robinson, A. Klein",Skilled Park,14032,2010-08-14 17:30:00
 2010,Round 23,Sun,Aug-15,2:00pm,Melbourne,18,South Sydney,16,"S. Lyons, C. James",AAMI Park,9172,2010-08-15 14:00:00
 2010,Round 23,Sun,Aug-15,2:00pm,Warriors,22,Newcastle,10,"B. Cummins, G. Sutton",Mt Smart,12824,2010-08-15 14:00:00
@@ -573,7 +573,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 24,Fri,Aug-20,7:35pm,Penrith,54,South Sydney,18,"T. Archer, A. Shortall",CUA Stadium,13411,2010-08-20 19:35:00
 2010,Round 24,Sat,Aug-21,5:30pm,Manly Warringah,19,Warriors,16,"J. Maxwell, S. Lyons",Brookvale,13095,2010-08-21 17:30:00
 2010,Round 24,Sat,Aug-21,7:30pm,Melbourne,24,Cronulla,4,"A. Klein, L. Phillips",AAMI Park,8902,2010-08-21 19:30:00
-2010,Round 24,Sat,Aug-21,7:30pm,North Queensland,20,Canterbury,22,"J. Robinson, G. Reynolds",Dairy Farmers,11742,2010-08-21 19:30:00
+2010,Round 24,Sat,Aug-21,7:30pm,North Queensland,20,Bulldogs,22,"J. Robinson, G. Reynolds",Dairy Farmers,11742,2010-08-21 19:30:00
 2010,Round 24,Sun,Aug-22,2:00pm,Canberra,32,St George Illawarra,16,"M. Cecchin, T. De Las Heras",Canberra Stadium,20445,2010-08-22 14:00:00
 2010,Round 24,Sun,Aug-22,3:00pm,Parramatta,18,Wests Tigers,20,"S. Hayne, B. Cummins",Parramatta,19854,2010-08-22 15:00:00
 2010,Round 24,Mon,Aug-23,7:00pm,Sydney,14,Gold Coast Titans,23,"G. Badger, S. Lyons",SFS,9113,2010-08-23 19:00:00
@@ -584,13 +584,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2010,Round 25,Sat,Aug-28,7:30pm,Newcastle,18,St George Illawarra,26,"S. Hayne, G. Sutton",EnergyAustralia,23148,2010-08-28 19:30:00
 2010,Round 25,Sun,Aug-29,3:00pm,Sydney,30,Manly Warringah,14,"T. Archer, M. Cecchin",SFS,18962,2010-08-29 15:00:00
 2010,Round 25,Sun,Aug-29,2:00pm,Wests Tigers,26,Melbourne,14,"G. Badger, A. Shortall",Leichhardt,20168,2010-08-29 14:00:00
-2010,Round 25,Mon,Aug-30,7:00pm,Canterbury,18,Penrith,24,"S. Lyons, T. De Las Heras",ANZ,13794,2010-08-30 19:00:00
+2010,Round 25,Mon,Aug-30,7:00pm,Bulldogs,18,Penrith,24,"S. Lyons, T. De Las Heras",ANZ,13794,2010-08-30 19:00:00
 2010,Round 26,Fri,Sep-3,7:35pm,Brisbane,16,Canberra,18,"J. Maxwell, G. Sutton",Suncorp,38872,2010-09-03 19:35:00
 2010,Round 26,Fri,Sep-3,7:35pm,Gold Coast Titans,21,Wests Tigers,18,"T. Archer, G. Badger",Skilled Park,26103,2010-09-03 19:35:00
 2010,Round 26,Sat,Sep-4,7:30pm,North Queensland,8,Sydney,18,"S. Lyons, B. Suttor",Dairy Farmers,12033,2010-09-04 19:30:00
 2010,Round 26,Sat,Sep-4,5:30pm,Parramatta,12,Warriors,26,"M. Cecchin, T. De Las Heras",Parramatta,11383,2010-09-04 17:30:00
 2010,Round 26,Sat,Sep-4,7:30pm,Penrith,50,Cronulla,12,"J. Robinson, C. James",CUA Stadium,10997,2010-09-04 19:30:00
-2010,Round 26,Sun,Sep-5,3:00pm,Manly Warringah,24,Canterbury,30,"S. Hayne, G. Badger",Brookvale,15933,2010-09-05 15:00:00
+2010,Round 26,Sun,Sep-5,3:00pm,Manly Warringah,24,Bulldogs,30,"S. Hayne, G. Badger",Brookvale,15933,2010-09-05 15:00:00
 2010,Round 26,Sun,Sep-5,2:00pm,Melbourne,34,Newcastle,4,"A. Klein, G. Morris",AAMI Park,20517,2010-09-05 14:00:00
 2010,Round 26,Sun,Sep-5,7:00pm,St George Illawarra,38,South Sydney,24,"B. Cummins, A. Shortall",WIN Jubilee,18274,2010-09-05 19:00:00
 2010,Qualif Final,Fri,Sep-10,7:45pm,Gold Coast Titans,28,Warriors,16,"T. Archer, G. Badger",Skilled Park,27026,2010-09-10 19:45:00
@@ -609,20 +609,20 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 1,Sat,Mar-12,7:30pm,Warriors,18,Parramatta,24,"S. Lyons, C. James",Eden Park,38405,2011-03-12 19:30:00
 2011,Round 1,Sun,Mar-13,2:00pm,Canberra,40,Cronulla,12,"A. Klein, A. Devcich",Canberra Stadium,13450,2011-03-13 14:00:00
 2011,Round 1,Sun,Mar-13,3:00pm,Penrith,8,Newcastle,42,"B. Cummins, T. De Las Heras",Centrebet,12431,2011-03-13 15:00:00
-2011,Round 1,Mon,Mar-14,7:00pm,Canterbury,24,Wests Tigers,14,"G. Badger, B. Suttor",ANZ,26737,2011-03-14 19:00:00
+2011,Round 1,Mon,Mar-14,7:00pm,Bulldogs,24,Wests Tigers,14,"G. Badger, B. Suttor",ANZ,26737,2011-03-14 19:00:00
 2011,Round 2,Fri,Mar-18,8:30pm,Canberra,4,Brisbane,20,"M. Cecchin, S. Lyons",Canberra Stadium,16146,2011-03-18 20:30:00
 2011,Round 2,Fri,Mar-18,7:30pm,Parramatta,6,Penrith,20,"S. Hayne, G. Sutton",Parramatta,15974,2011-03-18 19:30:00
 2011,Round 2,Sat,Mar-19,5:30pm,Melbourne,40,Gold Coast Titans,12,"A. Klein, A. Devcich",AAMI Park,12391,2011-03-19 17:30:00
 2011,Round 2,Sat,Mar-19,8:30pm,North Queensland,22,Newcastle,34,"J. Maxwell, P. Haines",Dairy Farmers,14061,2011-03-19 20:30:00
 2011,Round 2,Sat,Mar-19,7:30pm,Wests Tigers,20,Warriors,12,"T. Archer, A. Shortall",Leichhardt,13161,2011-03-19 19:30:00
-2011,Round 2,Sun,Mar-20,2:00pm,South Sydney,19,Canterbury,28,"G. Badger, B. Suttor",ANZ,18271,2011-03-20 14:00:00
+2011,Round 2,Sun,Mar-20,2:00pm,South Sydney,19,Bulldogs,28,"G. Badger, B. Suttor",ANZ,18271,2011-03-20 14:00:00
 2011,Round 2,Sun,Mar-20,3:00pm,Sydney,16,Manly Warringah,27,"B. Cummins, T. De Las Heras",SFS,11016,2011-03-20 15:00:00
 2011,Round 2,Mon,Mar-21,7:00pm,Cronulla,16,St George Illawarra,10,"J. Robinson, C. James",Toyota,12183,2011-03-21 19:00:00
 2011,Round 3,Fri,Mar-25,7:30pm,Gold Coast Titans,8,Brisbane,14,"G. Badger, B. Suttor",Skilled Park,20226,2011-03-25 19:30:00
 2011,Round 3,Fri,Mar-25,7:30pm,Parramatta,18,South Sydney,32,"S. Lyons, M. Cecchin",ANZ,22153,2011-03-25 19:30:00
 2011,Round 3,Sat,Mar-26,5:30pm,Penrith,12,Cronulla,44,"J. Maxwell, P. Haines",Centrebet,9275,2011-03-26 17:30:00
 2011,Round 3,Sat,Mar-26,6:30pm,Wests Tigers,34,Canberra,24,"J. Robinson, C. James",Campbelltown,14091,2011-03-26 18:30:00
-2011,Round 3,Sun,Mar-27,2:00pm,Canterbury,24,Sydney,20,"A. Klein, A. Devcich",ANZ,23723,2011-03-27 14:00:00
+2011,Round 3,Sun,Mar-27,2:00pm,Bulldogs,24,Sydney,20,"A. Klein, A. Devcich",ANZ,23723,2011-03-27 14:00:00
 2011,Round 3,Sun,Mar-27,3:00pm,Manly Warringah,26,Newcastle,12,"S. Hayne, G. Sutton",Brookvale,13087,2011-03-27 15:00:00
 2011,Round 3,Sun,Mar-27,2:00pm,Warriors,12,St George Illawarra,25,"B. Cummins, T. De Las Heras",Mt Smart,11651,2011-03-27 14:00:00
 2011,Round 3,Mon,Mar-28,7:00pm,North Queensland,34,Melbourne,6,"T. Archer, A. Shortall",Dairy Farmers,9554,2011-03-28 19:00:00
@@ -633,17 +633,17 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 4,Sun,Apr-3,2:00pm,Cronulla,18,Warriors,26,"G. Badger, B. Suttor",Owen Delany,14645,2011-04-03 14:00:00
 2011,Round 4,Sun,Apr-3,2:00pm,Newcastle,18,St George Illawarra,20,"B. Cummins, T. De Las Heras",Ausgrid,20986,2011-04-03 14:00:00
 2011,Round 4,Sun,Apr-3,3:00pm,Sydney,24,Wests Tigers,6,"T. Archer, A. Shortall",SFS,20479,2011-04-03 15:00:00
-2011,Round 4,Mon,Apr-4,7:00pm,Melbourne,30,Canterbury,16,"S. Hayne, G. Sutton",AAMI Park,11592,2011-04-04 19:00:00
+2011,Round 4,Mon,Apr-4,7:00pm,Melbourne,30,Bulldogs,16,"S. Hayne, G. Sutton",AAMI Park,11592,2011-04-04 19:00:00
 2011,Round 5,Fri,Apr-8,7:30pm,North Queensland,22,Gold Coast Titans,12,"B. Cummins, T. De Las Heras",Dairy Farmers,13651,2011-04-08 19:30:00
 2011,Round 5,Fri,Apr-8,7:30pm,Wests Tigers,30,South Sydney,6,"A. Klein, A. Devcich",SFS,22677,2011-04-08 19:30:00
 2011,Round 5,Sat,Apr-9,7:30pm,Cronulla,13,Manly Warringah,19,"M. Cecchin, S. Lyons",Toyota,15133,2011-04-09 19:30:00
 2011,Round 5,Sat,Apr-9,7:30pm,Penrith,36,Canberra,10,"G. Badger, B. Suttor",Centrebet,10229,2011-04-09 19:30:00
 2011,Round 5,Sat,Apr-9,7:30pm,Warriors,24,Sydney,12,"J. Robinson, C. James",Mt Smart,13312,2011-04-09 19:30:00
 2011,Round 5,Sun,Apr-10,2:00pm,Melbourne,38,Parramatta,0,"T. Archer, A. Shortall",AAMI Park,11805,2011-04-10 14:00:00
-2011,Round 5,Sun,Apr-10,3:00pm,St George Illawarra,25,Canterbury,6,"S. Hayne, G. Sutton",SCG,31122,2011-04-10 15:00:00
+2011,Round 5,Sun,Apr-10,3:00pm,St George Illawarra,25,Bulldogs,6,"S. Hayne, G. Sutton",SCG,31122,2011-04-10 15:00:00
 2011,Round 5,Mon,Apr-11,7:00pm,Brisbane,17,Newcastle,6,"J. Maxwell, P. Haines",Suncorp,24522,2011-04-11 19:00:00
 2011,Round 6,Fri,Apr-15,7:30pm,Gold Coast Titans,20,Wests Tigers,14,"S. Hayne, A. Devcich",Skilled Park,17221,2011-04-15 19:30:00
-2011,Round 6,Fri,Apr-15,7:30pm,Parramatta,14,Canterbury,34,"A. Klein, G. Sutton",ANZ,30687,2011-04-15 19:30:00
+2011,Round 6,Fri,Apr-15,7:30pm,Parramatta,14,Bulldogs,34,"A. Klein, G. Sutton",ANZ,30687,2011-04-15 19:30:00
 2011,Round 6,Sat,Apr-16,5:30pm,Manly Warringah,20,Warriors,10,"T. Archer, B. Suttor",Brookvale,8680,2011-04-16 17:30:00
 2011,Round 6,Sat,Apr-16,7:30pm,North Queensland,26,Canberra,18,"G. Badger, S. Lyons",Dairy Farmers,10741,2011-04-16 19:30:00
 2011,Round 6,Sat,Apr-16,7:30pm,Sydney,6,Brisbane,24,"M. Cecchin, G. Reynolds",Central Coast,8616,2011-04-16 19:30:00
@@ -652,13 +652,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 6,Mon,Apr-18,7:00pm,South Sydney,0,St George Illawarra,16,"J. Maxwell, A. Shortall",ANZ,22771,2011-04-18 19:00:00
 2011,Round 7,Fri,Apr-22,7:30pm,Manly Warringah,22,Penrith,16,"J. Robinson, P. Haines",Brookvale,14623,2011-04-22 19:30:00
 2011,Round 7,Fri,Apr-22,7:30pm,Wests Tigers,18,Brisbane,31,"T. Archer, B. Suttor",SFS,19494,2011-04-22 19:30:00
-2011,Round 7,Sat,Apr-23,7:30pm,Canterbury,36,South Sydney,24,"B. Cummins, T. De Las Heras",ANZ,22352,2011-04-23 19:30:00
+2011,Round 7,Sat,Apr-23,7:30pm,Bulldogs,36,South Sydney,24,"B. Cummins, T. De Las Heras",ANZ,22352,2011-04-23 19:30:00
 2011,Round 7,Sat,Apr-23,5:30pm,Cronulla,12,North Queensland,30,"G. Badger, S. Lyons",Toyota,7340,2011-04-23 17:30:00
 2011,Round 7,Sun,Apr-24,2:00pm,Canberra,12,Newcastle,22,"M. Cecchin, G. Reynolds",Canberra Stadium,11879,2011-04-24 14:00:00
 2011,Round 7,Sun,Apr-24,3:00pm,Parramatta,22,Gold Coast Titans,18,"A. Klein, G. Sutton",Parramatta,10052,2011-04-24 15:00:00
 2011,Round 7,Mon,Apr-25,7:00pm,Melbourne,14,Warriors,18,"S. Hayne, G. Morris",AAMI Park,22694,2011-04-25 19:00:00
 2011,Round 7,Mon,Apr-25,4:00pm,Sydney,10,St George Illawarra,24,"J. Maxwell, A. Shortall",SFS,34976,2011-04-25 16:00:00
-2011,Round 8,Fri,Apr-29,7:30pm,Brisbane,20,Canterbury,12,"G. Badger, A. Devcich",Suncorp,30538,2011-04-29 19:30:00
+2011,Round 8,Fri,Apr-29,7:30pm,Brisbane,20,Bulldogs,12,"G. Badger, A. Devcich",Suncorp,30538,2011-04-29 19:30:00
 2011,Round 8,Fri,Apr-29,7:30pm,South Sydney,31,Cronulla,12,"T. Archer, B. Suttor",ANZ,9263,2011-04-29 19:30:00
 2011,Round 8,Sat,Apr-30,5:30pm,Gold Coast Titans,24,Sydney,13,"M. Cecchin, G. Reynolds",Skilled Park,15177,2011-04-30 17:30:00
 2011,Round 8,Sat,Apr-30,7:30pm,Melbourne,42,Newcastle,12,"J. Robinson, C. James",AAMI Park,9460,2011-04-30 19:30:00
@@ -670,7 +670,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 9,Sun,May-8,2:00pm,Gold Coast Titans,14,Warriors,34,"J. Maxwell, J. Robinson",Skilled Park,17285,2011-05-08 14:00:00
 2011,Round 9,Sun,May-8,3:00pm,St George Illawarra,22,North Queensland,8,"M. Cecchin, G. Badger",WIN Jubilee,13056,2011-05-08 15:00:00
 2011,Round 9,Mon,May-9,7:00pm,Manly Warringah,20,Canberra,0,"T. Archer, S. Lyons",Brookvale,6148,2011-05-09 19:00:00
-2011,Round 10,Fri,May-13,7:30pm,Canterbury,10,St George Illawarra,15,"B. Cummins, T. De Las Heras",ANZ,34322,2011-05-13 19:30:00
+2011,Round 10,Fri,May-13,7:30pm,Bulldogs,10,St George Illawarra,15,"B. Cummins, T. De Las Heras",ANZ,34322,2011-05-13 19:30:00
 2011,Round 10,Fri,May-13,7:30pm,Penrith,33,Brisbane,10,"M. Cecchin, P. Haines",Centrebet,11336,2011-05-13 19:30:00
 2011,Round 10,Sat,May-14,5:30pm,Melbourne,12,Canberra,20,"G. Sutton, C. James",AAMI Park,9628,2011-05-14 17:30:00
 2011,Round 10,Sat,May-14,7:30pm,North Queensland,40,Parramatta,26,"A. Klein, L. Phillips",Dairy Farmers,13610,2011-05-14 19:30:00
@@ -678,12 +678,12 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 10,Sun,May-15,3:00pm,Cronulla,18,Sydney,4,"S. Hayne, G. Morris",Toyota,14458,2011-05-15 15:00:00
 2011,Round 10,Sun,May-15,2:00pm,Newcastle,16,Warriors,25,"T. Archer, B. Suttor",Ausgrid,18158,2011-05-15 14:00:00
 2011,Round 10,Mon,May-16,7:00pm,Gold Coast Titans,12,Manly Warringah,16,"G. Badger, A. Devcich",Skilled Park,12360,2011-05-16 19:00:00
-2011,Round 11,Fri,May-20,7:30pm,Canberra,20,Canterbury,12,"S. Hayne, C. James",Canberra Stadium,12865,2011-05-20 19:30:00
+2011,Round 11,Fri,May-20,7:30pm,Canberra,20,Bulldogs,12,"S. Hayne, C. James",Canberra Stadium,12865,2011-05-20 19:30:00
 2011,Round 11,Sat,May-21,7:30pm,Wests Tigers,20,Penrith,18,"B. Cummins, B. Suttor",Campbelltown,16172,2011-05-21 19:30:00
 2011,Round 11,Sun,May-22,3:00pm,Sydney,12,Newcastle,10,"M. Cecchin, A. Devcich",SFS,10146,2011-05-22 15:00:00
 2011,Round 11,Sun,May-22,4:00pm,Warriors,12,South Sydney,6,"S. Lyons, P. Haines",Mt Smart,16872,2011-05-22 16:00:00
 2011,Round 11,Mon,May-23,7:00pm,Parramatta,40,Cronulla,6,"J. Robinson, A. Shortall",Parramatta,10628,2011-05-23 19:00:00
-2011,Round 12,Fri,May-27,8:45pm,Canterbury,28,Gold Coast Titans,6,"A. Klein, T. De Las Heras",Suncorp,32283,2011-05-27 20:45:00
+2011,Round 12,Fri,May-27,8:45pm,Bulldogs,28,Gold Coast Titans,6,"A. Klein, T. De Las Heras",Suncorp,32283,2011-05-27 20:45:00
 2011,Round 12,Fri,May-27,7:00pm,Manly Warringah,34,Brisbane,10,"B. Cummins, G. Sutton",Suncorp,32283,2011-05-27 19:00:00
 2011,Round 12,Sat,May-28,5:30pm,Newcastle,8,Parramatta,6,"G. Badger, B. Suttor",Ausgrid,18723,2011-05-28 17:30:00
 2011,Round 12,Sat,May-28,7:30pm,North Queensland,20,Sydney,6,"J. Robinson, A. Devcich",Dairy Farmers,13335,2011-05-28 19:30:00
@@ -692,7 +692,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 12,Mon,May-30,7:00pm,Penrith,22,South Sydney,10,"S. Hayne, L. Phillips",Centrebet,5703,2011-05-30 19:00:00
 2011,Round 13,Fri,Jun-3,7:30pm,Cronulla,16,Brisbane,34,"M. Cecchin, T. De Las Heras",Toyota,14436,2011-06-03 19:30:00
 2011,Round 13,Fri,Jun-3,7:30pm,Parramatta,14,St George Illawarra,14,"A. Klein, G. Sutton",Parramatta,16066,2011-06-03 19:30:00
-2011,Round 13,Sat,Jun-4,7:30pm,Canterbury,4,Manly Warringah,38,"S. Hayne, A. Devcich",ANZ,19830,2011-06-04 19:30:00
+2011,Round 13,Sat,Jun-4,7:30pm,Bulldogs,4,Manly Warringah,38,"S. Hayne, A. Devcich",ANZ,19830,2011-06-04 19:30:00
 2011,Round 13,Sat,Jun-4,5:30pm,Gold Coast Titans,10,Penrith,23,"T. Archer, L. Phillips",Skilled Park,12262,2011-06-04 17:30:00
 2011,Round 13,Sat,Jun-4,7:30pm,Sydney,13,Warriors,6,"J. Robinson, A. Shortall",SFS,10116,2011-06-04 19:30:00
 2011,Round 13,Sun,Jun-5,2:00pm,Canberra,24,North Queensland,40,"G. Badger, P. Haines",Canberra Stadium,11128,2011-06-05 14:00:00
@@ -707,11 +707,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 15,Fri,Jun-17,7:30pm,South Sydney,31,Gold Coast Titans,8,"J. Robinson, B. Suttor",ANZ,8021,2011-06-17 19:30:00
 2011,Round 15,Sat,Jun-18,5:30pm,Newcastle,16,Penrith,12,"G. Badger, T. De Las Heras",Ausgrid,16652,2011-06-18 17:30:00
 2011,Round 15,Sat,Jun-18,7:30pm,North Queensland,30,Warriors,10,"M. Cecchin, M. Wise",Dairy Farmers,16081,2011-06-18 19:30:00
-2011,Round 15,Sun,Jun-19,2:00pm,Canterbury,10,Cronulla,26,"S. Lyons, A. Shortall",ANZ,14879,2011-06-19 14:00:00
+2011,Round 15,Sun,Jun-19,2:00pm,Bulldogs,10,Cronulla,26,"S. Lyons, A. Shortall",ANZ,14879,2011-06-19 14:00:00
 2011,Round 15,Sun,Jun-19,3:00pm,Wests Tigers,4,Melbourne,12,"A. Klein, A. Devcich",Leichhardt,20486,2011-06-19 15:00:00
 2011,Round 15,Mon,Jun-20,7:00pm,Manly Warringah,22,Parramatta,18,"T. Archer, P. Haines",Brookvale,13959,2011-06-20 19:00:00
 2011,Round 16,Fri,Jun-24,7:00pm,South Sydney,16,Brisbane,12,"J. Robinson, S. Lyons",nib Stadium,15371,2011-06-24 19:00:00
-2011,Round 16,Fri,Jun-24,7:30pm,Wests Tigers,6,Canterbury,16,"M. Cecchin, A. Shortall",Campbelltown,19252,2011-06-24 19:30:00
+2011,Round 16,Fri,Jun-24,7:30pm,Wests Tigers,6,Bulldogs,16,"M. Cecchin, A. Shortall",Campbelltown,19252,2011-06-24 19:30:00
 2011,Round 16,Sat,Jun-25,7:30pm,Canberra,25,Parramatta,12,"J. Maxwell, C. James",Canberra Stadium,13457,2011-06-25 19:30:00
 2011,Round 16,Sat,Jun-25,5:30pm,Gold Coast Titans,12,Cronulla,36,"T. De Las Heras, G. Sutton",Skilled Park,12997,2011-06-25 17:30:00
 2011,Round 16,Sun,Jun-26,3:00pm,Newcastle,18,Sydney,10,"B. Cummins, A. Devcich",Ausgrid,22326,2011-06-26 15:00:00
@@ -719,26 +719,26 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 16,Sun,Jun-26,2:00pm,Warriors,8,Melbourne,16,"T. Archer, B. Suttor",Mt Smart,13362,2011-06-26 14:00:00
 2011,Round 16,Mon,Jun-27,7:00pm,St George Illawarra,24,Manly Warringah,6,"S. Hayne, G. Badger",WIN Jubilee,18947,2011-06-27 19:00:00
 2011,Round 17,Fri,Jul-1,7:45pm,Parramatta,12,Brisbane,16,"J. Maxwell, P. Haines",Parramatta,11079,2011-07-01 19:45:00
-2011,Round 17,Sat,Jul-2,7:30pm,Penrith,20,Canterbury,6,"J. Robinson, B. Suttor",Centrebet,15383,2011-07-02 19:30:00
+2011,Round 17,Sat,Jul-2,7:30pm,Penrith,20,Bulldogs,6,"J. Robinson, B. Suttor",Centrebet,15383,2011-07-02 19:30:00
 2011,Round 17,Sun,Jul-3,2:00pm,Cronulla,26,South Sydney,4,"S. Lyons, C. James",Toyota,18829,2011-07-03 14:00:00
 2011,Round 17,Sun,Jul-3,3:00pm,St George Illawarra,10,Newcastle,14,"B. Cummins, A. Shortall",WIN Stadium,17205,2011-07-03 15:00:00
 2011,Round 17,Mon,Jul-4,7:00pm,Sydney,12,Canberra,38,"M. Cecchin, H. Perenara",SFS,9817,2011-07-04 19:00:00
 2011,Round 18,Fri,Jul-8,7:30pm,Parramatta,22,Wests Tigers,6,"B. Cummins, P. Haines",Parramatta,19654,2011-07-08 19:30:00
 2011,Round 18,Fri,Jul-8,8:30pm,Warriors,22,Gold Coast Titans,6,"G. Badger, A. Devcich",Mt Smart,10780,2011-07-08 20:30:00
-2011,Round 18,Sat,Jul-9,7:30pm,Canterbury,18,Melbourne,28,"S. Lyons, C. James",Adelaide,9963,2011-07-09 19:30:00
+2011,Round 18,Sat,Jul-9,7:30pm,Bulldogs,18,Melbourne,28,"S. Lyons, C. James",Adelaide,9963,2011-07-09 19:30:00
 2011,Round 18,Sat,Jul-9,5:30pm,Cronulla,26,Canberra,12,"J. Robinson, G. Sutton",Toyota,10303,2011-07-09 17:30:00
 2011,Round 18,Sun,Jul-10,3:00pm,Manly Warringah,36,South Sydney,22,"A. Klein, B. Suttor",Brookvale,19856,2011-07-10 15:00:00
 2011,Round 18,Sun,Jul-10,2:00pm,Sydney,34,Penrith,26,"M. Cecchin, H. Perenara",SFS,9713,2011-07-10 14:00:00
 2011,Round 18,Mon,Jul-11,7:00pm,Newcastle,12,North Queensland,22,"J. Maxwell, T. De Las Heras",Ausgrid,17212,2011-07-11 19:00:00
 2011,Round 19,Fri,Jul-15,7:30pm,Brisbane,30,Gold Coast Titans,10,"G. Badger, C. James",Suncorp,31035,2011-07-15 19:30:00
-2011,Round 19,Fri,Jul-15,8:30pm,Warriors,36,Canterbury,12,"S. Hayne, G. Reynolds",Mt Smart,12012,2011-07-15 20:30:00
+2011,Round 19,Fri,Jul-15,8:30pm,Warriors,36,Bulldogs,12,"S. Hayne, G. Reynolds",Mt Smart,12012,2011-07-15 20:30:00
 2011,Round 19,Sat,Jul-16,7:30pm,North Queensland,18,Wests Tigers,38,"B. Cummins, G. Sutton",Dairy Farmers,12880,2011-07-16 19:30:00
 2011,Round 19,Sat,Jul-16,7:30pm,Penrith,23,Parramatta,22,"J. Maxwell, A. Shortall",Centrebet,17333,2011-07-16 19:30:00
 2011,Round 19,Sat,Jul-16,5:30pm,South Sydney,21,Sydney,20,"B. Suttor, P. Haines",ANZ,14671,2011-07-16 17:30:00
 2011,Round 19,Sun,Jul-17,2:00pm,Canberra,0,Melbourne,26,"M. Cecchin, A. Devcich",Canberra Stadium,11853,2011-07-17 14:00:00
 2011,Round 19,Sun,Jul-17,3:00pm,Newcastle,10,Manly Warringah,32,"T. Archer, A. Klein",Ausgrid,21798,2011-07-17 15:00:00
 2011,Round 19,Mon,Jul-18,7:00pm,St George Illawarra,38,Cronulla,8,"J. Robinson, S. Lyons",WIN Jubilee,16879,2011-07-18 19:00:00
-2011,Round 20,Fri,Jul-22,7:30pm,Canterbury,8,Parramatta,7,"A. Shortall, G. Sutton",ANZ,15126,2011-07-22 19:30:00
+2011,Round 20,Fri,Jul-22,7:30pm,Bulldogs,8,Parramatta,7,"A. Shortall, G. Sutton",ANZ,15126,2011-07-22 19:30:00
 2011,Round 20,Fri,Jul-22,7:30pm,Melbourne,26,Brisbane,6,"T. Archer, A. Klein",AAMI Park,22912,2011-07-22 19:30:00
 2011,Round 20,Sat,Jul-23,7:30pm,Cronulla,0,Newcastle,18,"G. Badger, T. De Las Heras",Toyota,6513,2011-07-23 19:30:00
 2011,Round 20,Sat,Jul-23,5:30pm,Gold Coast Titans,20,North Queensland,28,"J. Maxwell, H. Perenara",Skilled Park,15741,2011-07-23 17:30:00
@@ -749,12 +749,12 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 21,Fri,Jul-29,7:30pm,Brisbane,46,Cronulla,16,"J. Maxwell, G. Morris",Suncorp,24164,2011-07-29 19:30:00
 2011,Round 21,Fri,Jul-29,7:30pm,Manly Warringah,12,Wests Tigers,14,"J. Robinson, A. Klein",Central Coast,20059,2011-07-29 19:30:00
 2011,Round 21,Sat,Jul-30,7:30pm,North Queensland,30,Penrith,18,"T. Archer, C. James",Dairy Farmers,12349,2011-07-30 19:30:00
-2011,Round 21,Sat,Jul-30,5:30pm,Sydney,32,Canterbury,28,"B. Cummins, P. Haines",SFS,11926,2011-07-30 17:30:00
+2011,Round 21,Sat,Jul-30,5:30pm,Sydney,32,Bulldogs,28,"B. Cummins, P. Haines",SFS,11926,2011-07-30 17:30:00
 2011,Round 21,Sun,Jul-31,2:00pm,Newcastle,50,Gold Coast Titans,20,"G. Badger, A. Shortall",Ausgrid,17327,2011-07-31 14:00:00
 2011,Round 21,Sun,Jul-31,3:00pm,St George Illawarra,24,South Sydney,34,"S. Hayne, A. Devcich",WIN Stadium,18980,2011-07-31 15:00:00
 2011,Round 21,Sun,Jul-31,2:00pm,Warriors,29,Canberra,10,"M. Cecchin, G. Sutton",Mt Smart,13615,2011-07-31 14:00:00
 2011,Round 21,Mon,Aug-1,7:00pm,Parramatta,18,Melbourne,22,"S. Lyons, T. De Las Heras",Parramatta,10078,2011-08-01 19:00:00
-2011,Round 22,Fri,Aug-5,7:30pm,Canterbury,14,North Queensland,6,"J. Maxwell, G. Morris",ANZ,8654,2011-08-05 19:30:00
+2011,Round 22,Fri,Aug-5,7:30pm,Bulldogs,14,North Queensland,6,"J. Maxwell, G. Morris",ANZ,8654,2011-08-05 19:30:00
 2011,Round 22,Fri,Aug-5,7:30pm,Wests Tigers,16,St George Illawarra,14,"T. Archer, S. Hayne",SFS,27687,2011-08-05 19:30:00
 2011,Round 22,Sat,Aug-6,7:30pm,Brisbane,21,Warriors,20,"A. Klein, G. Sutton",Suncorp,37173,2011-08-06 19:30:00
 2011,Round 22,Sat,Aug-6,7:30pm,Cronulla,16,Gold Coast Titans,20,"G. Badger, D. Munro",Toyota,6313,2011-08-06 19:30:00
@@ -769,19 +769,19 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 23,Sat,Aug-13,7:30pm,Warriors,20,Newcastle,12,"S. Hayne, A. Devcich",Mt Smart,13279,2011-08-13 19:30:00
 2011,Round 23,Sun,Aug-14,2:00pm,Canberra,18,South Sydney,47,"T. De Las Heras, S. Lyons",Canberra Stadium,12150,2011-08-14 14:00:00
 2011,Round 23,Sun,Aug-14,3:00pm,St George Illawarra,12,Sydney,20,"B. Cummins, G. Sutton",WIN Stadium,14141,2011-08-14 15:00:00
-2011,Round 23,Mon,Aug-15,7:00pm,Cronulla,12,Canterbury,19,"J. Maxwell, G. Morris",Toyota,8089,2011-08-15 19:00:00
+2011,Round 23,Mon,Aug-15,7:00pm,Cronulla,12,Bulldogs,19,"J. Maxwell, G. Morris",Toyota,8089,2011-08-15 19:00:00
 2011,Round 24,Fri,Aug-19,7:30pm,Melbourne,8,St George Illawarra,6,"T. Archer, M. Cecchin",AAMI Park,24081,2011-08-19 19:30:00
 2011,Round 24,Fri,Aug-19,7:30pm,South Sydney,26,North Queensland,24,"B. Cummins, A. Devcich",ANZ,11208,2011-08-19 19:30:00
 2011,Round 24,Sat,Aug-20,5:30pm,Gold Coast Titans,26,Canberra,18,"T. De Las Heras, A. Shortall",Skilled Park,10230,2011-08-20 17:30:00
 2011,Round 24,Sat,Aug-20,7:30pm,Penrith,12,Warriors,26,"G. Badger, B. Suttor",Centrebet,11644,2011-08-20 19:30:00
 2011,Round 24,Sat,Aug-20,7:30pm,Sydney,36,Cronulla,25,"S. Lyons, A. Gee",SFS,8761,2011-08-20 19:30:00
-2011,Round 24,Sun,Aug-21,2:00pm,Manly Warringah,27,Canterbury,16,"J. Robinson, G. Sutton",Brookvale,12250,2011-08-21 14:00:00
+2011,Round 24,Sun,Aug-21,2:00pm,Manly Warringah,27,Bulldogs,16,"J. Robinson, G. Sutton",Brookvale,12250,2011-08-21 14:00:00
 2011,Round 24,Sun,Aug-21,3:00pm,Wests Tigers,31,Parramatta,12,"J. Maxwell, C. James",SFS,18626,2011-08-21 15:00:00
 2011,Round 24,Mon,Aug-22,7:00pm,Newcastle,6,Brisbane,26,"S. Hayne, A. Klein",Ausgrid,19412,2011-08-22 19:00:00
 2011,Round 25,Fri,Aug-26,7:30pm,Manly Warringah,18,Melbourne,4,"S. Hayne, G. Badger",Brookvale,20414,2011-08-26 19:30:00
 2011,Round 25,Fri,Aug-26,7:30pm,Parramatta,12,Sydney,13,"J. Robinson, G. Atkins",Parramatta,12097,2011-08-26 19:30:00
 2011,Round 25,Sat,Aug-27,7:30pm,Canberra,18,Penrith,19,"B. Suttor, G. Reynolds",Canberra Stadium,10085,2011-08-27 19:30:00
-2011,Round 25,Sat,Aug-27,5:30pm,Canterbury,32,Newcastle,22,"M. Cecchin, A. Devcich",ANZ,10257,2011-08-27 17:30:00
+2011,Round 25,Sat,Aug-27,5:30pm,Bulldogs,32,Newcastle,22,"M. Cecchin, A. Devcich",ANZ,10257,2011-08-27 17:30:00
 2011,Round 25,Sat,Aug-27,7:30pm,North Queensland,28,Cronulla,20,"T. De Las Heras, A. Shortall",Dairy Farmers,12655,2011-08-27 19:30:00
 2011,Round 25,Sun,Aug-28,3:00pm,Brisbane,22,South Sydney,10,"T. Archer, J. Maxwell",Suncorp,40094,2011-08-28 15:00:00
 2011,Round 25,Sun,Aug-28,2:00pm,St George Illawarra,26,Warriors,22,"A. Klein, B. Cummins",WIN Stadium,15732,2011-08-28 14:00:00
@@ -792,7 +792,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2011,Round 26,Sat,Sep-3,7:30pm,Gold Coast Titans,12,Parramatta,32,"B. Suttor, C. James",Skilled Park,18265,2011-09-03 19:30:00
 2011,Round 26,Sat,Sep-3,7:30pm,Warriors,18,North Queensland,6,"T. Archer, A. Klein",Mt Smart,20082,2011-09-03 19:30:00
 2011,Round 26,Sun,Sep-4,4:00pm,Brisbane,18,Manly Warringah,10,"J. Maxwell, A. Devcich",Suncorp,50859,2011-09-04 16:00:00
-2011,Round 26,Sun,Sep-4,2:00pm,Canterbury,36,Canberra,22,"S. Lyons, T. De Las Heras",ANZ,16206,2011-09-04 14:00:00
+2011,Round 26,Sun,Sep-4,2:00pm,Bulldogs,36,Canberra,22,"S. Lyons, T. De Las Heras",ANZ,16206,2011-09-04 14:00:00
 2011,Round 26,Sun,Sep-4,7:00pm,Sydney,40,Melbourne,8,"J. Robinson, A. Shortall",SFS,8753,2011-09-04 19:00:00
 2011,Qualif Final,Fri,Sep-9,7:45pm,Wests Tigers,21,St George Illawarra,12,"T. Archer, M. Cecchin",ANZ,45361,2011-09-09 19:45:00
 2011,Qualif Final,Sat,Sep-10,6:30pm,Brisbane,40,Warriors,10,"J. Maxwell, S. Hayne",Suncorp,48943,2011-09-10 18:30:00
@@ -807,13 +807,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 1,Fri,Mar-2,7:30pm,Parramatta,6,Brisbane,18,"S. Hayne, G. Morris",Parramatta,11399,2012-03-02 19:30:00
 2012,Round 1,Sat,Mar-3,5:30pm,Canberra,19,Melbourne,24,"G. Badger, B. Suttor",Canberra Stadium,7862,2012-03-03 17:30:00
 2012,Round 1,Sat,Mar-3,8:30pm,North Queensland,0,Gold Coast Titans,18,"S. Lyons, A. Shortall",Dairy Farmers,16311,2012-03-03 20:30:00
-2012,Round 1,Sat,Mar-3,7:30pm,Penrith,14,Canterbury,22,"J. Robinson, P. Haines",Centrebet,9585,2012-03-03 19:30:00
+2012,Round 1,Sat,Mar-3,7:30pm,Penrith,14,Bulldogs,22,"J. Robinson, P. Haines",Centrebet,9585,2012-03-03 19:30:00
 2012,Round 1,Sun,Mar-4,2:00pm,Warriors,20,Manly Warringah,26,"T. Archer, B. Cummins",Eden Park,37502,2012-03-04 14:00:00
 2012,Round 1,Sun,Mar-4,2:00pm,Wests Tigers,17,Cronulla,16,"J. Maxwell, C. James",Leichhardt,19762,2012-03-04 14:00:00
 2012,Round 1,Mon,Mar-5,7:00pm,South Sydney,20,Sydney,24,"A. Devcich, C. Sutton",ANZ,18278,2012-03-05 19:00:00
 2012,Round 2,Fri,Mar-9,7:30pm,Brisbane,26,North Queensland,28,"J. Robinson, G. Reynolds",Suncorp,43171,2012-03-09 19:30:00
 2012,Round 2,Fri,Mar-9,7:30pm,Manly Warringah,22,Wests Tigers,18,"B. Cummins, G. Sutton",Central Coast,17532,2012-03-09 19:30:00
-2012,Round 2,Sat,Mar-10,7:30pm,Canterbury,30,St George Illawarra,4,"M. Cecchin, A. Klein",ANZ,29641,2012-03-10 19:30:00
+2012,Round 2,Sat,Mar-10,7:30pm,Bulldogs,30,St George Illawarra,4,"M. Cecchin, A. Klein",ANZ,29641,2012-03-10 19:30:00
 2012,Round 2,Sat,Mar-10,4:30pm,Gold Coast Titans,12,Canberra,24,"S. Lyons, A. Shortall",Skilled Park,11378,2012-03-10 16:30:00
 2012,Round 2,Sun,Mar-11,2:00pm,Cronulla,6,Newcastle,18,"T. Archer, P. Haines",Toyota,15564,2012-03-11 14:00:00
 2012,Round 2,Sun,Mar-11,7:00pm,Melbourne,24,South Sydney,10,"S. Hayne, G. Morris",AAMI Park,15872,2012-03-11 19:00:00
@@ -825,14 +825,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 3,Sat,Mar-17,6:30pm,North Queensland,42,Parramatta,6,"A. Devcich, C. James",Dairy Farmers,8239,2012-03-17 18:30:00
 2012,Round 3,Sun,Mar-18,3:00pm,Penrith,24,South Sydney,40,"G. Badger, B. Sutton",Centrebet,13876,2012-03-18 15:00:00
 2012,Round 3,Sun,Mar-18,2:00pm,Sydney,14,Canberra,8,"S. Lyons, A. Shortall",Allianz,10343,2012-03-18 14:00:00
-2012,Round 3,Sun,Mar-18,2:00pm,Warriors,18,Canterbury,32,"M. Cecchin, A. Klein",Mt Smart,17067,2012-03-18 14:00:00
+2012,Round 3,Sun,Mar-18,2:00pm,Warriors,18,Bulldogs,32,"M. Cecchin, A. Klein",Mt Smart,17067,2012-03-18 14:00:00
 2012,Round 3,Mon,Mar-19,7:00pm,Cronulla,17,Manly Warringah,14,"B. Cummins, C. Sutton",Toyota,8652,2012-03-19 19:00:00
 2012,Round 4,Fri,Mar-23,7:30pm,Parramatta,6,Penrith,39,"M. Cecchin, G. Reynolds",Parramatta,13788,2012-03-23 19:30:00
 2012,Round 4,Fri,Mar-23,6:00pm,South Sydney,12,Brisbane,20,"A. Klein, C. James",nib Stadium,15599,2012-03-23 18:00:00
 2012,Round 4,Sat,Mar-24,8:30pm,North Queensland,14,Cronulla,20,"G. Sutton, T. De Las Heras",Dairy Farmers,11364,2012-03-24 20:30:00
 2012,Round 4,Sat,Mar-24,7:30pm,St George Illawarra,17,Manly Warringah,6,"S. Hayne, A. Devcich",WIN Jubilee,17893,2012-03-24 19:30:00
 2012,Round 4,Sat,Mar-24,7:30pm,Warriors,26,Gold Coast Titans,6,"J. Maxwell, G. Morris",Mt Smart,12915,2012-03-24 19:30:00
-2012,Round 4,Sun,Mar-25,3:00pm,Canterbury,6,Newcastle,20,"B. Cummins, P. Haines",ANZ,21701,2012-03-25 15:00:00
+2012,Round 4,Sun,Mar-25,3:00pm,Bulldogs,6,Newcastle,20,"B. Cummins, P. Haines",ANZ,21701,2012-03-25 15:00:00
 2012,Round 4,Sun,Mar-25,2:00pm,Melbourne,44,Sydney,4,"T. Archer, G. Badger",AAMI Park,11897,2012-03-25 14:00:00
 2012,Round 4,Mon,Mar-26,7:00pm,Wests Tigers,16,Canberra,30,"J. Robinson, B. Suttor",Campbelltown,14388,2012-03-26 19:00:00
 2012,Round 5,Fri,Mar-30,7:30pm,Brisbane,28,St George Illawarra,20,"B. Cummins, B. Suttor",Suncorp,38012,2012-03-30 19:30:00
@@ -840,10 +840,10 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 5,Sat,Mar-31,7:30pm,Parramatta,29,Manly Warringah,20,"G. Maxwell, G. Reynolds",Parramatta,13158,2012-03-31 19:30:00
 2012,Round 5,Sat,Mar-31,5:30pm,Penrith,14,Cronulla,15,"A. Klein, H. Perenara",Centrebet,13920,2012-03-31 17:30:00
 2012,Round 5,Sat,Mar-31,7:30pm,Sydney,26,Warriors,8,"T. Archer, T. De Las Heras",Allianz,13021,2012-03-31 19:30:00
-2012,Round 5,Sun,Apr-1,2:00pm,Gold Coast Titans,20,Canterbury,30,"G. Sutton, G. Badger",Skilled Park,14344,2012-04-01 14:00:00
+2012,Round 5,Sun,Apr-1,2:00pm,Gold Coast Titans,20,Bulldogs,30,"G. Sutton, G. Badger",Skilled Park,14344,2012-04-01 14:00:00
 2012,Round 5,Sun,Apr-1,3:00pm,Wests Tigers,16,South Sydney,17,"S. Hayne, G. Morris",Allianz,25608,2012-04-01 15:00:00
 2012,Round 5,Mon,Apr-2,7:00pm,Canberra,6,North Queensland,22,"S. Lyons, C. James",Canberra Stadium,12135,2012-04-02 19:00:00
-2012,Round 6,Fri,Apr-6,4:00pm,South Sydney,20,Canterbury,10,"B. Cummins, G. Badger",ANZ,35221,2012-04-06 16:00:00
+2012,Round 6,Fri,Apr-6,4:00pm,South Sydney,20,Bulldogs,10,"B. Cummins, G. Badger",ANZ,35221,2012-04-06 16:00:00
 2012,Round 6,Fri,Apr-6,7:30pm,Wests Tigers,14,Brisbane,18,"A. Klein, S. Lyons",Allianz,17556,2012-04-06 19:30:00
 2012,Round 6,Sat,Apr-7,7:30pm,Cronulla,12,St George Illawarra,0,"M. Cecchin, A. Devcich",Toyota,21380,2012-04-07 19:30:00
 2012,Round 6,Sat,Apr-7,5:30pm,Gold Coast Titans,12,Sydney,18,"B. Suttor, C. James",Skilled Park,11478,2012-04-07 17:30:00
@@ -854,7 +854,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 7,Fri,Apr-13,7:30pm,Brisbane,30,Canberra,6,"B. Cummins, G. Badger",Suncorp,30017,2012-04-13 19:30:00
 2012,Round 7,Fri,Apr-13,7:30pm,St George Illawarra,12,Newcastle,4,"J. Maxwell, G. Reynolds",WIN Jubilee,15291,2012-04-13 19:30:00
 2012,Round 7,Sat,Apr-14,7:30pm,Manly Warringah,14,Gold Coast Titans,26,"J. Robinson, T. De Las Heras",Brookvale,11619,2012-04-14 19:30:00
-2012,Round 7,Sat,Apr-14,5:30pm,Melbourne,12,Canterbury,6,"M. Cecchin, A. Devcich",AAMI Park,14192,2012-04-14 17:30:00
+2012,Round 7,Sat,Apr-14,5:30pm,Melbourne,12,Bulldogs,6,"M. Cecchin, A. Devcich",AAMI Park,14192,2012-04-14 17:30:00
 2012,Round 7,Sat,Apr-14,7:00pm,Sydney,12,North Queensland,50,"A. Klein, G. Morris",TIO Stadium,10008,2012-04-14 19:00:00
 2012,Round 7,Sun,Apr-15,2:00pm,Cronulla,24,Parramatta,18,"S. Lyons, H. Perenara",Toyota,14327,2012-04-15 14:00:00
 2012,Round 7,Sun,Apr-15,3:00pm,Penrith,0,Wests Tigers,30,"T. Archer, C. James",Centrebet,15759,2012-04-15 15:00:00
@@ -862,13 +862,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 8,Wed,Apr-25,7:00pm,Melbourne,32,Warriors,14,"T. Archer, C. James",AAMI Park,20333,2012-04-25 19:00:00
 2012,Round 8,Wed,Apr-25,4:00pm,St George Illawarra,28,Sydney,24,"M. Cecchin, B. Cummins",Allianz,40164,2012-04-25 16:00:00
 2012,Round 8,Fri,Apr-27,7:35pm,Brisbane,26,Gold Coast Titans,6,"J. Maxwell, A. Devcich",Suncorp,30083,2012-04-27 19:35:00
-2012,Round 8,Fri,Apr-27,7:35pm,Canterbury,10,Manly Warringah,12,"S. Hayne, B. Suttor",ANZ,24743,2012-04-27 19:35:00
+2012,Round 8,Fri,Apr-27,7:35pm,Bulldogs,10,Manly Warringah,12,"S. Hayne, B. Suttor",ANZ,24743,2012-04-27 19:35:00
 2012,Round 8,Sat,Apr-28,7:30pm,South Sydney,20,North Queensland,16,"S. Lyons, H. Perenara",ANZ,12213,2012-04-28 19:30:00
 2012,Round 8,Sun,Apr-29,2:00pm,Canberra,22,Cronulla,44,"J. Robinson, T. De Las Heras",Canberra Stadium,12227,2012-04-29 14:00:00
 2012,Round 8,Sun,Apr-29,3:00pm,Parramatta,30,Wests Tigers,31,"A. Klein, G. Morris",Parramatta,19654,2012-04-29 15:00:00
 2012,Round 8,Mon,Apr-30,7:00pm,Newcastle,34,Penrith,14,"G. Sutton, A. Shortall",Hunter,16892,2012-04-30 19:00:00
 2012,Round 9,Fri,May-4,7:35pm,North Queensland,30,St George Illawarra,6,"T. Archer, G. Badger",Dairy Farmers,15006,2012-05-04 19:35:00
-2012,Round 9,Fri,May-4,7:35pm,Parramatta,12,Canterbury,46,"A. Klein, B. Suttor",ANZ,28214,2012-05-04 19:35:00
+2012,Round 9,Fri,May-4,7:35pm,Parramatta,12,Bulldogs,46,"A. Klein, B. Suttor",ANZ,28214,2012-05-04 19:35:00
 2012,Round 9,Sat,May-5,7:30pm,Gold Coast Titans,14,Wests Tigers,15,"G. Sutton, A. Shortall",Skilled Park,14254,2012-05-05 19:30:00
 2012,Round 9,Sat,May-5,7:30pm,Penrith,10,Melbourne,44,"S. Lyons, H. Perenara",Centrebet,9517,2012-05-05 19:30:00
 2012,Round 9,Sat,May-5,7:30pm,Warriors,30,Brisbane,20,"B. Cummins, F. Robinson",Mt Smart,19012,2012-05-05 19:30:00
@@ -876,7 +876,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 9,Sun,May-6,3:00pm,Sydney,24,Newcastle,6,"S. Hayne, G. Morris",Allianz,12728,2012-05-06 15:00:00
 2012,Round 9,Mon,May-7,7:00pm,South Sydney,34,Cronulla,28,"M. Cecchin, C. James",ANZ,13281,2012-05-07 19:00:00
 2012,Round 10,Fri,May-11,7:00pm,Brisbane,22,Manly Warringah,24,"T. Archer, S. Hayne",Suncorp,41273,2012-05-11 19:00:00
-2012,Round 10,Fri,May-11,8:45pm,Canterbury,14,Gold Coast Titans,25,"J. Maxwell, B. Suttor",Suncorp,41273,2012-05-11 20:45:00
+2012,Round 10,Fri,May-11,8:45pm,Bulldogs,14,Gold Coast Titans,25,"J. Maxwell, B. Suttor",Suncorp,41273,2012-05-11 20:45:00
 2012,Round 10,Sat,May-12,7:30pm,Newcastle,12,North Queensland,32,"M. Cecchin, G. Morris",Hunter,18191,2012-05-12 19:30:00
 2012,Round 10,Sat,May-12,7:30pm,Warriors,30,Sydney,26,"S. Lyons, H. Perenara",Mt Smart,16220,2012-05-12 19:30:00
 2012,Round 10,Sun,May-13,2:00pm,Canberra,40,Parramatta,34,"G. Badger, A. Devcich",Canberra Stadium,9210,2012-05-13 14:00:00
@@ -886,18 +886,18 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 11,Sat,May-19,7:30pm,North Queensland,30,Penrith,28,"S. Lyons, C. James",Dairy Farmers,11648,2012-05-19 19:30:00
 2012,Round 11,Sun,May-20,2:00pm,Manly Warringah,18,Sydney,10,"A. Klein, J. Maxwell",Brookvale,12633,2012-05-20 14:00:00
 2012,Round 11,Sun,May-20,3:00pm,St George Illawarra,18,South Sydney,19,"S. Hayne, B. Suttor",WIN Jubilee,14894,2012-05-20 15:00:00
-2012,Round 11,Mon,May-21,7:00pm,Canterbury,26,Cronulla,6,"G. Sutton, G. Badger",ANZ,12012,2012-05-21 19:00:00
+2012,Round 11,Mon,May-21,7:00pm,Bulldogs,26,Cronulla,6,"G. Sutton, G. Badger",ANZ,12012,2012-05-21 19:00:00
 2012,Round 12,Fri,May-25,7:35pm,Melbourne,34,Brisbane,10,"T. Archer, G. Sutton",AAMI Park,13200,2012-05-25 19:35:00
 2012,Round 12,Fri,May-25,7:35pm,South Sydney,36,Canberra,18,"A. Klein, C. James",ANZ,10054,2012-05-25 19:35:00
 2012,Round 12,Sat,May-26,5:30pm,Newcastle,14,Gold Coast Titans,24,"S. Hayne, A. Shortall",Hunter,15792,2012-05-26 17:30:00
 2012,Round 12,Sat,May-26,7:30pm,St George Illawarra,14,Parramatta,12,"J. Maxwell, T. De Las Heras",WIN Jubilee,12756,2012-05-26 19:30:00
 2012,Round 12,Sun,May-27,2:00pm,Penrith,22,Manly Warringah,4,"M. Cecchin, G. Reynolds",Centrebet,11844,2012-05-27 14:00:00
 2012,Round 12,Sun,May-27,3:00pm,Wests Tigers,26,North Queensland,18,"B. Cummins, B. Suttor",Campbelltown,13059,2012-05-27 15:00:00
-2012,Round 12,Mon,May-28,7:00pm,Sydney,12,Canterbury,30,"J. Robinson, A. Devcich",Allianz,11343,2012-05-28 19:00:00
+2012,Round 12,Mon,May-28,7:00pm,Sydney,12,Bulldogs,30,"J. Robinson, A. Devcich",Allianz,11343,2012-05-28 19:00:00
 2012,Round 13,Fri,Jun-1,7:35pm,Gold Coast Titans,28,North Queensland,12,"S. Hayne, A. Shortall",Skilled Park,12092,2012-06-01 19:35:00
 2012,Round 13,Fri,Jun-1,7:35pm,Manly Warringah,20,St George Illawarra,8,"T. Archer, C. James",Brookvale,11885,2012-06-01 19:35:00
 2012,Round 13,Sat,Jun-2,5:30pm,Canberra,0,Wests Tigers,40,"G. Badger, P. Haines",Canberra Stadium,9210,2012-06-02 17:30:00
-2012,Round 13,Sat,Jun-2,7:35pm,Canterbury,23,South Sydney,18,"B. Cummins, G. Morris",ANZ,19409,2012-06-02 19:35:00
+2012,Round 13,Sat,Jun-2,7:35pm,Bulldogs,23,South Sydney,18,"B. Cummins, G. Morris",ANZ,19409,2012-06-02 19:35:00
 2012,Round 13,Sun,Jun-3,3:00pm,Brisbane,50,Newcastle,24,"A. Klein, G. Reynolds",Suncorp,26683,2012-06-03 15:00:00
 2012,Round 13,Sun,Jun-3,4:00pm,Warriors,12,Melbourne,22,"M. Cecchin, A. Devcich",Mt Smart,20487,2012-06-03 16:00:00
 2012,Round 13,Mon,Jun-4,7:00pm,Parramatta,29,Cronulla,20,"S. Lyons, H. Perenara",Parramatta,10009,2012-06-04 19:00:00
@@ -907,7 +907,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 14,Sun,Jun-10,3:00pm,Sydney,22,Brisbane,40,"M. Cecchin, A. Devcich",Allianz,9738,2012-06-10 15:00:00
 2012,Round 14,Mon,Jun-11,5:30pm,Penrith,16,Warriors,30,"S. Lyons, B. Suttor",Centrebet,5778,2012-06-11 17:30:00
 2012,Round 15,Fri,Jun-15,7:35pm,North Queensland,12,Brisbane,0,"J. Robinson, G. Morris",Dairy Farmers,20367,2012-06-15 19:35:00
-2012,Round 15,Fri,Jun-15,7:35pm,St George Illawarra,20,Canterbury,28,"S. Hayne, C. James",WIN Stadium,16928,2012-06-15 19:35:00
+2012,Round 15,Fri,Jun-15,7:35pm,St George Illawarra,20,Bulldogs,28,"S. Hayne, C. James",WIN Stadium,16928,2012-06-15 19:35:00
 2012,Round 15,Sat,Jun-16,5:30pm,Cronulla,20,Warriors,19,"A. Klein, S. Lyons",Toyota,9271,2012-06-16 17:30:00
 2012,Round 15,Sat,Jun-16,7:30pm,Parramatta,6,South Sydney,24,"B. Suttor, A. Shortall",ANZ,14212,2012-06-16 19:30:00
 2012,Round 15,Sun,Jun-17,2:00pm,Gold Coast Titans,36,Penrith,18,"G. Sutton, P. Haines",Skilled Park,11591,2012-06-17 14:00:00
@@ -917,7 +917,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 16,Fri,Jun-22,7:35pm,St George Illawarra,8,Gold Coast Titans,6,"J. Robinson, G. Morris",WIN Stadium,10194,2012-06-22 19:35:00
 2012,Round 16,Sat,Jun-23,5:30pm,North Queensland,40,Canberra,18,"B. Suttor, A. Shortall",Dairy Farmers,14344,2012-06-23 17:30:00
 2012,Round 16,Sat,Jun-23,7:30pm,Penrith,18,Parramatta,19,"J. Maxwell, A. Devcich",Centrebet,15275,2012-06-23 19:30:00
-2012,Round 16,Sun,Jun-24,2:00pm,Canterbury,20,Melbourne,4,"B. Cummins, G. Badger",Virgin Aust.,11876,2012-06-24 14:00:00
+2012,Round 16,Sun,Jun-24,2:00pm,Bulldogs,20,Melbourne,4,"B. Cummins, G. Badger",Virgin Aust.,11876,2012-06-24 14:00:00
 2012,Round 16,Sun,Jun-24,3:00pm,Sydney,14,Manly Warringah,52,"S. Hayne, S. Lyons",Allianz,13531,2012-06-24 15:00:00
 2012,Round 16,Mon,Jun-25,7:00pm,Newcastle,38,Wests Tigers,20,"G. Sutton, P. Haines",Hunter,18637,2012-06-25 19:00:00
 2012,Round 17,Fri,Jun-29,7:35pm,Brisbane,12,Cronulla,26,"J. Robinson, G. Badger",Suncorp,26268,2012-06-29 19:35:00
@@ -925,14 +925,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 17,Sun,Jul-1,3:00pm,South Sydney,38,Penrith,12,"G. Sutton, S. Lyons",ANZ,13096,2012-07-01 15:00:00
 2012,Round 17,Sun,Jul-1,4:00pm,Warriors,35,North Queensland,18,"A. Klein, B. Suttor",Mt Smart,15374,2012-07-01 16:00:00
 2012,Round 17,Mon,Jul-2,7:00pm,Canberra,22,St George Illawarra,18,"G. Maxwell, A. Devcich",Canberra Stadium,10462,2012-07-02 19:00:00
-2012,Round 18,Fri,Jul-6,7:45pm,Wests Tigers,20,Canterbury,32,"J. Robinson, G. Morris",Allianz,19034,2012-07-06 19:45:00
+2012,Round 18,Fri,Jul-6,7:45pm,Wests Tigers,20,Bulldogs,32,"J. Robinson, G. Morris",Allianz,19034,2012-07-06 19:45:00
 2012,Round 18,Sat,Jul-7,7:30pm,Gold Coast Titans,14,Warriors,32,"M. Cecchin, P. Haines",Skilled Park,17134,2012-07-07 19:30:00
 2012,Round 18,Sat,Jul-7,5:30pm,Melbourne,12,Canberra,40,"G. Sutton, A. Devcich",AAMI Park,12214,2012-07-07 17:30:00
 2012,Round 18,Sun,Jul-8,3:00pm,Manly Warringah,40,Parramatta,24,"S. Hayne, A. Shortall",Brookvale,16065,2012-07-08 15:00:00
 2012,Round 18,Sun,Jul-8,2:00pm,South Sydney,34,Newcastle,14,"A. Klein, B. Suttor",ANZ,16104,2012-07-08 14:00:00
 2012,Round 18,Mon,Jul-9,7:00pm,Cronulla,14,Sydney,14,"J. Maxwell, C. James",Toyota,13139,2012-07-09 19:00:00
 2012,Round 19,Fri,Jul-13,7:35pm,Brisbane,10,Warriors,8,"B. Cummins, C. James",Suncorp,32148,2012-07-13 19:35:00
-2012,Round 19,Fri,Jul-13,7:35pm,Canterbury,32,Parramatta,12,"M. Cecchin, P. Haines",ANZ,31102,2012-07-13 19:35:00
+2012,Round 19,Fri,Jul-13,7:35pm,Bulldogs,32,Parramatta,12,"M. Cecchin, P. Haines",ANZ,31102,2012-07-13 19:35:00
 2012,Round 19,Sat,Jul-14,5:30pm,Melbourne,16,North Queensland,20,"T. Archer, G. Morris",AAMI Park,10688,2012-07-14 17:30:00
 2012,Round 19,Sat,Jul-14,5:30pm,Newcastle,32,Manly Warringah,6,"J. Robinson, T. De Las Heras",Hunter,20154,2012-07-14 17:30:00
 2012,Round 19,Sat,Jul-14,7:30pm,Wests Tigers,26,Penrith,18,"G. Badger, H. Perenara",Campbelltown,12384,2012-07-14 19:30:00
@@ -940,7 +940,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 19,Sun,Jul-15,3:00pm,St George Illawarra,18,Cronulla,10,"A. Klein, A. Devcich",WIN Stadium,18282,2012-07-15 15:00:00
 2012,Round 19,Mon,Jul-16,7:00pm,Sydney,22,South Sydney,24,"S. Hayne, A. Shortall",Allianz,19934,2012-07-16 19:00:00
 2012,Round 20,Fri,Jul-20,7:35pm,Gold Coast Titans,14,Brisbane,10,"J. Maxwell, A. Shortall",Skilled Park,20067,2012-07-20 19:35:00
-2012,Round 20,Fri,Jul-20,7:35pm,Manly Warringah,12,Canterbury,20,"B. Cummins, B. Suttor",Brookvale,16820,2012-07-20 19:35:00
+2012,Round 20,Fri,Jul-20,7:35pm,Manly Warringah,12,Bulldogs,20,"B. Cummins, B. Suttor",Brookvale,16820,2012-07-20 19:35:00
 2012,Round 20,Sat,Jul-21,7:30pm,Parramatta,16,Melbourne,10,"S. Lyons, T. De Las Heras",Parramatta,9029,2012-07-21 19:30:00
 2012,Round 20,Sat,Jul-21,7:30pm,South Sydney,36,St George Illawarra,14,"T. Archer, G. Morris",ANZ,21071,2012-07-21 19:30:00
 2012,Round 20,Sat,Jul-21,7:30pm,Warriors,19,Newcastle,24,"G. Sutton, A. Devcich",Mt Smart,15112,2012-07-21 19:30:00
@@ -949,7 +949,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 20,Mon,Jul-23,7:00pm,North Queensland,29,Wests Tigers,16,"M. Cecchin, G. Badger",Dairy Farmers,12357,2012-07-23 19:00:00
 2012,Round 21,Fri,Jul-27,7:35pm,St George Illawarra,26,Melbourne,18,"B. Cummins, C. James",WIN Stadium,11477,2012-07-27 19:35:00
 2012,Round 21,Fri,Jul-27,7:35pm,Sydney,16,Gold Coast Titans,36,"J. Robinson, P. Haines",Allianz,8134,2012-07-27 19:35:00
-2012,Round 21,Sat,Jul-28,5:30pm,Canterbury,32,North Queensland,18,"S. Hayne, G. Sutton",ANZ,18652,2012-07-28 17:30:00
+2012,Round 21,Sat,Jul-28,5:30pm,Bulldogs,32,North Queensland,18,"S. Hayne, G. Sutton",ANZ,18652,2012-07-28 17:30:00
 2012,Round 21,Sat,Jul-28,7:30pm,Cronulla,20,Penrith,21,"G. Badger, S. Lyons",Toyota,7848,2012-07-28 19:30:00
 2012,Round 21,Sat,Jul-28,5:30pm,Manly Warringah,24,Warriors,22,"J. Maxwell, A. Shortall",Patersons,20095,2012-07-28 17:30:00
 2012,Round 21,Sun,Jul-29,2:00pm,Canberra,6,Newcastle,36,"M. Cecchin, G. Morris",Canberra Stadium,10260,2012-07-29 14:00:00
@@ -957,7 +957,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 21,Mon,Jul-30,7:00pm,Brisbane,22,Parramatta,42,"A. Klein, T. De Las Heras",Suncorp,22626,2012-07-30 19:00:00
 2012,Round 22,Fri,Aug-3,7:35pm,Sydney,26,St George Illawarra,10,"M. Cecchin, G. Morris",Allianz,12528,2012-08-03 19:35:00
 2012,Round 22,Sat,Aug-4,3:30pm,Melbourne,46,Penrith,6,"A. Klein, A. Devcich",AAMI Park,9223,2012-08-04 15:30:00
-2012,Round 22,Sat,Aug-4,5:30pm,Newcastle,10,Canterbury,26,"J. Robinson, B. Suttor",Hunter,29482,2012-08-04 17:30:00
+2012,Round 22,Sat,Aug-4,5:30pm,Newcastle,10,Bulldogs,26,"J. Robinson, B. Suttor",Hunter,29482,2012-08-04 17:30:00
 2012,Round 22,Sat,Aug-4,7:30pm,North Queensland,6,Manly Warringah,8,"S. Hayne, G. Sutton",Dairy Farmers,14401,2012-08-04 19:30:00
 2012,Round 22,Sun,Aug-5,2:00pm,Canberra,28,Brisbane,12,"G. Badger, C. James",Canberra Stadium,9850,2012-08-05 14:00:00
 2012,Round 22,Sun,Aug-5,3:00pm,Gold Coast Titans,18,South Sydney,22,"B. Cummins, P. Haines",Skilled Park,20187,2012-08-05 15:00:00
@@ -968,18 +968,18 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 23,Sat,Aug-11,7:30pm,North Queensland,52,Warriors,12,"A. Klein, C. James",Dairy Farmers,13616,2012-08-11 19:30:00
 2012,Round 23,Sat,Aug-11,5:30pm,Parramatta,36,Sydney,22,"J. Maxwell, D. Munro",Parramatta,12193,2012-08-11 17:30:00
 2012,Round 23,Sat,Aug-11,7:30pm,Wests Tigers,22,St George Illawarra,12,"G. Sutton, A. Devcich",Allianz,10546,2012-08-11 19:30:00
-2012,Round 23,Sun,Aug-12,3:00pm,Canterbury,22,Brisbane,14,"T. Archer, G. Badger",ANZ,19870,2012-08-12 15:00:00
+2012,Round 23,Sun,Aug-12,3:00pm,Bulldogs,22,Brisbane,14,"T. Archer, G. Badger",ANZ,19870,2012-08-12 15:00:00
 2012,Round 23,Sun,Aug-12,2:00pm,Penrith,10,Canberra,20,"J. Robinson, B. Suttor",Centrebet,7437,2012-08-12 14:00:00
 2012,Round 23,Mon,Aug-13,7:00pm,Newcastle,26,Cronulla,4,"M. Cecchin, G. Morris",Hunter,15394,2012-08-13 19:00:00
 2012,Round 24,Fri,Aug-17,7:35pm,Brisbane,18,Melbourne,19,"M. Cecchin, C. James",Suncorp,41467,2012-08-17 19:35:00
-2012,Round 24,Fri,Aug-17,7:35pm,Canterbury,23,Wests Tigers,22,"B. Cummins, J. Maxwell",ANZ,29194,2012-08-17 19:35:00
+2012,Round 24,Fri,Aug-17,7:35pm,Bulldogs,23,Wests Tigers,22,"B. Cummins, J. Maxwell",ANZ,29194,2012-08-17 19:35:00
 2012,Round 24,Sat,Aug-18,5:30pm,Canberra,24,Sydney,20,"S. Hayne, A. Shortall",Canberra Stadium,8860,2012-08-18 17:30:00
 2012,Round 24,Sat,Aug-18,7:30pm,Cronulla,20,South Sydney,7,"T. Archer, B. Suttor",Toyota,16463,2012-08-18 19:30:00
 2012,Round 24,Sun,Aug-19,2:00pm,Gold Coast Titans,24,Parramatta,16,"G. Sutton, S. Lyons",Skilled Park,14159,2012-08-19 14:00:00
 2012,Round 24,Sun,Aug-19,3:00pm,Manly Warringah,42,Newcastle,20,"J. Robinson, P. Haines",Brookvale,14191,2012-08-19 15:00:00
 2012,Round 24,Sun,Aug-19,2:00pm,Warriors,16,Penrith,18,"G. Badger, D. Munro",Mt Smart,11000,2012-08-19 14:00:00
 2012,Round 24,Mon,Aug-20,7:00pm,St George Illawarra,22,North Queensland,32,"A. Klein, A. Devcich",WIN Stadium,9245,2012-08-20 19:00:00
-2012,Round 25,Fri,Aug-24,7:35pm,Canberra,34,Canterbury,6,"M. Cecchin, C. James",Canberra Stadium,13158,2012-08-24 19:35:00
+2012,Round 25,Fri,Aug-24,7:35pm,Canberra,34,Bulldogs,6,"M. Cecchin, C. James",Canberra Stadium,13158,2012-08-24 19:35:00
 2012,Round 25,Fri,Aug-24,7:35pm,Manly Warringah,16,Brisbane,6,"T. Archer, J. Robinson",Brookvale,12886,2012-08-24 19:35:00
 2012,Round 25,Sat,Aug-25,7:30pm,North Queensland,22,Newcastle,14,"B. Cummins, B. Suttor",Dairy Farmers,15119,2012-08-25 19:30:00
 2012,Round 25,Sat,Aug-25,3:30pm,Penrith,36,Gold Coast Titans,22,"G. Badger, S. Lyons",Centrebet,7297,2012-08-25 15:30:00
@@ -989,30 +989,30 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2012,Round 25,Mon,Aug-27,7:00pm,Melbourne,20,Cronulla,18,"S. Hayne, A. Shortall",AAMI Park,12847,2012-08-27 19:00:00
 2012,Round 26,Fri,Aug-31,7:35pm,Brisbane,19,Penrith,12,"S. Hayne, A. Shortall",Suncorp,35178,2012-08-31 19:35:00
 2012,Round 26,Fri,Aug-31,7:35pm,Newcastle,6,South Sydney,18,"M. Cecchin, C. James",Hunter,24127,2012-08-31 19:35:00
-2012,Round 26,Sat,Sep-1,7:30pm,Canterbury,42,Sydney,10,"J. Maxwell, G. Badger",ANZ,23391,2012-09-01 19:30:00
+2012,Round 26,Sat,Sep-1,7:30pm,Bulldogs,42,Sydney,10,"J. Maxwell, G. Badger",ANZ,23391,2012-09-01 19:30:00
 2012,Round 26,Sat,Sep-1,5:30pm,Gold Coast Titans,16,Manly Warringah,24,"G. Sutton, P. Haines",Skilled Park,14927,2012-09-01 17:30:00
 2012,Round 26,Sat,Sep-1,7:30pm,Wests Tigers,6,Melbourne,26,"T. Archer, G. Sutton",Leichhardt,10834,2012-09-01 19:30:00
 2012,Round 26,Sun,Sep-2,3:00pm,Cronulla,22,North Queensland,36,"B. Cummins, A. Klein",Toyota,16829,2012-09-02 15:00:00
 2012,Round 26,Sun,Sep-2,6:30pm,Parramatta,8,St George Illawarra,29,"S. Lyons, G. Atkins",ANZ,45863,2012-09-02 18:30:00
 2012,Round 26,Sun,Sep-2,4:00pm,Warriors,22,Canberra,42,"J. Robinson, A. Devcich",Mt Smart,11455,2012-09-02 16:00:00
-2012,Qualif Final,Fri,Sep-7,7:45pm,Canterbury,16,Manly Warringah,10,"B. Cummins, A. Klein",ANZ,36420,2012-09-07 19:45:00
+2012,Qualif Final,Fri,Sep-7,7:45pm,Bulldogs,16,Manly Warringah,10,"B. Cummins, A. Klein",ANZ,36420,2012-09-07 19:45:00
 2012,Qualif Final,Sat,Sep-8,5:45pm,Melbourne,24,South Sydney,6,"S. Hayne, J. Robinson",AAMI Park,19750,2012-09-08 17:45:00
 2012,Qualif Final,Sat,Sep-8,7:45pm,North Queensland,33,Brisbane,16,"M. Cecchin, G. Sutton",Dairy Farmers,21307,2012-09-08 19:45:00
 2012,Qualif Final,Sun,Sep-9,4:00pm,Canberra,34,Cronulla,16,"T. Archer, C. James",Canberra Stadium,24450,2012-09-09 16:00:00
 2012,Semi Final,Fri,Sep-14,7:45pm,Manly Warringah,22,North Queensland,12,"S. Hayne, B. Cummins",Allianz,16678,2012-09-14 19:45:00
 2012,Semi Final,Sat,Sep-15,7:45pm,South Sydney,38,Canberra,16,"M. Cecchin, T. Archer",ANZ,35874,2012-09-15 19:45:00
 2012,Prelim Final,Fri,Sep-21,7:45pm,Melbourne,40,Manly Warringah,12,"M. Cecchin, T. Archer",AAMI Park,25543,2012-09-21 19:45:00
-2012,Prelim Final,Sat,Sep-22,7:45pm,Canterbury,32,South Sydney,8,"S. Hayne, B. Cummins",ANZ,70354,2012-09-22 19:45:00
-2012,Grand Final,Sun,Sep-30,5:00pm,Canterbury,4,Melbourne,14,"T. Archer, B. Cummins",ANZ,82976,2012-09-30 17:00:00
+2012,Prelim Final,Sat,Sep-22,7:45pm,Bulldogs,32,South Sydney,8,"S. Hayne, B. Cummins",ANZ,70354,2012-09-22 19:45:00
+2012,Grand Final,Sun,Sep-30,5:00pm,Bulldogs,4,Melbourne,14,"T. Archer, B. Cummins",ANZ,82976,2012-09-30 17:00:00
 2013,Round 1,Thu,Mar-7,8:00pm,Sydney,10,South Sydney,28,"B. Cummins, C. James",Allianz,35952,2013-03-07 20:00:00
 2013,Round 1,Fri,Mar-8,7:00pm,Brisbane,14,Manly Warringah,22,"S. Hayne, A. Shortall",Suncorp,31139,2013-03-08 19:00:00
-2013,Round 1,Sat,Mar-9,7:30pm,Canterbury,12,North Queensland,24,"J. Robinson, G. Morris",Central Coast,11627,2013-03-09 19:30:00
+2013,Round 1,Sat,Mar-9,7:30pm,Bulldogs,12,North Queensland,24,"J. Robinson, G. Morris",Central Coast,11627,2013-03-09 19:30:00
 2013,Round 1,Sat,Mar-9,5:30pm,Parramatta,40,Warriors,10,"J. Maxwell, A. Gee",Parramatta,13351,2013-03-09 17:30:00
 2013,Round 1,Sun,Mar-10,6:30pm,Cronulla,12,Gold Coast Titans,10,"A. Klein, P. Haines",Shark Stadium,17541,2013-03-10 18:30:00
 2013,Round 1,Sun,Mar-10,3:00pm,Melbourne,30,St George Illawarra,10,"M. Cecchin, L. Phillips",AAMI Park,16251,2013-03-10 15:00:00
 2013,Round 1,Sun,Mar-10,2:00pm,Penrith,32,Canberra,10,"A. Devcich, H. Perenara",Centrebet,10882,2013-03-10 14:00:00
 2013,Round 1,Mon,Mar-11,7:00pm,Newcastle,42,Wests Tigers,10,"G. Sutton, B. Suttor",Hunter,21935,2013-03-11 19:00:00
-2013,Round 2,Thu,Mar-14,8:00pm,Parramatta,16,Canterbury,20,"S. Hayne, A. Shortall",ANZ,25068,2013-03-14 20:00:00
+2013,Round 2,Thu,Mar-14,8:00pm,Parramatta,16,Bulldogs,20,"S. Hayne, A. Shortall",ANZ,25068,2013-03-14 20:00:00
 2013,Round 2,Fri,Mar-15,8:00pm,St George Illawarra,6,Brisbane,22,"J. Robinson, G. Morris",WIN Stadium,13156,2013-03-15 20:00:00
 2013,Round 2,Sat,Mar-16,6:30pm,North Queensland,10,Melbourne,32,"G. Sutton, B. Suttor",1300SMILES,19288,2013-03-16 18:30:00
 2013,Round 2,Sat,Mar-16,7:30pm,Warriors,14,Sydney,16,"A. Klein, P. Haines",Eden Park,32740,2013-03-16 19:30:00
@@ -1020,7 +1020,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 2,Sun,Mar-17,6:30pm,Manly Warringah,32,Newcastle,0,"B. Cummins, C. James",Brookvale,12263,2013-03-17 18:30:00
 2013,Round 2,Sun,Mar-17,3:00pm,Wests Tigers,28,Penrith,18,"M. Cecchin, L. Phillips",Campbelltown,9715,2013-03-17 15:00:00
 2013,Round 2,Mon,Mar-18,7:00pm,South Sydney,14,Cronulla,12,"J. Maxwell, A. Gee",ANZ,14128,2013-03-18 19:00:00
-2013,Round 3,Thu,Mar-21,8:05pm,Melbourne,22,Canterbury,18,"B. Cummins, C. James",AAMI Park,11923,2013-03-21 20:05:00
+2013,Round 3,Thu,Mar-21,8:05pm,Melbourne,22,Bulldogs,18,"B. Cummins, C. James",AAMI Park,11923,2013-03-21 20:05:00
 2013,Round 3,Fri,Mar-22,8:05pm,Wests Tigers,31,Parramatta,18,"S. Hayne, A. Shortall",Leichhardt,18326,2013-03-22 20:05:00
 2013,Round 3,Sat,Mar-23,4:30pm,Gold Coast Titans,16,Manly Warringah,14,"M. Cecchin, L. Phillips",Skilled Park,13168,2013-03-23 16:30:00
 2013,Round 3,Sat,Mar-23,7:30pm,Sydney,8,Brisbane,0,"G. Sutton, B. Suttor",Allianz,13047,2013-03-23 19:30:00
@@ -1030,13 +1030,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 3,Mon,Mar-25,7:00pm,Newcastle,34,North Queensland,6,"G. Morris, J. Robinson",Hunter,15758,2013-03-25 19:00:00
 2013,Round 4,Thu,Mar-28,8:05pm,Manly Warringah,26,Wests Tigers,0,"M. Cecchin, L. Phillips",Central Coast,11758,2013-03-28 20:05:00
 2013,Round 4,Fri,Mar-29,7:05pm,Brisbane,26,Melbourne,32,"J. Maxwell, A. Devcich",Suncorp,40071,2013-03-29 19:05:00
-2013,Round 4,Fri,Mar-29,4:00pm,Canterbury,12,South Sydney,17,"S. Hayne, A. Shortall",ANZ,51686,2013-03-29 16:00:00
+2013,Round 4,Fri,Mar-29,4:00pm,Bulldogs,12,South Sydney,17,"S. Hayne, A. Shortall",ANZ,51686,2013-03-29 16:00:00
 2013,Round 4,Sat,Mar-30,7:30pm,Cronulla,12,St George Illawarra,25,"A. Klein, P. Haines",Shark Stadium,20130,2013-03-30 19:30:00
 2013,Round 4,Sun,Mar-31,6:30pm,Newcastle,28,Canberra,12,"G. Sutton, B. Suttor",Hunter,18869,2013-03-31 18:30:00
 2013,Round 4,Sun,Mar-31,3:00pm,Penrith,10,Gold Coast Titans,28,"J. Robinson, G. Morris",Centrebet,8181,2013-03-31 15:00:00
 2013,Round 4,Mon,Apr-1,7:00pm,Sydney,50,Parramatta,0,"B. Cummins, C. James",Allianz,18014,2013-04-01 19:00:00
 2013,Round 4,Mon,Apr-1,6:00pm,Warriors,20,North Queensland,18,"G. Badger, H. Perenara",Mt Smart,10572,2013-04-01 18:00:00
-2013,Round 5,Fri,Apr-5,7:35pm,Canterbury,6,Manly Warringah,20,"A. Klein, P. Haines",ANZ,18563,2013-04-05 19:35:00
+2013,Round 5,Fri,Apr-5,7:35pm,Bulldogs,6,Manly Warringah,20,"A. Klein, P. Haines",ANZ,18563,2013-04-05 19:35:00
 2013,Round 5,Fri,Apr-5,7:35pm,Gold Coast Titans,12,Brisbane,32,"S. Hayne, A. Shortall",Skilled Park,22749,2013-04-05 19:35:00
 2013,Round 5,Sat,Apr-6,6:30pm,North Queensland,30,Penrith,0,"A. Devcich, C. James",1300SMILES,12431,2013-04-06 18:30:00
 2013,Round 5,Sat,Apr-6,5:30pm,Parramatta,13,Cronulla,6,"G. Badger, H. Perenara",Parramatta,11063,2013-04-06 17:30:00
@@ -1045,7 +1045,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 5,Sun,Apr-7,4:00pm,Warriors,22,South Sydney,24,"J. Maxwell, D. Munro",Mt Smart,13512,2013-04-07 16:00:00
 2013,Round 5,Mon,Apr-8,7:00pm,Melbourne,26,Wests Tigers,12,"J. Robinson, A. Gee",AAMI Park,18868,2013-04-08 19:00:00
 2013,Round 6,Fri,Apr-12,7:30pm,Brisbane,12,North Queensland,10,"A. Klein, P. Haines",Suncorp,42556,2013-04-12 19:30:00
-2013,Round 6,Fri,Apr-12,7:30pm,Sydney,38,Canterbury,0,"B. Cummins, G. Morris",Allianz,22552,2013-04-12 19:30:00
+2013,Round 6,Fri,Apr-12,7:30pm,Sydney,38,Bulldogs,0,"B. Cummins, G. Morris",Allianz,22552,2013-04-12 19:30:00
 2013,Round 6,Sat,Apr-13,7:30pm,Canberra,20,Warriors,16,"A. Devcich, C. James",Canberra Stadium,9699,2013-04-13 19:30:00
 2013,Round 6,Sat,Apr-13,5:30pm,Newcastle,8,Penrith,6,"G. Badger, H. Perenara",Hunter,15536,2013-04-13 17:30:00
 2013,Round 6,Sat,Apr-13,7:30pm,South Sydney,10,Melbourne,17,"S. Hayne, A. Shortall",ANZ,32671,2013-04-13 19:30:00
@@ -1057,11 +1057,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 7,Fri,Apr-26,7:45pm,Manly Warringah,12,South Sydney,20,"A. Klein, P. Haines",Brookvale,20510,2013-04-26 19:45:00
 2013,Round 7,Sat,Apr-27,5:30pm,North Queensland,30,Canberra,12,"G. Badger, A. Shortall",1300SMILES,13240,2013-04-27 17:30:00
 2013,Round 7,Sat,Apr-27,7:30pm,Wests Tigers,10,Brisbane,20,"B. Cummins, G. Morris",Campbelltown,11547,2013-04-27 19:30:00
-2013,Round 7,Sun,Apr-28,3:00pm,Cronulla,8,Canterbury,24,"A. Devcich, C. James",Central Coast,10131,2013-04-28 15:00:00
+2013,Round 7,Sun,Apr-28,3:00pm,Cronulla,8,Bulldogs,24,"A. Devcich, C. James",Central Coast,10131,2013-04-28 15:00:00
 2013,Round 7,Sun,Apr-28,2:00pm,Gold Coast Titans,6,Newcastle,30,"J. Maxwell, L. Phillips",Skilled Park,14201,2013-04-28 14:00:00
 2013,Round 7,Mon,Apr-29,7:00pm,Penrith,44,Parramatta,12,"J. Robinson, G. Reynolds",Centrebet,14211,2013-04-29 19:00:00
 2013,Round 8,Fri,May-3,7:35pm,Brisbane,12,South Sydney,26,"S. Hayne, G. Sutton",Suncorp,39111,2013-05-03 19:35:00
-2013,Round 8,Fri,May-3,7:35pm,Canterbury,40,Wests Tigers,4,"M. Cecchin, H. Perenara",ANZ,23453,2013-05-03 19:35:00
+2013,Round 8,Fri,May-3,7:35pm,Bulldogs,40,Wests Tigers,4,"M. Cecchin, H. Perenara",ANZ,23453,2013-05-03 19:35:00
 2013,Round 8,Sat,May-4,5:30pm,Melbourne,20,Canberra,24,"A. Klein, P. Haines",AAMI Park,15464,2013-05-04 17:30:00
 2013,Round 8,Sat,May-4,7:30pm,Parramatta,10,North Queensland,14,"A. Devcich, C. James",Parramatta,9157,2013-05-04 19:30:00
 2013,Round 8,Sun,May-5,2:00pm,Newcastle,20,Cronulla,21,"G. Badger, A. Shortall",Hunter,16983,2013-05-05 14:00:00
@@ -1071,7 +1071,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 9,Fri,May-10,7:35pm,South Sydney,28,North Queensland,10,"J. Maxwell, L. Phillips",ANZ,15972,2013-05-10 19:35:00
 2013,Round 9,Fri,May-10,7:30pm,Wests Tigers,6,Cronulla,30,"B. Cummins, P. Haines",Allianz,9858,2013-05-10 19:30:00
 2013,Round 9,Sat,May-11,7:30pm,Parramatta,19,Brisbane,18,"A. Klein, G. Reynolds",Parramatta,11005,2013-05-11 19:30:00
-2013,Round 9,Sat,May-11,7:30pm,Warriors,16,Canterbury,24,"A. Devcich, C. James",Westpac,30112,2013-05-11 19:30:00
+2013,Round 9,Sat,May-11,7:30pm,Warriors,16,Bulldogs,24,"A. Devcich, C. James",Westpac,30112,2013-05-11 19:30:00
 2013,Round 9,Sun,May-12,2:00pm,Canberra,44,Newcastle,14,"J. Robinson, G. Morris",Canberra Stadium,10453,2013-05-12 14:00:00
 2013,Round 9,Sun,May-12,3:15pm,Gold Coast Titans,15,St George Illawarra,14,"S. Hayne, G. Sutton",Skilled Park,12117,2013-05-12 15:15:00
 2013,Round 9,Sun,May-12,6:30pm,Penrith,12,Melbourne,10,"G. Badger, A. Shortall",Centrebet,7803,2013-05-12 18:30:00
@@ -1082,9 +1082,9 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 10,Sat,May-18,7:30pm,Penrith,62,Warriors,6,"B. Sutton, H. Perenara",Centrebet,9386,2013-05-18 19:30:00
 2013,Round 10,Sat,May-18,5:30pm,St George Illawarra,32,Parramatta,12,"G. Badger, A. Shortall",WIN Stadium,17458,2013-05-18 17:30:00
 2013,Round 10,Sun,May-19,2:00pm,Cronulla,30,Canberra,20,"A. Devcich, C. James",Shark Stadium,12130,2013-05-19 14:00:00
-2013,Round 10,Sun,May-19,3:00pm,Newcastle,44,Canterbury,8,"J. Robinson, G. Morris",Hunter,18982,2013-05-19 15:00:00
+2013,Round 10,Sun,May-19,3:00pm,Newcastle,44,Bulldogs,8,"J. Robinson, G. Morris",Hunter,18982,2013-05-19 15:00:00
 2013,Round 10,Mon,May-20,7:00pm,Melbourne,10,Manly Warringah,10,"S. Hayne, M. Cecchin",AAMI Park,12961,2013-05-20 19:00:00
-2013,Round 11,Fri,May-24,7:35pm,Canterbury,24,Brisbane,14,"J. Maxwell, H. Perenara",ANZ,11344,2013-05-24 19:35:00
+2013,Round 11,Fri,May-24,7:35pm,Bulldogs,24,Brisbane,14,"J. Maxwell, H. Perenara",ANZ,11344,2013-05-24 19:35:00
 2013,Round 11,Fri,May-24,7:35pm,Wests Tigers,22,North Queensland,20,"J. Robinson, G. Morris",Leichhardt,7125,2013-05-24 19:35:00
 2013,Round 11,Sat,May-25,7:30pm,Manly Warringah,16,Canberra,10,"G. Badger, A. Shortall",Brookvale,10871,2013-05-25 19:30:00
 2013,Round 11,Sat,May-25,5:30pm,St George Illawarra,0,Penrith,19,"A. Devcich, C. James",WIN Jubilee,10922,2013-05-25 17:30:00
@@ -1092,18 +1092,18 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 11,Sun,May-26,3:00pm,Parramatta,4,Gold Coast Titans,42,"M. Cecchin, G. Reynolds",Glen Willow,9132,2013-05-26 15:00:00
 2013,Round 11,Sun,May-26,4:00pm,Warriors,28,Newcastle,12,"G. Sutton, L. Phillips",Mt Smart,9257,2013-05-26 16:00:00
 2013,Round 11,Mon,May-27,7:00pm,Cronulla,14,South Sydney,12,"B. Cummins, B. Suttor",Shark Stadium,12243,2013-05-27 19:00:00
-2013,Round 12,Fri,May-31,7:45pm,Canterbury,16,St George Illawarra,14,"J. Maxwell, P. Haines",ANZ,22958,2013-05-31 19:45:00
+2013,Round 12,Fri,May-31,7:45pm,Bulldogs,16,St George Illawarra,14,"J. Maxwell, P. Haines",ANZ,22958,2013-05-31 19:45:00
 2013,Round 12,Sat,Jun-1,7:30pm,South Sydney,25,Newcastle,18,"G. Badger, A. Shortall",ANZ,13225,2013-06-01 19:30:00
 2013,Round 12,Sun,Jun-2,3:00pm,Gold Coast Titans,31,North Queensland,12,"G. Sutton, G. Reynolds",Skilled Park,12790,2013-06-02 15:00:00
 2013,Round 12,Mon,Jun-3,7:00pm,Brisbane,18,Warriors,56,"B. Cummins, B. Suttor",Suncorp,21259,2013-06-03 19:00:00
 2013,Round 13,Fri,Jun-7,7:45pm,Parramatta,24,Sydney,38,"A. Devcich, G. Morris",Parramatta,12135,2013-06-07 19:45:00
 2013,Round 13,Sat,Jun-8,5:30pm,Newcastle,8,St George Illawarra,14,"J. Robinson, H. Perenara",Hunter,19214,2013-06-08 17:30:00
-2013,Round 13,Sat,Jun-8,7:30pm,North Queensland,26,Canterbury,36,"M. Cecchin, A. Gee",1300SMILES,12775,2013-06-08 19:30:00
+2013,Round 13,Sat,Jun-8,7:30pm,North Queensland,26,Bulldogs,36,"M. Cecchin, A. Gee",1300SMILES,12775,2013-06-08 19:30:00
 2013,Round 13,Sun,Jun-9,6:30pm,Melbourne,38,Cronulla,6,"A. Klein, C. James",AAMI Park,16231,2013-06-09 18:30:00
 2013,Round 13,Sun,Jun-9,3:00pm,Penrith,18,Wests Tigers,20,"J. Maxwell, P. Haines",Centrebet,16827,2013-06-09 15:00:00
 2013,Round 13,Sun,Jun-9,4:00pm,Warriors,18,Manly Warringah,16,"B. Cummins, B. Suttor",Mt Smart,11142,2013-06-09 16:00:00
 2013,Round 13,Mon,Jun-10,7:00pm,Canberra,30,Brisbane,18,"G. Sutton, L. Phillips",Canberra Stadium,10419,2013-06-10 19:00:00
-2013,Round 14,Fri,Jun-14,7:35pm,Manly Warringah,30,Canterbury,32,"S. Hayne, G. Morris",Brookvale,12157,2013-06-14 19:35:00
+2013,Round 14,Fri,Jun-14,7:35pm,Manly Warringah,30,Bulldogs,32,"S. Hayne, G. Morris",Brookvale,12157,2013-06-14 19:35:00
 2013,Round 14,Fri,Jun-14,7:35pm,St George Illawarra,16,North Queensland,22,"J. Maxwell, P. Haines",WIN Stadium,9035,2013-06-14 19:35:00
 2013,Round 14,Sat,Jun-15,5:30pm,Canberra,24,Penrith,12,"B. Cummins, A. Gee",Canberra Stadium,9176,2013-06-15 17:30:00
 2013,Round 14,Sat,Jun-15,7:30pm,Cronulla,32,Parramatta,14,"J. Robinson, A. Devcich",Shark Stadium,11055,2013-06-15 19:30:00
@@ -1111,7 +1111,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 14,Sun,Jun-16,2:00pm,South Sydney,30,Gold Coast Titans,24,"M. Cecchin, G. Atkins",Barlow Park,16118,2013-06-16 14:00:00
 2013,Round 14,Sun,Jun-16,6:30pm,Sydney,12,Warriors,23,"A. Klein, C. James",Allianz,11040,2013-06-16 18:30:00
 2013,Round 14,Mon,Jun-17,7:00pm,Brisbane,32,Wests Tigers,12,"G. Badger, A. Shortall",Suncorp,21339,2013-06-17 19:00:00
-2013,Round 15,Fri,Jun-21,7:45pm,Canterbury,18,Sydney,20,"M. Cecchin, G. Badger",ANZ,20273,2013-06-21 19:45:00
+2013,Round 15,Fri,Jun-21,7:45pm,Bulldogs,18,Sydney,20,"M. Cecchin, G. Badger",ANZ,20273,2013-06-21 19:45:00
 2013,Round 15,Sat,Jun-22,7:30pm,Wests Tigers,17,Canberra,12,"A. Devcich, A. Shortall",Campbelltown,7833,2013-06-22 19:30:00
 2013,Round 15,Sun,Jun-23,3:00pm,Parramatta,10,South Sydney,30,"G. Sutton, H. Perenara",ANZ,17077,2013-06-23 15:00:00
 2013,Round 15,Mon,Jun-24,7:00pm,Gold Coast Titans,18,Melbourne,12,"J. Maxwell, G. Atkins",Skilled Park,13044,2013-06-24 19:00:00
@@ -1127,12 +1127,12 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 17,Sat,Jul-6,7:00pm,Gold Coast Titans,18,Penrith,40,"A. Shortall, H. Perenara",TIO Stadium,8050,2013-07-06 19:00:00
 2013,Round 17,Sat,Jul-6,5:30pm,St George Illawarra,0,Sydney,36,"A. Devcich, C. James",WIN Jubilee,11857,2013-07-06 17:30:00
 2013,Round 17,Sun,Jul-7,2:00pm,Canberra,26,North Queensland,18,"J. Robinson, G. Morris",Canberra Stadium,10515,2013-07-07 14:00:00
-2013,Round 17,Sun,Jul-7,3:00pm,Canterbury,12,Newcastle,18,"S. Hayne, J. Maxwell",Virgin Aust.,9742,2013-07-07 15:00:00
+2013,Round 17,Sun,Jul-7,3:00pm,Bulldogs,12,Newcastle,18,"S. Hayne, J. Maxwell",Virgin Aust.,9742,2013-07-07 15:00:00
 2013,Round 17,Sun,Jul-7,4:30pm,South Sydney,30,Warriors,13,"A. Klein, D. Munro",nib Stadium,20221,2013-07-07 16:30:00
 2013,Round 17,Mon,Jul-8,7:00pm,Manly Warringah,50,Parramatta,10,"G. Badger, P. Haines",Brookvale,10987,2013-07-08 19:00:00
 2013,Round 18,Fri,Jul-12,7:45pm,Brisbane,18,Cronulla,19,"M. Cecchin, L. Phillips",Suncorp,25677,2013-07-12 19:45:00
 2013,Round 18,Sat,Jul-13,5:30pm,Parramatta,10,Penrith,17,"J. Maxwell, H. Perenara",Parramatta,9327,2013-07-13 17:30:00
-2013,Round 18,Sun,Jul-14,3:00pm,Canterbury,39,Melbourne,0,"G. Sutton, A. Shortall",Allianz,16406,2013-07-14 15:00:00
+2013,Round 18,Sun,Jul-14,3:00pm,Bulldogs,39,Melbourne,0,"G. Sutton, A. Shortall",Allianz,16406,2013-07-14 15:00:00
 2013,Round 18,Mon,Jul-15,7:00pm,North Queensland,14,Manly Warringah,34,"A. Klein, D. Munro",1300SMILES,9029,2013-07-15 19:00:00
 2013,Round 19,Fri,Jul-19,7:45pm,Wests Tigers,14,Warriors,24,"G. Badger, L. Phillips",Leichhardt,11436,2013-07-19 19:45:00
 2013,Round 19,Sat,Jul-20,5:30pm,Canberra,14,Parramatta,0,"J. Robinson, G. Morris",Canberra Stadium,7023,2013-07-20 17:30:00
@@ -1140,7 +1140,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 19,Sun,Jul-21,3:00pm,Manly Warringah,38,Gold Coast Titans,20,"B. Cummins, C. James",Brookvale,11905,2013-07-21 15:00:00
 2013,Round 19,Sun,Jul-21,2:00pm,Penrith,14,Newcastle,32,"A. Klein, A. Devcich",Centrebet,10240,2013-07-21 14:00:00
 2013,Round 19,Mon,Jul-22,7:00pm,South Sydney,18,St George Illawarra,22,"G. Sutton, D. Munro",ANZ,14571,2013-07-22 19:00:00
-2013,Round 20,Fri,Jul-26,7:35pm,Canterbury,40,Parramatta,12,"M. Cecchin, G. Reynolds",ANZ,23341,2013-07-26 19:35:00
+2013,Round 20,Fri,Jul-26,7:35pm,Bulldogs,40,Parramatta,12,"M. Cecchin, G. Reynolds",ANZ,23341,2013-07-26 19:35:00
 2013,Round 20,Fri,Jul-26,7:35pm,North Queensland,16,Brisbane,18,"G. Sutton, G. Atkins",1300SMILES,17702,2013-07-26 19:35:00
 2013,Round 20,Sat,Jul-27,7:30pm,Gold Coast Titans,4,South Sydney,32,"A. Klein, P. Haines",Skilled Park,20392,2013-07-27 19:30:00
 2013,Round 20,Sat,Jul-27,5:30pm,St George Illawarra,18,Canberra,22,"A. Shortall, C. James",WIN Stadium,12072,2013-07-27 17:30:00
@@ -1155,7 +1155,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 21,Sat,Aug-3,5:00pm,Warriors,14,Cronulla,18,"M. Cecchin, G. Reynolds",Mt Smart,15209,2013-08-03 17:00:00
 2013,Round 21,Sun,Aug-4,2:00pm,Canberra,4,Melbourne,68,"J. Maxwell, G. Morris",Canberra Stadium,10826,2013-08-04 14:00:00
 2013,Round 21,Sun,Aug-4,3:00pm,Gold Coast Titans,36,Wests Tigers,6,"G. Badger, A. Shortall",Skilled Park,11731,2013-08-04 15:00:00
-2013,Round 21,Mon,Aug-5,7:00pm,St George Illawarra,20,Canterbury,39,"G. Sutton, H. Perenara",WIN Jubilee,12846,2013-08-05 19:00:00
+2013,Round 21,Mon,Aug-5,7:00pm,St George Illawarra,20,Bulldogs,39,"G. Sutton, H. Perenara",WIN Jubilee,12846,2013-08-05 19:00:00
 2013,Round 22,Fri,Aug-9,7:35pm,Melbourne,26,South Sydney,8,"B. Cummins, M. Cecchin",AAMI Park,21244,2013-08-09 19:35:00
 2013,Round 22,Fri,Aug-9,7:35pm,Parramatta,26,Wests Tigers,22,"H. Perenara, G. Atkins",Parramatta,12013,2013-08-09 19:35:00
 2013,Round 22,Sat,Aug-10,7:30pm,Cronulla,14,Newcastle,18,"S. Hayne, C. James",Remondis Stadium,11538,2013-08-10 19:30:00
@@ -1163,17 +1163,17 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 22,Sun,Aug-11,3:00pm,Brisbane,26,St George Illawarra,24,"J. Robinson, G. Reynolds",Suncorp,31199,2013-08-11 15:00:00
 2013,Round 22,Sun,Aug-11,2:00pm,Manly Warringah,27,Warriors,12,"J. Maxwell, B. Suttor",Brookvale,12090,2013-08-11 14:00:00
 2013,Round 22,Sun,Aug-11,6:30pm,Penrith,4,North Queensland,36,"G. Sutton, A. Gee",Centrebet,6611,2013-08-11 18:30:00
-2013,Round 22,Mon,Aug-12,7:00pm,Canterbury,16,Gold Coast Titans,26,"A. Devcich, L. Phillips",ANZ,10373,2013-08-12 19:00:00
+2013,Round 22,Mon,Aug-12,7:00pm,Bulldogs,16,Gold Coast Titans,26,"A. Devcich, L. Phillips",ANZ,10373,2013-08-12 19:00:00
 2013,Round 23,Fri,Aug-16,7:35pm,Brisbane,22,Parramatta,12,"A. Devcich, G. Badger",Suncorp,24607,2013-08-16 19:35:00
 2013,Round 23,Fri,Aug-16,7:35pm,South Sydney,22,Manly Warringah,10,"S. Hayne, H. Perenara",Central Coast,20060,2013-08-16 19:35:00
-2013,Round 23,Sat,Aug-17,3:00pm,Canberra,16,Canterbury,28,"A. Klein, G. Reynolds",Canberra Stadium,11847,2013-08-17 15:00:00
+2013,Round 23,Sat,Aug-17,3:00pm,Canberra,16,Bulldogs,28,"A. Klein, G. Reynolds",Canberra Stadium,11847,2013-08-17 15:00:00
 2013,Round 23,Sat,Aug-17,5:30pm,North Queensland,22,Gold Coast Titans,10,"M. Cecchin, A. Shortall",1300SMILES,12003,2013-08-17 17:30:00
 2013,Round 23,Sat,Aug-17,7:30pm,St George Illawarra,18,Cronulla,22,"B. Cummins, L. Phillips",WIN Stadium,11853,2013-08-17 19:30:00
 2013,Round 23,Sun,Aug-18,3:00pm,Newcastle,10,Melbourne,23,"J. Maxwell, B. Suttor",Hunter,26822,2013-08-18 15:00:00
 2013,Round 23,Sun,Aug-18,4:00pm,Warriors,24,Penrith,28,"J. Robinson, C. James",Mt Smart,11596,2013-08-18 16:00:00
 2013,Round 23,Mon,Aug-19,7:00pm,Wests Tigers,14,Sydney,56,"G. Sutton, P. Haines",Allianz,8393,2013-08-19 19:00:00
 2013,Round 24,Fri,Aug-23,7:35pm,Penrith,28,Brisbane,12,"G. Badger, L. Phillips",Centrebet,8817,2013-08-23 19:35:00
-2013,Round 24,Fri,Aug-23,7:35pm,South Sydney,28,Canterbury,20,"M. Cecchin, G. Reynolds",ANZ,29571,2013-08-23 19:35:00
+2013,Round 24,Fri,Aug-23,7:35pm,South Sydney,28,Bulldogs,20,"M. Cecchin, G. Reynolds",ANZ,29571,2013-08-23 19:35:00
 2013,Round 24,Sat,Aug-24,5:30pm,Gold Coast Titans,22,Warriors,24,"G. Sutton, J. Maxwell",Skilled Park,15786,2013-08-24 17:30:00
 2013,Round 24,Sat,Aug-24,7:30pm,North Queensland,26,Newcastle,6,"S. Hayne, A. Shortall",1300SMILES,12208,2013-08-24 19:30:00
 2013,Round 24,Sat,Aug-24,3:00pm,St George Illawarra,18,Wests Tigers,34,"J. Robinson, P. Haines",SCG,15016,2013-08-24 15:00:00
@@ -1182,13 +1182,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Round 24,Mon,Aug-26,7:00pm,Cronulla,32,Sydney,22,"A. Klein, H. Perenara",Remondis Stadium,11418,2013-08-26 19:00:00
 2013,Round 25,Fri,Aug-30,7:35pm,Brisbane,18,Newcastle,26,"C. James, A. Klein",Suncorp,27601,2013-08-30 19:35:00
 2013,Round 25,Fri,Aug-30,7:35pm,Wests Tigers,18,South Sydney,32,"H. Perenara, P. Haines",Allianz,14891,2013-08-30 19:35:00
-2013,Round 25,Sat,Aug-31,5:30pm,Canterbury,34,Penrith,14,"G. Sutton, G. Reynolds",ANZ,15313,2013-08-31 17:30:00
+2013,Round 25,Sat,Aug-31,5:30pm,Bulldogs,34,Penrith,14,"G. Sutton, G. Reynolds",ANZ,15313,2013-08-31 17:30:00
 2013,Round 25,Sat,Aug-31,7:30pm,Manly Warringah,28,Melbourne,8,"J. Maxwell, A. Devcich",Brookvale,17179,2013-08-31 19:30:00
 2013,Round 25,Sat,Aug-31,5:00pm,Warriors,50,Canberra,16,"G. Badger, A. Shortall",Mt Smart,15121,2013-08-31 17:00:00
 2013,Round 25,Sun,Sep-1,2:00pm,Cronulla,18,North Queensland,31,"S. Hayne, L. Phillips",Remondis Stadium,15313,2013-09-01 14:00:00
 2013,Round 25,Sun,Sep-1,3:00pm,Sydney,22,Gold Coast Titans,30,"M. Cecchin, D. Munro",Allianz,17542,2013-09-01 15:00:00
 2013,Round 25,Mon,Sep-2,7:00pm,Parramatta,26,St George Illawarra,22,"G. Morris, B. Suttor",Parramatta,8910,2013-09-02 19:00:00
-2013,Round 26,Thu,Sep-5,7:45pm,Brisbane,16,Canterbury,11,"G. Badger, A. Shortall",Suncorp,26599,2013-09-05 19:45:00
+2013,Round 26,Thu,Sep-5,7:45pm,Brisbane,16,Bulldogs,11,"G. Badger, A. Shortall",Suncorp,26599,2013-09-05 19:45:00
 2013,Round 26,Fri,Sep-6,7:45pm,South Sydney,12,Sydney,24,"M. Cecchin, A. Klein",ANZ,59708,2013-09-06 19:45:00
 2013,Round 26,Sat,Sep-7,5:30pm,Melbourne,23,Gold Coast Titans,22,"S. Hayne, G. Morris",AAMI Park,13826,2013-09-07 17:30:00
 2013,Round 26,Sat,Sep-7,7:30pm,North Queensland,50,Wests Tigers,22,"G. Sutton, G. Reynolds",1300SMILES,19519,2013-09-07 19:30:00
@@ -1199,14 +1199,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2013,Qualif Final,Fri,Sep-13,7:45pm,South Sydney,20,Melbourne,10,"S. Hayne, J. Maxwell",ANZ,21609,2013-09-13 19:45:00
 2013,Qualif Final,Sat,Sep-14,4:00pm,Cronulla,20,North Queensland,18,"M. Cecchin, H. Perenara",Allianz,32747,2013-09-14 16:00:00
 2013,Qualif Final,Sat,Sep-14,7:00pm,Sydney,4,Manly Warringah,0,"B. Cummins, G. Sutton",Allianz,32747,2013-09-14 19:00:00
-2013,Qualif Final,Sun,Sep-15,4:00pm,Canterbury,6,Newcastle,22,"A. Klein, G. Badger",ANZ,23086,2013-09-15 16:00:00
+2013,Qualif Final,Sun,Sep-15,4:00pm,Bulldogs,6,Newcastle,22,"A. Klein, G. Badger",ANZ,23086,2013-09-15 16:00:00
 2013,Semi Final,Fri,Sep-20,7:45pm,Manly Warringah,24,Cronulla,18,"S. Hayne, A. Klein",Allianz,23837,2013-09-20 19:45:00
 2013,Semi Final,Sat,Sep-21,7:45pm,Melbourne,16,Newcastle,18,"B. Cummins, G. Sutton",AAMI Park,19649,2013-09-21 19:45:00
 2013,Prelim Final,Fri,Sep-27,7:45pm,South Sydney,20,Manly Warringah,30,"B. Cummins, G. Sutton",ANZ,44546,2013-09-27 19:45:00
 2013,Prelim Final,Sat,Sep-28,7:45pm,Sydney,40,Newcastle,14,"S. Hayne, A. Klein",Allianz,37752,2013-09-28 19:45:00
 2013,Grand Final,Sun,Oct-6,7:15pm,Sydney,26,Manly Warringah,18,"S. Hayne, B. Cummins",ANZ,81491,2013-10-06 19:15:00
 2014,Round 1,Thu,Mar-6,8:05pm,South Sydney,28,Sydney,8,"B. Cummins, L. Phillips",ANZ,27282,2014-03-06 20:05:00
-2014,Round 1,Fri,Mar-7,8:05pm,Canterbury,12,Brisbane,18,"S. Hayne, C. James",ANZ,18040,2014-03-07 20:05:00
+2014,Round 1,Fri,Mar-7,8:05pm,Bulldogs,12,Brisbane,18,"S. Hayne, C. James",ANZ,18040,2014-03-07 20:05:00
 2014,Round 1,Sat,Mar-8,7:00pm,Manly Warringah,22,Melbourne,23,"G. Sutton, G. Reynolds",Brookvale,14200,2014-03-08 19:00:00
 2014,Round 1,Sat,Mar-8,9:00pm,North Queensland,28,Canberra,22,"G. Badger, B. Suttor",1300SMILES,12121,2014-03-08 21:00:00
 2014,Round 1,Sat,Mar-8,4:30pm,Penrith,30,Newcastle,8,"M. Cecchin, A. Shortall",Sportingbet,11369,2014-03-08 16:30:00
@@ -1220,25 +1220,25 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 2,Sat,Mar-15,5:00pm,Warriors,12,St George Illawarra,31,"J. Maxwell, G. Atkins",Eden Park,14392,2014-03-15 17:00:00
 2014,Round 2,Sun,Mar-16,2:00pm,Gold Coast Titans,12,Wests Tigers,42,"G. Sutton, D. Munro",CBUS,12038,2014-03-16 14:00:00
 2014,Round 2,Sun,Mar-16,6:30pm,Newcastle,20,Canberra,26,"A. Devcich, H. Perenara",Hunter,14674,2014-03-16 18:30:00
-2014,Round 2,Mon,Mar-17,7:00pm,Canterbury,42,Cronulla,4,"M. Cecchin, A. Shortall",ANZ,12057,2014-03-17 19:00:00
+2014,Round 2,Mon,Mar-17,7:00pm,Bulldogs,42,Cronulla,4,"M. Cecchin, A. Shortall",ANZ,12057,2014-03-17 19:00:00
 2014,Round 3,Fri,Mar-21,7:40pm,Brisbane,26,Sydney,30,"S. Hayne, C. James",Suncorp,33381,2014-03-21 19:40:00
 2014,Round 3,Fri,Mar-21,7:40pm,Wests Tigers,25,South Sydney,16,"M. Cecchin, A. Shortall",ANZ,20061,2014-03-21 19:40:00
 2014,Round 3,Sat,Mar-22,7:00pm,Cronulla,12,St George Illawarra,14,"A. Devcich, H. Perenara",Remondis Stadium,14821,2014-03-22 19:00:00
 2014,Round 3,Sat,Mar-22,8:00pm,North Queensland,16,Warriors,20,"A. Klein, A. Gee",1300SMILES,12738,2014-03-22 20:00:00
-2014,Round 3,Sat,Mar-22,4:30pm,Penrith,18,Canterbury,16,"B. Cummins, G. Reynolds",Sportingbet,13291,2014-03-22 16:30:00
+2014,Round 3,Sat,Mar-22,4:30pm,Penrith,18,Bulldogs,16,"B. Cummins, G. Reynolds",Sportingbet,13291,2014-03-22 16:30:00
 2014,Round 3,Sun,Mar-23,6:30pm,Canberra,12,Gold Coast Titans,24,"G. Badger, B. Suttor",GIO Stadium,9636,2014-03-23 18:30:00
 2014,Round 3,Sun,Mar-23,3:00pm,Manly Warringah,22,Parramatta,18,"J. Maxwell, G. Atkins",Brookvale,14135,2014-03-23 15:00:00
 2014,Round 3,Mon,Mar-24,7:00pm,Melbourne,28,Newcastle,20,"G. Sutton, G. Morris",AAMI Park,11490,2014-03-24 19:00:00
 2014,Round 4,Fri,Mar-28,8:00pm,St George Illawarra,20,Brisbane,36,"G. Sutton, G. Morris",WIN Stadium,10526,2014-03-28 20:00:00
 2014,Round 4,Fri,Mar-28,7:40pm,Sydney,0,Manly Warringah,8,"B. Cummins, G. Reynolds",Allianz,14902,2014-03-28 19:40:00
-2014,Round 4,Sat,Mar-29,4:30pm,Canterbury,40,Melbourne,12,"A. Klein, A. Gee",nib Stadium,12014,2014-03-29 16:30:00
+2014,Round 4,Sat,Mar-29,4:30pm,Bulldogs,40,Melbourne,12,"A. Klein, A. Gee",nib Stadium,12014,2014-03-29 16:30:00
 2014,Round 4,Sat,Mar-29,5:30pm,Parramatta,32,Penrith,16,"S. Hayne, H. Perenara",Pirtek Stadium,14448,2014-03-29 17:30:00
 2014,Round 4,Sat,Mar-29,5:00pm,Warriors,42,Wests Tigers,18,"M. Cecchin, B. Suttor",Westpac,22512,2014-03-29 17:00:00
 2014,Round 4,Sun,Mar-30,3:00pm,Newcastle,30,Cronulla,0,"G. Badger, A. Shortall",Hunter,18196,2014-03-30 15:00:00
 2014,Round 4,Sun,Mar-30,2:00pm,South Sydney,18,Canberra,30,"J. Maxwell, G. Atkins",ANZ,16032,2014-03-30 14:00:00
 2014,Round 4,Mon,Mar-31,6:30pm,Gold Coast Titans,13,North Queensland,12,"A. Devcich, C. James",CBUS,9482,2014-03-31 18:30:00
 2014,Round 5,Fri,Apr-4,7:40pm,Brisbane,18,Parramatta,25,"M. Cecchin, G. Atkins",Suncorp,32009,2014-04-04 19:40:00
-2014,Round 5,Fri,Apr-4,7:40pm,Sydney,8,Canterbury,9,"S. Hayne, H. Perenara",Allianz,12584,2014-04-04 19:40:00
+2014,Round 5,Fri,Apr-4,7:40pm,Sydney,8,Bulldogs,9,"S. Hayne, H. Perenara",Allianz,12584,2014-04-04 19:40:00
 2014,Round 5,Sat,Apr-5,3:00pm,Cronulla,37,Warriors,6,"G. Morris, G. Reynolds",Remondis Stadium,11307,2014-04-05 15:00:00
 2014,Round 5,Sat,Apr-5,5:30pm,Penrith,12,Canberra,6,"A. Devcich, C. James",Sportingbet,7667,2014-04-05 17:30:00
 2014,Round 5,Sat,Apr-5,7:30pm,St George Illawarra,6,South Sydney,26,"G. Badger, A. Shortall",SCG,24368,2014-04-05 19:30:00
@@ -1251,11 +1251,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 6,Sat,Apr-12,5:30pm,Parramatta,14,Sydney,12,"G. Sutton, D. Munro",Pirtek Stadium,15312,2014-04-12 17:30:00
 2014,Round 6,Sat,Apr-12,7:30pm,Wests Tigers,16,North Queensland,4,"G. Morris, G. Reynolds",Campbelltown,6456,2014-04-12 19:30:00
 2014,Round 6,Sun,Apr-13,3:00pm,Manly Warringah,24,Cronulla,4,"G. Badger, A. Devcich",Brookvale,9065,2014-04-13 15:00:00
-2014,Round 6,Sun,Apr-13,2:00pm,Warriors,20,Canterbury,21,"B. Cummins, B. Suttor",Eden Park,22165,2014-04-13 14:00:00
+2014,Round 6,Sun,Apr-13,2:00pm,Warriors,20,Bulldogs,21,"B. Cummins, B. Suttor",Eden Park,22165,2014-04-13 14:00:00
 2014,Round 6,Mon,Apr-14,7:00pm,Melbourne,28,St George Illawarra,24,"M. Cecchin, G. Atkins",AAMI Park,13130,2014-04-14 19:00:00
 2014,Round 7,Fri,Apr-18,7:40pm,Manly Warringah,26,North Queensland,21,"G. Badger, A. Devcich",Central Coast,10013,2014-04-18 19:40:00
 2014,Round 7,Fri,Apr-18,7:40pm,Newcastle,6,Brisbane,32,"A. Klein, A. Gee",Hunter,22254,2014-04-18 19:40:00
-2014,Round 7,Fri,Apr-18,4:00pm,South Sydney,14,Canterbury,15,"S. Hayne, B. Cummins",ANZ,43255,2014-04-18 16:00:00
+2014,Round 7,Fri,Apr-18,4:00pm,South Sydney,14,Bulldogs,15,"S. Hayne, B. Cummins",ANZ,43255,2014-04-18 16:00:00
 2014,Round 7,Sat,Apr-19,7:30pm,Cronulla,18,Sydney,24,"H. Perenara, A. Shortall",Remondis Stadium,12163,2014-04-19 19:30:00
 2014,Round 7,Sat,Apr-19,5:30pm,St George Illawarra,20,Warriors,10,"J. Maxwell, C. James",WIN Jubilee,10559,2014-04-19 17:30:00
 2014,Round 7,Sun,Apr-20,3:00pm,Canberra,24,Melbourne,22,"G. Sutton, D. Munro",GIO Stadium,10941,2014-04-20 15:00:00
@@ -1264,7 +1264,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 8,Fri,Apr-25,8:00pm,Brisbane,26,South Sydney,28,"G. Badger, G. Atkins",Suncorp,44122,2014-04-25 20:00:00
 2014,Round 8,Fri,Apr-25,6:00pm,Melbourne,10,Warriors,16,"A. Klein, A. Gee",AAMI Park,28716,2014-04-25 18:00:00
 2014,Round 8,Fri,Apr-25,4:00pm,St George Illawarra,14,Sydney,34,"S. Hayne, G. Morris",Allianz,38784,2014-04-25 16:00:00
-2014,Round 8,Sat,Apr-26,7:30pm,Canterbury,16,Newcastle,12,"H. Perenara, A. Shortall",ANZ,15286,2014-04-26 19:30:00
+2014,Round 8,Sat,Apr-26,7:30pm,Bulldogs,16,Newcastle,12,"H. Perenara, A. Shortall",ANZ,15286,2014-04-26 19:30:00
 2014,Round 8,Sat,Apr-26,3:00pm,Cronulla,24,Penrith,20,"M. Cecchin, A. Devcich",Remondis Stadium,13669,2014-04-26 15:00:00
 2014,Round 8,Sat,Apr-26,5:30pm,North Queensland,42,Parramatta,14,"B. Cummins, G. Reynolds",1300SMILES,13285,2014-04-26 17:30:00
 2014,Round 8,Sun,Apr-27,2:00pm,Manly Warringah,54,Canberra,18,"J. Maxwell, C. James",Brookvale,8817,2014-04-27 14:00:00
@@ -1275,7 +1275,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 9,Sat,May-10,7:30pm,Melbourne,22,Manly Warringah,19,"S. Hayne, A. Gee",AAMI Park,13273,2014-05-10 19:30:00
 2014,Round 9,Sat,May-10,5:00pm,Warriors,54,Canberra,12,"G. Morris, H. Perenara",Eden Park,18165,2014-05-10 17:00:00
 2014,Round 9,Sun,May-11,2:00pm,Newcastle,10,Penrith,32,"J. Maxwell, B. Suttor",Hunter,13682,2014-05-11 14:00:00
-2014,Round 9,Sun,May-11,3:00pm,St George Illawarra,6,Canterbury,38,"G. Badger, G. Atkins",ANZ,21077,2014-05-11 15:00:00
+2014,Round 9,Sun,May-11,3:00pm,St George Illawarra,6,Bulldogs,38,"G. Badger, G. Atkins",ANZ,21077,2014-05-11 15:00:00
 2014,Round 9,Mon,May-12,7:00pm,Parramatta,42,Cronulla,24,"A. Devcich, A. Shortall",Pirtek Stadium,12541,2014-05-12 19:00:00
 2014,Round 10,Fri,May-16,7:40pm,Brisbane,22,Gold Coast Titans,8,"B. Cummins, D. Munro",Suncorp,31380,2014-05-16 19:40:00
 2014,Round 10,Fri,May-16,7:40pm,South Sydney,14,Melbourne,27,"G. Sutton, G. Reynolds",ANZ,18508,2014-05-16 19:40:00
@@ -1283,9 +1283,9 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 10,Sat,May-17,7:30pm,North Queensland,42,Sydney,10,"S. Hayne, A. Gee",1300SMILES,15361,2014-05-17 19:30:00
 2014,Round 10,Sat,May-17,3:00pm,Parramatta,36,St George Illawarra,0,"J. Maxwell, C. James",Pirtek Stadium,18631,2014-05-17 15:00:00
 2014,Round 10,Sun,May-18,2:00pm,Canberra,20,Penrith,26,"G. Badger, G. Atkins",GIO Stadium,8892,2014-05-18 14:00:00
-2014,Round 10,Sun,May-18,4:00pm,Canterbury,16,Warriors,12,"A. Klein, A. Shortall",Waikato,17673,2014-05-18 16:00:00
+2014,Round 10,Sun,May-18,4:00pm,Bulldogs,16,Warriors,12,"A. Klein, A. Shortall",Waikato,17673,2014-05-18 16:00:00
 2014,Round 10,Mon,May-19,7:00pm,Manly Warringah,15,Newcastle,14,"M. Cecchin, A. Devcich",Brookvale,8655,2014-05-19 19:00:00
-2014,Round 11,Fri,May-23,7:45pm,Canterbury,12,Sydney,32,"A. Klein, A. Gee",ANZ,19088,2014-05-23 19:45:00
+2014,Round 11,Fri,May-23,7:45pm,Bulldogs,12,Sydney,32,"A. Klein, A. Gee",ANZ,19088,2014-05-23 19:45:00
 2014,Round 11,Sat,May-24,5:30pm,Gold Coast Titans,16,Warriors,24,"G. Morris, H. Perenara",CBUS,18753,2014-05-24 17:30:00
 2014,Round 11,Sat,May-24,7:30pm,Wests Tigers,14,Brisbane,16,"G. Badger, G. Reynolds",Campbelltown,16511,2014-05-24 19:30:00
 2014,Round 11,Sun,May-25,3:00pm,Canberra,42,North Queensland,12,"G. Sutton, J. Maxwell",GIO Stadium,8412,2014-05-25 15:00:00
@@ -1296,7 +1296,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 12,Sun,Jun-1,3:00pm,Brisbane,36,Manly Warringah,10,"B. Cummins, D. Munro",Suncorp,32017,2014-06-01 15:00:00
 2014,Round 12,Sun,Jun-1,4:00pm,Warriors,38,Newcastle,18,"G. Badger, G. Reynolds",Mt Smart,19068,2014-06-01 16:00:00
 2014,Round 12,Mon,Jun-2,7:00pm,South Sydney,29,St George Illawarra,10,"S. Hayne, H. Perenara",ANZ,11771,2014-06-02 19:00:00
-2014,Round 13,Fri,Jun-6,7:40pm,Manly Warringah,32,Canterbury,10,"G. Sutton, G. Morris",Brookvale,9235,2014-06-06 19:40:00
+2014,Round 13,Fri,Jun-6,7:40pm,Manly Warringah,32,Bulldogs,10,"G. Sutton, G. Morris",Brookvale,9235,2014-06-06 19:40:00
 2014,Round 13,Fri,Jun-6,7:40pm,Parramatta,18,North Queensland,16,"B. Cummins, G. Reynolds",Pirtek Stadium,10142,2014-06-06 19:40:00
 2014,Round 13,Sat,Jun-7,5:30pm,Gold Coast Titans,14,Penrith,36,"M. Cecchin, G. Atkins",CBUS,10507,2014-06-07 17:30:00
 2014,Round 13,Sat,Jun-7,7:30pm,St George Illawarra,30,Cronulla,0,"G. Badger, C. James",WIN Stadium,12079,2014-06-07 19:30:00
@@ -1307,9 +1307,9 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 14,Fri,Jun-13,7:45pm,South Sydney,32,Wests Tigers,10,"G. Sutton, G. Morris",ANZ,20721,2014-06-13 19:45:00
 2014,Round 14,Sat,Jun-14,5:30pm,Penrith,18,St George Illawarra,14,"A. Klein, A. Gee",Sportingbet,13768,2014-06-14 17:30:00
 2014,Round 14,Sat,Jun-14,7:30pm,Sydney,29,Newcastle,12,"G. Badger, G. Reynolds",Allianz,9847,2014-06-14 19:30:00
-2014,Round 14,Sun,Jun-15,3:00pm,Canterbury,12,Parramatta,22,"M. Cecchin, H. Perenara",ANZ,24012,2014-06-15 15:00:00
+2014,Round 14,Sun,Jun-15,3:00pm,Bulldogs,12,Parramatta,22,"M. Cecchin, H. Perenara",ANZ,24012,2014-06-15 15:00:00
 2014,Round 14,Mon,Jun-16,7:00pm,Gold Coast Titans,20,Melbourne,24,"J. Maxwell, D. Munro",CBUS,6497,2014-06-16 19:00:00
-2014,Round 15,Fri,Jun-20,7:45pm,Canberra,14,Canterbury,22,"A. Klein, A. Shortall",GIO Stadium,10873,2014-06-20 19:45:00
+2014,Round 15,Fri,Jun-20,7:45pm,Canberra,14,Bulldogs,22,"A. Klein, A. Shortall",GIO Stadium,10873,2014-06-20 19:45:00
 2014,Round 15,Sat,Jun-21,7:30pm,Cronulla,0,Manly Warringah,26,"G. Morris, G. Reynolds",Remondis Stadium,13383,2014-06-21 19:30:00
 2014,Round 15,Sat,Jun-21,7:30pm,Warriors,19,Brisbane,10,"J. Maxwell, D. Munro",Mt Smart,16025,2014-06-21 19:30:00
 2014,Round 15,Sun,Jun-22,3:00pm,Gold Coast Titans,18,St George Illawarra,19,"G. Sutton, G. Badger",CBUS,12189,2014-06-22 15:00:00
@@ -1322,13 +1322,13 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 16,Sun,Jun-29,3:00pm,Parramatta,10,Newcastle,16,"J. Maxwell, H. Perenara",Pirtek Stadium,15566,2014-06-29 15:00:00
 2014,Round 16,Sun,Jun-29,4:00pm,Warriors,30,Penrith,20,"G. Sutton, A. Devcich",Mt Smart,12801,2014-06-29 16:00:00
 2014,Round 16,Mon,Jun-30,7:00pm,St George Illawarra,24,Melbourne,12,"A. Klein, A. Shortall",WIN Stadium,10117,2014-06-30 19:00:00
-2014,Round 17,Fri,Jul-4,7:45pm,Canterbury,23,Manly Warringah,16,"J. Maxwell, D. Munro",ANZ,14921,2014-07-04 19:45:00
+2014,Round 17,Fri,Jul-4,7:45pm,Bulldogs,23,Manly Warringah,16,"J. Maxwell, D. Munro",ANZ,14921,2014-07-04 19:45:00
 2014,Round 17,Sat,Jul-5,5:30pm,St George Illawarra,27,North Queensland,24,"G. Badger, A. Devcich",WIN Jubilee,12082,2014-07-05 17:30:00
 2014,Round 17,Sat,Jul-5,7:30pm,Sydney,28,Cronulla,30,"G. Morris, H. Perenara",Allianz,10732,2014-07-05 19:30:00
 2014,Round 17,Sun,Jul-6,3:00pm,Wests Tigers,10,Penrith,26,"S. Hayne, A. Shortall",Leichhardt,16698,2014-07-06 15:00:00
 2014,Round 17,Mon,Jul-7,7:00pm,South Sydney,10,Gold Coast Titans,14,"A. Klein, G. Reynolds",ANZ,10925,2014-07-07 19:00:00
 2014,Round 18,Fri,Jul-11,7:45pm,Manly Warringah,40,Wests Tigers,8,"S. Hayne, A. Shortall",Brookvale,13432,2014-07-11 19:45:00
-2014,Round 18,Sat,Jul-12,7:30pm,Melbourne,4,Canterbury,6,"G. Sutton, G. Atkins",AAMI Park,13149,2014-07-12 19:30:00
+2014,Round 18,Sat,Jul-12,7:30pm,Melbourne,4,Bulldogs,6,"G. Sutton, G. Atkins",AAMI Park,13149,2014-07-12 19:30:00
 2014,Round 18,Sat,Jul-12,7:30pm,Warriors,48,Parramatta,0,"G. Badger, H. Perenara",Mt Smart,14087,2014-07-12 19:30:00
 2014,Round 18,Sun,Jul-13,3:00pm,Cronulla,18,Newcastle,31,"A. Klein, A. Gee",Remondis Stadium,17242,2014-07-13 15:00:00
 2014,Round 18,Sun,Jul-13,2:00pm,Gold Coast Titans,20,Canberra,36,"J. Maxwell, D. Munro",CBUS,10574,2014-07-13 14:00:00
@@ -1339,17 +1339,17 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 19,Sat,Jul-19,5:30pm,Melbourne,28,Canberra,14,"S. Hayne, C. Butler",AAMI Park,11479,2014-07-19 17:30:00
 2014,Round 19,Sat,Jul-19,3:00pm,Sydney,32,Penrith,12,"A. Klein, A. Gee",Allianz,13993,2014-07-19 15:00:00
 2014,Round 19,Sun,Jul-20,2:00pm,Newcastle,8,Gold Coast Titans,22,"M. Cecchin, D. Munro",Hunter,26401,2014-07-20 14:00:00
-2014,Round 19,Sun,Jul-20,3:00pm,Wests Tigers,46,Canterbury,18,"B. Cummins, C. James",ANZ,22225,2014-07-20 15:00:00
+2014,Round 19,Sun,Jul-20,3:00pm,Wests Tigers,46,Bulldogs,18,"B. Cummins, C. James",ANZ,22225,2014-07-20 15:00:00
 2014,Round 19,Mon,Jul-21,7:00pm,St George Illawarra,12,Manly Warringah,21,"G. Badger, H. Perenara",WIN Jubilee,10530,2014-07-21 19:00:00
 2014,Round 20,Fri,Jul-25,7:40pm,Brisbane,8,Melbourne,30,"J. Maxwell, G. Reynolds",Suncorp,36319,2014-07-25 19:40:00
 2014,Round 20,Fri,Jul-25,7:40pm,Newcastle,16,Sydney,12,"G. Badger, G. Atkins",Hunter,15468,2014-07-25 19:40:00
-2014,Round 20,Sat,Jul-26,7:30pm,Canterbury,12,North Queensland,20,"G. Sutton, A. Shortall",ANZ,9873,2014-07-26 19:30:00
+2014,Round 20,Sat,Jul-26,7:30pm,Bulldogs,12,North Queensland,20,"G. Sutton, A. Shortall",ANZ,9873,2014-07-26 19:30:00
 2014,Round 20,Sat,Jul-26,5:30pm,Gold Coast Titans,18,Parramatta,24,"S. Hayne, A. Gee",CBUS,14175,2014-07-26 17:30:00
 2014,Round 20,Sat,Jul-26,3:00pm,Penrith,16,Cronulla,18,"A. Devcich, H. Perenara",Carrington,8824,2014-07-26 15:00:00
 2014,Round 20,Sun,Jul-27,4:00pm,Warriors,12,Manly Warringah,22,"B. Cummins, C. James",Mt Smart,19199,2014-07-27 16:00:00
 2014,Round 20,Sun,Jul-27,3:00pm,Wests Tigers,12,St George Illawarra,28,"M. Cecchin, D. Munro",ANZ,22618,2014-07-27 15:00:00
 2014,Round 20,Mon,Jul-28,7:00pm,Canberra,18,South Sydney,34,"A. Klein, C. Butler",GIO Stadium,9526,2014-07-28 19:00:00
-2014,Round 21,Fri,Aug-1,7:45pm,Canterbury,16,Penrith,22,"M. Cecchin, D. Munro",ANZ,11832,2014-08-01 19:45:00
+2014,Round 21,Fri,Aug-1,7:45pm,Bulldogs,16,Penrith,22,"M. Cecchin, D. Munro",ANZ,11832,2014-08-01 19:45:00
 2014,Round 21,Fri,Aug-1,7:45pm,Manly Warringah,16,Brisbane,4,"G. Sutton, A. Shortall",Brookvale,12873,2014-08-01 19:45:00
 2014,Round 21,Sat,Aug-2,3:00pm,Cronulla,12,Parramatta,32,"A. Klein, A. Gee",Remondis Stadium,12798,2014-08-02 15:00:00
 2014,Round 21,Sat,Aug-2,5:30pm,North Queensland,28,Gold Coast Titans,8,"J. Maxwell, G. Badger",1300SMILES,14487,2014-08-02 17:30:00
@@ -1357,7 +1357,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 21,Sun,Aug-3,2:00pm,Canberra,18,Warriors,54,"G. Morris, G. Reynolds",GIO Stadium,7094,2014-08-03 14:00:00
 2014,Round 21,Sun,Aug-3,3:00pm,South Sydney,50,Newcastle,10,"A. Devcich, H. Perenara",Barlow Park,11578,2014-08-03 15:00:00
 2014,Round 21,Mon,Aug-4,7:00pm,Wests Tigers,6,Melbourne,28,"B. Cummins, C. James",Campbelltown,7782,2014-08-04 19:00:00
-2014,Round 22,Fri,Aug-8,7:45pm,Brisbane,41,Canterbury,10,"G. Sutton, A. Shortall",Suncorp,28344,2014-08-08 19:45:00
+2014,Round 22,Fri,Aug-8,7:45pm,Brisbane,41,Bulldogs,10,"G. Sutton, A. Shortall",Suncorp,28344,2014-08-08 19:45:00
 2014,Round 22,Fri,Aug-8,7:45pm,South Sydney,23,Manly Warringah,4,"B. Cummins, C. James",SCG,27062,2014-08-08 19:45:00
 2014,Round 22,Sat,Aug-9,5:30pm,Newcastle,32,Melbourne,30,"A. Klein, C. Butler",Hunter,14904,2014-08-09 17:30:00
 2014,Round 22,Sat,Aug-9,7:30pm,North Queensland,64,Wests Tigers,6,"S. Hayne, D. Munro",1300SMILES,12317,2014-08-09 19:30:00
@@ -1366,14 +1366,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 22,Sun,Aug-10,4:00pm,Warriors,16,Cronulla,12,"A. Devcich, G. Atkins",Mt Smart,13939,2014-08-10 16:00:00
 2014,Round 22,Mon,Aug-11,7:00pm,Sydney,26,Gold Coast Titans,18,"M. Cecchin, H. Perenara",Allianz,6345,2014-08-11 19:00:00
 2014,Round 23,Thu,Aug-14,7:45pm,South Sydney,42,Brisbane,16,"S. Hayne, D. Munro",ANZ,14094,2014-08-14 19:45:00
-2014,Round 23,Fri,Aug-15,7:45pm,Parramatta,16,Canterbury,18,"B. Cummins, C. James",ANZ,30394,2014-08-15 19:45:00
+2014,Round 23,Fri,Aug-15,7:45pm,Parramatta,16,Bulldogs,18,"B. Cummins, C. James",ANZ,30394,2014-08-15 19:45:00
 2014,Round 23,Sat,Aug-16,3:00pm,Canberra,16,St George Illawarra,34,"A. Devcich, G. Atkins",GIO Stadium,10318,2014-08-16 15:00:00
 2014,Round 23,Sat,Aug-16,5:30pm,Melbourne,48,Cronulla,6,"M. Cecchin, H. Perenara",AAMI Park,12185,2014-08-16 17:30:00
 2014,Round 23,Sat,Aug-16,7:30pm,Wests Tigers,4,Sydney,48,"G. Badger, C. Butler",Leichhardt,5297,2014-08-16 19:30:00
 2014,Round 23,Sun,Aug-17,3:00pm,Gold Coast Titans,12,Manly Warringah,15,"J. Maxwell, A. Gee",CBUS,11940,2014-08-17 15:00:00
 2014,Round 23,Sun,Aug-17,2:00pm,Newcastle,28,Warriors,22,"G. Morris, G. Reynolds",Hunter,12733,2014-08-17 14:00:00
 2014,Round 23,Mon,Aug-18,7:00pm,Penrith,23,North Queensland,22,"G. Sutton, A. Shortall",Sportingbet,7276,2014-08-18 19:00:00
-2014,Round 24,Thu,Aug-21,7:45pm,Canterbury,30,Wests Tigers,10,"M. Cecchin, A. Gee",ANZ,9877,2014-08-21 19:45:00
+2014,Round 24,Thu,Aug-21,7:45pm,Bulldogs,30,Wests Tigers,10,"M. Cecchin, A. Gee",ANZ,9877,2014-08-21 19:45:00
 2014,Round 24,Fri,Aug-22,7:45pm,Parramatta,22,Manly Warringah,12,"G. Sutton, A. Shortall",Pirtek Stadium,17706,2014-08-22 19:45:00
 2014,Round 24,Sat,Aug-23,5:30pm,Brisbane,48,Newcastle,6,"G. Badger, C. James",Suncorp,22282,2014-08-23 17:30:00
 2014,Round 24,Sat,Aug-23,7:30pm,South Sydney,10,North Queensland,22,"J. Maxwell, C. Butler",ANZ,17171,2014-08-23 19:30:00
@@ -1381,7 +1381,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 24,Sun,Aug-24,3:00pm,St George Illawarra,34,Gold Coast Titans,6,"A. Devcich, G. Atkins",WIN Jubilee,9584,2014-08-24 15:00:00
 2014,Round 24,Sun,Aug-24,2:00pm,Warriors,12,Sydney,46,"D. Munro, C. Sutton",Mt Smart,19676,2014-08-24 14:00:00
 2014,Round 24,Mon,Aug-25,7:00pm,Penrith,10,Melbourne,24,"B. Cummins, G. Morris",Sportingbet,8994,2014-08-25 19:00:00
-2014,Round 25,Thu,Aug-28,7:45pm,Canterbury,14,South Sydney,21,"G. Sutton, A. Shortall",ANZ,20424,2014-08-28 19:45:00
+2014,Round 25,Thu,Aug-28,7:45pm,Bulldogs,14,South Sydney,21,"G. Sutton, A. Shortall",ANZ,20424,2014-08-28 19:45:00
 2014,Round 25,Fri,Aug-29,7:45pm,Brisbane,30,St George Illawarra,22,"B. Cummins, D. Munro",Suncorp,36720,2014-08-29 19:45:00
 2014,Round 25,Sat,Aug-30,5:30pm,Canberra,27,Wests Tigers,12,"H. Perenara, A. Gee",GIO Stadium,8287,2014-08-30 17:30:00
 2014,Round 25,Sat,Aug-30,3:00pm,Newcastle,42,Parramatta,12,"A. Devcich, G. Atkins",Hunter,18558,2014-08-30 15:00:00
@@ -1394,27 +1394,27 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2014,Round 26,Sat,Sep-6,5:30pm,Canberra,33,Parramatta,20,"A. Klein, C. James",GIO Stadium,13706,2014-09-06 17:30:00
 2014,Round 26,Sat,Sep-6,7:30pm,North Queensland,30,Manly Warringah,16,"G. Sutton, G. Badger",1300SMILES,22521,2014-09-06 19:30:00
 2014,Round 26,Sat,Sep-6,3:00pm,Wests Tigers,26,Cronulla,10,"G. Reynolds, A. Gee",Leichhardt,5112,2014-09-06 15:00:00
-2014,Round 26,Sun,Sep-7,3:00pm,Gold Coast Titans,19,Canterbury,18,"B. Cummins, H. Perenara",CBUS,12563,2014-09-07 15:00:00
+2014,Round 26,Sun,Sep-7,3:00pm,Gold Coast Titans,19,Bulldogs,18,"B. Cummins, H. Perenara",CBUS,12563,2014-09-07 15:00:00
 2014,Round 26,Sun,Sep-7,2:00pm,Newcastle,40,St George Illawarra,10,"A. Devcich, D. Munro",Hunter,20424,2014-09-07 14:00:00
 2014,Round 26,Sun,Sep-7,6:30pm,Penrith,22,Warriors,6,"S. Hayne, A. Shortall",Sportingbet,13551,2014-09-07 18:30:00
 2014,Qualif Final,Fri,Sep-12,7:55pm,Manly Warringah,24,South Sydney,40,"S. Hayne, G. Badger",Allianz,25733,2014-09-12 19:55:00
 2014,Qualif Final,Sat,Sep-13,7:55pm,North Queensland,32,Brisbane,20,"B. Cummins, G. Sutton",1300SMILES,25120,2014-09-13 19:55:00
 2014,Qualif Final,Sat,Sep-13,5:50pm,Sydney,18,Penrith,19,"J. Maxwell, H. Perenara",Allianz,23449,2014-09-13 17:50:00
-2014,Qualif Final,Sun,Sep-14,4:10pm,Melbourne,4,Canterbury,28,"M. Cecchin, G. Morris",AAMI Park,19230,2014-09-14 16:10:00
+2014,Qualif Final,Sun,Sep-14,4:10pm,Melbourne,4,Bulldogs,28,"M. Cecchin, G. Morris",AAMI Park,19230,2014-09-14 16:10:00
 2014,Semi Final,Fri,Sep-19,7:58pm,Sydney,31,North Queensland,30,"S. Hayne, G. Badger",Allianz,18355,2014-09-19 19:58:00
-2014,Semi Final,Sat,Sep-20,7:45pm,Manly Warringah,17,Canterbury,18,"G. Sutton, B. Cummins",Allianz,28186,2014-09-20 19:45:00
+2014,Semi Final,Sat,Sep-20,7:45pm,Manly Warringah,17,Bulldogs,18,"G. Sutton, B. Cummins",Allianz,28186,2014-09-20 19:45:00
 2014,Prelim Final,Fri,Sep-26,7:55pm,South Sydney,32,Sydney,22,"G. Sutton, B. Cummins",ANZ,52592,2014-09-26 19:55:00
-2014,Prelim Final,Sat,Sep-27,7:55pm,Penrith,12,Canterbury,18,"S. Hayne, G. Badger",ANZ,46168,2014-09-27 19:55:00
-2014,Grand Final,Sun,Oct-5,7:20pm,South Sydney,30,Canterbury,6,"S. Hayne, G. Sutton",ANZ,83833,2014-10-05 19:20:00
+2014,Prelim Final,Sat,Sep-27,7:55pm,Penrith,12,Bulldogs,18,"S. Hayne, G. Badger",ANZ,46168,2014-09-27 19:55:00
+2014,Grand Final,Sun,Oct-5,7:20pm,South Sydney,30,Bulldogs,6,"S. Hayne, G. Sutton",ANZ,83833,2014-10-05 19:20:00
 2015,Round 1,Thu,Mar-5,8:05pm,Brisbane,6,South Sydney,36,"G. Sutton, G. Atkins",Suncorp,36057,2015-03-05 20:05:00
 2015,Round 1,Fri,Mar-6,7:45pm,Parramatta,42,Manly Warringah,12,"M. Cecchin, H. Perenara",Pirtek Stadium,18718,2015-03-06 19:45:00
 2015,Round 1,Sat,Mar-7,6:00pm,Gold Coast Titans,18,Wests Tigers,19,"G. Badger, A. Gee",CBUS,14319,2015-03-07 18:00:00
 2015,Round 1,Sat,Mar-7,4:30pm,Newcastle,24,Warriors,14,"A. Klein, C. Butler",Hunter,16146,2015-03-07 16:30:00
 2015,Round 1,Sat,Mar-7,8:00pm,North Queensland,4,Sydney,28,"J. Maxwell, C. Sutton",1300SMILES,17123,2015-03-07 20:00:00
 2015,Round 1,Sun,Mar-8,6:30pm,Cronulla,20,Canberra,24,"G. Morris, A. Shortall",Remondis Stadium,11096,2015-03-08 18:30:00
-2015,Round 1,Sun,Mar-8,4:00pm,Penrith,24,Canterbury,18,"B. Cummins, G. Reynolds",Pepper Stadium,18817,2015-03-08 16:00:00
+2015,Round 1,Sun,Mar-8,4:00pm,Penrith,24,Bulldogs,18,"B. Cummins, G. Reynolds",Pepper Stadium,18817,2015-03-08 16:00:00
 2015,Round 1,Mon,Mar-9,7:00pm,St George Illawarra,4,Melbourne,12,"A. Devcich, D. Munro",WIN Jubilee,10028,2015-03-09 19:00:00
-2015,Round 2,Fri,Mar-13,7:35pm,Canterbury,32,Parramatta,12,"G. Sutton, G. Atkins",ANZ,28876,2015-03-13 19:35:00
+2015,Round 2,Fri,Mar-13,7:35pm,Bulldogs,32,Parramatta,12,"G. Sutton, G. Atkins",ANZ,28876,2015-03-13 19:35:00
 2015,Round 2,Fri,Mar-13,8:35pm,Cronulla,2,Brisbane,10,"B. Cummins, G. Reynolds",Remondis Stadium,8369,2015-03-13 20:35:00
 2015,Round 2,Sat,Mar-14,7:00pm,Manly Warringah,24,Melbourne,22,"J. Maxwell, C. Sutton",Brookvale,10531,2015-03-14 19:00:00
 2015,Round 2,Sat,Mar-14,8:00pm,North Queensland,14,Newcastle,16,"G. Badger, M. Noyen",1300SMILES,13006,2015-03-14 20:00:00
@@ -1423,7 +1423,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 2,Sun,Mar-15,4:00pm,South Sydney,34,Sydney,26,"M. Cecchin, H. Perenara",ANZ,27289,2015-03-15 16:00:00
 2015,Round 2,Mon,Mar-16,7:00pm,Wests Tigers,22,St George Illawarra,4,"A. Klein, A. Gee",Campbelltown,11837,2015-03-16 19:00:00
 2015,Round 3,Fri,Mar-20,7:35pm,Brisbane,44,North Queensland,22,"G. Sutton, G. Atkins",Suncorp,40047,2015-03-20 19:35:00
-2015,Round 3,Fri,Mar-20,7:35pm,Manly Warringah,12,Canterbury,16,"M. Cecchin, H. Perenara",Brookvale,10498,2015-03-20 19:35:00
+2015,Round 3,Fri,Mar-20,7:35pm,Manly Warringah,12,Bulldogs,16,"M. Cecchin, H. Perenara",Brookvale,10498,2015-03-20 19:35:00
 2015,Round 3,Sat,Mar-21,5:30pm,Canberra,20,St George Illawarra,22,"J. Maxwell, G. Morris",GIO Stadium,11774,2015-03-21 17:30:00
 2015,Round 3,Sat,Mar-21,7:30pm,Melbourne,36,Cronulla,18,"G. Badger, C. Sutton",AAMI Park,13015,2015-03-21 19:30:00
 2015,Round 3,Sat,Mar-21,5:00pm,Warriors,29,Parramatta,16,"A. Klein, A. Gee",Mt Smart,14112,2015-03-21 17:00:00
@@ -1431,14 +1431,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 3,Sun,Mar-22,4:00pm,South Sydney,20,Wests Tigers,6,"B. Cummins, A. Shortall",ANZ,23211,2015-03-22 16:00:00
 2015,Round 3,Mon,Mar-23,7:00pm,Sydney,20,Penrith,12,"G. Sutton, M. Cecchin",Allianz,10735,2015-03-23 19:00:00
 2015,Round 4,Fri,Mar-27,7:35pm,Parramatta,29,South Sydney,16,"B. Cummins, A. Shortall",Pirtek Stadium,15562,2015-03-27 19:35:00
-2015,Round 4,Fri,Mar-27,7:35pm,Wests Tigers,24,Canterbury,25,"A. Klein, A. Gee",ANZ,20121,2015-03-27 19:35:00
+2015,Round 4,Fri,Mar-27,7:35pm,Wests Tigers,24,Bulldogs,25,"A. Klein, A. Gee",ANZ,20121,2015-03-27 19:35:00
 2015,Round 4,Sat,Mar-28,5:30pm,Cronulla,22,Gold Coast Titans,24,"G. Sutton, M. Noyen",Remondis Stadium,9566,2015-03-28 17:30:00
 2015,Round 4,Sat,Mar-28,3:00pm,Newcastle,26,Penrith,14,"J. Maxwell, G. Morris",Hunter,20114,2015-03-28 15:00:00
 2015,Round 4,Sat,Mar-28,7:30pm,St George Illawarra,12,Manly Warringah,4,"G. Badger, C. Sutton",WIN Stadium,12087,2015-03-28 19:30:00
 2015,Round 4,Sun,Mar-29,2:00pm,Sydney,34,Canberra,6,"A. Devcich, G. Reynolds",Allianz,9582,2015-03-29 14:00:00
 2015,Round 4,Sun,Mar-29,2:00pm,Warriors,16,Brisbane,24,"M. Cecchin, G. Atkins",Mt Smart,14670,2015-03-29 14:00:00
 2015,Round 4,Mon,Mar-30,6:00pm,North Queensland,18,Melbourne,17,"B. Cummins, H. Perenara",1300SMILES,11609,2015-03-30 18:00:00
-2015,Round 5,Fri,Apr-3,4:00pm,Canterbury,17,South Sydney,18,"G. Sutton, G. Morris",ANZ,40523,2015-04-03 16:00:00
+2015,Round 5,Fri,Apr-3,4:00pm,Bulldogs,17,South Sydney,18,"G. Sutton, G. Morris",ANZ,40523,2015-04-03 16:00:00
 2015,Round 5,Fri,Apr-3,7:35pm,Gold Coast Titans,16,Brisbane,26,"A. Klein, A. Shortall",CBUS,15432,2015-04-03 19:35:00
 2015,Round 5,Sat,Apr-4,5:05pm,Manly Warringah,16,Canberra,29,"H. Perenara, G. Reynolds",Lavington,6436,2015-04-04 17:05:00
 2015,Round 5,Sat,Apr-4,7:30pm,Newcastle,0,St George Illawarra,13,"G. Badger, C. Sutton",Hunter,14261,2015-04-04 19:30:00
@@ -1452,9 +1452,9 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 6,Sat,Apr-11,7:30pm,Penrith,22,Manly Warringah,12,"J. Maxwell, C. James",Pepper Stadium,11117,2015-04-11 19:30:00
 2015,Round 6,Sat,Apr-11,7:30pm,Warriors,32,Wests Tigers,22,"G. Badger, B. Sutton",Mt Smart,13781,2015-04-11 19:30:00
 2015,Round 6,Sun,Apr-12,2:00pm,Canberra,10,Melbourne,14,"M. Cecchin, G. Morris",GIO Stadium,10536,2015-04-12 14:00:00
-2015,Round 6,Sun,Apr-12,4:00pm,St George Illawarra,31,Canterbury,6,"B. Cummins, M. Noyen",ANZ,20273,2015-04-12 16:00:00
+2015,Round 6,Sun,Apr-12,4:00pm,St George Illawarra,31,Bulldogs,6,"B. Cummins, M. Noyen",ANZ,20273,2015-04-12 16:00:00
 2015,Round 6,Mon,Apr-13,7:00pm,South Sydney,12,North Queensland,30,"A. Devcich, A. Shortall",ANZ,13866,2015-04-13 19:00:00
-2015,Round 7,Fri,Apr-17,7:35pm,Canterbury,28,Manly Warringah,16,"G. Badger, C. Sutton",Allianz,13568,2015-04-17 19:35:00
+2015,Round 7,Fri,Apr-17,7:35pm,Bulldogs,28,Manly Warringah,16,"G. Badger, C. Sutton",Allianz,13568,2015-04-17 19:35:00
 2015,Round 7,Fri,Apr-17,7:35pm,St George Illawarra,12,Brisbane,10,"M. Cecchin, C. Morris",WIN Jubilee,13029,2015-04-17 19:35:00
 2015,Round 7,Sat,Apr-18,3:00pm,Gold Coast Titans,32,Penrith,6,"J. Maxwell, C. James",CBUS,9244,2015-04-18 15:00:00
 2015,Round 7,Sat,Apr-18,7:30pm,Melbourne,17,Sydney,16,"A. Klein, A. Shortall",AAMI Park,12860,2015-04-18 19:30:00
@@ -1462,7 +1462,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 7,Sun,Apr-19,4:00pm,Newcastle,22,Parramatta,28,"A. Devcich, D. Munro",Hunter,16953,2015-04-19 16:00:00
 2015,Round 7,Sun,Apr-19,2:00pm,Wests Tigers,22,Canberra,30,"H. Perenara, G. Reynolds",Leichhardt,13198,2015-04-19 14:00:00
 2015,Round 7,Mon,Apr-20,7:00pm,Cronulla,18,South Sydney,10,"B. Cummins, M. Noyen",Remondis Stadium,3978,2015-04-20 19:00:00
-2015,Round 8,Fri,Apr-24,7:45pm,Canterbury,14,Wests Tigers,38,"J. Maxwell, G. Badger",ANZ,18521,2015-04-24 19:45:00
+2015,Round 8,Fri,Apr-24,7:45pm,Bulldogs,14,Wests Tigers,38,"J. Maxwell, G. Badger",ANZ,18521,2015-04-24 19:45:00
 2015,Round 8,Sat,Apr-25,8:00pm,Brisbane,28,Parramatta,16,"B. Cummins, C. James",Suncorp,34398,2015-04-25 20:00:00
 2015,Round 8,Sat,Apr-25,6:00pm,Melbourne,10,Manly Warringah,12,"M. Cecchin, H. Perenara",AAMI Park,13948,2015-04-25 18:00:00
 2015,Round 8,Sat,Apr-25,2:00pm,Newcastle,24,North Queensland,26,"A. Klein, C. Sutton",Hunter,15518,2015-04-25 14:00:00
@@ -1474,11 +1474,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 9,Fri,May-8,7:35pm,Sydney,36,Wests Tigers,4,"J. Maxwell, C. James",Allianz,14366,2015-05-08 19:35:00
 2015,Round 9,Sat,May-9,3:00pm,Canberra,56,Gold Coast Titans,16,"G. Atkins, G. Badger",GIO Stadium,8116,2015-05-09 15:00:00
 2015,Round 9,Sat,May-9,5:30pm,Cronulla,16,Warriors,20,"G. Morris, D. Munro",Remondis Stadium,13988,2015-05-09 17:30:00
-2015,Round 9,Sat,May-9,7:30pm,North Queensland,23,Canterbury,16,"B. Cummins, H. Perenara",1300SMILES,15794,2015-05-09 19:30:00
+2015,Round 9,Sat,May-9,7:30pm,North Queensland,23,Bulldogs,16,"B. Cummins, H. Perenara",1300SMILES,15794,2015-05-09 19:30:00
 2015,Round 9,Sun,May-10,2:00pm,Manly Warringah,30,Newcastle,10,"A. Devcich, G. Reynolds",Brookvale,10065,2015-05-10 14:00:00
 2015,Round 9,Sun,May-10,4:00pm,Parramatta,10,Melbourne,28,"G. Sutton, A. Shortall",Pirtek Stadium,10505,2015-05-10 16:00:00
 2015,Round 9,Mon,May-11,7:00pm,South Sydney,16,St George Illawarra,10,"M. Cecchin, A. Klein",ANZ,14126,2015-05-11 19:00:00
-2015,Round 10,Fri,May-15,7:35pm,Canterbury,10,Sydney,24,"G. Sutton, A. Shortall",ANZ,17093,2015-05-15 19:35:00
+2015,Round 10,Fri,May-15,7:35pm,Bulldogs,10,Sydney,24,"G. Sutton, A. Shortall",ANZ,17093,2015-05-15 19:35:00
 2015,Round 10,Fri,May-15,7:35pm,North Queensland,31,Brisbane,20,"J. Maxwell, C. James",1300SMILES,24531,2015-05-15 19:35:00
 2015,Round 10,Sat,May-16,5:30pm,Gold Coast Titans,22,Cronulla,23,"A. Devcich, D. Munro",CBUS,10466,2015-05-16 17:30:00
 2015,Round 10,Sat,May-16,7:30pm,Melbourne,16,South Sydney,12,"M. Cecchin, H. Perenara",AAMI Park,18067,2015-05-16 19:30:00
@@ -1488,7 +1488,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 10,Mon,May-18,7:00pm,Manly Warringah,10,Penrith,11,"G. Morris, A. Shortall",Brookvale,8025,2015-05-18 19:00:00
 2015,Round 11,Fri,May-22,7:45pm,South Sydney,14,Parramatta,12,"J. Maxwell, C. James",ANZ,11658,2015-05-22 19:45:00
 2015,Round 11,Sat,May-23,7:30pm,Wests Tigers,0,North Queensland,8,"M. Cecchin, G. Morris",Campbelltown,8267,2015-05-23 19:30:00
-2015,Round 11,Sun,May-24,4:00pm,Canberra,34,Canterbury,41,"A. Klein, H. Perenara",GIO Stadium,12221,2015-05-24 16:00:00
+2015,Round 11,Sun,May-24,4:00pm,Canberra,34,Bulldogs,41,"A. Klein, H. Perenara",GIO Stadium,12221,2015-05-24 16:00:00
 2015,Round 11,Mon,May-25,7:00pm,Newcastle,18,Brisbane,31,"G. Badger, D. Munro",Hunter,12673,2015-05-25 19:00:00
 2015,Round 12,Fri,May-29,7:45pm,Penrith,20,Parramatta,26,"M. Cecchin, G. Morris",Pepper Stadium,17821,2015-05-29 19:45:00
 2015,Round 12,Sat,May-30,5:30pm,Canberra,12,Brisbane,24,"G. Badger, C. Sutton",GIO Stadium,10090,2015-05-30 17:30:00
@@ -1503,15 +1503,15 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 13,Sat,Jun-6,7:30pm,Penrith,0,Melbourne,20,"A. Devcich, A. Shortall",Pepper Stadium,11849,2015-06-06 19:30:00
 2015,Round 13,Sat,Jun-6,3:30pm,South Sydney,36,Warriors,4,"J. Maxwell, C. Butler",nib Stadium,20727,2015-06-06 15:30:00
 2015,Round 13,Sun,Jun-7,4:00pm,Cronulla,10,Sydney,4,"B. Cummins, M. Noyen",Remondis Stadium,14235,2015-06-07 16:00:00
-2015,Round 13,Mon,Jun-8,4:00pm,Canterbury,29,St George Illawarra,16,"G. Sutton, C. James",ANZ,27291,2015-06-08 16:00:00
+2015,Round 13,Mon,Jun-8,4:00pm,Bulldogs,29,St George Illawarra,16,"G. Sutton, C. James",ANZ,27291,2015-06-08 16:00:00
 2015,Round 13,Mon,Jun-8,7:00pm,Parramatta,30,North Queensland,36,"G. Badger, C. Sutton",Pirtek Stadium,9812,2015-06-08 19:00:00
 2015,Round 14,Fri,Jun-12,7:45pm,Wests Tigers,34,South Sydney,6,"M. Cecchin, G. Atkins",ANZ,15118,2015-06-12 19:45:00
 2015,Round 14,Sat,Jun-13,8:00pm,Warriors,21,Sydney,25,"G. Badger, G. Reynolds",Mt Smart,14167,2015-06-13 20:00:00
-2015,Round 14,Sun,Jun-14,4:00pm,Gold Coast Titans,28,Canterbury,14,"J. Maxwell, C. James",CBUS,10645,2015-06-14 16:00:00
+2015,Round 14,Sun,Jun-14,4:00pm,Gold Coast Titans,28,Bulldogs,14,"J. Maxwell, C. James",CBUS,10645,2015-06-14 16:00:00
 2015,Round 14,Mon,Jun-15,7:00pm,Melbourne,22,Parramatta,26,"A. Klein, M. Noyen",AAMI Park,10128,2015-06-15 19:00:00
 2015,Round 15,Fri,Jun-19,7:45pm,Manly Warringah,30,Wests Tigers,20,"J. Maxwell, C. James",Brookvale,8093,2015-06-19 19:45:00
 2015,Round 15,Sat,Jun-20,3:00pm,Canberra,20,North Queensland,21,"A. Klein, C. Sutton",GIO Stadium,10170,2015-06-20 15:00:00
-2015,Round 15,Sat,Jun-20,7:30pm,Canterbury,24,Penrith,12,"G. Atkins, A. Devcich",ANZ,12476,2015-06-20 19:30:00
+2015,Round 15,Sat,Jun-20,7:30pm,Bulldogs,24,Penrith,12,"G. Atkins, A. Devcich",ANZ,12476,2015-06-20 19:30:00
 2015,Round 15,Sat,Jun-20,5:30pm,Gold Coast Titans,14,Warriors,36,"M. Cecchin, G. Reynolds",CBUS,14132,2015-06-20 17:30:00
 2015,Round 15,Sun,Jun-21,4:00pm,Melbourne,12,Brisbane,14,"G. Sutton, H. Perenara",AAMI Park,14278,2015-06-21 16:00:00
 2015,Round 15,Sun,Jun-21,2:00pm,Newcastle,28,Cronulla,30,"G. Badger, A. Shortall",Hunter,14081,2015-06-21 14:00:00
@@ -1523,19 +1523,19 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 16,Sat,Jun-27,5:00pm,Warriors,30,Canberra,8,"G. Sutton, C. Butler",Mt Smart,13110,2015-06-27 17:00:00
 2015,Round 16,Sun,Jun-28,2:00pm,Sydney,20,Gold Coast Titans,10,"G. Morris, A. Devcich",Allianz,12569,2015-06-28 14:00:00
 2015,Round 16,Sun,Jun-28,4:00pm,Wests Tigers,12,Penrith,35,"G. Badger, A. Shortall",Leichhardt,14234,2015-06-28 16:00:00
-2015,Round 16,Mon,Jun-29,7:00pm,Canterbury,20,Melbourne,4,"B. Cummins, C. James",Belmore,16764,2015-06-29 19:00:00
+2015,Round 16,Mon,Jun-29,7:00pm,Bulldogs,20,Melbourne,4,"B. Cummins, C. James",Belmore,16764,2015-06-29 19:00:00
 2015,Round 17,Fri,Jul-3,7:45pm,Penrith,20,South Sydney,6,"J. Maxwell, G. Morris",Pepper Stadium,14068,2015-07-03 19:45:00
 2015,Round 17,Sat,Jul-4,7:30pm,St George Illawarra,12,North Queensland,18,"M. Cecchin, G. Reynolds",WIN Stadium,11813,2015-07-04 19:30:00
 2015,Round 17,Sun,Jul-5,4:00pm,Manly Warringah,28,Cronulla,16,"A. Klein, C. James",Brookvale,14881,2015-07-05 16:00:00
 2015,Round 17,Mon,Jul-6,7:00pm,Wests Tigers,16,Parramatta,28,"G. Badger, A. Shortall",ANZ,15347,2015-07-06 19:00:00
 2015,Round 18,Fri,Jul-10,7:45pm,Canberra,36,Newcastle,22,"M. Cecchin, G. Atkins",GIO Stadium,6015,2015-07-10 19:45:00
-2015,Round 18,Sat,Jul-11,7:30pm,Canterbury,8,Brisbane,16,"J. Maxwell, G. Morris",ANZ,16253,2015-07-11 19:30:00
+2015,Round 18,Sat,Jul-11,7:30pm,Bulldogs,8,Brisbane,16,"J. Maxwell, G. Morris",ANZ,16253,2015-07-11 19:30:00
 2015,Round 18,Sat,Jul-11,5:30pm,Penrith,4,Sydney,24,"A. Klein, D. Munro",Pepper Stadium,13654,2015-07-11 17:30:00
 2015,Round 18,Sun,Jul-12,4:00pm,Cronulla,28,St George Illawarra,8,"G. Badger, A. Shortall",Remondis Stadium,12792,2015-07-12 16:00:00
 2015,Round 18,Sun,Jul-12,4:00pm,Warriors,28,Melbourne,14,"G. Sutton, C. James",Mt Smart,17278,2015-07-12 16:00:00
 2015,Round 18,Mon,Jul-13,7:00pm,Gold Coast Titans,6,Manly Warringah,38,"H. Perenara, G. Reynolds",CBUS,9632,2015-07-13 19:00:00
 2015,Round 19,Fri,Jul-17,7:35pm,Melbourne,52,Penrith,10,"J. Maxwell, G. Morris",AAMI Park,11956,2015-07-17 19:35:00
-2015,Round 19,Fri,Jul-17,7:35pm,Parramatta,4,Canterbury,28,"B. Cummins, C. James",ANZ,17082,2015-07-17 19:35:00
+2015,Round 19,Fri,Jul-17,7:35pm,Parramatta,4,Bulldogs,28,"B. Cummins, C. James",ANZ,17082,2015-07-17 19:35:00
 2015,Round 19,Sat,Jul-18,3:00pm,Canberra,20,Cronulla,21,"A. Klein, C. Butler",GIO Stadium,9853,2015-07-18 15:00:00
 2015,Round 19,Sat,Jul-18,5:30pm,Newcastle,30,Gold Coast Titans,2,"G. Badger, D. Munro",Hunter,10546,2015-07-18 17:30:00
 2015,Round 19,Sat,Jul-18,7:30pm,St George Illawarra,8,South Sydney,24,"A. Devcich, C. Sutton",SCG,18217,2015-07-18 19:30:00
@@ -1547,10 +1547,10 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 20,Sat,Jul-25,7:30pm,Melbourne,22,St George Illawarra,4,"M. Cecchin, C. Butler",McClean Park,14532,2015-07-25 19:30:00
 2015,Round 20,Sat,Jul-25,7:30pm,South Sydney,52,Newcastle,6,"H. Perenara, A. Shortall",ANZ,14603,2015-07-25 19:30:00
 2015,Round 20,Sat,Jul-25,3:00pm,Warriors,12,Manly Warringah,32,"G. Atkins, G. Reynolds",Mt Smart,15812,2015-07-25 15:00:00
-2015,Round 20,Sun,Jul-26,4:00pm,Canterbury,16,Cronulla,18,"G. Sutton, D. Munro",Belmore,19005,2015-07-26 16:00:00
+2015,Round 20,Sun,Jul-26,4:00pm,Bulldogs,16,Cronulla,18,"G. Sutton, D. Munro",Belmore,19005,2015-07-26 16:00:00
 2015,Round 20,Sun,Jul-26,2:00pm,Penrith,24,Canberra,34,"B. Cummins, C. James",Pepper Stadium,8048,2015-07-26 14:00:00
 2015,Round 20,Mon,Jul-27,7:00pm,North Queensland,46,Parramatta,4,"G. Badger, A. Klein",1300SMILES,13767,2015-07-27 19:00:00
-2015,Round 21,Fri,Jul-31,7:45pm,Sydney,38,Canterbury,28,"M. Cecchin, A. Klein",Allianz,13589,2015-07-31 19:45:00
+2015,Round 21,Fri,Jul-31,7:45pm,Sydney,38,Bulldogs,28,"M. Cecchin, A. Klein",Allianz,13589,2015-07-31 19:45:00
 2015,Round 21,Fri,Jul-31,7:45pm,Wests Tigers,34,Melbourne,16,"A. Devcich, C. Sutton",Leichhardt,7419,2015-07-31 19:45:00
 2015,Round 21,Sat,Aug-1,7:30pm,Manly Warringah,44,Brisbane,14,"G. Badger, C. James",Central Coast,16280,2015-08-01 19:30:00
 2015,Round 21,Sat,Aug-1,5:30pm,North Queensland,32,Canberra,24,"G. Sutton, D. Munro",1300SMILES,16207,2015-08-01 17:30:00
@@ -1558,7 +1558,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 21,Sun,Aug-2,2:00pm,St George Illawarra,46,Newcastle,24,"G. Atkins, G. Reynolds",WIN Jubilee,10236,2015-08-02 14:00:00
 2015,Round 21,Sun,Aug-2,4:00pm,South Sydney,20,Penrith,16,"J. Maxwell, M. Cecchin",ANZ,13391,2015-08-02 16:00:00
 2015,Round 21,Mon,Aug-3,7:00pm,Gold Coast Titans,24,Parramatta,14,"H. Perenara, A. Shortall",CBUS,7496,2015-08-03 19:00:00
-2015,Round 22,Fri,Aug-7,7:45pm,Brisbane,16,Canterbury,18,"B. Cummins, G. Morris",Suncorp,34082,2015-08-07 19:45:00
+2015,Round 22,Fri,Aug-7,7:45pm,Brisbane,16,Bulldogs,18,"B. Cummins, G. Morris",Suncorp,34082,2015-08-07 19:45:00
 2015,Round 22,Fri,Aug-7,7:45pm,Manly Warringah,28,South Sydney,8,"G. Sutton, G. Reynolds",Brookvale,15083,2015-08-07 19:45:00
 2015,Round 22,Sat,Aug-8,5:30pm,Cronulla,30,North Queensland,18,"M. Cecchin, D. Munro",Remondis Stadium,13878,2015-08-08 17:30:00
 2015,Round 22,Sat,Aug-8,7:00pm,Parramatta,10,Penrith,4,"A. Devcich, M. Noyen",TIO Stadium,8340,2015-08-08 19:00:00
@@ -1572,10 +1572,10 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 23,Sat,Aug-15,7:30pm,Sydney,28,Parramatta,18,"G. Atkins, H. Perenara",Allianz,11255,2015-08-15 19:30:00
 2015,Round 23,Sat,Aug-15,3:00pm,Wests Tigers,18,Newcastle,24,"G. Reynolds, C. Sutton",Campbelltown,10963,2015-08-15 15:00:00
 2015,Round 23,Sun,Aug-16,2:00pm,Canberra,24,Manly Warringah,26,"M. Cecchin, D. Munro",GIO Stadium,13113,2015-08-16 14:00:00
-2015,Round 23,Sun,Aug-16,4:00pm,Canterbury,36,Gold Coast Titans,14,"A. Devcich, A. Shortall",Central Coast,11021,2015-08-16 16:00:00
+2015,Round 23,Sun,Aug-16,4:00pm,Bulldogs,36,Gold Coast Titans,14,"A. Devcich, A. Shortall",Central Coast,11021,2015-08-16 16:00:00
 2015,Round 23,Mon,Aug-17,7:00pm,Cronulla,2,Melbourne,30,"G. Sutton, G. Badger",Remondis Stadium,10269,2015-08-17 19:00:00
 2015,Round 24,Thu,Aug-20,7:45pm,St George Illawarra,19,Penrith,12,"A. Klein, A. Shortall",WIN Stadium,9145,2015-08-20 19:45:00
-2015,Round 24,Fri,Aug-21,7:45pm,South Sydney,18,Canterbury,32,"J. Maxwell, G. Morris",ANZ,26503,2015-08-21 19:45:00
+2015,Round 24,Fri,Aug-21,7:45pm,South Sydney,18,Bulldogs,32,"J. Maxwell, G. Morris",ANZ,26503,2015-08-21 19:45:00
 2015,Round 24,Sat,Aug-22,3:00pm,Cronulla,40,Wests Tigers,18,"G. Atkins, M. Noyen",Remondis Stadium,15738,2015-08-22 15:00:00
 2015,Round 24,Sat,Aug-22,7:45pm,Sydney,12,Brisbane,10,"G. Sutton, G. Badger",Allianz,19137,2015-08-22 19:45:00
 2015,Round 24,Sat,Aug-22,7:30pm,Warriors,16,North Queensland,50,"M. Cecchin, A. Devcich",Mt Smart,14412,2015-08-22 19:30:00
@@ -1585,7 +1585,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 25,Thu,Aug-27,7:45pm,South Sydney,12,Brisbane,47,"M. Cecchin, G. Morris",Allianz,12036,2015-08-27 19:45:00
 2015,Round 25,Fri,Aug-28,7:45pm,Manly Warringah,10,Sydney,46,"J. Maxwell, G. Atkins",Brookvale,12911,2015-08-28 19:45:00
 2015,Round 25,Sat,Aug-29,7:30pm,Melbourne,14,North Queensland,6,"B. Cummins, A. Shortall",AAMI Park,15214,2015-08-29 19:30:00
-2015,Round 25,Sat,Aug-29,5:30pm,Newcastle,18,Canterbury,20,"A. Devcich, C. James",Hunter,23604,2015-08-29 17:30:00
+2015,Round 25,Sat,Aug-29,5:30pm,Newcastle,18,Bulldogs,20,"A. Devcich, C. James",Hunter,23604,2015-08-29 17:30:00
 2015,Round 25,Sat,Aug-29,3:00pm,Parramatta,28,Cronulla,35,"G. Sutton, G. Badger",Pirtek Stadium,11778,2015-08-29 15:00:00
 2015,Round 25,Sun,Aug-30,4:00pm,Gold Coast Titans,28,St George Illawarra,26,"A. Klein, G. Morris",CBUS,12335,2015-08-30 16:00:00
 2015,Round 25,Sun,Aug-30,2:00pm,Wests Tigers,50,Warriors,16,"G. Reynolds, C. Sutton",Campbelltown,6711,2015-08-30 14:00:00
@@ -1595,27 +1595,27 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2015,Round 26,Sat,Sep-5,7:30pm,North Queensland,42,Gold Coast Titans,12,"H. Perenara, C. Sutton",1300SMILES,16977,2015-09-05 19:30:00
 2015,Round 26,Sat,Sep-5,3:00pm,Penrith,30,Newcastle,12,"G. Reynolds, A. Gee",Pepper Stadium,8936,2015-09-05 15:00:00
 2015,Round 26,Sat,Sep-5,5:30pm,St George Illawarra,32,Wests Tigers,30,"M. Cecchin, G. Morris",ANZ,17685,2015-09-05 17:30:00
-2015,Round 26,Sun,Sep-6,6:30pm,Canterbury,26,Warriors,22,"A. Klein, G. Atkins",ANZ,14821,2015-09-06 18:30:00
+2015,Round 26,Sun,Sep-6,6:30pm,Bulldogs,26,Warriors,22,"A. Klein, G. Atkins",ANZ,14821,2015-09-06 18:30:00
 2015,Round 26,Sun,Sep-6,4:00pm,Cronulla,12,Manly Warringah,14,"B. Cummins, M. Noyen",Remondis Stadium,19146,2015-09-06 16:00:00
 2015,Round 26,Sun,Sep-6,2:00pm,Parramatta,24,Canberra,28,"G. Badger, C. James",Pirtek Stadium,10515,2015-09-06 14:00:00
 2015,Qualif Final,Fri,Sep-11,7:55pm,Sydney,18,Melbourne,20,"B. Cummins, A. Shortall",Allianz,20521,2015-09-11 19:55:00
 2015,Qualif Final,Sat,Sep-12,7:55pm,Brisbane,16,North Queensland,12,"G. Sutton, G. Badger",Suncorp,50388,2015-09-12 19:55:00
-2015,Qualif Final,Sat,Sep-12,5:50pm,Canterbury,11,St George Illawarra,10,"J. Maxwell, G. Morris",ANZ,33854,2015-09-12 17:50:00
+2015,Qualif Final,Sat,Sep-12,5:50pm,Bulldogs,11,St George Illawarra,10,"J. Maxwell, G. Morris",ANZ,33854,2015-09-12 17:50:00
 2015,Qualif Final,Sun,Sep-13,4:10pm,Cronulla,28,South Sydney,12,"M. Cecchin, A. Klein",Allianz,27031,2015-09-13 16:10:00
-2015,Semi Final,Fri,Sep-18,7:55pm,Sydney,38,Canterbury,12,"M. Cecchin, B. Cummins",Allianz,35711,2015-09-18 19:55:00
+2015,Semi Final,Fri,Sep-18,7:55pm,Sydney,38,Bulldogs,12,"M. Cecchin, B. Cummins",Allianz,35711,2015-09-18 19:55:00
 2015,Semi Final,Sat,Sep-19,7:40pm,North Queensland,39,Cronulla,0,"G. Sutton, G. Badger",1300SMILES,21683,2015-09-19 19:40:00
 2015,Prelim Final,Fri,Sep-25,7:55pm,Brisbane,31,Sydney,12,"G. Sutton, G. Badger",Suncorp,51826,2015-09-25 19:55:00
 2015,Prelim Final,Sat,Sep-26,7:40pm,Melbourne,12,North Queensland,32,"M. Cecchin, B. Cummins",AAMI Park,29315,2015-09-26 19:40:00
 2015,Grand Final,Sun,Oct-4,7:15pm,Brisbane,16,North Queensland,17,"G. Sutton, B. Cummins",ANZ,82758,2015-10-04 19:15:00
 2016,Round 1,Thu,Mar-3,8:05pm,Parramatta,4,Brisbane,17,"M. Cecchin, A. Shortall",Pirtek Stadium,17324,2016-03-03 20:05:00
-2016,Round 1,Fri,Mar-4,8:05pm,Manly Warringah,6,Canterbury,28,"G. Sutton, M. Noyen",Brookvale,16512,2016-03-04 20:05:00
+2016,Round 1,Fri,Mar-4,8:05pm,Manly Warringah,6,Bulldogs,28,"G. Sutton, M. Noyen",Brookvale,16512,2016-03-04 20:05:00
 2016,Round 1,Sat,Mar-5,3:00pm,Canberra,30,Penrith,22,"G. Badger, D. Munro",GIO Stadium,11297,2016-03-05 15:00:00
 2016,Round 1,Sat,Mar-5,6:30pm,North Queensland,20,Cronulla,14,"B. Cummins, A. Devcich",1300SMILES,15519,2016-03-05 18:30:00
 2016,Round 1,Sat,Mar-5,5:30pm,Wests Tigers,34,Warriors,26,"A. Klein, C. Sutton",Campbelltown,10917,2016-03-05 17:30:00
 2016,Round 1,Sun,Mar-6,5:30pm,Gold Coast Titans,30,Newcastle,12,"H. Perenara, C. James",CBUS,8313,2016-03-06 17:30:00
 2016,Round 1,Sun,Mar-6,4:00pm,Sydney,10,South Sydney,42,"J. Maxwell, A. Gee",Allianz,25125,2016-03-06 16:00:00
 2016,Round 1,Mon,Mar-7,7:00pm,Melbourne,18,St George Illawarra,16,"G. Atkins, G. Reynolds",AAMI Park,12148,2016-03-07 19:00:00
-2016,Round 2,Thu,Mar-10,8:05pm,Penrith,16,Canterbury,18,"B. Cummins, A. Devcich",Pepper Stadium,11125,2016-03-10 20:05:00
+2016,Round 2,Thu,Mar-10,8:05pm,Penrith,16,Bulldogs,18,"B. Cummins, A. Devcich",Pepper Stadium,11125,2016-03-10 20:05:00
 2016,Round 2,Fri,Mar-11,7:05pm,Brisbane,25,Warriors,10,"G. Sutton, M. Noyen",Suncorp,34520,2016-03-11 19:05:00
 2016,Round 2,Sat,Mar-12,3:00pm,Canberra,21,Sydney,20,"G. Atkins, G. Reynolds",GIO Stadium,12423,2016-03-12 15:00:00
 2016,Round 2,Sat,Mar-12,7:30pm,Parramatta,20,North Queensland,16,"J. Maxwell, A. Gee",Pirtek Stadium,12194,2016-03-12 19:30:00
@@ -1624,7 +1624,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 2,Sun,Mar-13,6:30pm,Melbourne,34,Gold Coast Titans,16,"A. Klein, C. Sutton",AAMI Park,12637,2016-03-13 18:30:00
 2016,Round 2,Mon,Mar-14,7:00pm,Wests Tigers,36,Manly Warringah,22,"H. Perenara, C. James",Leichhardt,11269,2016-03-14 19:00:00
 2016,Round 3,Thu,Mar-17,8:05pm,North Queensland,40,Sydney,0,"G. Sutton, M. Noyen",1300SMILES,8099,2016-03-17 20:05:00
-2016,Round 3,Fri,Mar-18,8:05pm,Canterbury,6,Parramatta,20,"M. Cecchin, A. Shortall",ANZ,30018,2016-03-18 20:05:00
+2016,Round 3,Fri,Mar-18,8:05pm,Bulldogs,6,Parramatta,20,"M. Cecchin, A. Shortall",ANZ,30018,2016-03-18 20:05:00
 2016,Round 3,Sat,Mar-19,8:30pm,Gold Coast Titans,30,Wests Tigers,18,"G. Badger, C. James",CBUS,9975,2016-03-19 20:30:00
 2016,Round 3,Sat,Mar-19,5:00pm,Newcastle,24,Canberra,24,"A. Klein, C. Sutton",Hunter,13745,2016-03-19 17:00:00
 2016,Round 3,Sat,Mar-19,7:30pm,Penrith,23,Brisbane,22,"G. Atkins, G. Reynolds",Pepper Stadium,12086,2016-03-19 19:30:00
@@ -1632,7 +1632,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 3,Sun,Mar-20,4:00pm,Warriors,14,Melbourne,21,"H. Perenara, D. Munro",Mt Smart,16214,2016-03-20 16:00:00
 2016,Round 3,Mon,Mar-21,7:00pm,Manly Warringah,22,Cronulla,12,"B. Cummins, A. Devcich",Brookvale,5122,2016-03-21 19:00:00
 2016,Round 4,Fri,Mar-25,8:05pm,Brisbane,21,North Queensland,20,"G. Sutton, M. Noyen",Suncorp,46176,2016-03-25 20:05:00
-2016,Round 4,Fri,Mar-25,4:00pm,South Sydney,12,Canterbury,42,"B. Cummins, A. Shortall",ANZ,38192,2016-03-25 16:00:00
+2016,Round 4,Fri,Mar-25,4:00pm,South Sydney,12,Bulldogs,42,"B. Cummins, A. Shortall",ANZ,38192,2016-03-25 16:00:00
 2016,Round 4,Sat,Mar-26,5:30pm,Canberra,20,Gold Coast Titans,24,"H. Perenara, C. Sutton",GIO Stadium,11039,2016-03-26 17:30:00
 2016,Round 4,Sat,Mar-26,7:30pm,Sydney,20,Manly Warringah,22,"G. Atkins, G. Reynolds",Allianz,12271,2016-03-26 19:30:00
 2016,Round 4,Sun,Mar-27,4:00pm,St George Illawarra,14,Penrith,12,"A. Klein, A. Gee",WIN Stadium,12983,2016-03-27 16:00:00
@@ -1644,7 +1644,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 5,Sat,Apr-2,3:00pm,Melbourne,18,Newcastle,14,"H. Perenara, C. Sutton",AAMI Park,11443,2016-04-02 15:00:00
 2016,Round 5,Sat,Apr-2,6:30pm,North Queensland,36,St George Illawarra,0,"B. Cummins, G. Reynolds",1300SMILES,17444,2016-04-02 18:30:00
 2016,Round 5,Sat,Apr-2,5:30pm,Wests Tigers,26,Cronulla,34,"A. Devcich, C. James",Campbelltown,12831,2016-04-02 17:30:00
-2016,Round 5,Sun,Apr-3,7:00pm,Canterbury,8,Canberra,22,"A. Klein, A. Gee",Belmore,13463,2016-04-03 19:00:00
+2016,Round 5,Sun,Apr-3,7:00pm,Bulldogs,8,Canberra,22,"A. Klein, A. Gee",Belmore,13463,2016-04-03 19:00:00
 2016,Round 5,Sun,Apr-3,4:00pm,Parramatta,18,Penrith,20,"G. Atkins, A. Shortall",Pirtek Stadium,15600,2016-04-03 16:00:00
 2016,Round 5,Sun,Apr-3,2:00pm,Sydney,28,Warriors,32,"M. Cecchin, D. Munro",Central Coast,10113,2016-04-03 14:00:00
 2016,Round 6,Thu,Apr-7,7:50pm,Brisbane,26,St George Illawarra,0,"G. Sutton, D. Munro",Suncorp,29869,2016-04-07 19:50:00
@@ -1654,25 +1654,25 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 6,Sat,Apr-9,7:30pm,Warriors,18,Manly Warringah,34,"G. Reynolds, C. Sutton",Mt Smart,16112,2016-04-09 19:30:00
 2016,Round 6,Sun,Apr-10,2:00pm,Cronulla,25,Gold Coast Titans,20,"G. Atkins, A. Shortall",Southern Cross,11753,2016-04-10 14:00:00
 2016,Round 6,Sun,Apr-10,4:00pm,Newcastle,18,Wests Tigers,16,"G. Badger, C. Butler",Hunter,21653,2016-04-10 16:00:00
-2016,Round 6,Mon,Apr-11,7:00pm,Melbourne,12,Canterbury,18,"J. Maxwell, M. Noyen",AAMI Park,11037,2016-04-11 19:00:00
+2016,Round 6,Mon,Apr-11,7:00pm,Melbourne,12,Bulldogs,18,"J. Maxwell, M. Noyen",AAMI Park,11037,2016-04-11 19:00:00
 2016,Round 7,Thu,Apr-14,7:50pm,Manly Warringah,10,Parramatta,22,"B. Cummins, A. Devcich",Brookvale,14633,2016-04-14 19:50:00
 2016,Round 7,Fri,Apr-15,7:50pm,North Queensland,44,South Sydney,18,"M. Cecchin, A. Shortall",1300SMILES,15487,2016-04-15 19:50:00
 2016,Round 7,Sat,Apr-16,7:30pm,Brisbane,53,Newcastle,0,"G. Reynolds, C. Sutton",Suncorp,30394,2016-04-16 19:30:00
-2016,Round 7,Sat,Apr-16,7:30pm,Canterbury,20,Warriors,24,"H. Perenara, D. Munro",Westpac,18212,2016-04-16 19:30:00
+2016,Round 7,Sat,Apr-16,7:30pm,Bulldogs,20,Warriors,24,"H. Perenara, D. Munro",Westpac,18212,2016-04-16 19:30:00
 2016,Round 7,Sat,Apr-16,3:00pm,Gold Coast Titans,14,St George Illawarra,19,"G. Badger, C. Butler",CBUS,12215,2016-04-16 15:00:00
 2016,Round 7,Sun,Apr-17,2:00pm,Canberra,16,Cronulla,40,"G. Sutton, P. Gough",GIO Stadium,12890,2016-04-17 14:00:00
 2016,Round 7,Sun,Apr-17,4:00pm,Wests Tigers,18,Melbourne,19,"A. Klein, A. Gee",Leichhardt,9216,2016-04-17 16:00:00
 2016,Round 7,Mon,Apr-18,7:00pm,Sydney,16,Penrith,20,"J. Maxwell, M. Noyen",Allianz,10117,2016-04-18 19:00:00
 2016,Round 8,Fri,Apr-22,7:50pm,Brisbane,30,South Sydney,8,"J. Maxwell, A. Gee",Suncorp,40275,2016-04-22 19:50:00
 2016,Round 8,Sat,Apr-23,5:30pm,Canberra,60,Wests Tigers,6,"H. Perenara, D. Munro",GIO Stadium,13420,2016-04-23 17:30:00
-2016,Round 8,Sat,Apr-23,3:00pm,Canterbury,21,Gold Coast Titans,20,"A. Klein, C. James",ANZ,11450,2016-04-23 15:00:00
+2016,Round 8,Sat,Apr-23,3:00pm,Bulldogs,21,Gold Coast Titans,20,"A. Klein, C. James",ANZ,11450,2016-04-23 15:00:00
 2016,Round 8,Sat,Apr-23,7:30pm,North Queensland,32,Parramatta,16,"G. Sutton, P. Gough",1300SMILES,19308,2016-04-23 19:30:00
 2016,Round 8,Sun,Apr-24,4:00pm,Cronulla,20,Penrith,18,"G. Atkins, A. Shortall",Southern Cross,14273,2016-04-24 16:00:00
 2016,Round 8,Mon,Apr-25,7:00pm,Melbourne,42,Warriors,0,"M. Cecchin, G. Reynolds",AAMI Park,21233,2016-04-25 19:00:00
 2016,Round 8,Mon,Apr-25,2:00pm,Newcastle,10,Manly Warringah,26,"G. Badger, C. Sutton",Hunter,19072,2016-04-25 14:00:00
 2016,Round 8,Mon,Apr-25,4:00pm,St George Illawarra,20,Sydney,18,"B. Cummins, A. Devcich",Allianz,34483,2016-04-25 16:00:00
 2016,Round 9,Thu,Apr-28,7:50pm,South Sydney,22,Wests Tigers,30,"A. Klein, M. Noyen",ANZ,11229,2016-04-28 19:50:00
-2016,Round 9,Fri,Apr-29,7:50pm,Parramatta,20,Canterbury,12,"J. Maxwell, A. Gee",Pirtek Stadium,31815,2016-04-29 19:50:00
+2016,Round 9,Fri,Apr-29,7:50pm,Parramatta,20,Bulldogs,12,"J. Maxwell, A. Gee",Pirtek Stadium,31815,2016-04-29 19:50:00
 2016,Round 9,Sat,Apr-30,7:30pm,Manly Warringah,18,North Queensland,34,"B. Cummins, C. Sutton",Brookvale,11734,2016-04-30 19:30:00
 2016,Round 9,Sat,Apr-30,3:00pm,Penrith,19,Canberra,18,"G. Reynolds, A. Shortall",Carrington,6721,2016-04-30 15:00:00
 2016,Round 9,Sat,Apr-30,5:30pm,Sydney,38,Newcastle,0,"M. Cecchin, D. Munro",Allianz,9502,2016-04-30 17:30:00
@@ -1685,19 +1685,19 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 10,Sat,May-14,5:30pm,Melbourne,15,North Queensland,14,"G. Sutton, A. Devcich",Suncorp,52347,2016-05-14 17:30:00
 2016,Round 10,Sat,May-14,5:00pm,Penrith,30,Warriors,18,"M. Cecchin, D. Munro",AMI Stadium,18000,2016-05-14 17:00:00
 2016,Round 10,Sun,May-15,2:00pm,Newcastle,0,Cronulla,62,"H. Perenara, M. Noyen",Hunter,16150,2016-05-15 14:00:00
-2016,Round 10,Sun,May-15,4:00pm,Wests Tigers,4,Canterbury,36,"G. Atkins, A. Shortall",ANZ,20936,2016-05-15 16:00:00
+2016,Round 10,Sun,May-15,4:00pm,Wests Tigers,4,Bulldogs,36,"G. Atkins, A. Shortall",ANZ,20936,2016-05-15 16:00:00
 2016,Round 10,Mon,May-16,7:00pm,Gold Coast Titans,26,Sydney,6,"G. Badger, C. James",CBUS,9363,2016-05-16 19:00:00
 2016,Round 11,Thu,May-19,7:50pm,South Sydney,34,St George Illawarra,24,"M. Cecchin, D. Munro",ANZ,12054,2016-05-19 19:50:00
 2016,Round 11,Fri,May-20,7:50pm,North Queensland,19,Brisbane,18,"B. Cummins, C. Sutton",1300SMILES,25163,2016-05-20 19:50:00
 2016,Round 11,Sat,May-21,7:30pm,Cronulla,20,Manly Warringah,12,"G. Badger, A. Shortall",Southern Cross,16601,2016-05-21 19:30:00
 2016,Round 11,Sat,May-21,7:30pm,Warriors,12,Canberra,38,"G. Atkins, M. Noyen",Yarrow Stadium,12833,2016-05-21 19:30:00
 2016,Round 11,Sat,May-21,3:00pm,Wests Tigers,20,Newcastle,12,"G. Sutton, A. Devcich",Campbelltown,8658,2016-05-21 15:00:00
-2016,Round 11,Sun,May-22,4:00pm,Canterbury,32,Sydney,20,"J. Maxwell, G. Reynolds",ANZ,17704,2016-05-22 16:00:00
+2016,Round 11,Sun,May-22,4:00pm,Bulldogs,32,Sydney,20,"J. Maxwell, G. Reynolds",ANZ,17704,2016-05-22 16:00:00
 2016,Round 11,Sun,May-22,2:00pm,Penrith,24,Gold Coast Titans,28,"H. Perenara, C. James",Pepper Stadium,11210,2016-05-22 14:00:00
 2016,Round 11,Mon,May-23,7:00pm,Parramatta,6,Melbourne,18,"A. Klein, A. Gee",Pirtek Stadium,8941,2016-05-23 19:00:00
 2016,Round 12,Fri,May-27,7:30pm,Brisbane,18,Wests Tigers,19,"M. Cecchin, G. Badger",Suncorp,27153,2016-05-27 19:30:00
 2016,Round 12,Sat,May-28,7:30pm,St George Illawarra,14,North Queensland,10,"G. Atkins, A. Shortall",WIN Stadium,10032,2016-05-28 19:30:00
-2016,Round 12,Sun,May-29,4:00pm,Canberra,32,Canterbury,20,"A. Klein, A. Gee",GIO Stadium,13907,2016-05-29 16:00:00
+2016,Round 12,Sun,May-29,4:00pm,Canberra,32,Bulldogs,20,"A. Klein, A. Gee",GIO Stadium,13907,2016-05-29 16:00:00
 2016,Round 12,Mon,May-30,7:30pm,Newcastle,18,Parramatta,20,"H. Perenara, G. Reynolds",Hunter,12856,2016-05-30 19:30:00
 2016,Round 13,Fri,Jun-3,7:50pm,Canberra,30,Manly Warringah,18,"J. Maxwell, A. Gee",GIO Stadium,9157,2016-06-03 19:50:00
 2016,Round 13,Sat,Jun-4,7:30pm,Melbourne,24,Penrith,6,"M. Cecchin, C. Butler",AAMI Park,11116,2016-06-04 19:30:00
@@ -1705,7 +1705,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 13,Sat,Jun-4,5:00pm,Warriors,36,Brisbane,18,"H. Perenara, C. James",Mt Smart,15097,2016-06-04 17:00:00
 2016,Round 13,Sun,Jun-5,4:30pm,South Sydney,28,Gold Coast Titans,29,"G. Atkins, A. Shortall",nib Stadium,13142,2016-06-05 16:30:00
 2016,Round 13,Sun,Jun-5,4:00pm,Sydney,32,Wests Tigers,18,"A. Klein, G. Reynolds",Allianz,3622,2016-06-05 16:00:00
-2016,Round 13,Mon,Jun-6,7:00pm,Canterbury,18,Cronulla,20,"B. Cummins, M. Noyen",ANZ,10081,2016-06-06 19:00:00
+2016,Round 13,Mon,Jun-6,7:00pm,Bulldogs,18,Cronulla,20,"B. Cummins, M. Noyen",ANZ,10081,2016-06-06 19:00:00
 2016,Round 14,Thu,Jun-9,7:50pm,Brisbane,26,Canberra,18,"A. Klein, H. Perenara",Suncorp,25021,2016-06-09 19:50:00
 2016,Round 14,Fri,Jun-10,7:50pm,Wests Tigers,30,South Sydney,14,"M. Cecchin, M. Noyen",ANZ,14490,2016-06-10 19:50:00
 2016,Round 14,Sat,Jun-11,3:00pm,Newcastle,14,Warriors,50,"D. Munro, A. Shortall",Hunter,12222,2016-06-11 15:00:00
@@ -1713,19 +1713,19 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 14,Sat,Jun-11,7:30pm,Sydney,0,Melbourne,46,"B. Cummins, C. Sutton",Allianz,8499,2016-06-11 19:30:00
 2016,Round 14,Sun,Jun-12,4:00pm,Manly Warringah,24,Penrith,31,"G. Atkins, G. Reynolds",Brookvale,12463,2016-06-12 16:00:00
 2016,Round 14,Mon,Jun-13,7:00pm,Cronulla,13,North Queensland,10,"G. Sutton, A. Gee",Southern Cross,13119,2016-06-13 19:00:00
-2016,Round 14,Mon,Jun-13,4:00pm,St George Illawarra,16,Canterbury,34,"J. Maxwell, C. James",ANZ,20153,2016-06-13 16:00:00
+2016,Round 14,Mon,Jun-13,4:00pm,St George Illawarra,16,Bulldogs,34,"J. Maxwell, C. James",ANZ,20153,2016-06-13 16:00:00
 2016,Round 15,Fri,Jun-17,7:50pm,South Sydney,12,Parramatta,30,"A. Klein, G. Badger",ANZ,11860,2016-06-17 19:50:00
 2016,Round 15,Sat,Jun-18,7:30pm,St George Illawarra,20,Melbourne,10,"M. Cecchin, G. Atkins",WIN Stadium,7568,2016-06-18 19:30:00
 2016,Round 15,Sun,Jun-19,6:00pm,Warriors,12,Sydney,10,"J. Maxwell, C. James",Mt Smart,14026,2016-06-19 18:00:00
 2016,Round 15,Mon,Jun-20,7:00pm,Gold Coast Titans,30,Manly Warringah,10,"H. Perenara, A. Shortall",CBUS,8278,2016-06-20 19:00:00
 2016,Round 16,Fri,Jun-24,7:50pm,Penrith,28,South Sydney,26,"G. Badger, C. Sutton",Pepper Stadium,13080,2016-06-24 19:50:00
-2016,Round 16,Sat,Jun-25,7:30pm,Canterbury,40,Brisbane,14,"A. Klein, H. Perenara",ANZ,15106,2016-06-25 19:30:00
+2016,Round 16,Sat,Jun-25,7:30pm,Bulldogs,40,Brisbane,14,"A. Klein, H. Perenara",ANZ,15106,2016-06-25 19:30:00
 2016,Round 16,Sat,Jun-25,5:30pm,Cronulla,19,Warriors,18,"G. Atkins, M. Noyen",Southern Cross,12074,2016-06-25 17:30:00
 2016,Round 16,Sat,Jun-25,3:00pm,Newcastle,18,St George Illawarra,30,"D. Munro, G. Reynolds",Hunter,13777,2016-06-25 15:00:00
 2016,Round 16,Sun,Jun-26,2:00pm,Gold Coast Titans,22,Canberra,30,"G. Sutton, C. James",CBUS,12645,2016-06-26 14:00:00
 2016,Round 16,Sun,Jun-26,4:00pm,Melbourne,29,Wests Tigers,20,"J. Maxwell, A. Gee",AAMI Park,14412,2016-06-26 16:00:00
 2016,Round 16,Mon,Jun-27,7:00pm,North Queensland,30,Manly Warringah,26,"M. Cecchin, C. Butler",1300SMILES,15854,2016-06-27 19:00:00
-2016,Round 17,Thu,Jun-30,7:50pm,Sydney,20,Canterbury,24,"G. Atkins, A. Shortall",Allianz,7741,2016-06-30 19:50:00
+2016,Round 17,Thu,Jun-30,7:50pm,Sydney,20,Bulldogs,24,"G. Atkins, A. Shortall",Allianz,7741,2016-06-30 19:50:00
 2016,Round 17,Fri,Jul-1,7:50pm,Brisbane,6,Melbourne,48,"B. Cummins, M. Noyen",Suncorp,44519,2016-07-01 19:50:00
 2016,Round 17,Sat,Jul-2,7:30pm,Cronulla,34,Parramatta,24,"A. Klein, A. Gee",Southern Cross,19142,2016-07-02 19:30:00
 2016,Round 17,Sat,Jul-2,5:00pm,Warriors,27,Gold Coast Titans,18,"M. Cecchin, C. James",Mt Smart,15107,2016-07-02 17:00:00
@@ -1734,7 +1734,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 17,Sun,Jul-3,4:00pm,South Sydney,0,North Queensland,20,"G. Sutton, P. Gough",Barlow Park,14923,2016-07-03 16:00:00
 2016,Round 17,Mon,Jul-4,7:00pm,Manly Warringah,36,St George Illawarra,6,"G. Badger, H. Perenara",Brookvale,9048,2016-07-04 19:00:00
 2016,Round 18,Fri,Jul-8,7:50pm,Parramatta,22,Sydney,18,"M. Cecchin, G. Badger",Pirtek Stadium,8464,2016-07-08 19:50:00
-2016,Round 18,Sat,Jul-9,7:30pm,Canterbury,32,Wests Tigers,22,"A. Klein, C. James",ANZ,16212,2016-07-09 19:30:00
+2016,Round 18,Sat,Jul-9,7:30pm,Bulldogs,32,Wests Tigers,22,"A. Klein, C. James",ANZ,16212,2016-07-09 19:30:00
 2016,Round 18,Sun,Jul-10,4:00pm,Penrith,10,Cronulla,26,"J. Maxwell, H. Perenara",Pepper Stadium,12682,2016-07-10 16:00:00
 2016,Round 18,Mon,Jul-11,7:00pm,Canberra,26,North Queensland,12,"G. Atkins, A. Shortall",GIO Stadium,8328,2016-07-11 19:00:00
 2016,Round 19,Fri,Jul-15,7:50pm,St George Illawarra,12,Gold Coast Titans,32,"M. Cecchin, M. Noyen",WIN Jubilee,8256,2016-07-15 19:50:00
@@ -1743,7 +1743,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 19,Sun,Jul-17,2:00pm,Newcastle,16,Melbourne,20,"H. Perenara, G. Reynolds",Hunter,10748,2016-07-17 14:00:00
 2016,Round 19,Sun,Jul-17,4:00pm,Penrith,22,Parramatta,18,"B. Cummins, A. Shortall",Pepper Stadium,15251,2016-07-17 16:00:00
 2016,Round 19,Mon,Jul-18,7:00pm,Sydney,20,Cronulla,32,"A. Klein, D. Munro",Allianz,9276,2016-07-18 19:00:00
-2016,Round 20,Thu,Jul-21,7:50pm,North Queensland,36,Canterbury,0,"J. Maxwell, G. Reynolds",1300SMILES,11630,2016-07-21 19:50:00
+2016,Round 20,Thu,Jul-21,7:50pm,North Queensland,36,Bulldogs,0,"J. Maxwell, G. Reynolds",1300SMILES,11630,2016-07-21 19:50:00
 2016,Round 20,Fri,Jul-22,7:50pm,Brisbane,12,Penrith,31,"M. Noyen, M. Cecchin",Suncorp,30878,2016-07-22 19:50:00
 2016,Round 20,Sat,Jul-23,3:00pm,Canberra,26,Warriors,22,"C. Sutton, C. James",GIO Stadium,9471,2016-07-23 15:00:00
 2016,Round 20,Sat,Jul-23,5:30pm,Gold Coast Titans,34,Parramatta,14,"G. Atkins, C. Sutton",CBUS,15273,2016-07-23 17:30:00
@@ -1752,7 +1752,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 20,Sun,Jul-24,4:00pm,St George Illawarra,12,Wests Tigers,25,"A. Klein, A. Gee",ANZ,15087,2016-07-24 16:00:00
 2016,Round 20,Mon,Jul-25,7:00pm,South Sydney,12,Manly Warringah,20,"H. Perenara, C. Butler",Allianz,8273,2016-07-25 19:00:00
 2016,Round 21,Thu,Jul-28,7:50pm,Sydney,32,Brisbane,16,"A. Klein, A. Gee",Allianz,6308,2016-07-28 19:50:00
-2016,Round 21,Fri,Jul-29,7:50pm,Canterbury,13,St George Illawarra,10,"M. Cecchin, C. James",ANZ,15008,2016-07-29 19:50:00
+2016,Round 21,Fri,Jul-29,7:50pm,Bulldogs,13,St George Illawarra,10,"M. Cecchin, C. James",ANZ,15008,2016-07-29 19:50:00
 2016,Round 21,Sat,Jul-30,7:30pm,North Queensland,8,Melbourne,16,"B. Cummins, D. Munro",1300SMILES,20256,2016-07-30 19:30:00
 2016,Round 21,Sat,Jul-30,5:30pm,Parramatta,8,Wests Tigers,23,"H. Perenara, C. Butler",ANZ,14428,2016-07-30 17:30:00
 2016,Round 21,Sat,Jul-30,5:00pm,Warriors,20,Penrith,16,"G. Atkins, C. Sutton",Mt Smart,13026,2016-07-30 17:00:00
@@ -1763,11 +1763,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 22,Fri,Aug-5,7:50pm,Parramatta,10,Manly Warringah,9,"M. Cecchin, C. James",Pirtek Stadium,8143,2016-08-05 19:50:00
 2016,Round 22,Sat,Aug-6,5:30pm,Cronulla,14,Canberra,30,"A. Klein, A. Gee",Southern Cross,15133,2016-08-06 17:30:00
 2016,Round 22,Sat,Aug-6,7:30pm,Melbourne,15,South Sydney,14,"G. Atkins, C. Sutton",AAMI Park,13569,2016-08-06 19:30:00
-2016,Round 22,Sat,Aug-6,3:00pm,Newcastle,14,Canterbury,28,"H. Perenara, C. Butler",Hunter,13318,2016-08-06 15:00:00
+2016,Round 22,Sat,Aug-6,3:00pm,Newcastle,14,Bulldogs,28,"H. Perenara, C. Butler",Hunter,13318,2016-08-06 15:00:00
 2016,Round 22,Sun,Aug-7,2:00pm,Gold Coast Titans,14,Warriors,24,"J. Maxwell, G. Reynolds",CBUS,25109,2016-08-07 14:00:00
 2016,Round 22,Sun,Aug-7,4:00pm,Wests Tigers,26,North Queensland,14,"G. Sutton, A. Shortall",Leichhardt,14246,2016-08-07 16:00:00
 2016,Round 22,Mon,Aug-8,7:00pm,Penrith,38,Sydney,18,"G. Badger, A. Devcich",Pepper Stadium,9653,2016-08-08 19:00:00
-2016,Round 23,Thu,Aug-11,7:50pm,Canterbury,20,Manly Warringah,16,"A. Klein, A. Gee",ANZ,10290,2016-08-11 19:50:00
+2016,Round 23,Thu,Aug-11,7:50pm,Bulldogs,20,Manly Warringah,16,"A. Klein, A. Gee",ANZ,10290,2016-08-11 19:50:00
 2016,Round 23,Fri,Aug-12,7:50pm,Brisbane,38,Parramatta,16,"G. Atkins, A. Shortall",Suncorp,30189,2016-08-12 19:50:00
 2016,Round 23,Sat,Aug-13,7:30pm,St George Illawarra,32,Cronulla,18,"G. Sutton, C. Butler",WIN Jubilee,13167,2016-08-13 19:30:00
 2016,Round 23,Sat,Aug-13,7:30pm,Warriors,22,South Sydney,41,"H. Perenara, C. James",Mt Smart,17409,2016-08-13 19:30:00
@@ -1775,7 +1775,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 23,Sun,Aug-14,2:00pm,Newcastle,6,Penrith,42,"D. Munro, A. Devcich",Hunter,13771,2016-08-14 14:00:00
 2016,Round 23,Sun,Aug-14,4:00pm,Sydney,22,North Queensland,10,"J. Maxwell, G. Reynolds",Allianz,8760,2016-08-14 16:00:00
 2016,Round 23,Mon,Aug-15,7:00pm,Canberra,22,Melbourne,8,"M. Cecchin, C. Sutton",GIO Stadium,15707,2016-08-15 19:00:00
-2016,Round 24,Thu,Aug-18,7:50pm,Brisbane,20,Canterbury,10,"G. Sutton, C. Butler",Suncorp,27746,2016-08-18 19:50:00
+2016,Round 24,Thu,Aug-18,7:50pm,Brisbane,20,Bulldogs,10,"G. Sutton, C. Butler",Suncorp,27746,2016-08-18 19:50:00
 2016,Round 24,Fri,Aug-19,7:50pm,Penrith,40,Wests Tigers,10,"J. Maxwell, G. Reynolds",Pepper Stadium,14876,2016-08-19 19:50:00
 2016,Round 24,Sat,Aug-20,5:30pm,Manly Warringah,18,Melbourne,38,"H. Perenara, C. James",Brookvale,8241,2016-08-20 17:30:00
 2016,Round 24,Sat,Aug-20,3:00pm,Newcastle,6,Gold Coast Titans,26,"G. Atkins, C. Sutton",Hunter,10960,2016-08-20 15:00:00
@@ -1783,7 +1783,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 24,Sun,Aug-21,2:00pm,Canberra,28,Parramatta,18,"D. Munro, A. Shortall",GIO Stadium,18825,2016-08-21 14:00:00
 2016,Round 24,Sun,Aug-21,4:00pm,Sydney,42,St George Illawarra,6,"M. Cecchin, T. Roby",Allianz,11486,2016-08-21 16:00:00
 2016,Round 24,Mon,Aug-22,7:00pm,South Sydney,12,Cronulla,6,"B. Cummins, G. Badger",ANZ,7588,2016-08-22 19:00:00
-2016,Round 25,Thu,Aug-25,7:50pm,Canterbury,16,North Queensland,24,"J. Maxwell, C. James",Belmore,10144,2016-08-25 19:50:00
+2016,Round 25,Thu,Aug-25,7:50pm,Bulldogs,16,North Queensland,24,"J. Maxwell, C. James",Belmore,10144,2016-08-25 19:50:00
 2016,Round 25,Fri,Aug-26,7:50pm,Melbourne,16,Brisbane,26,"A. Klein, G. Badger",AAMI Park,20263,2016-08-26 19:50:00
 2016,Round 25,Sat,Aug-27,7:30pm,Cronulla,37,Sydney,12,"M. Cecchin, D. Munro",Southern Cross,14457,2016-08-27 19:30:00
 2016,Round 25,Sat,Aug-27,5:30pm,Gold Coast Titans,14,Penrith,15,"G. Atkins, C. Sutton",CBUS,18288,2016-08-27 17:30:00
@@ -1792,7 +1792,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Round 25,Sun,Aug-28,4:00pm,Warriors,24,Wests Tigers,36,"G. Sutton, A. Shortall",Mt Smart,14020,2016-08-28 16:00:00
 2016,Round 25,Mon,Aug-29,7:00pm,Parramatta,30,St George Illawarra,18,"A. Gee, G. Reynolds",Pirtek Stadium,13553,2016-08-29 19:00:00
 2016,Round 26,Thu,Sep-1,7:50pm,Brisbane,24,Sydney,14,"B. Cummins, G. Atkins",Suncorp,37566,2016-09-01 19:50:00
-2016,Round 26,Fri,Sep-2,7:50pm,Canterbury,10,South Sydney,28,"A. Klein, G. Badger",ANZ,14731,2016-09-02 19:50:00
+2016,Round 26,Fri,Sep-2,7:50pm,Bulldogs,10,South Sydney,28,"A. Klein, G. Badger",ANZ,14731,2016-09-02 19:50:00
 2016,Round 26,Sat,Sep-3,7:30pm,Melbourne,26,Cronulla,6,"G. Sutton, A. Shortall",AAMI Park,24135,2016-09-03 19:30:00
 2016,Round 26,Sat,Sep-3,5:30pm,North Queensland,32,Gold Coast Titans,16,"M. Cecchin, D. Munro",1300SMILES,21495,2016-09-03 17:30:00
 2016,Round 26,Sat,Sep-3,3:00pm,St George Illawarra,28,Newcastle,26,"H. Perenara, M. Noyen",WIN Jubilee,8726,2016-09-03 15:00:00
@@ -1802,21 +1802,21 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2016,Qualif Final,Fri,Sep-9,7:55pm,Brisbane,44,Gold Coast Titans,28,"G. Sutton, G. Badger",Suncorp,43170,2016-09-09 19:55:00
 2016,Qualif Final,Sat,Sep-10,5:35pm,Canberra,14,Cronulla,16,"M. Cecchin, A. Shortall",GIO Stadium,25592,2016-09-10 17:35:00
 2016,Qualif Final,Sat,Sep-10,7:55pm,Melbourne,16,North Queensland,10,"B. Cummins, G. Atkins",AAMI Park,21233,2016-09-10 19:55:00
-2016,Qualif Final,Sun,Sep-11,4:10pm,Penrith,28,Canterbury,12,"J. Maxwell, C. James",Allianz,22631,2016-09-11 16:10:00
+2016,Qualif Final,Sun,Sep-11,4:10pm,Penrith,28,Bulldogs,12,"J. Maxwell, C. James",Allianz,22631,2016-09-11 16:10:00
 2016,Semi Final,Fri,Sep-16,7:55pm,North Queensland,26,Brisbane,20,"M. Cecchin, A. Shortall",1300SMILES,23804,2016-09-16 19:55:00
 2016,Semi Final,Sat,Sep-17,7:45pm,Canberra,22,Penrith,12,"B. Cummins, B. Sutton",GIO Stadium,21498,2016-09-17 19:45:00
 2016,Prelim Final,Fri,Sep-23,7:55pm,Cronulla,32,North Queensland,20,"B. Cummins, G. Sutton",Allianz,36717,2016-09-23 19:55:00
 2016,Prelim Final,Sat,Sep-24,7:55pm,Melbourne,14,Canberra,12,"M. Cecchin, A. Shortall",AAMI Park,28161,2016-09-24 19:55:00
 2016,Grand Final,Sun,Oct-2,7:28pm,Cronulla,14,Melbourne,12,"M. Cecchin, B. Cummins",ANZ,83625,2016-10-02 19:28:00
 2017,Round 1,Thu,Mar-2,8:05pm,Cronulla,18,Brisbane,26,"M. Cecchin, A. Shortall",Southern Cross,11493,2017-03-02 20:05:00
-2017,Round 1,Fri,Mar-3,6:00pm,Canterbury,6,Melbourne,12,"G. Sutton, M. Noyen",Belmore,8712,2017-03-03 18:00:00
+2017,Round 1,Fri,Mar-3,6:00pm,Bulldogs,6,Melbourne,12,"G. Sutton, M. Noyen",Belmore,8712,2017-03-03 18:00:00
 2017,Round 1,Fri,Mar-3,8:05pm,South Sydney,18,Wests Tigers,34,"A. Klein, C. James",ANZ,16970,2017-03-03 20:05:00
 2017,Round 1,Sat,Mar-4,8:00pm,Gold Coast Titans,18,Sydney,32,"G. Badger, J. Stone",CBUS,13933,2017-03-04 20:00:00
 2017,Round 1,Sat,Mar-4,6:00pm,North Queensland,20,Canberra,16,"B. Cummins, C. Sutton",1300SMILES,17548,2017-03-04 18:00:00
 2017,Round 1,Sat,Mar-4,4:30pm,St George Illawarra,42,Penrith,10,"H. Perenara, P. Gough",UOW Jubilee,7283,2017-03-04 16:30:00
 2017,Round 1,Sun,Mar-5,4:00pm,Manly Warringah,12,Parramatta,20,"G. Atkins, C. Butler",Lottoland,11318,2017-03-05 16:00:00
 2017,Round 1,Sun,Mar-5,4:00pm,Warriors,26,Newcastle,22,"D. Munro, A. Shortall",Mt Smart,13712,2017-03-05 16:00:00
-2017,Round 2,Thu,Mar-9,8:05pm,Sydney,28,Canterbury,24,"B. Cummins, C. Sutton",Allianz,13505,2017-03-09 20:05:00
+2017,Round 2,Thu,Mar-9,8:05pm,Sydney,28,Bulldogs,24,"B. Cummins, C. Sutton",Allianz,13505,2017-03-09 20:05:00
 2017,Round 2,Fri,Mar-10,7:05pm,Brisbane,20,North Queensland,21,"M. Cecchin, A. Shortall",Suncorp,47703,2017-03-10 19:05:00
 2017,Round 2,Fri,Mar-10,8:00pm,Warriors,10,Melbourne,26,"G. Atkins, C. Butler",Mt Smart,9811,2017-03-10 20:00:00
 2017,Round 2,Sat,Mar-11,7:30pm,Canberra,16,Cronulla,42,"A. Klein, C. James",GIO Stadium,15807,2017-03-11 19:30:00
@@ -1825,7 +1825,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 2,Sun,Mar-12,6:30pm,St George Illawarra,16,Parramatta,34,"D. Munro, C. Sutton",WIN Stadium,16023,2017-03-12 18:30:00
 2017,Round 2,Sun,Mar-12,4:00pm,Wests Tigers,2,Penrith,36,"G. Sutton, M. Noyen",Campbelltown,12232,2017-03-12 16:00:00
 2017,Round 3,Thu,Mar-16,8:05pm,Melbourne,14,Brisbane,12,"G. Sutton, M. Noyen",AAMI Park,16334,2017-03-16 20:05:00
-2017,Round 3,Fri,Mar-17,8:00pm,Canterbury,24,Warriors,12,"G. Badger, J. Stone",Forsyth Barr,10238,2017-03-17 20:00:00
+2017,Round 3,Fri,Mar-17,8:00pm,Bulldogs,24,Warriors,12,"G. Badger, J. Stone",Forsyth Barr,10238,2017-03-17 20:00:00
 2017,Round 3,Fri,Mar-17,8:05pm,Gold Coast Titans,26,Parramatta,14,"A. Klein, C. James",CBUS,11612,2017-03-17 20:05:00
 2017,Round 3,Sat,Mar-18,4:30pm,Newcastle,18,South Sydney,24,"D. Munro, C. Sutton",McDonald Jones,15212,2017-03-18 16:30:00
 2017,Round 3,Sat,Mar-18,8:00pm,North Queensland,8,Manly Warringah,30,"H. Perenara, P. Gough",1300SMILES,14763,2017-03-18 20:00:00
@@ -1836,11 +1836,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 4,Fri,Mar-24,7:05pm,Brisbane,13,Canberra,12,"A. Klein, A. Gee",Suncorp,29370,2017-03-24 19:05:00
 2017,Round 4,Fri,Mar-24,6:00pm,Penrith,40,Newcastle,0,"H. Perenara, G. Reynolds",Pepper Stadium,10567,2017-03-24 18:00:00
 2017,Round 4,Sat,Mar-25,8:05pm,Gold Coast Titans,26,North Queensland,32,"G. Atkins, M. Noyen",CBUS,17674,2017-03-25 20:05:00
-2017,Round 4,Sat,Mar-25,4:30pm,Manly Warringah,36,Canterbury,0,"G. Badger, J. Stone",Lottoland,9610,2017-03-25 16:30:00
+2017,Round 4,Sat,Mar-25,4:30pm,Manly Warringah,36,Bulldogs,0,"G. Badger, J. Stone",Lottoland,9610,2017-03-25 16:30:00
 2017,Round 4,Sat,Mar-25,7:00pm,Parramatta,6,Cronulla,20,"M. Cecchin, C. James",ANZ,17003,2017-03-25 19:00:00
 2017,Round 4,Sun,Mar-26,6:30pm,St George Illawarra,26,Warriors,12,"D. Munro, C. Sutton",UOW Jubilee,11608,2017-03-26 18:30:00
 2017,Round 4,Sun,Mar-26,4:00pm,Wests Tigers,14,Melbourne,22,"B. Cummins, C. Butler",Leichhardt,12649,2017-03-26 16:00:00
-2017,Round 5,Thu,Mar-30,8:05pm,Canterbury,10,Brisbane,7,"M. Cecchin, C. James",ANZ,7412,2017-03-30 20:05:00
+2017,Round 5,Thu,Mar-30,8:05pm,Bulldogs,10,Brisbane,7,"M. Cecchin, C. James",ANZ,7412,2017-03-30 20:05:00
 2017,Round 5,Fri,Mar-31,7:05pm,North Queensland,20,South Sydney,6,"G. Badger, J. Stone",1300SMILES,13671,2017-03-31 19:05:00
 2017,Round 5,Fri,Mar-31,6:00pm,Sydney,12,Manly Warringah,18,"B. Cummins, C. Butler",Allianz,12376,2017-03-31 18:00:00
 2017,Round 5,Sat,Apr-1,5:30pm,Canberra,30,Parramatta,18,"G. Sutton, A. Shortall",GIO Stadium,17653,2017-04-01 17:30:00
@@ -1849,7 +1849,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 5,Sun,Apr-2,4:00pm,Warriors,28,Gold Coast Titans,22,"A. Gee, G. Reynolds",Mt Smart,10263,2017-04-02 16:00:00
 2017,Round 5,Sun,Apr-2,4:15pm,Wests Tigers,6,St George Illawarra,28,"H. Perenara, M. Noyen",ANZ,13172,2017-04-02 16:15:00
 2017,Round 6,Thu,Apr-6,7:50pm,Brisbane,32,Sydney,8,"G. Sutton, A. Shortall",Suncorp,30376,2017-04-06 19:50:00
-2017,Round 6,Fri,Apr-7,6:00pm,Newcastle,12,Canterbury,22,"A. Gee, G. Reynolds",McDonald Jones,16929,2017-04-07 18:00:00
+2017,Round 6,Fri,Apr-7,6:00pm,Newcastle,12,Bulldogs,22,"A. Gee, G. Reynolds",McDonald Jones,16929,2017-04-07 18:00:00
 2017,Round 6,Fri,Apr-7,7:50pm,Penrith,20,South Sydney,21,"B. Cummins, D. Munro",Pepper Stadium,15535,2017-04-07 19:50:00
 2017,Round 6,Sat,Apr-8,5:30pm,Gold Coast Titans,16,Canberra,42,"A. Klein, C. Butler",CBUS,12390,2017-04-08 17:30:00
 2017,Round 6,Sat,Apr-8,3:00pm,Manly Warringah,10,St George Illawarra,35,"G. Badger, C. James",Lottoland,11654,2017-04-08 15:00:00
@@ -1857,7 +1857,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 6,Sun,Apr-9,4:00pm,Melbourne,2,Cronulla,11,"M. Cecchin, B. Sutton",AAMI Park,12694,2017-04-09 16:00:00
 2017,Round 6,Sun,Apr-9,2:00pm,Warriors,22,Parramatta,10,"H. Perenara, M. Noyen",Mt Smart,13526,2017-04-09 14:00:00
 2017,Round 7,Fri,Apr-14,7:50pm,Brisbane,24,Gold Coast Titans,22,"G. Atkins, C. Sutton",Suncorp,34592,2017-04-14 19:50:00
-2017,Round 7,Fri,Apr-14,4:00pm,Canterbury,24,South Sydney,9,"M. Cecchin, A. Shortall",ANZ,35984,2017-04-14 16:00:00
+2017,Round 7,Fri,Apr-14,4:00pm,Bulldogs,24,South Sydney,9,"M. Cecchin, A. Shortall",ANZ,35984,2017-04-14 16:00:00
 2017,Round 7,Fri,Apr-14,6:00pm,Newcastle,6,Sydney,24,"G. Badger, C. James",McDonald Jones,21412,2017-04-14 18:00:00
 2017,Round 7,Sat,Apr-15,5:30pm,Canberra,20,Warriors,8,"A. Gee, G. Reynolds",GIO Stadium,13996,2017-04-15 17:30:00
 2017,Round 7,Sat,Apr-15,3:00pm,Manly Warringah,26,Melbourne,30,"A. Klein, C. Butler",Lottoland,10144,2017-04-15 15:00:00
@@ -1869,18 +1869,18 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 8,Sat,Apr-22,7:30pm,Cronulla,12,Gold Coast Titans,16,"H. Perenara, C. James",Southern Cross,12397,2017-04-22 19:30:00
 2017,Round 8,Sat,Apr-22,5:30pm,North Queensland,24,Newcastle,12,"A. Gee, G. Reynolds",1300SMILES,13878,2017-04-22 17:30:00
 2017,Round 8,Sat,Apr-22,3:00pm,Parramatta,18,Penrith,12,"G. Badger, J. Stone",ANZ,14071,2017-04-22 15:00:00
-2017,Round 8,Sun,Apr-23,4:00pm,Wests Tigers,18,Canterbury,12,"G. Sutton, P. Gough",ANZ,19303,2017-04-23 16:00:00
+2017,Round 8,Sun,Apr-23,4:00pm,Wests Tigers,18,Bulldogs,12,"G. Sutton, P. Gough",ANZ,19303,2017-04-23 16:00:00
 2017,Round 8,Tue,Apr-25,7:00pm,Melbourne,20,Warriors,14,"B. Cummins, D. Munro",AAMI Park,22153,2017-04-25 19:00:00
 2017,Round 8,Tue,Apr-25,4:15pm,Sydney,13,St George Illawarra,12,"M. Cecchin, A. Shortall",Allianz,40864,2017-04-25 16:15:00
 2017,Round 9,Thu,Apr-27,7:50pm,Brisbane,32,Penrith,18,"G. Sutton, P. Gough",Suncorp,21464,2017-04-27 19:50:00
 2017,Round 9,Fri,Apr-28,7:30pm,North Queensland,6,Parramatta,26,"G. Atkins, C. Sutton",1300SMILES,14247,2017-04-28 19:30:00
 2017,Round 9,Fri,Apr-28,6:00pm,South Sydney,8,Manly Warringah,46,"G. Badger, G. Reynolds",Allianz,10594,2017-04-28 18:00:00
-2017,Round 9,Sat,Apr-29,5:30pm,Canterbury,16,Canberra,10,"H. Perenara, C. James",ANZ,13390,2017-04-29 17:30:00
+2017,Round 9,Sat,Apr-29,5:30pm,Bulldogs,16,Canberra,10,"H. Perenara, C. James",ANZ,13390,2017-04-29 17:30:00
 2017,Round 9,Sat,Apr-29,3:00pm,Gold Coast Titans,38,Newcastle,8,"D. Munro, A. Shortall",CBUS,10511,2017-04-29 15:00:00
 2017,Round 9,Sat,Apr-29,7:30pm,Wests Tigers,16,Cronulla,22,"B. Cummins, A. Gee",Leichhardt,13405,2017-04-29 19:30:00
 2017,Round 9,Sun,Apr-30,4:00pm,St George Illawarra,22,Melbourne,34,"M. Cecchin, C. Butler",WIN Stadium,12377,2017-04-30 16:00:00
 2017,Round 9,Sun,Apr-30,2:00pm,Warriors,14,Sydney,13,"A. Klein, J. Stone",Mt Smart,13128,2017-04-30 14:00:00
-2017,Round 10,Thu,May-11,7:50pm,Canterbury,14,North Queensland,30,"M. Cecchin, A. Gee",ANZ,8122,2017-05-11 19:50:00
+2017,Round 10,Thu,May-11,7:50pm,Bulldogs,14,North Queensland,30,"M. Cecchin, A. Gee",ANZ,8122,2017-05-11 19:50:00
 2017,Round 10,Fri,May-12,6:00pm,St George Illawarra,14,Cronulla,18,"G. Sutton, C. Butler",UOW Jubilee,15927,2017-05-12 18:00:00
 2017,Round 10,Fri,May-12,8:00pm,Wests Tigers,8,South Sydney,28,"H. Perenara, C. James",ANZ,12213,2017-05-12 20:00:00
 2017,Round 10,Sat,May-13,7:50pm,Manly Warringah,14,Brisbane,24,"A. Klein, J. Stone",Suncorp,44127,2017-05-13 19:50:00
@@ -1893,11 +1893,11 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 11,Fri,May-19,8:00pm,Warriors,14,St George Illawarra,30,"H. Perenara, P. Gough",FMG,11108,2017-05-19 20:00:00
 2017,Round 11,Sat,May-20,5:30pm,Gold Coast Titans,10,Manly Warringah,30,"M. Cecchin, A. Gee",CBUS,12509,2017-05-20 17:30:00
 2017,Round 11,Sat,May-20,7:30pm,Parramatta,16,Canberra,22,"B. Cummins, C. Sutton",ANZ,10074,2017-05-20 19:30:00
-2017,Round 11,Sun,May-21,4:00pm,Canterbury,18,Sydney,24,"G. Sutton, A. Shortall",ANZ,15090,2017-05-21 16:00:00
+2017,Round 11,Sun,May-21,4:00pm,Bulldogs,18,Sydney,24,"G. Sutton, A. Shortall",ANZ,15090,2017-05-21 16:00:00
 2017,Round 11,Sun,May-21,2:00pm,Newcastle,20,Penrith,30,"D. Munro, C. James",McDonald Jones,13319,2017-05-21 14:00:00
 2017,Round 11,Sun,May-21,4:30pm,South Sydney,6,Melbourne,14,"G. Badger, J. Stone",nib Stadium,11433,2017-05-21 16:30:00
 2017,Round 12,Fri,May-26,7:50pm,South Sydney,16,Parramatta,22,"G. Atkins, A. Shortall",ANZ,14218,2017-05-26 19:50:00
-2017,Round 12,Sat,May-27,7:30pm,Cronulla,9,Canterbury,8,"B. Cummins, G. Badger",Southern Cross,20497,2017-05-27 19:30:00
+2017,Round 12,Sat,May-27,7:30pm,Cronulla,9,Bulldogs,8,"B. Cummins, G. Badger",Southern Cross,20497,2017-05-27 19:30:00
 2017,Round 12,Sat,May-27,7:30pm,Warriors,28,Brisbane,10,"A. Gee, G. Reynolds",Mt Smart,13826,2017-05-27 19:30:00
 2017,Round 12,Sun,May-28,4:00pm,Canberra,24,Sydney,16,"H. Perenara, D. Munro",GIO Stadium,14786,2017-05-28 16:00:00
 2017,Round 13,Fri,Jun-2,6:00pm,Melbourne,40,Newcastle,12,"A. Gee, G. Reynolds",AAMI Park,11070,2017-06-02 18:00:00
@@ -1905,7 +1905,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 13,Sat,Jun-3,7:30pm,North Queensland,20,Gold Coast Titans,8,"H. Perenara, C. James",1300SMILES,14612,2017-06-03 19:30:00
 2017,Round 13,Sat,Jun-3,3:00pm,St George Illawarra,16,Wests Tigers,12,"G. Badger, P. Gough",ANZ,12983,2017-06-03 15:00:00
 2017,Round 13,Sat,Jun-3,5:30pm,Sydney,18,Brisbane,16,"B. Cummins, D. Munro",Allianz,12236,2017-06-03 17:30:00
-2017,Round 13,Sun,Jun-4,4:00pm,Canterbury,0,Penrith,38,"G. Atkins, A. Shortall",ANZ,11283,2017-06-04 16:00:00
+2017,Round 13,Sun,Jun-4,4:00pm,Bulldogs,0,Penrith,38,"G. Atkins, A. Shortall",ANZ,11283,2017-06-04 16:00:00
 2017,Round 13,Sun,Jun-4,2:00pm,Manly Warringah,21,Canberra,20,"G. Sutton, C. Butler",Lottoland,11318,2017-06-04 14:00:00
 2017,Round 14,Thu,Jun-8,7:50pm,Cronulla,13,Melbourne,18,"M. Cecchin, G. Badger",Southern Cross,7912,2017-06-08 19:50:00
 2017,Round 14,Fri,Jun-9,7:50pm,Brisbane,24,South Sydney,18,"G. Sutton, P. Gough",Suncorp,30578,2017-06-09 19:50:00
@@ -1914,19 +1914,19 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 14,Sat,Jun-10,7:30pm,Parramatta,6,North Queensland,32,"A. Gee, G. Reynolds",TIO Stadium,11968,2017-06-10 19:30:00
 2017,Round 14,Sat,Jun-10,5:30pm,Penrith,24,Canberra,20,"H. Perenara, C. James",Carrington,8730,2017-06-10 17:30:00
 2017,Round 14,Sun,Jun-11,4:00pm,Wests Tigers,18,Sydney,40,"G. Atkins, A. Shortall",Campbelltown,10066,2017-06-11 16:00:00
-2017,Round 14,Mon,Jun-12,4:00pm,Canterbury,16,St George Illawarra,2,"B. Cummins, G. Badger",ANZ,24083,2017-06-12 16:00:00
+2017,Round 14,Mon,Jun-12,4:00pm,Bulldogs,16,St George Illawarra,2,"B. Cummins, G. Badger",ANZ,24083,2017-06-12 16:00:00
 2017,Round 15,Fri,Jun-16,7:50pm,South Sydney,36,Gold Coast Titans,20,"A. Klein, A. Shortall",ANZ,7163,2017-06-16 19:50:00
 2017,Round 15,Sat,Jun-17,7:30pm,Cronulla,24,Wests Tigers,22,"H. Perenara, D. Munro",Southern Cross,11695,2017-06-17 19:30:00
 2017,Round 15,Sat,Jun-17,5:30pm,Melbourne,23,North Queensland,22,"B. Cummins, A. Gee",AAMI Park,17124,2017-06-17 17:30:00
 2017,Round 15,Sun,Jun-18,4:00pm,Parramatta,24,St George Illawarra,10,"G. Atkins, C. Sutton",ANZ,13559,2017-06-18 16:00:00
-2017,Round 16,Fri,Jun-23,8:00pm,Warriors,21,Canterbury,14,"A. Klein, P. Gough",Mt Smart,13476,2017-06-23 20:00:00
+2017,Round 16,Fri,Jun-23,8:00pm,Warriors,21,Bulldogs,14,"A. Klein, P. Gough",Mt Smart,13476,2017-06-23 20:00:00
 2017,Round 16,Fri,Jun-23,7:50pm,Wests Tigers,14,Gold Coast Titans,26,"G. Badger, J. Stone",Campbelltown,6891,2017-06-23 19:50:00
 2017,Round 16,Sat,Jun-24,5:30pm,Canberra,20,Brisbane,30,"H. Perenara, D. Munro",GIO Stadium,15652,2017-06-24 17:30:00
 2017,Round 16,Sat,Jun-24,3:00pm,North Queensland,14,Penrith,12,"G. Atkins, C. Sutton",1300SMILES,17876,2017-06-24 15:00:00
 2017,Round 16,Sat,Jun-24,7:30pm,Sydney,25,Melbourne,24,"M. Cecchin, A. Shortall",Adelaide,21492,2017-06-24 19:30:00
 2017,Round 16,Sun,Jun-25,4:00pm,Cronulla,18,Manly Warringah,35,"B. Cummins, C. Butler",Southern Cross,14766,2017-06-25 16:00:00
 2017,Round 16,Sun,Jun-25,2:00pm,St George Illawarra,32,Newcastle,28,"A. Gee, G. Reynolds",UOW Jubilee,10174,2017-06-25 14:00:00
-2017,Round 17,Thu,Jun-29,7:50pm,Parramatta,13,Canterbury,12,"H. Perenara, D. Munro",ANZ,14061,2017-06-29 19:50:00
+2017,Round 17,Thu,Jun-29,7:50pm,Parramatta,13,Bulldogs,12,"H. Perenara, D. Munro",ANZ,14061,2017-06-29 19:50:00
 2017,Round 17,Fri,Jun-30,7:50pm,Brisbane,12,Melbourne,42,"A. Klein, A. Gee",Suncorp,41471,2017-06-30 19:50:00
 2017,Round 17,Fri,Jun-30,6:00pm,Gold Coast Titans,20,St George Illawarra,10,"G. Atkins, C. Sutton",CBUS,13140,2017-06-30 18:00:00
 2017,Round 17,Sat,Jul-1,7:30pm,Canberra,18,North Queensland,31,"B. Cummins, P. Gough",GIO Stadium,10266,2017-07-01 19:30:00
@@ -1937,14 +1937,14 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 18,Fri,Jul-7,7:50pm,Sydney,14,South Sydney,12,"A. Klein, D. Munro",Allianz,16245,2017-07-07 19:50:00
 2017,Round 18,Sat,Jul-8,7:30pm,Melbourne,6,Parramatta,22,"G. Badger, J. Stone",AAMI Park,13593,2017-07-08 19:30:00
 2017,Round 18,Sat,Jul-8,5:30pm,Penrith,16,Manly Warringah,8,"H. Perenara, C. James",Pepper Stadium,14625,2017-07-08 17:30:00
-2017,Round 18,Sun,Jul-9,4:00pm,Canterbury,20,Newcastle,18,"B. Cummins, G. Reynolds",Belmore,13103,2017-07-09 16:00:00
+2017,Round 18,Sun,Jul-9,4:00pm,Bulldogs,20,Newcastle,18,"B. Cummins, G. Reynolds",Belmore,13103,2017-07-09 16:00:00
 2017,Round 19,Fri,Jul-14,7:50pm,Canberra,18,St George Illawarra,14,"G. Atkins, C. Sutton",GIO Stadium,10977,2017-07-14 19:50:00
 2017,Round 19,Fri,Jul-14,8:00pm,Warriors,22,Penrith,34,"G. Reynolds, A. Shortall",Mt Smart,13076,2017-07-14 20:00:00
 2017,Round 19,Sat,Jul-15,7:30pm,Gold Coast Titans,30,Cronulla,10,"A. Klein, D. Munro",CBUS,14333,2017-07-15 19:30:00
 2017,Round 19,Sat,Jul-15,5:30pm,Newcastle,22,Brisbane,34,"A. Gee, C. James",McDonald Jones,13773,2017-07-15 17:30:00
 2017,Round 19,Sun,Jul-16,2:00pm,Manly Warringah,28,Wests Tigers,16,"G. Sutton, T. Roby",Lottoland,14128,2017-07-16 14:00:00
 2017,Round 19,Sun,Jul-16,4:00pm,South Sydney,10,North Queensland,23,"G. Badger, J. Stone",Barlow Park,11217,2017-07-16 16:00:00
-2017,Round 20,Thu,Jul-20,7:50pm,Brisbane,42,Canterbury,12,"G. Atkins, C. Sutton",Suncorp,24267,2017-07-20 19:50:00
+2017,Round 20,Thu,Jul-20,7:50pm,Brisbane,42,Bulldogs,12,"G. Atkins, C. Sutton",Suncorp,24267,2017-07-20 19:50:00
 2017,Round 20,Fri,Jul-21,7:50pm,Cronulla,26,South Sydney,12,"A. Gee, B. Cummins",Southern Cross,12123,2017-07-21 19:50:00
 2017,Round 20,Fri,Jul-21,6:00pm,Sydney,28,Newcastle,4,"G. Reynolds, C. James",Allianz,7121,2017-07-21 18:00:00
 2017,Round 20,Sat,Jul-22,5:30pm,Canberra,14,Melbourne,20,"M. Cecchin, C. Butler",GIO Stadium,14115,2017-07-22 17:30:00
@@ -1952,7 +1952,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 20,Sat,Jul-22,3:00pm,Penrith,24,Gold Coast Titans,16,"G. Badger, J. Stone",Pepper Stadium,11480,2017-07-22 15:00:00
 2017,Round 20,Sun,Jul-23,2:00pm,St George Illawarra,52,Manly Warringah,22,"A. Klein, A. Shortall",WIN Stadium,16883,2017-07-23 14:00:00
 2017,Round 20,Sun,Jul-23,4:00pm,Wests Tigers,16,Parramatta,17,"A. Gee, C. Sutton",ANZ,30901,2017-07-23 16:00:00
-2017,Round 21,Thu,Jul-27,7:30pm,Penrith,16,Canterbury,8,"B. Cummins, D. Munro",Pepper Stadium,8727,2017-07-27 19:30:00
+2017,Round 21,Thu,Jul-27,7:30pm,Penrith,16,Bulldogs,8,"B. Cummins, D. Munro",Pepper Stadium,8727,2017-07-27 19:30:00
 2017,Round 21,Fri,Jul-28,7:50pm,Parramatta,28,Brisbane,14,"A. Klein, A. Shortall",ANZ,12182,2017-07-28 19:50:00
 2017,Round 21,Fri,Jul-28,8:00pm,Warriors,12,Cronulla,26,"M. Cecchin, G. Reynolds",Mt Smart,9771,2017-07-28 20:00:00
 2017,Round 21,Sat,Jul-29,3:00pm,Newcastle,21,St George Illawarra,14,"G. Badger, Z. Przeklasa-Adamski",McDonald Jones,15031,2017-07-29 15:00:00
@@ -1960,7 +1960,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 21,Sat,Jul-29,7:30pm,Sydney,22,North Queensland,16,"G. Atkins, C. Sutton",Allianz,9476,2017-07-29 19:30:00
 2017,Round 21,Sun,Jul-30,4:00pm,Gold Coast Titans,4,Wests Tigers,26,"A. Gee, C. James",CBUS,11516,2017-07-30 16:00:00
 2017,Round 21,Sun,Jul-30,2:00pm,Melbourne,40,Manly Warringah,6,"G. Sutton, T. Roby",AAMI Park,15036,2017-07-30 14:00:00
-2017,Round 22,Thu,Aug-3,7:50pm,Canterbury,4,Parramatta,20,"G. Atkins, G. Reynolds",ANZ,12137,2017-08-03 19:50:00
+2017,Round 22,Thu,Aug-3,7:50pm,Bulldogs,4,Parramatta,20,"G. Atkins, G. Reynolds",ANZ,12137,2017-08-03 19:50:00
 2017,Round 22,Fri,Aug-4,7:50pm,North Queensland,8,Melbourne,26,"A. Klein, A. Shortall",1300SMILES,21380,2017-08-04 19:50:00
 2017,Round 22,Fri,Aug-4,6:00pm,St George Illawarra,24,South Sydney,26,"B. Cummins, D. Munro",SCG,12312,2017-08-04 18:00:00
 2017,Round 22,Sat,Aug-5,7:30pm,Cronulla,12,Canberra,30,"G. Sutton, A. Gee",Southern Cross,11639,2017-08-05 19:30:00
@@ -1968,7 +1968,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 22,Sat,Aug-5,3:00pm,Newcastle,26,Warriors,10,"C. Sutton, C. James",McDonald Jones,11824,2017-08-05 15:00:00
 2017,Round 22,Sun,Aug-6,2:00pm,Manly Warringah,36,Sydney,18,"M. Cecchin, G. Atkins",Lottoland,14564,2017-08-06 14:00:00
 2017,Round 22,Sun,Aug-6,4:00pm,Penrith,28,Wests Tigers,14,"G. Badger, Z. Przeklasa-Adamski",Pepper Stadium,15780,2017-08-06 16:00:00
-2017,Round 23,Thu,Aug-10,7:50pm,South Sydney,28,Canterbury,14,"G. Badger, G. Reynolds",ANZ,8247,2017-08-10 19:50:00
+2017,Round 23,Thu,Aug-10,7:50pm,South Sydney,28,Bulldogs,14,"G. Badger, G. Reynolds",ANZ,8247,2017-08-10 19:50:00
 2017,Round 23,Fri,Aug-11,7:50pm,Brisbane,32,Cronulla,10,"B. Cummins, C. Sutton",Suncorp,34552,2017-08-11 19:50:00
 2017,Round 23,Fri,Aug-11,6:00pm,Parramatta,10,Newcastle,29,"H. Perenara, C. Butler",ANZ,13141,2017-08-11 18:00:00
 2017,Round 23,Sat,Aug-12,5:30pm,Melbourne,16,Sydney,13,"G. Sutton, D. Munro",AAMI Park,17221,2017-08-12 17:30:00
@@ -1983,12 +1983,12 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 24,Sat,Aug-19,7:30pm,North Queensland,16,Cronulla,26,"G. Sutton, D. Munro",1300SMILES,15539,2017-08-19 19:30:00
 2017,Round 24,Sat,Aug-19,5:30pm,Sydney,22,Wests Tigers,18,"H. Perenara, C. James",Allianz,9585,2017-08-19 17:30:00
 2017,Round 24,Sun,Aug-20,2:00pm,Canberra,22,Penrith,26,"A. Klein, A. Shortall",GIO Stadium,14818,2017-08-20 14:00:00
-2017,Round 24,Sun,Aug-20,4:00pm,Canterbury,30,Manly Warringah,16,"B. Cummins, G. Badger",ANZ,8912,2017-08-20 16:00:00
+2017,Round 24,Sun,Aug-20,4:00pm,Bulldogs,30,Manly Warringah,16,"B. Cummins, G. Badger",ANZ,8912,2017-08-20 16:00:00
 2017,Round 25,Thu,Aug-24,7:50pm,Brisbane,34,Parramatta,52,"A. Klein, A. Gee",Suncorp,29058,2017-08-24 19:50:00
 2017,Round 25,Fri,Aug-25,6:00pm,Canberra,46,Newcastle,28,"G. Atkins, C. Butler",GIO Stadium,10523,2017-08-25 18:00:00
 2017,Round 25,Fri,Aug-25,7:50pm,Wests Tigers,14,North Queensland,22,"B. Cummins, C. Sutton",Campbelltown,9346,2017-08-25 19:50:00
 2017,Round 25,Sat,Aug-26,7:30pm,Cronulla,14,Sydney,16,"M. Cecchin, A. Shortall",Southern Cross,17268,2017-08-26 19:30:00
-2017,Round 25,Sat,Aug-26,3:00pm,Gold Coast Titans,14,Canterbury,26,"G. Reynolds, C. James",CBUS,10884,2017-08-26 15:00:00
+2017,Round 25,Sat,Aug-26,3:00pm,Gold Coast Titans,14,Bulldogs,26,"G. Reynolds, C. James",CBUS,10884,2017-08-26 15:00:00
 2017,Round 25,Sat,Aug-26,5:30pm,Melbourne,64,South Sydney,6,"H. Perenara, J. Stone",AAMI Park,15403,2017-08-26 17:30:00
 2017,Round 25,Sun,Aug-27,4:00pm,Penrith,14,St George Illawarra,16,"G. Sutton, B. Cummins",Pepper Stadium,18848,2017-08-27 16:00:00
 2017,Round 25,Sun,Aug-27,2:00pm,Warriors,21,Manly Warringah,22,"G. Badger, C. Sutton",Mt Smart,9167,2017-08-27 14:00:00
@@ -1998,7 +1998,7 @@ Year,Round,Day,Date,Time,Home,H_PTS,Away,A_PTS,Referee/s,Stadium,Crowd,date_time
 2017,Round 26,Sat,Sep-2,7:30pm,Melbourne,32,Canberra,6,"G. Atkins, D. Munro",AAMI Park,20508,2017-09-02 19:30:00
 2017,Round 26,Sat,Sep-2,3:00pm,Sydney,20,Gold Coast Titans,16,"B. Cummins, M. Noyen",Allianz,11212,2017-09-02 15:00:00
 2017,Round 26,Sun,Sep-3,2:00pm,Newcastle,18,Cronulla,26,"H. Perenara, J. Stone",McDonald Jones,20535,2017-09-03 14:00:00
-2017,Round 26,Sun,Sep-3,4:00pm,St George Illawarra,20,Canterbury,26,"A. Klein, C. Sutton",ANZ,21582,2017-09-03 16:00:00
+2017,Round 26,Sun,Sep-3,4:00pm,St George Illawarra,20,Bulldogs,26,"A. Klein, C. Sutton",ANZ,21582,2017-09-03 16:00:00
 2017,Round 26,Sun,Sep-3,6:30pm,Wests Tigers,28,Warriors,16,"A. Gee, P. Gough",Leichhardt,10231,2017-09-03 18:30:00
 2017,Qualif Final,Fri,Sep-8,7:55pm,Sydney,24,Brisbane,22,"M. Cecchin, A. Shortall",Allianz,21212,2017-09-08 19:55:00
 2017,Qualif Final,Sat,Sep-9,7:40pm,Manly Warringah,10,Penrith,22,"G. Sutton, A. Gee",Allianz,15408,2017-09-09 19:40:00

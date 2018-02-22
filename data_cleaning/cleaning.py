@@ -18,22 +18,21 @@ df['Date'] = df['Date'].str.replace('th', '').str.replace('st', '').str.replace(
 df['date_time'] = df['Year'].astype(str) + '-' + df['Date'] + ' ' + df['Time']
 df['date_time'] = pd.to_datetime(df['date_time'], format = "%Y-%b-%d %I:%M%p")
 
+# Over different seasons, the bulldogs have different names ('Canterbury', and 'Bulldogs'). Convert to just 'Bulldogs'.
+
+df.loc[(df['Home'] == 'Canterbury'), 'Home'] = 'Bulldogs'
+df.loc[(df['Away'] == 'Canterbury'), 'Away'] = 'Bulldogs'
+
 # Clean up the stadiums due to home teams changing stadium names
 
 stadiums = df['Stadium'].unique().tolist()
+print(stadiums)
+print(len(stadiums))
 
-#for stadium in stadiums:
-#	print(stadium, '\n')
-#
-#	temp = df.loc[df['Stadium'] == stadium, ['Home', 'Away', 'Stadium']]
-#	
-#	if len(temp) > 10:
-#		print("Permanent")
-#		print(temp.iloc[0:1, :])
-#	else:
-#		print(temp)
-#	
-#	print("")
+group = df.groupby(['Home', 'Stadium'])['Crowd'].count()
+print(group)
 
+print(len(df['Home'].unique()))
+print(df['Home'].unique())
 
 df.to_csv('../data/gameBygame_cleaned.csv', index = False)
