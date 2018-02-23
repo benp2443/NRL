@@ -89,7 +89,31 @@ df['PD'] = df['PF'] - df['PA']
 
 df['Team'] = df['Team'].str.strip()
 
+# Create unique team names. Tigers not included as only come under the one name in this data
+
+broncs = ['Brisbane', 'Brisbane Broncos']
+dogs = ['Bulldogs', 'Canterbury-Bankstown Bulldogs']
+raiders = ['Canberra', 'Raiders', 'Canberra Raiders']
+titans = ['Gold Coast Titans', 'Gold Coast']
+sea_eagles = ['Manly Warringah', 'Manly-Warringah', 'Manly Warringah Sea Eagles', 'Manly-Warringah Sea Eagles']
+storm = ['Melbourne', 'Melbourne Storm']
+knights = ['Newcastle', 'Newcastle Knights']
+cowboys = ['North Queensland', 'North Queensland Cowboys']
+eels = ['Parramatta', 'Parramatta Eels']
+panthers = ['Penrith', 'Penrith Panthers']
+rabbits = ['South Sydney', 'South Sydney Rabbitohs']
+dragons = ['St George Illawarra', 'St. George Illawarra', 'St George Illawarra Dragons', 'St. George Illawarra Dragons']
+roosters = ['Sydney', 'Sydney Roosters']
+warriors = ['Warriors', 'New Zealand', 'New Zealand Warriors']
+sharks = ['Cronulla', 'Cronulla-Sutherland', 'Cronulla-Sutherland Sharks']
+
+teams_list = [broncs, dogs, raiders, titans, sea_eagles, storm, knights, cowboys, eels, panthers, rabbits, dragons, roosters, warriors, sharks]
+
+for team in teams_list:
+	df.loc[df['Team'].isin(team), 'Team'] = team[0]
+
+
 print(df['Team'].unique())
 print(df.info())
 
-df.to_csv('nrl_ladder.csv', index = False)
+df.to_csv('../data/nrl_ladder.csv', index = False)
