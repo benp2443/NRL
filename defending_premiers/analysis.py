@@ -22,114 +22,92 @@ while i < len(gf_games):
 
 premiers = premiers[0:-1] # 2017 premiers (Melbourne) dropped as analysis requires following years results
 
+# Create list of years
+
 years = df['Year'].unique().tolist()
 
-# Reduce dataset to only include the last round of the regular season (Round 26) and the first round of the finals (Qualif Final)
-# Round 26 is included as defending premiers may not make the finals the following year and hence w/l percent will be taken from final round
+########## Analysis of Premiers win/lose percentage in premiership year vs defending year ##########
 
-temp = df.loc[(df['Round'] == 'Qualif Final') | (df['Round'] == 'Round 26'), :]
+# import ladders csv which contains regular season standings for each year
 
-# win loss percentages will be appended to the following lists for the premiers
-win_loss_premiers = []
-win_loss_defending_premiers = []
+ladder_df = pd.read_csv('../data/nrl_ladder.csv')
+
+# Calculate win/lose percentage for premiers during prem year and defending year
+
+prem_wins = []
+def_wins = []
+
+prem_wl = []
+def_prem_wl = []
 
 i = 0
-while i < len(premiers):
+
+while i < len(premiers): 
 	
 	champs = premiers[i]
-	prem_year = temp.loc[(temp['Year'] == years[i]) & (temp['Round'] == 'Qualif Final'), :]
-	defending_year = temp.loc[temp['Year'] == years[i+1], :]
-
-	h = df.columns.values.tolist().index('Home')
-	a = df.columns.values.tolist().index('Away')
-	h_w_percent = df.columns.values.tolist().index('Home_w_percent')
-	a_w_percent = df.columns.values.tolist().index('Away_w_percent')
+	prem_year = years[i]
+	def_year = years[i+1]
 	
-	# Find win percentage for the premiers in the year they win the premiership. Win percentage is taken 
-	# in the first round of the finals as that is there win percentage through the regular season (26 rounds).
+	prem_results = ladder_df.loc[(ladder_df['Year'] == prem_year) & (ladder_df['Team'] == champs), :].reset_index()
+	def_results = ladder_df.loc[(ladder_df['Year'] == def_year) & (ladder_df['Team'] == champs), :].reset_index()
 
-	j = 0
-	while j < len(prem_year):
-		
-		if prem_year.iat[j, h] == champs:
-			win_loss_premiers.append(prem_year.iat[j, h_w_percent])
-			break
-		elif prem_year.iloc[j, a] == champs:
-			win_loss_premiers.append(prem_year.iat[j, a_w_percent])
-			break
+	prem_win = prem_results.loc[0,'W'] 
+	prem_wins.append(prem_win)
+	prem_games = prem_results.loc[0,'Pld']
 
-		j += 1
+	def_win = def_results.loc[0,'W']
+	def_wins.append(def_win)
+	def_games = def_results.loc[0,'Pld']
 
-	# Check if defending premiers made Qualif final. If yes, append win/loss record to win_loss_defending_premiers
+	win_percent_prem = ((prem_win/prem_games)*100).round(0)
+	win_percent_def = ((def_win/def_games)*100).round(0)
 
-	temp2 = defending_year.loc[defending_year['Round'] == 'Qualif Final', :]
+	prem_wl.append(win_percent_prem)
+	def_prem_wl.append(win_percent_def)
 
-	made_semis = False
-	j = 0
+	i += 1
 
-	while j < len(temp2):
-		
-		if temp2.iat[j, h] == champs:
-			win_loss_defending_premiers.append(temp2.iat[j, h_w_percent])
-			made_semis = True
-			break
-		elif temp2.iat[j, a] == champs:
-			win_loss_defending_premiers.append(temp2.iat[j, a_w_percent])
-			made_semis = True
-			break
-					
-		j += 1
+data = [premiers, years[:-1], prem_wl, def_prem_wl, prem_wins, def_wins]
+prems_df = pd.DataFrame(data, ['Premiers', 'Year', 'Prem_W/L', 'Def_W/L', 'Prem_Wins', 'Def_Wins']).T
 
-	# If the defending premiers did not make the semis, find win/lose record at the final round
-	# Need to figure out how to update w/l depending on final game result -> Find how many bye games each team has in a season and can deduce from there
+prems_df['year_prem'] = prems_df['Year'].astype(str) + '-' + prems_df['Premiers']
+prems_df.drop(['Year', 'Premiers'], axis = 1, inplace = True)
 
-	if made_semis == False:
+prems_df['wins_change'] = prems_df['Prem_Wins'] - prems_df['Def_Wins']
+prems_df['wins_percent_change'] = prems_df['Prem_W/L'] - prems_df['Def_W/L']
+prems_df.to_csv('prems_df.csv', index = False)
 
-		j = 0
+prems_df2 = prems_df[['year_prem', 'Prem_W/L', 'Def_W/L']]
+prems_df2 = pd.melt(prems_df2, id_vars = ['year_prem'])
+prems_df2.columns = ['Year_Premier', 'Prem/Def', 'Win_Percent']
 
-		while j < len(defending_year):
-			
-			if defending_year.iat[j, h] == champs:
-				win_loss_defending_premiers.append(defending_year.iat[j, h_w_percent])
-				break
-			elif defending_year.iat[j, a] == champs:
-				win_loss_defending_premiers.append(defending_year.iat[j, a_w_percent])
-				break
+prems_df2['Prem/Def'] = prems_df2['Prem/Def'].apply(lambda x:'Premiers' if x == 'Prem_W/L' else 'Defending')
 
-			j += 1
-	
-	i += 1			
-	
-years_list = years[0:-1]
-
-results_df = pd.DataFrame(np.array([years_list, premiers, win_loss_premiers, win_loss_defending_premiers]).T, columns = ['Year', 'Premiers', 'w_%_prem', 'w_%_def_prem'])
-
-results_df['w_%_prem'] = results_df['w_%_prem'].astype(float)
-results_df['w_%_def_prem'] = results_df['w_%_def_prem'].astype(float)
-results_df['Change'] = round((results_df['w_%_prem'] - results_df['w_%_def_prem'])*100,2)
-
+prems_df2.to_csv('prem_wl.csv', index = False)
 
 ########## Analysis of start, middle and end of regular season ##########
 
 periods_list = ['Pre', 'Origin', 'Post']
 
-def win_percentage(df, period, team, wins = 0, games = 0):
+def win_percentage(df, period, team):
 	
+	wins = 0
+	games = 0
+
 	temp = df.loc[df['Period'] == period, :].reset_index(drop = True)
 
 	j = 0
 	while j < len(temp):
 
-		if temp.loc[j, 'Home'] == team:
+		games += 1
 
-			games += 1
+		if temp.loc[j, 'Home'] == team:
 
 			if temp.loc[j, 'HomeWin'] == 1:
 				wins += 1
 			elif temp.loc[j, 'HomeWin'] == 0.5:
 				wins += 0.5
 		else:
-			games += 1
 
 			if temp.loc[j, 'HomeWin'] == 0:
 				wins += 1
@@ -140,14 +118,14 @@ def win_percentage(df, period, team, wins = 0, games = 0):
 
 	return wins, games
 
-results_df['prem_w_pre_%'] = -1
-results_df['prem_w_origin_%'] = -1
-results_df['prem_w_post_%'] = -1
-results_df['def_w_pre_%'] = -1
-results_df['def_w_origin_%'] = -1
-results_df['def_w_post_%'] = -1
+prems_df['prem_w_pre_%'] = -1
+prems_df['prem_w_origin_%'] = -1
+prems_df['prem_w_post_%'] = -1
+prems_df['def_w_pre_%'] = -1
+prems_df['def_w_origin_%'] = -1
+prems_df['def_w_post_%'] = -1
 
-results_df['Year'] = results_df['Year'].astype(int)
+prems_df['Year'] = years[:-1]
 
 i = 0
 
@@ -170,40 +148,40 @@ while i < len(premiers):
 		
 		if period == 'Pre':
 
-			results_df.loc[results_df['Year'] == prem_year, 'prem_w_pre_%'] = round(p_wins/p_games,2)
-			results_df.loc[results_df['Year'] == prem_year, 'def_w_pre_%'] = round(d_wins/d_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'prem_w_pre_%'] = round(p_wins/p_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'def_w_pre_%'] = round(d_wins/d_games,2)
 
 		elif period == 'Origin':
 
-			results_df.loc[results_df['Year'] == prem_year, 'prem_w_origin_%'] = round(p_wins/p_games,2)
-			results_df.loc[results_df['Year'] == prem_year, 'def_w_origin_%'] = round(d_wins/d_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'prem_w_origin_%'] = round(p_wins/p_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'def_w_origin_%'] = round(d_wins/d_games,2)
 
 		else:
 
-			results_df.loc[results_df['Year'] == prem_year, 'prem_w_post_%'] = round(p_wins/p_games,2)
-			results_df.loc[results_df['Year'] == prem_year, 'def_w_post_%'] = round(d_wins/d_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'prem_w_post_%'] = round(p_wins/p_games,2)
+			prems_df.loc[prems_df['Year'] == prem_year, 'def_w_post_%'] = round(d_wins/d_games,2)
 			
 	i += 1
 	
 ########## For and Against ##########
 
-results_df['prem_for'] = -1
-results_df['prem_against'] = -1
-results_df['prem_for_pre'] = -1
-results_df['prem_againsts_pre'] = -1
-results_df['prem_for_origin'] = -1
-results_df['prem_againsts_origin'] = -1
-results_df['prem_for_post'] = -1
-results_df['prem_againsts_post'] = -1
+prems_df['prem_for'] = -1
+prems_df['prem_against'] = -1
+prems_df['prem_for_pre'] = -1
+prems_df['prem_againsts_pre'] = -1
+prems_df['prem_for_origin'] = -1
+prems_df['prem_againsts_origin'] = -1
+prems_df['prem_for_post'] = -1
+prems_df['prem_againsts_post'] = -1
 
-results_df['def_for'] = -1
-results_df['def_against'] = -1
-results_df['def_for_pre'] = -1
-results_df['def_againsts_pre'] = -1
-results_df['def_for_origin'] = -1
-results_df['def_against_origin'] = -1
-results_df['def_for_post'] = -1
-results_df['def_againsts_post'] = -1
+prems_df['def_for'] = -1
+prems_df['def_against'] = -1
+prems_df['def_for_pre'] = -1
+prems_df['def_againsts_pre'] = -1
+prems_df['def_for_origin'] = -1
+prems_df['def_against_origin'] = -1
+prems_df['def_for_post'] = -1
+prems_df['def_againsts_post'] = -1
 
 def for_against_count(df, team):
 	
@@ -274,8 +252,8 @@ def append_results(df, year, variable, value):
 	df.loc[df['Year'] == year, variable] = value
 
 
-idx = results_df.columns.values.tolist().index('prem_for')
-variables = results_df.columns.values.tolist()[idx:]
+idx = prems_df.columns.values.tolist().index('prem_for')
+variables = prems_df.columns.values.tolist()[idx:]
 
 i = 0
 
@@ -297,12 +275,50 @@ while i < len(premiers):
 
 	while j < len(results):
 
-		append_results(results_df, prem_year, variables[j], results[j])
+		append_results(prems_df, prem_year, variables[j], results[j])
 		
 		j += 1
 
 	i += 1
 
-print(results_df)
+print(prems_df.columns.values)
 
-results_df.to_csv('win_percentage.csv', index = False)	
+def win_percent(df, prem_col_name, def_col_name, save_name):
+	temp = df.loc[:, ['year_prem', prem_col_name, def_col_name]]
+	temp = pd.melt(temp, id_vars = ['year_prem'])
+	temp.to_csv(save_name, index = False)
+
+win_percent(prems_df, 'prem_w_pre_%', 'def_w_pre_%', 'pre_win_percent.csv')
+win_percent(prems_df, 'prem_w_origin_%', 'def_w_origin_%', 'origin_win_percent.csv')
+win_percent(prems_df, 'prem_w_post_%', 'def_w_post_%', 'post_win_percent.csv')
+
+prems_df['pre_change'] = prems_df['prem_w_pre_%'] - prems_df['def_w_pre_%']
+prems_df['origin_change'] = prems_df['prem_w_origin_%'] - prems_df['def_w_origin_%']
+prems_df['post_change'] = prems_df['prem_w_post_%'] - prems_df['def_w_post_%']
+
+results = [prems_df['pre_change'].mean(), prems_df['origin_change'].mean(), prems_df['post_change'].mean()]
+rows = ['Pre', 'Origin', 'Post']
+
+df2 = pd.DataFrame([rows, results]).T
+df2.columns = ['Period', 'Change']
+df2.to_csv('period_change.csv', index = False)
+
+
+########## counting games in each period #########
+
+print(df.columns.values)
+
+for period in periods_list:
+	print('###', period, '###')
+	for year in years:
+		print(year)
+		temp = df.loc[(df['Year'] == year) & (df['Period'] == period), :]
+		temp.drop_duplicates('Round', inplace = True)
+		print(len(temp))
+
+
+
+prems_df.to_csv('win_percentage.csv', index = False)
+
+
+

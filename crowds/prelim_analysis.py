@@ -56,9 +56,10 @@ temp5.to_csv('data/broncs_fri_other.csv', index = False)
 
 # Day analysis of crowd size
 
-temp6 = temp.loc[~temp['Day'].isin(['Tue', 'Wed']), :]
+temp6 = temp.loc[temp['Home'] != 'Brisbane', :]
+temp6 = temp6.loc[~temp['Day'].isin(['Tue', 'Wed']), :]
 temp6 = temp6.groupby('Day')['Crowd'].mean().round(0).reset_index()
-temp6.to_csv('data/days_crowds.csv', index = False)
+temp6.to_csv('data/days_crowds_exl_bris.csv', index = False)
 
 # Create column which is home if team is at a home group and neutral overwise
 

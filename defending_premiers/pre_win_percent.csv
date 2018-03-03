@@ -1,0 +1,19 @@
+year_prem,variable,value
+2008-Manly Warringah,prem_w_pre_%,0.62
+2009-Melbourne,prem_w_pre_%,0.59
+2010-St George Illawarra,prem_w_pre_%,0.8
+2011-Manly Warringah,prem_w_pre_%,0.7
+2012-Melbourne,prem_w_pre_%,0.9
+2013-Sydney,prem_w_pre_%,0.73
+2014-South Sydney,prem_w_pre_%,0.5
+2015-North Queensland,prem_w_pre_%,0.7
+2016-Cronulla,prem_w_pre_%,0.82
+2008-Manly Warringah,def_w_pre_%,0.36
+2009-Melbourne,def_w_pre_%,0.7
+2010-St George Illawarra,def_w_pre_%,0.9
+2011-Manly Warringah,def_w_pre_%,0.6
+2012-Melbourne,def_w_pre_%,0.77
+2013-Sydney,def_w_pre_%,0.5
+2014-South Sydney,def_w_pre_%,0.5
+2015-North Queensland,def_w_pre_%,0.73
+2016-Cronulla,def_w_pre_%,0.73
