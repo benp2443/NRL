@@ -11,7 +11,7 @@ ggplot(df, aes(x = Year_Premier, y = Win_Percent, fill = Prem.Def)) +
 	geom_bar(stat = 'identity', position = position_dodge()) +
 	theme(axis.text.x = element_text(angle = 90)) +
 	labs(title = 'Win Percentage - Premiership Year Vs Defending Year', x = 'Premiers', y = 'Win Percentage (regular season)', fill = "")
-ggsave(filename = 'win_lose_premVdef.pdf')
+ggsave(filename = 'graphs/win_lose_premVdef.pdf')
 
 
 df <- read.csv('prems_df.csv')
@@ -20,7 +20,7 @@ ggplot(df, aes(x = year_prem, y = wins_change)) +
 	geom_bar(stat = 'identity', fill = 'steelblue') +
 	labs(title = 'Reduction in Wins as Defending Premiers', y = 'Number of Wins Less in Defending Season', x = 'Premiers') +
 	theme(axis.text.x = element_text(angle = 90))
-ggsave(filename = 'win_reduction.pdf')
+ggsave(filename = 'graphs/win_reduction.pdf')
 
 ########## Win percentage comparsion during periods ##########
 
@@ -30,7 +30,7 @@ ggplot(df, aes(x = Period, y = Change)) +
 	geom_bar(stat = 'identity', fill = 'steelblue') +
 	scale_x_discrete(limits = c('Pre', 'Origin', 'Post')) +
 	labs(title = 'Average Change in Win Percentage', x = 'Period', y = 'Win Percentage Change')
-ggsave(filename = 'change.pdf')
+ggsave(filename = 'graphs/change.pdf')
 
 win_percent <- function(csv_name, prem_col, def_col, title_, saveas) {
 
@@ -45,6 +45,6 @@ win_percent <- function(csv_name, prem_col, def_col, title_, saveas) {
 	ggsave(filename = saveas)
 }
 
-win_percent('pre_win_percent.csv', 'prem_w_pre_%', 'def_w_pre_%', 'Win Percentage Pre Origin', 'pre_win_percent.pdf') 
-win_percent('origin_win_percent.csv', 'prem_w_origin_%', 'def_w_origin_%', 'Win Percentage During Origin', 'origin_win_percent.pdf') 
-win_percent('post_win_percent.csv', 'prem_w_post_%', 'def_w_post_%', 'Win Percentage Post Origin', 'post_win_percent.pdf') 
+win_percent('pre_win_percent.csv', 'prem_w_pre_%', 'def_w_pre_%', 'Win Percentage Pre Origin', 'graphs/pre_win_percent.pdf') 
+win_percent('origin_win_percent.csv', 'prem_w_origin_%', 'def_w_origin_%', 'Win Percentage During Origin', 'graphs/origin_win_percent.pdf') 
+win_percent('post_win_percent.csv', 'prem_w_post_%', 'def_w_post_%', 'Win Percentage Post Origin', 'graphs/post_win_percent.pdf') 

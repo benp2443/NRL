@@ -1,0 +1,49 @@
+Team,variable,value
+Brisbane,top_5,5
+Bulldogs,top_5,3
+Canberra,top_5,1
+Cronulla,top_5,4
+Gold Coast Titans,top_5,2
+Manly Warringah,top_5,6
+Melbourne,top_5,8
+Newcastle,top_5,0
+North Queensland,top_5,4
+Parramatta,top_5,1
+Penrith,top_5,2
+South Sydney,top_5,3
+St George Illawarra,top_5,3
+Sydney,top_5,5
+Warriors,top_5,1
+Wests Tigers,top_5,2
+Brisbane,bot_5,1
+Bulldogs,bot_5,2
+Canberra,bot_5,4
+Cronulla,bot_5,4
+Gold Coast Titans,bot_5,5
+Manly Warringah,bot_5,1
+Melbourne,bot_5,1
+Newcastle,bot_5,5
+North Queensland,bot_5,3
+Parramatta,bot_5,6
+Penrith,bot_5,3
+South Sydney,bot_5,3
+St George Illawarra,bot_5,1
+Sydney,bot_5,3
+Warriors,bot_5,4
+Wests Tigers,bot_5,4
+Brisbane,mid_6,4
+Bulldogs,mid_6,5
+Canberra,mid_6,5
+Cronulla,mid_6,2
+Gold Coast Titans,mid_6,3
+Manly Warringah,mid_6,3
+Melbourne,mid_6,1
+Newcastle,mid_6,5
+North Queensland,mid_6,3
+Parramatta,mid_6,3
+Penrith,mid_6,5
+South Sydney,mid_6,4
+St George Illawarra,mid_6,6
+Sydney,mid_6,2
+Warriors,mid_6,5
+Wests Tigers,mid_6,4

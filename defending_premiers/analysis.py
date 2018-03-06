@@ -75,7 +75,7 @@ prems_df.drop(['Year', 'Premiers'], axis = 1, inplace = True)
 
 prems_df['wins_change'] = prems_df['Prem_Wins'] - prems_df['Def_Wins']
 prems_df['wins_percent_change'] = prems_df['Prem_W/L'] - prems_df['Def_W/L']
-prems_df.to_csv('prems_df.csv', index = False)
+prems_df.to_csv('data/prems_df.csv', index = False)
 
 prems_df2 = prems_df[['year_prem', 'Prem_W/L', 'Def_W/L']]
 prems_df2 = pd.melt(prems_df2, id_vars = ['year_prem'])
@@ -83,7 +83,7 @@ prems_df2.columns = ['Year_Premier', 'Prem/Def', 'Win_Percent']
 
 prems_df2['Prem/Def'] = prems_df2['Prem/Def'].apply(lambda x:'Premiers' if x == 'Prem_W/L' else 'Defending')
 
-prems_df2.to_csv('prem_wl.csv', index = False)
+prems_df2.to_csv('data/prem_wl.csv', index = False)
 
 ########## Analysis of start, middle and end of regular season ##########
 
@@ -173,6 +173,9 @@ prems_df['prem_for_origin'] = -1
 prems_df['prem_againsts_origin'] = -1
 prems_df['prem_for_post'] = -1
 prems_df['prem_againsts_post'] = -1
+prems_df['games_prem_pre'] = -1
+prems_df['games_prem_origin'] = -1
+prems_df['games_prem_post'] = -1
 
 prems_df['def_for'] = -1
 prems_df['def_against'] = -1
@@ -182,6 +185,11 @@ prems_df['def_for_origin'] = -1
 prems_df['def_against_origin'] = -1
 prems_df['def_for_post'] = -1
 prems_df['def_againsts_post'] = -1
+prems_df['games_def_pre'] = -1
+prems_df['games_def_origin'] = -1
+prems_df['games_def_post'] = -1
+
+
 
 def for_against_count(df, team):
 	
@@ -190,12 +198,15 @@ def for_against_count(df, team):
 
 	for_pre = 0
 	against_pre = 0
+	games_pre = 0
 
 	for_origin = 0
 	against_origin = 0
+	games_origin = 0
 
 	for_post = 0
 	against_post = 0
+	games_post = 0
 
 	h = df.columns.values.tolist().index('Home')
 	a = df.columns.values.tolist().index('Away')
@@ -219,12 +230,15 @@ def for_against_count(df, team):
 			if period == 'Pre':
 				for_pre += home_points
 				against_pre += away_points
+				games_pre += 1
 			elif period == 'Origin':
 				for_origin += home_points
 				against_origin += away_points
+				games_origin += 1
 			else:
 				for_post += home_points
 				against_post += away_points
+				games_post += 1
 
 		else:
 
@@ -234,16 +248,19 @@ def for_against_count(df, team):
 			if period == 'Pre':
 				for_pre += away_points
 				against_pre += home_points
+				games_pre += 1
 			elif period == 'Origin':
 				for_origin += away_points
 				against_origin += home_points
+				games_origin += 1
 			else:
 				for_post += away_points
 				against_post += home_points
+				games_post += 1
 
 		j += 1
 	
-	results = [for_, against, for_pre, against_pre, for_origin, against_origin, for_post, against_post]
+	results = [for_, against, for_pre, against_pre, for_origin, against_origin, for_post, against_post, games_pre, games_origin, games_post]
 
 	return results
 
@@ -288,20 +305,55 @@ def win_percent(df, prem_col_name, def_col_name, save_name):
 	temp = pd.melt(temp, id_vars = ['year_prem'])
 	temp.to_csv(save_name, index = False)
 
-win_percent(prems_df, 'prem_w_pre_%', 'def_w_pre_%', 'pre_win_percent.csv')
-win_percent(prems_df, 'prem_w_origin_%', 'def_w_origin_%', 'origin_win_percent.csv')
-win_percent(prems_df, 'prem_w_post_%', 'def_w_post_%', 'post_win_percent.csv')
+win_percent(prems_df, 'prem_w_pre_%', 'def_w_pre_%', 'data/pre_win_percent.csv')
+win_percent(prems_df, 'prem_w_origin_%', 'def_w_origin_%', 'data/origin_win_percent.csv')
+win_percent(prems_df, 'prem_w_post_%', 'def_w_post_%', 'data/post_win_percent.csv')
 
-prems_df['pre_change'] = prems_df['prem_w_pre_%'] - prems_df['def_w_pre_%']
-prems_df['origin_change'] = prems_df['prem_w_origin_%'] - prems_df['def_w_origin_%']
-prems_df['post_change'] = prems_df['prem_w_post_%'] - prems_df['def_w_post_%']
+def change_function(df, new_column_name, column1, column2):
+	df[new_column_name] = df[column1] - df[column2]
+
+change_function(prems_df, 'pre_change', 'prem_w_pre_%', 'def_w_pre_%')
+change_function(prems_df, 'origin_change', 'prem_w_origin_%', 'def_w_origin_%')
+change_function(prems_df, 'post_change', 'prem_w_post_%', 'def_w_post_%')
+
+
+## NEED TO FINISH THIS OFF ##
+
+def average_points(df, new_column_name, points_column, games_column):
+	df[new_column_name] = df[points_column]/df[games_column]
+
+prem_pre_games = ['prem_for_pre', 'prem_for_origin', 'prem_for_post']
+prem_pre_column_names = ['prem_average_for_pre', 'prem_average_for_origin', 'prem_average_for_post']
+
+i = 0
+
+while i < len(pre_games):
+	
+	average_points(prems_df, prem_pre_column_names[i], prem_pre_games[i], 'games_prem_pre')
+
+
+	i += 1
+
+
+average_points(prems_df, 'average_prem_for_pre', 'prem_for_pre', 'games_prem_pre')
+
+aa
 
 results = [prems_df['pre_change'].mean(), prems_df['origin_change'].mean(), prems_df['post_change'].mean()]
 rows = ['Pre', 'Origin', 'Post']
 
 df2 = pd.DataFrame([rows, results]).T
 df2.columns = ['Period', 'Change']
-df2.to_csv('period_change.csv', index = False)
+df2.to_csv('data/period_change.csv', index = False)
+
+# Add difference columns
+
+temp = prems_df.loc[:, ['year_prem', 'prem_for', 'prem_againsts', 'def_for', 'def_againsts', 'prem_for_pre', 'prem_againsts_pre' \
+			'def_for_pre', 'def_againsts_pre', 'prem_for_origin', 'prem_againsts_origin', 'def_for_origin', 'def_against_origin', \
+			'prem_for_post', 'prem_againsts_post', 'def_for_post', 'def_againsts_post']]
+
+temp = pd.melt(temp, id_vars = ['year_prem'])
+temp.to_csv('data/for_againsts.csv', index = False)
 
 
 ########## counting games in each period #########
@@ -309,16 +361,16 @@ df2.to_csv('period_change.csv', index = False)
 print(df.columns.values)
 
 for period in periods_list:
-	print('###', period, '###')
+	#print('###', period, '###')
 	for year in years:
-		print(year)
+		#print(year)
 		temp = df.loc[(df['Year'] == year) & (df['Period'] == period), :]
 		temp.drop_duplicates('Round', inplace = True)
-		print(len(temp))
+		#print(len(temp))
 
 
 
-prems_df.to_csv('win_percentage.csv', index = False)
+prems_df.to_csv('data/win_percentage.csv', index = False)
 
 
 
