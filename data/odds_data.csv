@@ -1,0 +1,2306 @@
+date,home,home_pts,away,away_pts,home_odds,away_odds,overtime
+04 Oct 2009,Parramatta Eels,16,Melbourne Storm,23,2.45,1.57,False
+26 Sep 2009,Melbourne Storm,40,Brisbane Broncos,10,1.38,3.08,False
+25 Sep 2009,Canterbury Bulldogs,12,Parramatta Eels,22,2.00,1.82,False
+19 Sep 2009,Brisbane Broncos,24,St. George Illawarra Dragons,10,2.02,1.80,False
+18 Sep 2009,Parramatta Eels,27,Gold Coast Titans,2,1.33,3.25,False
+13 Sep 2009,St. George Illawarra Dragons,12,Parramatta Eels,25,1.42,2.88,False
+12 Sep 2009,Canterbury Bulldogs,26,Newcastle Knights,12,1.50,2.61,False
+12 Sep 2009,Gold Coast Titans,32,Brisbane Broncos,40,2.45,1.56,False
+11 Sep 2009,Melbourne Storm,40,Manly Sea Eagles,12,1.76,2.08,False
+06 Sep 2009,Brisbane Broncos,22,Canberra Raiders,10,1.18,4.63,False
+06 Sep 2009,Newcastle Knights,35,Penrith Panthers,0,1.48,2.66,False
+06 Sep 2009,Sydney Roosters,16,NQ Cowboys,32,2.35,1.58,False
+05 Sep 2009,Cronulla Sharks,24,South Sydney Rabbitohs,26,2.16,1.70,False
+05 Sep 2009,Manly Sea Eagles,38,Gold Coast Titans,4,1.32,3.35,False
+05 Sep 2009,New Zealand Warriors,0,Melbourne Storm,30,3.18,1.36,False
+04 Sep 2009,St. George Illawarra Dragons,37,Parramatta Eels,0,1.63,2.25,False
+04 Sep 2009,Wests Tigers,34,Canterbury Bulldogs,12,2.63,1.49,False
+31 Aug 2009,Canberra Raiders,30,Newcastle Knights,14,1.80,2.01,False
+30 Aug 2009,Canterbury Bulldogs,40,New Zealand Warriors,20,1.10,6.58,False
+30 Aug 2009,Manly Sea Eagles,18,Cronulla Sharks,16,1.06,8.53,False
+29 Aug 2009,Melbourne Storm,38,Sydney Roosters,4,1.07,7.67,False
+29 Aug 2009,South Sydney Rabbitohs,41,St. George Illawarra Dragons,6,6.67,1.11,False
+29 Aug 2009,Gold Coast Titans,36,Wests Tigers,24,1.35,3.18,False
+28 Aug 2009,NQ Cowboys,10,Brisbane Broncos,16,2.75,1.44,False
+28 Aug 2009,Parramatta Eels,48,Penrith Panthers,6,1.37,3.05,False
+24 Aug 2009,Canterbury Bulldogs,28,Sydney Roosters,4,1.12,5.88,False
+23 Aug 2009,New Zealand Warriors,34,Canberra Raiders,20,1.90,1.90,False
+23 Aug 2009,Melbourne Storm,16,Manly Sea Eagles,20,1.94,1.87,False
+23 Aug 2009,Gold Coast Titans,20,Cronulla Sharks,10,1.10,6.50,False
+22 Aug 2009,Penrith Panthers,40,South Sydney Rabbitohs,10,1.34,3.13,False
+22 Aug 2009,Newcastle Knights,32,NQ Cowboys,26,1.58,2.37,False
+21 Aug 2009,St. George Illawarra Dragons,2,Brisbane Broncos,12,1.28,3.77,False
+21 Aug 2009,Wests Tigers,18,Parramatta Eels,26,2.32,1.60,False
+17 Aug 2009,Newcastle Knights,26,Melbourne Storm,14,2.10,1.72,False
+16 Aug 2009,Brisbane Broncos,58,Penrith Panthers,24,1.54,2.40,False
+16 Aug 2009,Cronulla Sharks,10,Wests Tigers,56,3.96,1.26,False
+15 Aug 2009,Canberra Raiders,24,St. George Illawarra Dragons,12,2.77,1.43,False
+15 Aug 2009,Parramatta Eels,40,New Zealand Warriors,4,1.19,4.50,False
+15 Aug 2009,Sydney Roosters,12,Manly Sea Eagles,44,4.53,1.19,False
+14 Aug 2009,NQ Cowboys,12,Canterbury Bulldogs,22,1.56,2.39,False
+14 Aug 2009,South Sydney Rabbitohs,14,Gold Coast Titans,22,1.85,1.95,False
+10 Aug 2009,Brisbane Broncos,30,Cronulla Sharks,10,1.18,4.56,False
+09 Aug 2009,Parramatta Eels,40,Newcastle Knights,8,1.49,2.61,False
+09 Aug 2009,Sydney Roosters,10,Wests Tigers,17,2.78,1.44,False
+09 Aug 2009,New Zealand Warriors,10,Gold Coast Titans,30,2.31,1.61,False
+08 Aug 2009,Canterbury Bulldogs,23,Canberra Raiders,20,1.20,4.37,False
+08 Aug 2009,Manly Sea Eagles,22,South Sydney Rabbitohs,36,1.23,4.17,False
+07 Aug 2009,Melbourne Storm,20,NQ Cowboys,8,1.44,2.78,False
+07 Aug 2009,Penrith Panthers,6,St. George Illawarra Dragons,25,2.78,1.44,False
+03 Aug 2009,Wests Tigers,19,Manly Sea Eagles,18,2.75,1.44,False
+04 Oct 2009,Parramatta Eels,16,Melbourne Storm,23,2.45,1.57,False
+26 Sep 2009,Melbourne Storm,40,Brisbane Broncos,10,1.38,3.08,False
+25 Sep 2009,Canterbury Bulldogs,12,Parramatta Eels,22,2.00,1.82,False
+19 Sep 2009,Brisbane Broncos,24,St. George Illawarra Dragons,10,2.02,1.80,False
+18 Sep 2009,Parramatta Eels,27,Gold Coast Titans,2,1.33,3.25,False
+13 Sep 2009,St. George Illawarra Dragons,12,Parramatta Eels,25,1.42,2.88,False
+12 Sep 2009,Canterbury Bulldogs,26,Newcastle Knights,12,1.50,2.61,False
+12 Sep 2009,Gold Coast Titans,32,Brisbane Broncos,40,2.45,1.56,False
+11 Sep 2009,Melbourne Storm,40,Manly Sea Eagles,12,1.76,2.08,False
+06 Sep 2009,Brisbane Broncos,22,Canberra Raiders,10,1.18,4.63,False
+06 Sep 2009,Newcastle Knights,35,Penrith Panthers,0,1.48,2.66,False
+06 Sep 2009,Sydney Roosters,16,NQ Cowboys,32,2.35,1.58,False
+05 Sep 2009,Cronulla Sharks,24,South Sydney Rabbitohs,26,2.16,1.70,False
+05 Sep 2009,Manly Sea Eagles,38,Gold Coast Titans,4,1.32,3.35,False
+05 Sep 2009,New Zealand Warriors,0,Melbourne Storm,30,3.18,1.36,False
+04 Sep 2009,St. George Illawarra Dragons,37,Parramatta Eels,0,1.63,2.25,False
+04 Sep 2009,Wests Tigers,34,Canterbury Bulldogs,12,2.63,1.49,False
+31 Aug 2009,Canberra Raiders,30,Newcastle Knights,14,1.80,2.01,False
+30 Aug 2009,Canterbury Bulldogs,40,New Zealand Warriors,20,1.10,6.58,False
+30 Aug 2009,Manly Sea Eagles,18,Cronulla Sharks,16,1.06,8.53,False
+29 Aug 2009,Melbourne Storm,38,Sydney Roosters,4,1.07,7.67,False
+29 Aug 2009,South Sydney Rabbitohs,41,St. George Illawarra Dragons,6,6.67,1.11,False
+29 Aug 2009,Gold Coast Titans,36,Wests Tigers,24,1.35,3.18,False
+28 Aug 2009,NQ Cowboys,10,Brisbane Broncos,16,2.75,1.44,False
+28 Aug 2009,Parramatta Eels,48,Penrith Panthers,6,1.37,3.05,False
+24 Aug 2009,Canterbury Bulldogs,28,Sydney Roosters,4,1.12,5.88,False
+23 Aug 2009,New Zealand Warriors,34,Canberra Raiders,20,1.90,1.90,False
+23 Aug 2009,Melbourne Storm,16,Manly Sea Eagles,20,1.94,1.87,False
+23 Aug 2009,Gold Coast Titans,20,Cronulla Sharks,10,1.10,6.50,False
+22 Aug 2009,Penrith Panthers,40,South Sydney Rabbitohs,10,1.34,3.13,False
+22 Aug 2009,Newcastle Knights,32,NQ Cowboys,26,1.58,2.37,False
+21 Aug 2009,St. George Illawarra Dragons,2,Brisbane Broncos,12,1.28,3.77,False
+21 Aug 2009,Wests Tigers,18,Parramatta Eels,26,2.32,1.60,False
+17 Aug 2009,Newcastle Knights,26,Melbourne Storm,14,2.10,1.72,False
+16 Aug 2009,Brisbane Broncos,58,Penrith Panthers,24,1.54,2.40,False
+16 Aug 2009,Cronulla Sharks,10,Wests Tigers,56,3.96,1.26,False
+15 Aug 2009,Canberra Raiders,24,St. George Illawarra Dragons,12,2.77,1.43,False
+15 Aug 2009,Parramatta Eels,40,New Zealand Warriors,4,1.19,4.50,False
+15 Aug 2009,Sydney Roosters,12,Manly Sea Eagles,44,4.53,1.19,False
+14 Aug 2009,NQ Cowboys,12,Canterbury Bulldogs,22,1.56,2.39,False
+14 Aug 2009,South Sydney Rabbitohs,14,Gold Coast Titans,22,1.85,1.95,False
+10 Aug 2009,Brisbane Broncos,30,Cronulla Sharks,10,1.18,4.56,False
+09 Aug 2009,Parramatta Eels,40,Newcastle Knights,8,1.49,2.61,False
+09 Aug 2009,Sydney Roosters,10,Wests Tigers,17,2.78,1.44,False
+09 Aug 2009,New Zealand Warriors,10,Gold Coast Titans,30,2.31,1.61,False
+08 Aug 2009,Canterbury Bulldogs,23,Canberra Raiders,20,1.20,4.37,False
+08 Aug 2009,Manly Sea Eagles,22,South Sydney Rabbitohs,36,1.23,4.17,False
+07 Aug 2009,Melbourne Storm,20,NQ Cowboys,8,1.44,2.78,False
+07 Aug 2009,Penrith Panthers,6,St. George Illawarra Dragons,25,2.78,1.44,False
+03 Aug 2009,Wests Tigers,19,Manly Sea Eagles,18,2.75,1.44,False
+02 Aug 2009,South Sydney Rabbitohs,18,Canterbury Bulldogs,26,2.97,1.39,False
+02 Aug 2009,Cronulla Sharks,0,Parramatta Eels,30,2.76,1.45,False
+01 Aug 2009,Penrith Panthers,32,New Zealand Warriors,32,1.31,3.55,True
+01 Aug 2009,Canberra Raiders,56,Brisbane Broncos,0,2.25,1.65,False
+31 Jul 2009,Gold Coast Titans,18,NQ Cowboys,34,1.52,2.58,False
+31 Jul 2009,St. George Illawarra Dragons,26,Melbourne Storm,12,1.52,2.58,False
+27 Jul 2009,South Sydney Rabbitohs,40,Sydney Roosters,20,1.37,3.10,False
+26 Jul 2009,Canberra Raiders,4,Wests Tigers,25,1.65,2.22,False
+26 Jul 2009,New Zealand Warriors,4,St. George Illawarra Dragons,29,2.67,1.47,False
+25 Jul 2009,Melbourne Storm,30,Cronulla Sharks,10,1.28,3.62,False
+25 Jul 2009,NQ Cowboys,20,Penrith Panthers,28,1.35,3.20,False
+25 Jul 2009,Canterbury Bulldogs,8,Parramatta Eels,27,1.26,3.72,False
+24 Jul 2009,Gold Coast Titans,34,Brisbane Broncos,18,1.18,4.61,False
+24 Jul 2009,Manly Sea Eagles,44,Newcastle Knights,20,1.37,3.03,False
+20 Jul 2009,Parramatta Eels,18,Melbourne Storm,16,2.36,1.56,False
+19 Jul 2009,Wests Tigers,34,NQ Cowboys,14,1.69,2.16,False
+19 Jul 2009,Sydney Roosters,24,New Zealand Warriors,30,1.67,2.20,False
+18 Jul 2009,Cronulla Sharks,26,Manly Sea Eagles,32,2.65,1.47,False
+18 Jul 2009,Penrith Panthers,27,Canberra Raiders,14,1.78,2.02,False
+17 Jul 2009,Canterbury Bulldogs,23,Gold Coast Titans,16,1.64,2.25,False
+17 Jul 2009,Brisbane Broncos,12,South Sydney Rabbitohs,44,1.49,2.61,False
+13 Jul 2009,Gold Coast Titans,18,Parramatta Eels,12,1.22,4.28,False
+12 Jul 2009,St. George Illawarra Dragons,48,Manly Sea Eagles,18,1.44,2.77,False
+12 Jul 2009,New Zealand Warriors,14,Canterbury Bulldogs,18,1.43,2.82,False
+11 Jul 2009,Newcastle Knights,23,Canberra Raiders,4,1.46,2.70,False
+10 Jul 2009,South Sydney Rabbitohs,36,Penrith Panthers,12,1.52,2.51,False
+06 Jul 2009,Manly Sea Eagles,19,Canterbury Bulldogs,12,1.64,2.24,False
+05 Jul 2009,Penrith Panthers,38,Parramatta Eels,34,1.80,2.01,False
+05 Jul 2009,Canberra Raiders,34,Gold Coast Titans,28,1.52,2.50,False
+04 Jul 2009,Melbourne Storm,18,Newcastle Knights,14,1.31,3.42,False
+04 Jul 2009,NQ Cowboys,24,Cronulla Sharks,4,1.23,4.15,False
+04 Jul 2009,South Sydney Rabbitohs,20,Wests Tigers,54,1.80,2.01,False
+03 Jul 2009,St. George Illawarra Dragons,34,Sydney Roosters,12,1.21,4.30,False
+29 Jun 2009,Newcastle Knights,25,South Sydney Rabbitohs,20,1.38,3.08,False
+28 Jun 2009,Parramatta Eels,21,Brisbane Broncos,14,2.10,1.73,False
+28 Jun 2009,Canberra Raiders,26,Melbourne Storm,16,2.70,1.46,False
+27 Jun 2009,Sydney Roosters,19,Cronulla Sharks,12,1.97,1.83,False
+27 Jun 2009,Gold Coast Titans,28,New Zealand Warriors,12,1.51,2.54,False
+26 Jun 2009,Canterbury Bulldogs,30,NQ Cowboys,18,1.47,2.65,False
+26 Jun 2009,Wests Tigers,10,St. George Illawarra Dragons,21,2.87,1.43,False
+22 Jun 2009,Cronulla Sharks,46,Brisbane Broncos,12,1.83,1.97,False
+21 Jun 2009,Manly Sea Eagles,20,Canberra Raiders,14,1.66,2.21,False
+21 Jun 2009,Melbourne Storm,14,Wests Tigers,12,1.52,2.55,False
+20 Jun 2009,NQ Cowboys,24,Sydney Roosters,22,2.04,1.77,False
+19 Jun 2009,Canterbury Bulldogs,19,Penrith Panthers,12,1.24,4.07,False
+15 Jun 2009,Parramatta Eels,6,Wests Tigers,23,1.61,2.32,False
+14 Jun 2009,St. George Illawarra Dragons,32,NQ Cowboys,18,1.63,2.26,False
+14 Jun 2009,Canberra Raiders,22,Cronulla Sharks,24,1.38,2.98,False
+13 Jun 2009,Penrith Panthers,6,Manly Sea Eagles,20,2.22,1.65,False
+13 Jun 2009,South Sydney Rabbitohs,22,Melbourne Storm,28,4.38,1.21,False
+13 Jun 2009,Sydney Roosters,20,Gold Coast Titans,24,2.22,1.65,False
+12 Jun 2009,Brisbane Broncos,22,Canterbury Bulldogs,44,2.13,1.70,False
+12 Jun 2009,New Zealand Warriors,13,Newcastle Knights,0,1.61,2.26,False
+08 Jun 2009,Gold Coast Titans,28,St. George Illawarra Dragons,24,2.03,1.79,False
+07 Jun 2009,Newcastle Knights,18,Parramatta Eels,20,1.27,3.72,False
+07 Jun 2009,Cronulla Sharks,18,New Zealand Warriors,10,2.11,1.72,False
+06 Jun 2009,NQ Cowboys,46,South Sydney Rabbitohs,12,1.35,3.25,False
+06 Jun 2009,Manly Sea Eagles,38,Sydney Roosters,18,1.24,3.91,False
+05 Jun 2009,Melbourne Storm,48,Brisbane Broncos,4,1.47,2.68,False
+05 Jun 2009,Wests Tigers,10,Penrith Panthers,26,1.81,2.02,False
+01 Jun 2009,South Sydney Rabbitohs,18,Canberra Raiders,34,1.44,2.77,False
+31 May 2009,Newcastle Knights,22,Canterbury Bulldogs,14,2.21,1.66,False
+31 May 2009,New Zealand Warriors,14,Wests Tigers,0,1.50,2.60,False
+30 May 2009,Parramatta Eels,10,Cronulla Sharks,13,1.50,2.59,False
+29 May 2009,St. George Illawarra Dragons,38,Penrith Panthers,10,1.41,2.95,False
+25 May 2009,NQ Cowboys,36,Newcastle Knights,10,1.65,2.23,False
+24 May 2009,Gold Coast Titans,18,Manly Sea Eagles,17,1.80,2.01,False
+24 May 2009,Canberra Raiders,38,New Zealand Warriors,12,1.83,1.97,False
+23 May 2009,Canterbury Bulldogs,26,Melbourne Storm,10,2.34,1.60,False
+23 May 2009,Penrith Panthers,48,Sydney Roosters,6,1.39,2.97,False
+23 May 2009,Cronulla Sharks,4,St. George Illawarra Dragons,26,3.07,1.38,False
+22 May 2009,Parramatta Eels,16,South Sydney Rabbitohs,16,2.90,1.41,True
+22 May 2009,Wests Tigers,18,Brisbane Broncos,20,3.55,1.29,False
+18 May 2009,Melbourne Storm,46,Canberra Raiders,6,1.22,4.32,False
+17 May 2009,Wests Tigers,22,South Sydney Rabbitohs,23,1.78,2.02,False
+17 May 2009,Manly Sea Eagles,34,Parramatta Eels,10,1.40,2.92,False
+17 May 2009,New Zealand Warriors,12,NQ Cowboys,34,1.46,2.69,False
+16 May 2009,Penrith Panthers,26,Cronulla Sharks,22,1.43,2.80,False
+16 May 2009,Sydney Roosters,6,Newcastle Knights,38,2.35,1.58,False
+15 May 2009,Brisbane Broncos,32,Gold Coast Titans,18,1.43,2.83,False
+15 May 2009,St. George Illawarra Dragons,20,Canterbury Bulldogs,18,1.59,2.34,False
+11 May 2009,Sydney Roosters,12,Melbourne Storm,28,2.44,1.54,False
+10 May 2009,Brisbane Broncos,20,Manly Sea Eagles,22,1.51,2.53,False
+10 May 2009,Newcastle Knights,23,Gold Coast Titans,18,1.60,2.32,False
+09 May 2009,NQ Cowboys,24,St. George Illawarra Dragons,20,1.54,2.44,False
+03 May 2009,Canterbury Bulldogs,22,Wests Tigers,20,1.48,2.61,False
+03 May 2009,St. George Illawarra Dragons,12,New Zealand Warriors,11,1.50,2.57,False
+02 May 2009,Canberra Raiders,10,Penrith Panthers,18,1.61,2.30,False
+02 May 2009,Newcastle Knights,28,Brisbane Broncos,12,2.57,1.50,False
+02 May 2009,Cronulla Sharks,12,Sydney Roosters,19,2.27,1.62,False
+02 May 2009,Gold Coast Titans,22,South Sydney Rabbitohs,14,1.44,2.79,False
+01 May 2009,Manly Sea Eagles,8,Melbourne Storm,22,1.94,1.87,False
+01 May 2009,Parramatta Eels,28,NQ Cowboys,18,2.65,1.48,False
+27 Apr 2009,Penrith Panthers,34,Gold Coast Titans,20,1.73,2.09,False
+26 Apr 2009,Canberra Raiders,20,Canterbury Bulldogs,30,1.74,2.09,False
+25 Apr 2009,NQ Cowboys,26,Manly Sea Eagles,12,1.67,2.18,False
+25 Apr 2009,Melbourne Storm,14,New Zealand Warriors,14,1.44,2.77,True
+25 Apr 2009,Sydney Roosters,0,St. George Illawarra Dragons,29,2.44,1.54,False
+24 Apr 2009,Brisbane Broncos,40,Parramatta Eels,8,1.25,3.83,False
+24 Apr 2009,South Sydney Rabbitohs,32,Cronulla Sharks,26,1.55,2.44,False
+20 Apr 2009,Wests Tigers,16,Melbourne Storm,6,2.82,1.41,False
+19 Apr 2009,Parramatta Eels,18,Canterbury Bulldogs,48,2.51,1.52,False
+19 Apr 2009,Cronulla Sharks,10,NQ Cowboys,34,2.46,1.52,False
+19 Apr 2009,New Zealand Warriors,17,Sydney Roosters,16,1.45,2.70,True
+18 Apr 2009,South Sydney Rabbitohs,8,Manly Sea Eagles,24,2.58,1.49,False
+18 Apr 2009,St. George Illawarra Dragons,18,Newcastle Knights,24,1.42,2.82,False
+17 Apr 2009,Gold Coast Titans,16,Canberra Raiders,10,1.35,3.17,False
+17 Apr 2009,Penrith Panthers,18,Brisbane Broncos,38,2.56,1.50,False
+13 Apr 2009,Canterbury Bulldogs,14,South Sydney Rabbitohs,12,1.87,1.94,False
+12 Apr 2009,Manly Sea Eagles,23,Wests Tigers,10,1.39,2.98,False
+12 Apr 2009,Newcastle Knights,24,New Zealand Warriors,22,1.62,2.23,False
+11 Apr 2009,Melbourne Storm,16,Penrith Panthers,14,1.23,4.00,False
+11 Apr 2009,NQ Cowboys,10,Gold Coast Titans,14,1.60,2.32,False
+11 Apr 2009,Cronulla Sharks,14,Canberra Raiders,24,1.77,2.04,False
+10 Apr 2009,Parramatta Eels,8,St. George Illawarra Dragons,22,2.57,1.49,False
+10 Apr 2009,Sydney Roosters,24,Brisbane Broncos,28,2.50,1.52,False
+06 Apr 2009,Canberra Raiders,23,NQ Cowboys,18,2.14,1.72,False
+05 Apr 2009,Newcastle Knights,26,Manly Sea Eagles,12,2.50,1.53,False
+05 Apr 2009,Canterbury Bulldogs,24,Cronulla Sharks,12,1.57,2.44,False
+05 Apr 2009,New Zealand Warriors,16,South Sydney Rabbitohs,22,1.46,2.73,False
+04 Apr 2009,Melbourne Storm,6,Gold Coast Titans,18,1.19,4.50,False
+04 Apr 2009,Penrith Panthers,42,Wests Tigers,22,1.91,1.90,False
+03 Apr 2009,Brisbane Broncos,12,St. George Illawarra Dragons,25,1.46,2.67,False
+03 Apr 2009,Sydney Roosters,24,Parramatta Eels,6,2.26,1.64,False
+30 Mar 2009,Manly Sea Eagles,10,Penrith Panthers,12,1.17,4.65,False
+29 Mar 2009,St. George Illawarra Dragons,10,Cronulla Sharks,6,1.38,3.03,False
+29 Mar 2009,South Sydney Rabbitohs,22,Newcastle Knights,12,1.52,2.52,False
+28 Mar 2009,NQ Cowboys,12,Melbourne Storm,26,1.77,2.04,False
+28 Mar 2009,Parramatta Eels,18,Canberra Raiders,16,1.35,3.18,False
+28 Mar 2009,New Zealand Warriors,10,Brisbane Broncos,26,1.52,2.51,False
+27 Mar 2009,Gold Coast Titans,20,Canterbury Bulldogs,12,1.71,2.12,False
+27 Mar 2009,Wests Tigers,40,Sydney Roosters,24,2.31,1.60,False
+23 Mar 2009,Cronulla Sharks,12,Newcastle Knights,24,1.67,2.19,False
+22 Mar 2009,Manly Sea Eagles,24,New Zealand Warriors,26,1.52,2.51,False
+22 Mar 2009,Canberra Raiders,4,Sydney Roosters,28,1.49,2.61,False
+21 Mar 2009,NQ Cowboys,42,Wests Tigers,14,1.35,3.18,False
+21 Mar 2009,Penrith Panthers,26,Canterbury Bulldogs,28,2.47,1.53,False
+21 Mar 2009,St. George Illawarra Dragons,16,Gold Coast Titans,10,1.49,2.61,False
+20 Mar 2009,Brisbane Broncos,16,Melbourne Storm,14,1.65,2.22,False
+20 Mar 2009,South Sydney Rabbitohs,8,Parramatta Eels,14,1.59,2.34,False
+16 Mar 2009,Wests Tigers,34,Canberra Raiders,26,1.51,2.56,False
+15 Mar 2009,Sydney Roosters,12,South Sydney Rabbitohs,52,1.56,2.41,False
+15 Mar 2009,Gold Coast Titans,34,Newcastle Knights,20,1.41,2.95,False
+14 Mar 2009,Canterbury Bulldogs,34,Manly Sea Eagles,12,2.54,1.51,False
+14 Mar 2009,Cronulla Sharks,18,Penrith Panthers,10,1.43,2.88,False
+14 Mar 2009,New Zealand Warriors,26,Parramatta Eels,18,1.41,3.00,False
+13 Mar 2009,Brisbane Broncos,19,NQ Cowboys,18,1.71,2.13,False
+13 Mar 2009,Melbourne Storm,17,St. George Illawarra Dragons,16,1.40,2.98,True
+03 Oct 2010,St. George Illawarra Dragons,32,Sydney Roosters,8,1.61,2.33,False
+25 Sep 2010,St. George Illawarra Dragons,13,Wests Tigers,12,1.43,2.80,False
+24 Sep 2010,Gold Coast Titans,6,Sydney Roosters,32,1.75,2.06,False
+18 Sep 2010,Sydney Roosters,34,Penrith Panthers,12,1.50,2.61,False
+17 Sep 2010,Canberra Raiders,24,Wests Tigers,26,1.48,2.69,False
+12 Sep 2010,St. George Illawarra Dragons,28,Manly Sea Eagles,0,1.14,5.15,False
+11 Sep 2010,Penrith Panthers,22,Canberra Raiders,24,1.53,2.47,False
+11 Sep 2010,Wests Tigers,15,Sydney Roosters,19,1.83,1.96,True
+10 Sep 2010,Gold Coast Titans,28,New Zealand Warriors,16,1.53,2.47,False
+05 Sep 2010,St. George Illawarra Dragons,38,South Sydney Rabbitohs,24,1.59,2.38,False
+05 Sep 2010,Manly Sea Eagles,24,Canterbury Bulldogs,30,1.45,2.70,False
+05 Sep 2010,Melbourne Storm,34,Newcastle Knights,4,1.08,7.00,False
+04 Sep 2010,NQ Cowboys,8,Sydney Roosters,18,4.09,1.22,False
+04 Sep 2010,Penrith Panthers,50,Cronulla Sharks,12,1.32,3.35,False
+04 Sep 2010,Parramatta Eels,12,New Zealand Warriors,26,1.78,2.02,False
+03 Sep 2010,Brisbane Broncos,16,Canberra Raiders,18,2.48,1.53,False
+03 Sep 2010,Gold Coast Titans,21,Wests Tigers,18,1.56,2.43,False
+30 Aug 2010,Canterbury Bulldogs,18,Penrith Panthers,24,2.57,1.50,False
+29 Aug 2010,Sydney Roosters,30,Manly Sea Eagles,14,1.56,2.39,False
+29 Aug 2010,Wests Tigers,26,Melbourne Storm,14,1.38,2.98,False
+28 Aug 2010,Canberra Raiders,48,NQ Cowboys,4,1.11,5.63,False
+28 Aug 2010,Newcastle Knights,18,St. George Illawarra Dragons,26,2.26,1.62,False
+28 Aug 2010,Cronulla Sharks,30,Gold Coast Titans,16,2.98,1.39,False
+27 Aug 2010,South Sydney Rabbitohs,24,Parramatta Eels,16,2.59,1.49,False
+27 Aug 2010,New Zealand Warriors,36,Brisbane Broncos,4,1.48,2.63,False
+23 Aug 2010,Sydney Roosters,14,Gold Coast Titans,23,1.57,2.35,False
+22 Aug 2010,Parramatta Eels,18,Wests Tigers,20,1.65,2.18,False
+22 Aug 2010,Canberra Raiders,32,St. George Illawarra Dragons,16,2.26,1.60,False
+21 Aug 2010,Melbourne Storm,24,Cronulla Sharks,4,1.25,3.78,False
+21 Aug 2010,NQ Cowboys,20,Canterbury Bulldogs,22,2.34,1.57,False
+21 Aug 2010,Manly Sea Eagles,19,New Zealand Warriors,16,1.46,2.67,False
+20 Aug 2010,Newcastle Knights,44,Brisbane Broncos,18,1.92,1.87,False
+20 Aug 2010,Penrith Panthers,54,South Sydney Rabbitohs,18,1.50,2.54,False
+16 Aug 2010,St. George Illawarra Dragons,32,Manly Sea Eagles,10,1.45,2.71,False
+15 Aug 2010,Wests Tigers,43,Penrith Panthers,18,2.01,1.79,False
+15 Aug 2010,Melbourne Storm,18,South Sydney Rabbitohs,16,1.45,2.75,False
+15 Aug 2010,New Zealand Warriors,22,Newcastle Knights,10,1.46,2.70,False
+14 Aug 2010,Canterbury Bulldogs,14,Canberra Raiders,28,1.81,2.01,False
+14 Aug 2010,Gold Coast Titans,37,NQ Cowboys,18,1.15,4.90,False
+13 Aug 2010,Brisbane Broncos,14,Parramatta Eels,30,1.74,2.09,False
+13 Aug 2010,Cronulla Sharks,18,Sydney Roosters,12,3.25,1.34,False
+09 Aug 2010,Canberra Raiders,30,Penrith Panthers,26,1.78,2.05,False
+08 Aug 2010,Sydney Roosters,12,St. George Illawarra Dragons,19,2.02,1.80,False
+08 Aug 2010,Newcastle Knights,30,Canterbury Bulldogs,6,1.92,1.88,False
+07 Aug 2010,Cronulla Sharks,10,New Zealand Warriors,37,2.20,1.68,False
+07 Aug 2010,South Sydney Rabbitohs,34,Wests Tigers,30,2.92,1.40,True
+07 Aug 2010,Manly Sea Eagles,26,Melbourne Storm,6,1.62,2.27,False
+06 Aug 2010,Gold Coast Titans,34,Parramatta Eels,12,1.75,2.06,False
+06 Aug 2010,NQ Cowboys,26,Brisbane Broncos,34,2.67,1.46,False
+02 Aug 2010,Newcastle Knights,32,Manly Sea Eagles,14,2.93,1.40,False
+03 Oct 2010,St. George Illawarra Dragons,32,Sydney Roosters,8,1.61,2.33,False
+25 Sep 2010,St. George Illawarra Dragons,13,Wests Tigers,12,1.43,2.80,False
+24 Sep 2010,Gold Coast Titans,6,Sydney Roosters,32,1.75,2.06,False
+18 Sep 2010,Sydney Roosters,34,Penrith Panthers,12,1.50,2.61,False
+17 Sep 2010,Canberra Raiders,24,Wests Tigers,26,1.48,2.69,False
+12 Sep 2010,St. George Illawarra Dragons,28,Manly Sea Eagles,0,1.14,5.15,False
+11 Sep 2010,Penrith Panthers,22,Canberra Raiders,24,1.53,2.47,False
+11 Sep 2010,Wests Tigers,15,Sydney Roosters,19,1.83,1.96,True
+10 Sep 2010,Gold Coast Titans,28,New Zealand Warriors,16,1.53,2.47,False
+05 Sep 2010,St. George Illawarra Dragons,38,South Sydney Rabbitohs,24,1.59,2.38,False
+05 Sep 2010,Manly Sea Eagles,24,Canterbury Bulldogs,30,1.45,2.70,False
+05 Sep 2010,Melbourne Storm,34,Newcastle Knights,4,1.08,7.00,False
+04 Sep 2010,NQ Cowboys,8,Sydney Roosters,18,4.09,1.22,False
+04 Sep 2010,Penrith Panthers,50,Cronulla Sharks,12,1.32,3.35,False
+04 Sep 2010,Parramatta Eels,12,New Zealand Warriors,26,1.78,2.02,False
+03 Sep 2010,Brisbane Broncos,16,Canberra Raiders,18,2.48,1.53,False
+03 Sep 2010,Gold Coast Titans,21,Wests Tigers,18,1.56,2.43,False
+30 Aug 2010,Canterbury Bulldogs,18,Penrith Panthers,24,2.57,1.50,False
+29 Aug 2010,Sydney Roosters,30,Manly Sea Eagles,14,1.56,2.39,False
+29 Aug 2010,Wests Tigers,26,Melbourne Storm,14,1.38,2.98,False
+28 Aug 2010,Canberra Raiders,48,NQ Cowboys,4,1.11,5.63,False
+28 Aug 2010,Newcastle Knights,18,St. George Illawarra Dragons,26,2.26,1.62,False
+28 Aug 2010,Cronulla Sharks,30,Gold Coast Titans,16,2.98,1.39,False
+27 Aug 2010,South Sydney Rabbitohs,24,Parramatta Eels,16,2.59,1.49,False
+27 Aug 2010,New Zealand Warriors,36,Brisbane Broncos,4,1.48,2.63,False
+23 Aug 2010,Sydney Roosters,14,Gold Coast Titans,23,1.57,2.35,False
+22 Aug 2010,Parramatta Eels,18,Wests Tigers,20,1.65,2.18,False
+22 Aug 2010,Canberra Raiders,32,St. George Illawarra Dragons,16,2.26,1.60,False
+21 Aug 2010,Melbourne Storm,24,Cronulla Sharks,4,1.25,3.78,False
+21 Aug 2010,NQ Cowboys,20,Canterbury Bulldogs,22,2.34,1.57,False
+21 Aug 2010,Manly Sea Eagles,19,New Zealand Warriors,16,1.46,2.67,False
+20 Aug 2010,Newcastle Knights,44,Brisbane Broncos,18,1.92,1.87,False
+20 Aug 2010,Penrith Panthers,54,South Sydney Rabbitohs,18,1.50,2.54,False
+16 Aug 2010,St. George Illawarra Dragons,32,Manly Sea Eagles,10,1.45,2.71,False
+15 Aug 2010,Wests Tigers,43,Penrith Panthers,18,2.01,1.79,False
+15 Aug 2010,Melbourne Storm,18,South Sydney Rabbitohs,16,1.45,2.75,False
+15 Aug 2010,New Zealand Warriors,22,Newcastle Knights,10,1.46,2.70,False
+14 Aug 2010,Canterbury Bulldogs,14,Canberra Raiders,28,1.81,2.01,False
+14 Aug 2010,Gold Coast Titans,37,NQ Cowboys,18,1.15,4.90,False
+13 Aug 2010,Brisbane Broncos,14,Parramatta Eels,30,1.74,2.09,False
+13 Aug 2010,Cronulla Sharks,18,Sydney Roosters,12,3.25,1.34,False
+09 Aug 2010,Canberra Raiders,30,Penrith Panthers,26,1.78,2.05,False
+08 Aug 2010,Sydney Roosters,12,St. George Illawarra Dragons,19,2.02,1.80,False
+08 Aug 2010,Newcastle Knights,30,Canterbury Bulldogs,6,1.92,1.88,False
+07 Aug 2010,Cronulla Sharks,10,New Zealand Warriors,37,2.20,1.68,False
+07 Aug 2010,South Sydney Rabbitohs,34,Wests Tigers,30,2.92,1.40,True
+07 Aug 2010,Manly Sea Eagles,26,Melbourne Storm,6,1.62,2.27,False
+06 Aug 2010,Gold Coast Titans,34,Parramatta Eels,12,1.75,2.06,False
+06 Aug 2010,NQ Cowboys,26,Brisbane Broncos,34,2.67,1.46,False
+02 Aug 2010,Newcastle Knights,32,Manly Sea Eagles,14,2.93,1.40,False
+01 Aug 2010,Brisbane Broncos,10,St. George Illawarra Dragons,6,2.07,1.76,False
+01 Aug 2010,Melbourne Storm,36,Canberra Raiders,12,1.45,2.78,False
+01 Aug 2010,New Zealand Warriors,20,Gold Coast Titans,28,1.57,2.38,False
+31 Jul 2010,Wests Tigers,24,Cronulla Sharks,22,1.25,3.93,False
+31 Jul 2010,Parramatta Eels,12,Sydney Roosters,48,1.51,2.53,False
+30 Jul 2010,Canterbury Bulldogs,32,South Sydney Rabbitohs,12,2.18,1.69,False
+30 Jul 2010,Penrith Panthers,24,NQ Cowboys,16,1.22,4.09,False
+26 Jul 2010,Brisbane Broncos,30,Sydney Roosters,34,1.37,3.05,False
+25 Jul 2010,Manly Sea Eagles,38,Wests Tigers,20,1.59,2.34,False
+25 Jul 2010,South Sydney Rabbitohs,38,New Zealand Warriors,28,1.68,2.17,False
+24 Jul 2010,Melbourne Storm,18,Penrith Panthers,10,1.62,2.30,False
+24 Jul 2010,NQ Cowboys,28,Newcastle Knights,24,1.62,2.25,True
+24 Jul 2010,Canberra Raiders,20,Cronulla Sharks,13,1.31,3.55,False
+23 Jul 2010,Canterbury Bulldogs,16,Parramatta Eels,32,2.47,1.54,False
+23 Jul 2010,St. George Illawarra Dragons,10,Gold Coast Titans,11,1.25,3.78,True
+19 Jul 2010,Wests Tigers,26,NQ Cowboys,16,1.26,3.70,False
+18 Jul 2010,Sydney Roosters,36,Canterbury Bulldogs,32,1.70,2.15,False
+18 Jul 2010,Canberra Raiders,52,Newcastle Knights,18,1.51,2.55,False
+17 Jul 2010,Cronulla Sharks,18,Manly Sea Eagles,48,3.38,1.31,False
+17 Jul 2010,Penrith Panthers,28,Parramatta Eels,34,1.58,2.34,False
+17 Jul 2010,New Zealand Warriors,13,Melbourne Storm,6,1.71,2.15,False
+16 Jul 2010,Gold Coast Titans,10,Brisbane Broncos,24,1.90,1.90,False
+16 Jul 2010,South Sydney Rabbitohs,13,St. George Illawarra Dragons,16,2.57,1.51,False
+12 Jul 2010,Parramatta Eels,36,NQ Cowboys,24,1.42,2.83,False
+11 Jul 2010,Penrith Panthers,6,New Zealand Warriors,12,1.35,3.10,False
+11 Jul 2010,Newcastle Knights,21,Cronulla Sharks,10,1.42,2.85,False
+10 Jul 2010,Canterbury Bulldogs,20,Melbourne Storm,18,1.80,2.00,False
+10 Jul 2010,Manly Sea Eagles,22,Canberra Raiders,24,1.25,3.88,False
+09 Jul 2010,Sydney Roosters,18,South Sydney Rabbitohs,14,1.95,1.83,False
+09 Jul 2010,Wests Tigers,15,Gold Coast Titans,14,1.54,2.42,False
+05 Jul 2010,St. George Illawarra Dragons,8,Penrith Panthers,12,1.38,3.05,False
+04 Jul 2010,Canberra Raiders,12,Sydney Roosters,22,1.59,2.33,False
+04 Jul 2010,New Zealand Warriors,35,Parramatta Eels,6,1.61,2.26,False
+03 Jul 2010,Cronulla Sharks,12,Canterbury Bulldogs,24,3.05,1.38,False
+02 Jul 2010,Brisbane Broncos,14,Wests Tigers,16,2.43,-1,False
+28 Jun 2010,Canberra Raiders,10,Canterbury Bulldogs,18,1.48,2.69,False
+27 Jun 2010,Gold Coast Titans,16,Newcastle Knights,24,1.48,2.64,False
+27 Jun 2010,Sydney Roosters,18,New Zealand Warriors,20,1.80,2.00,False
+26 Jun 2010,South Sydney Rabbitohs,16,Melbourne Storm,14,2.50,1.53,False
+26 Jun 2010,NQ Cowboys,19,Cronulla Sharks,20,1.47,2.69,True
+26 Jun 2010,Parramatta Eels,6,Brisbane Broncos,10,1.78,2.05,False
+25 Jun 2010,Penrith Panthers,40,Manly Sea Eagles,22,1.43,2.88,False
+25 Jun 2010,St. George Illawarra Dragons,34,Wests Tigers,10,1.36,3.20,False
+21 Jun 2010,Newcastle Knights,6,Parramatta Eels,4,2.46,1.55,False
+20 Jun 2010,Wests Tigers,18,Canberra Raiders,8,1.38,3.08,False
+20 Jun 2010,Cronulla Sharks,4,St. George Illawarra Dragons,22,3.05,1.39,False
+19 Jun 2010,Manly Sea Eagles,26,South Sydney Rabbitohs,25,1.59,2.36,False
+19 Jun 2010,Melbourne Storm,58,NQ Cowboys,12,1.44,2.78,False
+18 Jun 2010,Canterbury Bulldogs,24,Gold Coast Titans,25,2.11,1.72,False
+18 Jun 2010,Brisbane Broncos,12,Penrith Panthers,22,1.51,2.57,False
+14 Jun 2010,Melbourne Storm,6,Sydney Roosters,38,2.39,1.59,False
+13 Jun 2010,Brisbane Broncos,50,South Sydney Rabbitohs,22,1.73,2.11,False
+13 Jun 2010,Newcastle Knights,24,New Zealand Warriors,32,1.57,2.39,False
+12 Jun 2010,NQ Cowboys,16,Canberra Raiders,8,2.29,1.61,False
+11 Jun 2010,Gold Coast Titans,28,Manly Sea Eagles,14,1.47,2.67,False
+07 Jun 2010,South Sydney Rabbitohs,32,NQ Cowboys,4,1.41,2.85,False
+06 Jun 2010,Manly Sea Eagles,6,Brisbane Broncos,22,1.47,2.64,False
+06 Jun 2010,Canberra Raiders,28,Gold Coast Titans,24,1.60,2.30,False
+06 Jun 2010,New Zealand Warriors,20,St. George Illawarra Dragons,22,2.87,1.41,False
+05 Jun 2010,Sydney Roosters,18,Cronulla Sharks,42,1.36,3.10,False
+05 Jun 2010,Penrith Panthers,28,Newcastle Knights,10,1.49,2.57,False
+04 Jun 2010,Canterbury Bulldogs,12,Wests Tigers,19,2.15,1.70,False
+04 Jun 2010,Parramatta Eels,24,Melbourne Storm,10,2.15,1.69,False
+31 May 2010,Gold Coast Titans,16,Sydney Roosters,30,1.40,2.88,False
+30 May 2010,South Sydney Rabbitohs,42,Penrith Panthers,22,1.93,1.86,False
+30 May 2010,Melbourne Storm,23,Canterbury Bulldogs,12,1.82,2.01,False
+29 May 2010,NQ Cowboys,20,Manly Sea Eagles,24,2.11,1.73,False
+29 May 2010,Cronulla Sharks,4,Brisbane Broncos,20,2.27,1.61,False
+28 May 2010,St. George Illawarra Dragons,30,Parramatta Eels,0,1.54,2.44,False
+28 May 2010,Wests Tigers,50,New Zealand Warriors,6,1.43,2.83,False
+24 May 2010,Penrith Panthers,31,Canterbury Bulldogs,16,1.43,2.80,False
+23 May 2010,St. George Illawarra Dragons,14,Canberra Raiders,22,1.66,2.20,False
+23 May 2010,New Zealand Warriors,26,South Sydney Rabbitohs,24,1.73,2.09,False
+22 May 2010,Parramatta Eels,18,Cronulla Sharks,22,1.34,3.23,False
+21 May 2010,Newcastle Knights,6,Wests Tigers,23,1.99,1.83,False
+17 May 2010,Manly Sea Eagles,12,Parramatta Eels,19,1.51,2.53,False
+16 May 2010,Cronulla Sharks,14,Penrith Panthers,34,2.66,1.47,False
+16 May 2010,Wests Tigers,10,South Sydney Rabbitohs,50,1.71,2.13,False
+15 May 2010,Canberra Raiders,6,Melbourne Storm,17,2.27,1.61,False
+15 May 2010,Sydney Roosters,18,Newcastle Knights,34,1.80,2.01,False
+15 May 2010,New Zealand Warriors,24,NQ Cowboys,12,1.48,2.66,False
+14 May 2010,Brisbane Broncos,28,Gold Coast Titans,6,1.86,1.94,False
+14 May 2010,Canterbury Bulldogs,6,St. George Illawarra Dragons,19,2.53,1.51,False
+10 May 2010,Sydney Roosters,14,NQ Cowboys,32,1.28,3.61,False
+09 May 2010,Melbourne Storm,14,Brisbane Broncos,36,1.20,4.35,False
+09 May 2010,Newcastle Knights,36,Gold Coast Titans,38,1.90,1.90,False
+08 May 2010,Manly Sea Eagles,24,St. George Illawarra Dragons,6,2.40,1.56,False
+02 May 2010,South Sydney Rabbitohs,22,Manly Sea Eagles,30,2.29,1.61,False
+02 May 2010,Wests Tigers,8,Sydney Roosters,12,1.51,2.52,False
+01 May 2010,NQ Cowboys,6,Melbourne Storm,34,2.33,1.60,False
+01 May 2010,St. George Illawarra Dragons,38,Cronulla Sharks,0,1.14,5.07,False
+01 May 2010,Gold Coast Titans,38,Penrith Panthers,24,1.62,2.26,False
+01 May 2010,New Zealand Warriors,16,Canberra Raiders,23,1.44,2.76,False
+30 Apr 2010,Brisbane Broncos,22,Newcastle Knights,30,1.50,2.57,False
+30 Apr 2010,Parramatta Eels,26,Canterbury Bulldogs,10,1.41,2.84,False
+26 Apr 2010,Manly Sea Eagles,22,Gold Coast Titans,24,1.24,3.96,False
+25 Apr 2010,Melbourne Storm,40,New Zealand Warriors,6,1.39,3.00,False
+25 Apr 2010,St. George Illawarra Dragons,28,Sydney Roosters,6,1.48,2.66,False
+25 Apr 2010,Canberra Raiders,24,South Sydney Rabbitohs,26,1.77,2.05,False
+24 Apr 2010,Cronulla Sharks,26,Newcastle Knights,6,2.57,1.50,False
+24 Apr 2010,Penrith Panthers,26,Wests Tigers,18,1.47,2.65,False
+23 Apr 2010,Canterbury Bulldogs,36,Brisbane Broncos,18,1.38,3.01,False
+23 Apr 2010,NQ Cowboys,18,Parramatta Eels,24,2.28,1.59,False
+19 Apr 2010,Melbourne Storm,16,Manly Sea Eagles,18,1.35,3.15,False
+18 Apr 2010,Parramatta Eels,22,South Sydney Rabbitohs,8,1.98,1.81,False
+18 Apr 2010,Brisbane Broncos,44,Cronulla Sharks,16,1.38,3.03,False
+18 Apr 2010,New Zealand Warriors,12,Penrith Panthers,40,1.69,2.16,False
+17 Apr 2010,Sydney Roosters,36,Canberra Raiders,6,1.48,2.61,False
+17 Apr 2010,Newcastle Knights,36,NQ Cowboys,18,1.32,3.33,False
+16 Apr 2010,Gold Coast Titans,6,St. George Illawarra Dragons,19,2.06,1.75,False
+16 Apr 2010,Wests Tigers,4,Canterbury Bulldogs,24,1.62,2.27,False
+12 Apr 2010,Parramatta Eels,14,Canberra Raiders,24,1.32,3.28,False
+11 Apr 2010,Penrith Panthers,28,Sydney Roosters,6,1.83,1.99,False
+11 Apr 2010,Manly Sea Eagles,40,Cronulla Sharks,12,1.34,3.18,False
+10 Apr 2010,Canterbury Bulldogs,24,New Zealand Warriors,30,1.36,3.10,False
+10 Apr 2010,NQ Cowboys,16,Wests Tigers,23,1.77,2.05,False
+10 Apr 2010,South Sydney Rabbitohs,28,Newcastle Knights,10,1.44,2.75,False
+09 Apr 2010,Gold Coast Titans,20,Melbourne Storm,16,2.60,1.49,False
+09 Apr 2010,St. George Illawarra Dragons,34,Brisbane Broncos,16,1.08,6.84,False
+05 Apr 2010,South Sydney Rabbitohs,38,Canterbury Bulldogs,16,2.49,1.53,False
+05 Apr 2010,Newcastle Knights,30,Penrith Panthers,34,1.67,2.19,False
+04 Apr 2010,Canberra Raiders,22,Wests Tigers,35,2.13,1.71,False
+04 Apr 2010,New Zealand Warriors,6,Manly Sea Eagles,14,2.16,1.69,False
+03 Apr 2010,NQ Cowboys,32,Gold Coast Titans,18,1.51,2.51,False
+03 Apr 2010,Cronulla Sharks,11,Parramatta Eels,0,3.93,1.24,False
+02 Apr 2010,Sydney Roosters,25,Brisbane Broncos,6,1.34,3.21,False
+02 Apr 2010,Melbourne Storm,17,St. George Illawarra Dragons,4,1.71,2.13,False
+29 Mar 2010,Cronulla Sharks,8,South Sydney Rabbitohs,30,2.14,1.70,False
+28 Mar 2010,Canterbury Bulldogs,60,Sydney Roosters,14,2.00,1.82,False
+28 Mar 2010,Brisbane Broncos,16,New Zealand Warriors,48,1.51,2.52,False
+27 Mar 2010,Gold Coast Titans,24,Canberra Raiders,4,1.34,3.22,False
+27 Mar 2010,Manly Sea Eagles,36,Newcastle Knights,12,1.55,2.45,False
+27 Mar 2010,Penrith Panthers,10,Melbourne Storm,16,2.18,1.70,False
+26 Mar 2010,St. George Illawarra Dragons,33,NQ Cowboys,8,1.37,3.13,False
+26 Mar 2010,Wests Tigers,23,Parramatta Eels,12,2.47,1.54,False
+22 Mar 2010,Canberra Raiders,22,Brisbane Broncos,14,1.68,2.18,False
+21 Mar 2010,Sydney Roosters,44,Wests Tigers,32,2.14,1.69,False
+21 Mar 2010,Parramatta Eels,24,Manly Sea Eagles,20,1.38,3.02,False
+20 Mar 2010,Newcastle Knights,14,Melbourne Storm,20,2.42,1.55,False
+20 Mar 2010,NQ Cowboys,28,Penrith Panthers,20,1.66,2.25,False
+20 Mar 2010,New Zealand Warriors,30,Cronulla Sharks,16,1.49,2.63,False
+19 Mar 2010,South Sydney Rabbitohs,18,Gold Coast Titans,19,1.73,2.09,True
+19 Mar 2010,St. George Illawarra Dragons,26,Canterbury Bulldogs,6,1.52,2.53,False
+15 Mar 2010,Wests Tigers,26,Manly Sea Eagles,22,1.71,2.13,False
+14 Mar 2010,South Sydney Rabbitohs,10,Sydney Roosters,36,1.49,2.60,False
+14 Mar 2010,Gold Coast Titans,24,New Zealand Warriors,18,1.34,3.27,False
+13 Mar 2010,Cronulla Sharks,10,Melbourne Storm,14,2.75,1.45,False
+13 Mar 2010,Penrith Panthers,34,Canberra Raiders,16,1.40,2.98,False
+13 Mar 2010,Canterbury Bulldogs,16,Newcastle Knights,20,1.23,4.06,False
+12 Mar 2010,Brisbane Broncos,30,NQ Cowboys,24,1.85,1.97,False
+12 Mar 2010,Parramatta Eels,12,St. George Illawarra Dragons,18,1.64,2.25,False
+02 Oct 2011,Manly Sea Eagles,24,New Zealand Warriors,10,1.48,2.61,False
+24 Sep 2011,Melbourne Storm,12,New Zealand Warriors,20,1.39,2.97,False
+23 Sep 2011,Manly Sea Eagles,26,Brisbane Broncos,14,1.40,2.90,False
+17 Sep 2011,Brisbane Broncos,13,St. George Illawarra Dragons,12,1.60,2.33,True
+16 Sep 2011,Wests Tigers,20,New Zealand Warriors,22,1.31,3.38,False
+11 Sep 2011,Melbourne Storm,18,Newcastle Knights,8,1.27,3.75,False
+10 Sep 2011,Manly Sea Eagles,42,NQ Cowboys,8,1.43,2.80,False
+10 Sep 2011,Brisbane Broncos,40,New Zealand Warriors,10,1.63,2.25,False
+09 Sep 2011,Wests Tigers,21,St. George Illawarra Dragons,12,2.13,1.71,False
+04 Sep 2011,Sydney Roosters,40,Melbourne Storm,8,2.53,1.50,False
+04 Sep 2011,Brisbane Broncos,18,Manly Sea Eagles,10,1.21,4.23,False
+04 Sep 2011,Canterbury Bulldogs,36,Canberra Raiders,22,1.28,3.57,False
+03 Sep 2011,Cronulla Sharks,22,Wests Tigers,30,4.28,1.20,False
+03 Sep 2011,Gold Coast Titans,12,Parramatta Eels,32,2.01,1.78,False
+03 Sep 2011,New Zealand Warriors,18,NQ Cowboys,6,1.45,2.72,False
+02 Sep 2011,Newcastle Knights,40,South Sydney Rabbitohs,24,1.83,1.97,False
+02 Sep 2011,St. George Illawarra Dragons,32,Penrith Panthers,12,1.18,4.57,False
+29 Aug 2011,Wests Tigers,39,Gold Coast Titans,10,1.06,7.83,False
+28 Aug 2011,Brisbane Broncos,22,South Sydney Rabbitohs,10,1.52,2.52,False
+28 Aug 2011,St. George Illawarra Dragons,26,New Zealand Warriors,22,1.46,2.67,False
+27 Aug 2011,Canberra Raiders,18,Penrith Panthers,19,1.52,2.48,False
+27 Aug 2011,NQ Cowboys,28,Cronulla Sharks,20,1.10,6.23,False
+27 Aug 2011,Canterbury Bulldogs,32,Newcastle Knights,22,1.73,2.08,False
+26 Aug 2011,Manly Sea Eagles,18,Melbourne Storm,4,1.59,2.32,False
+26 Aug 2011,Parramatta Eels,12,Sydney Roosters,13,1.75,2.05,True
+22 Aug 2011,Newcastle Knights,6,Brisbane Broncos,26,2.26,1.61,False
+21 Aug 2011,Wests Tigers,31,Parramatta Eels,12,1.29,3.50,False
+21 Aug 2011,Manly Sea Eagles,27,Canterbury Bulldogs,16,1.25,3.83,False
+20 Aug 2011,Penrith Panthers,12,New Zealand Warriors,26,2.92,1.39,False
+20 Aug 2011,Sydney Roosters,36,Cronulla Sharks,25,1.45,2.75,False
+20 Aug 2011,Gold Coast Titans,26,Canberra Raiders,18,1.67,2.15,False
+19 Aug 2011,Melbourne Storm,8,St. George Illawarra Dragons,6,1.62,2.24,False
+19 Aug 2011,South Sydney Rabbitohs,26,NQ Cowboys,24,1.64,2.22,True
+15 Aug 2011,Cronulla Sharks,12,Canterbury Bulldogs,19,2.17,1.68,False
+14 Aug 2011,St. George Illawarra Dragons,12,Sydney Roosters,20,1.13,5.67,False
+14 Aug 2011,Canberra Raiders,18,South Sydney Rabbitohs,47,2.22,1.64,False
+13 Aug 2011,Gold Coast Titans,16,Melbourne Storm,40,6.33,1.10,False
+13 Aug 2011,Parramatta Eels,20,Manly Sea Eagles,26,3.50,1.29,False
+13 Aug 2011,New Zealand Warriors,20,Newcastle Knights,12,1.42,2.78,False
+12 Aug 2011,NQ Cowboys,16,Brisbane Broncos,34,2.05,1.75,False
+12 Aug 2011,Penrith Panthers,18,Wests Tigers,32,3.12,1.35,False
+08 Aug 2011,South Sydney Rabbitohs,56,Parramatta Eels,6,1.60,2.29,False
+07 Aug 2011,Manly Sea Eagles,36,Sydney Roosters,8,1.25,3.80,False
+07 Aug 2011,Newcastle Knights,40,Canberra Raiders,8,1.37,3.05,False
+06 Aug 2011,Brisbane Broncos,21,New Zealand Warriors,20,1.45,2.72,False
+06 Aug 2011,Cronulla Sharks,16,Gold Coast Titans,20,1.32,3.33,False
+06 Aug 2011,Melbourne Storm,26,Penrith Panthers,6,1.18,4.57,False
+05 Aug 2011,Canterbury Bulldogs,14,NQ Cowboys,6,2.00,1.80,False
+05 Aug 2011,Wests Tigers,16,St. George Illawarra Dragons,14,2.36,1.57,False
+01 Aug 2011,Parramatta Eels,18,Melbourne Storm,22,2.90,1.41,False
+02 Oct 2011,Manly Sea Eagles,24,New Zealand Warriors,10,1.48,2.61,False
+24 Sep 2011,Melbourne Storm,12,New Zealand Warriors,20,1.39,2.97,False
+23 Sep 2011,Manly Sea Eagles,26,Brisbane Broncos,14,1.40,2.90,False
+17 Sep 2011,Brisbane Broncos,13,St. George Illawarra Dragons,12,1.60,2.33,True
+16 Sep 2011,Wests Tigers,20,New Zealand Warriors,22,1.31,3.38,False
+11 Sep 2011,Melbourne Storm,18,Newcastle Knights,8,1.27,3.75,False
+10 Sep 2011,Manly Sea Eagles,42,NQ Cowboys,8,1.43,2.80,False
+10 Sep 2011,Brisbane Broncos,40,New Zealand Warriors,10,1.63,2.25,False
+09 Sep 2011,Wests Tigers,21,St. George Illawarra Dragons,12,2.13,1.71,False
+04 Sep 2011,Sydney Roosters,40,Melbourne Storm,8,2.53,1.50,False
+04 Sep 2011,Brisbane Broncos,18,Manly Sea Eagles,10,1.21,4.23,False
+04 Sep 2011,Canterbury Bulldogs,36,Canberra Raiders,22,1.28,3.57,False
+03 Sep 2011,Cronulla Sharks,22,Wests Tigers,30,4.28,1.20,False
+03 Sep 2011,Gold Coast Titans,12,Parramatta Eels,32,2.01,1.78,False
+03 Sep 2011,New Zealand Warriors,18,NQ Cowboys,6,1.45,2.72,False
+02 Sep 2011,Newcastle Knights,40,South Sydney Rabbitohs,24,1.83,1.97,False
+02 Sep 2011,St. George Illawarra Dragons,32,Penrith Panthers,12,1.18,4.57,False
+29 Aug 2011,Wests Tigers,39,Gold Coast Titans,10,1.06,7.83,False
+28 Aug 2011,Brisbane Broncos,22,South Sydney Rabbitohs,10,1.52,2.52,False
+28 Aug 2011,St. George Illawarra Dragons,26,New Zealand Warriors,22,1.46,2.67,False
+27 Aug 2011,Canberra Raiders,18,Penrith Panthers,19,1.52,2.48,False
+27 Aug 2011,NQ Cowboys,28,Cronulla Sharks,20,1.10,6.23,False
+27 Aug 2011,Canterbury Bulldogs,32,Newcastle Knights,22,1.73,2.08,False
+26 Aug 2011,Manly Sea Eagles,18,Melbourne Storm,4,1.59,2.32,False
+26 Aug 2011,Parramatta Eels,12,Sydney Roosters,13,1.75,2.05,True
+22 Aug 2011,Newcastle Knights,6,Brisbane Broncos,26,2.26,1.61,False
+21 Aug 2011,Wests Tigers,31,Parramatta Eels,12,1.29,3.50,False
+21 Aug 2011,Manly Sea Eagles,27,Canterbury Bulldogs,16,1.25,3.83,False
+20 Aug 2011,Penrith Panthers,12,New Zealand Warriors,26,2.92,1.39,False
+20 Aug 2011,Sydney Roosters,36,Cronulla Sharks,25,1.45,2.75,False
+20 Aug 2011,Gold Coast Titans,26,Canberra Raiders,18,1.67,2.15,False
+19 Aug 2011,Melbourne Storm,8,St. George Illawarra Dragons,6,1.62,2.24,False
+19 Aug 2011,South Sydney Rabbitohs,26,NQ Cowboys,24,1.64,2.22,True
+15 Aug 2011,Cronulla Sharks,12,Canterbury Bulldogs,19,2.17,1.68,False
+14 Aug 2011,St. George Illawarra Dragons,12,Sydney Roosters,20,1.13,5.67,False
+14 Aug 2011,Canberra Raiders,18,South Sydney Rabbitohs,47,2.22,1.64,False
+13 Aug 2011,Gold Coast Titans,16,Melbourne Storm,40,6.33,1.10,False
+13 Aug 2011,Parramatta Eels,20,Manly Sea Eagles,26,3.50,1.29,False
+13 Aug 2011,New Zealand Warriors,20,Newcastle Knights,12,1.42,2.78,False
+12 Aug 2011,NQ Cowboys,16,Brisbane Broncos,34,2.05,1.75,False
+12 Aug 2011,Penrith Panthers,18,Wests Tigers,32,3.12,1.35,False
+08 Aug 2011,South Sydney Rabbitohs,56,Parramatta Eels,6,1.60,2.29,False
+07 Aug 2011,Manly Sea Eagles,36,Sydney Roosters,8,1.25,3.80,False
+07 Aug 2011,Newcastle Knights,40,Canberra Raiders,8,1.37,3.05,False
+06 Aug 2011,Brisbane Broncos,21,New Zealand Warriors,20,1.45,2.72,False
+06 Aug 2011,Cronulla Sharks,16,Gold Coast Titans,20,1.32,3.33,False
+06 Aug 2011,Melbourne Storm,26,Penrith Panthers,6,1.18,4.57,False
+05 Aug 2011,Canterbury Bulldogs,14,NQ Cowboys,6,2.00,1.80,False
+05 Aug 2011,Wests Tigers,16,St. George Illawarra Dragons,14,2.36,1.57,False
+01 Aug 2011,Parramatta Eels,18,Melbourne Storm,22,2.90,1.41,False
+31 Jul 2011,St. George Illawarra Dragons,24,South Sydney Rabbitohs,34,1.15,5.00,False
+31 Jul 2011,Newcastle Knights,50,Gold Coast Titans,20,1.36,3.18,False
+31 Jul 2011,New Zealand Warriors,29,Canberra Raiders,10,1.39,3.00,False
+30 Jul 2011,NQ Cowboys,30,Penrith Panthers,18,1.61,2.29,False
+30 Jul 2011,Sydney Roosters,32,Canterbury Bulldogs,28,1.81,2.00,False
+29 Jul 2011,Brisbane Broncos,46,Cronulla Sharks,16,1.18,4.63,False
+29 Jul 2011,Manly Sea Eagles,12,Wests Tigers,14,1.45,2.75,False
+25 Jul 2011,Canberra Raiders,24,St. George Illawarra Dragons,19,3.15,1.37,False
+24 Jul 2011,Penrith Panthers,8,Manly Sea Eagles,12,2.67,1.47,False
+24 Jul 2011,South Sydney Rabbitohs,16,New Zealand Warriors,48,2.02,1.79,False
+23 Jul 2011,Cronulla Sharks,0,Newcastle Knights,18,1.75,2.08,False
+23 Jul 2011,Wests Tigers,19,Sydney Roosters,12,1.45,2.75,False
+23 Jul 2011,Gold Coast Titans,20,NQ Cowboys,28,1.98,1.83,False
+22 Jul 2011,Canterbury Bulldogs,8,Parramatta Eels,7 ,2.05,1.76,True
+22 Jul 2011,Melbourne Storm,26,Brisbane Broncos,6,1.51,2.56,False
+18 Jul 2011,St. George Illawarra Dragons,38,Cronulla Sharks,8,1.30,3.38,False
+17 Jul 2011,Newcastle Knights,10,Manly Sea Eagles,32,2.66,1.47,False
+17 Jul 2011,Canberra Raiders,0,Melbourne Storm,26,2.33,1.59,False
+16 Jul 2011,NQ Cowboys,18,Wests Tigers,38,2.11,1.69,False
+16 Jul 2011,Penrith Panthers,23,Parramatta Eels,22,1.64,2.22,True
+16 Jul 2011,South Sydney Rabbitohs,21,Sydney Roosters,20,1.80,1.98,True
+15 Jul 2011,Brisbane Broncos,30,Gold Coast Titans,10,1.20,4.28,False
+15 Jul 2011,New Zealand Warriors,36,Canterbury Bulldogs,12,1.45,2.70,False
+11 Jul 2011,Newcastle Knights,12,NQ Cowboys,22,1.23,3.98,False
+10 Jul 2011,Manly Sea Eagles,36,South Sydney Rabbitohs,22,1.29,3.53,False
+10 Jul 2011,Sydney Roosters,34,Penrith Panthers,26,2.13,1.69,False
+09 Jul 2011,Canterbury Bulldogs,18,Melbourne Storm,28,2.67,1.48,False
+09 Jul 2011,Cronulla Sharks,26,Canberra Raiders,12,1.66,2.21,False
+08 Jul 2011,Parramatta Eels,22,Wests Tigers,6,2.18,1.67,False
+08 Jul 2011,New Zealand Warriors,22,Gold Coast Titans,6,1.28,3.60,False
+04 Jul 2011,Sydney Roosters,12,Canberra Raiders,38,1.98,1.82,False
+03 Jul 2011,St. George Illawarra Dragons,10,Newcastle Knights,14,1.69,2.15,False
+03 Jul 2011,Cronulla Sharks,26,South Sydney Rabbitohs,4,2.03,1.78,False
+02 Jul 2011,Penrith Panthers,20,Canterbury Bulldogs,6,2.48,1.54,False
+01 Jul 2011,Parramatta Eels,12,Brisbane Broncos,16,1.59,2.32,False
+27 Jun 2011,St. George Illawarra Dragons,24,Manly Sea Eagles,6,1.60,2.28,False
+26 Jun 2011,Newcastle Knights,18,Sydney Roosters,10,1.60,2.28,False
+26 Jun 2011,Penrith Panthers,30,NQ Cowboys,20,1.66,2.18,False
+26 Jun 2011,New Zealand Warriors,8,Melbourne Storm,16,1.98,1.80,False
+25 Jun 2011,Canberra Raiders,25,Parramatta Eels,12,1.64,2.22,False
+25 Jun 2011,Gold Coast Titans,12,Cronulla Sharks,36,1.74,2.07,False
+24 Jun 2011,South Sydney Rabbitohs,16,Brisbane Broncos,12,2.61,1.48,False
+24 Jun 2011,Wests Tigers,6,Canterbury Bulldogs,16,2.35,1.57,False
+20 Jun 2011,Manly Sea Eagles,22,Parramatta Eels,18,1.27,3.73,False
+19 Jun 2011,Wests Tigers,4,Melbourne Storm,12,1.65,2.18,False
+19 Jun 2011,Canterbury Bulldogs,10,Cronulla Sharks,26,1.42,2.80,False
+18 Jun 2011,NQ Cowboys,30,New Zealand Warriors,10,1.49,2.60,False
+18 Jun 2011,Newcastle Knights,16,Penrith Panthers,12,1.50,2.57,False
+17 Jun 2011,Brisbane Broncos,21,St. George Illawarra Dragons,14,1.90,1.88,False
+17 Jun 2011,South Sydney Rabbitohs,31,Gold Coast Titans,8,1.67,2.17,False
+13 Jun 2011,Melbourne Storm,21,Sydney Roosters,4,1.70,2.12,False
+12 Jun 2011,Brisbane Broncos,25,Canberra Raiders,24,1.92,1.88,True
+12 Jun 2011,New Zealand Warriors,22,Wests Tigers,26,1.51,2.50,False
+11 Jun 2011,Manly Sea Eagles,24,NQ Cowboys,4,1.14,5.07,False
+10 Jun 2011,St. George Illawarra Dragons,14,Gold Coast Titans,28,1.90,1.90,False
+06 Jun 2011,Wests Tigers,17,Newcastle Knights,16,1.31,3.38,True
+05 Jun 2011,South Sydney Rabbitohs,6,Melbourne Storm,16,2.75,1.44,False
+05 Jun 2011,Canberra Raiders,24,NQ Cowboys,40,1.56,2.42,False
+04 Jun 2011,Canterbury Bulldogs,4,Manly Sea Eagles,38,2.23,1.64,False
+04 Jun 2011,Sydney Roosters,13,New Zealand Warriors,6,2.07,1.74,False
+04 Jun 2011,Gold Coast Titans,10,Penrith Panthers,23,1.73,2.08,False
+03 Jun 2011,Cronulla Sharks,16,Brisbane Broncos,34,2.69,1.46,False
+03 Jun 2011,Parramatta Eels,14,St. George Illawarra Dragons,14,3.75,1.26,True
+30 May 2011,Penrith Panthers,22,South Sydney Rabbitohs,10,1.56,2.39,False
+29 May 2011,St. George Illawarra Dragons,24,Wests Tigers,18,1.45,2.72,False
+29 May 2011,Melbourne Storm,14,Cronulla Sharks,8,1.20,4.32,False
+28 May 2011,NQ Cowboys,20,Sydney Roosters,6,1.45,2.73,False
+28 May 2011,Newcastle Knights,8,Parramatta Eels,6,1.56,2.38,False
+27 May 2011,Canterbury Bulldogs,28,Gold Coast Titans,6,1.45,2.72,False
+27 May 2011,Manly Sea Eagles,34,Brisbane Broncos,10,1.48,2.61,False
+23 May 2011,Parramatta Eels,40,Cronulla Sharks,6,1.42,2.81,False
+22 May 2011,Sydney Roosters,12,Newcastle Knights,10,1.78,2.01,False
+22 May 2011,New Zealand Warriors,12,South Sydney Rabbitohs,6,1.36,3.07,False
+21 May 2011,Wests Tigers,20,Penrith Panthers,18,1.33,3.25,False
+20 May 2011,Canberra Raiders,20,Canterbury Bulldogs,12,2.47,1.53,False
+16 May 2011,Gold Coast Titans,12,Manly Sea Eagles,16,2.44,1.54,False
+15 May 2011,Cronulla Sharks,18,Sydney Roosters,4,2.65,1.46,False
+15 May 2011,Newcastle Knights,16,New Zealand Warriors,25,1.71,2.10,False
+14 May 2011,NQ Cowboys,40,Parramatta Eels,26,1.44,2.73,False
+14 May 2011,South Sydney Rabbitohs,29,Wests Tigers,18,3.12,1.35,False
+14 May 2011,Melbourne Storm,12,Canberra Raiders,20,1.13,5.30,False
+13 May 2011,Canterbury Bulldogs,10,St. George Illawarra Dragons,15,2.55,1.50,False
+13 May 2011,Penrith Panthers,33,Brisbane Broncos,10,2.61,1.48,False
+09 May 2011,Manly Sea Eagles,20,Canberra Raiders,0,1.32,3.33,False
+08 May 2011,St. George Illawarra Dragons,22,NQ Cowboys,8,1.48,2.62,False
+08 May 2011,Gold Coast Titans,14,New Zealand Warriors,34,1.51,2.51,False
+07 May 2011,Brisbane Broncos,22,Melbourne Storm,29,2.66,1.47,False
+01 May 2011,St. George Illawarra Dragons,30,Parramatta Eels,0,1.14,5.10,False
+01 May 2011,Canberra Raiders,12,Wests Tigers,49,1.78,2.00,False
+01 May 2011,New Zealand Warriors,26,Penrith Panthers,18,1.45,2.72,False
+30 Apr 2011,Melbourne Storm,42,Newcastle Knights,12,1.35,3.12,False
+30 Apr 2011,NQ Cowboys,22,Manly Sea Eagles,20,1.78,2.00,False
+30 Apr 2011,Gold Coast Titans,24,Sydney Roosters,13,1.69,2.13,False
+29 Apr 2011,Brisbane Broncos,20,Canterbury Bulldogs,12,1.68,2.17,False
+29 Apr 2011,South Sydney Rabbitohs,31,Cronulla Sharks,12,1.37,3.05,False
+25 Apr 2011,Melbourne Storm,14,New Zealand Warriors,18,1.25,3.80,False
+25 Apr 2011,Sydney Roosters,10,St. George Illawarra Dragons,24,3.07,1.37,False
+24 Apr 2011,Parramatta Eels,22,Gold Coast Titans,18,2.10,1.71,False
+24 Apr 2011,Canberra Raiders,12,Newcastle Knights,22,1.59,2.31,False
+23 Apr 2011,Canterbury Bulldogs,36,South Sydney Rabbitohs,24,1.54,2.43,False
+23 Apr 2011,Cronulla Sharks,12,NQ Cowboys,30,1.71,2.10,False
+22 Apr 2011,Manly Sea Eagles,22,Penrith Panthers,16,1.35,3.10,False
+22 Apr 2011,Wests Tigers,18,Brisbane Broncos,31,1.63,2.25,False
+18 Apr 2011,South Sydney Rabbitohs,0,St. George Illawarra Dragons,16,2.72,1.45,False
+17 Apr 2011,Penrith Panthers,10,Melbourne Storm,25,2.57,1.49,False
+17 Apr 2011,Newcastle Knights,24,Cronulla Sharks,20,1.40,2.88,False
+16 Apr 2011,NQ Cowboys,26,Canberra Raiders,18,1.51,2.55,False
+16 Apr 2011,Sydney Roosters,6,Brisbane Broncos,24,1.70,2.12,False
+16 Apr 2011,Manly Sea Eagles,20,New Zealand Warriors,10,1.40,2.88,False
+15 Apr 2011,Gold Coast Titans,20,Wests Tigers,14,2.05,1.75,False
+15 Apr 2011,Parramatta Eels,14,Canterbury Bulldogs,34,2.57,1.49,False
+11 Apr 2011,Brisbane Broncos,17,Newcastle Knights,6,1.62,2.26,False
+10 Apr 2011,St. George Illawarra Dragons,25,Canterbury Bulldogs,6,1.51,2.51,False
+10 Apr 2011,Melbourne Storm,38,Parramatta Eels,0,1.28,3.48,False
+09 Apr 2011,Cronulla Sharks,13,Manly Sea Eagles,19,2.18,1.67,False
+09 Apr 2011,Penrith Panthers,36,Canberra Raiders,10,1.74,2.06,False
+09 Apr 2011,New Zealand Warriors,24,Sydney Roosters,12,2.24,1.63,False
+08 Apr 2011,NQ Cowboys,22,Gold Coast Titans,12,1.49,2.57,False
+08 Apr 2011,Wests Tigers,30,South Sydney Rabbitohs,6,2.28,1.60,False
+04 Apr 2011,Melbourne Storm,30,Canterbury Bulldogs,16,1.68,2.15,False
+03 Apr 2011,Sydney Roosters,24,Wests Tigers,6,1.43,2.83,False
+03 Apr 2011,Newcastle Knights,18,St. George Illawarra Dragons,20,2.58,1.48,False
+03 Apr 2011,Cronulla Sharks,18,New Zealand Warriors,26,2.20,1.65,False
+02 Apr 2011,Parramatta Eels,22,NQ Cowboys,20,1.68,2.17,False
+02 Apr 2011,Canberra Raiders,22,Gold Coast Titans,23,1.32,3.30,True
+01 Apr 2011,Brisbane Broncos,18,Penrith Panthers,10,1.35,3.10,False
+01 Apr 2011,South Sydney Rabbitohs,32,Manly Sea Eagles,30,2.17,1.66,False
+28 Mar 2011,NQ Cowboys,34,Melbourne Storm,6,2.52,1.50,False
+27 Mar 2011,Manly Sea Eagles,26,Newcastle Knights,12,1.55,2.42,False
+27 Mar 2011,Canterbury Bulldogs,24,Sydney Roosters,20,1.98,1.82,False
+27 Mar 2011,New Zealand Warriors,12,St. George Illawarra Dragons,25,2.07,1.75,False
+26 Mar 2011,Wests Tigers,34,Canberra Raiders,24,1.51,2.51,False
+26 Mar 2011,Penrith Panthers,12,Cronulla Sharks,44,1.41,2.82,False
+25 Mar 2011,Gold Coast Titans,8,Brisbane Broncos,14,2.00,1.79,False
+25 Mar 2011,Parramatta Eels,18,South Sydney Rabbitohs,32,1.88,1.92,False
+21 Mar 2011,Cronulla Sharks,16,St. George Illawarra Dragons,10,4.80,1.16,False
+20 Mar 2011,Sydney Roosters,16,Manly Sea Eagles,27,1.24,3.88,False
+20 Mar 2011,South Sydney Rabbitohs,19,Canterbury Bulldogs,28,2.43,1.54,False
+19 Mar 2011,NQ Cowboys,22,Newcastle Knights,34,1.54,2.43,False
+19 Mar 2011,Wests Tigers,20,New Zealand Warriors,12,1.45,2.72,False
+19 Mar 2011,Melbourne Storm,40,Gold Coast Titans,12,1.46,2.67,False
+18 Mar 2011,Canberra Raiders,4,Brisbane Broncos,20,1.45,2.72,False
+18 Mar 2011,Parramatta Eels,6,Penrith Panthers,20,1.46,2.67,False
+14 Mar 2011,Canterbury Bulldogs,24,Wests Tigers,14,2.13,1.69,False
+13 Mar 2011,Penrith Panthers,8,Newcastle Knights,42,1.67,2.17,False
+13 Mar 2011,Canberra Raiders,40,Cronulla Sharks,12,1.34,3.18,False
+12 Mar 2011,Gold Coast Titans,16,St. George Illawarra Dragons,25,2.51,1.52,False
+12 Mar 2011,Melbourne Storm,18,Manly Sea Eagles,6,1.53,2.47,False
+12 Mar 2011,New Zealand Warriors,18,Parramatta Eels,24,1.41,2.87,False
+11 Mar 2011,Brisbane Broncos,14,NQ Cowboys,16,1.45,2.69,False
+11 Mar 2011,Sydney Roosters,40,South Sydney Rabbitohs,29,1.74,2.05,False
+30 Sep 2012,Canterbury Bulldogs,4,Melbourne Storm,14,2.06,1.80,False
+22 Sep 2012,Canterbury Bulldogs,32,South Sydney Rabbitohs,8,1.45,2.80,False
+21 Sep 2012,Melbourne Storm,40,Manly Sea Eagles,12,1.59,2.39,False
+15 Sep 2012,South Sydney Rabbitohs,38,Canberra Raiders,16,1.40,3.00,False
+14 Sep 2012,Manly Sea Eagles,22,NQ Cowboys,12,1.87,1.96,False
+09 Sep 2012,Canberra Raiders,34,Cronulla Sharks,16,1.63,2.33,False
+08 Sep 2012,NQ Cowboys,33,Brisbane Broncos,16,1.39,3.03,False
+08 Sep 2012,Melbourne Storm,24,South Sydney Rabbitohs,6,1.64,2.31,False
+07 Sep 2012,Canterbury Bulldogs,16,Manly Sea Eagles,10,2.08,1.80,False
+02 Sep 2012,Parramatta Eels,8,St. George Illawarra Dragons,29,2.02,1.84,False
+02 Sep 2012,Cronulla Sharks,22,NQ Cowboys,36,1.51,2.60,False
+02 Sep 2012,New Zealand Warriors,22,Canberra Raiders,42,2.39,1.60,False
+01 Sep 2012,Canterbury Bulldogs,42,Sydney Roosters,10,1.17,5.13,False
+01 Sep 2012,Wests Tigers,6,Melbourne Storm,26,2.30,1.65,False
+01 Sep 2012,Gold Coast Titans,16,Manly Sea Eagles,24,4.16,1.24,False
+31 Aug 2012,Brisbane Broncos,19,Penrith Panthers,12,1.19,4.72,False
+31 Aug 2012,Newcastle Knights,6,South Sydney Rabbitohs,18,2.33,1.62,False
+27 Aug 2012,Melbourne Storm,20,Cronulla Sharks,18,1.36,3.10,False
+26 Aug 2012,South Sydney Rabbitohs,38,Parramatta Eels,6,1.16,5.24,False
+26 Aug 2012,Sydney Roosters,44,Wests Tigers,20,2.55,1.54,False
+25 Aug 2012,NQ Cowboys,22,Newcastle Knights,14,1.32,3.46,False
+25 Aug 2012,St. George Illawarra Dragons,38,New Zealand Warriors,6,1.48,2.61,False
+25 Aug 2012,Penrith Panthers,36,Gold Coast Titans,22,2.41,1.59,False
+24 Aug 2012,Canberra Raiders,34,Canterbury Bulldogs,6,2.45,1.54,False
+24 Aug 2012,Manly Sea Eagles,16,Brisbane Broncos,6,1.45,2.74,False
+20 Aug 2012,St. George Illawarra Dragons,22,NQ Cowboys,32,2.35,1.58,False
+19 Aug 2012,Manly Sea Eagles,42,Newcastle Knights,20,1.34,3.17,False
+19 Aug 2012,Gold Coast Titans,24,Parramatta Eels,16,1.38,3.07,False
+19 Aug 2012,New Zealand Warriors,16,Penrith Panthers,18,1.36,3.12,False
+18 Aug 2012,Cronulla Sharks,20,South Sydney Rabbitohs,7,2.67,1.47,False
+18 Aug 2012,Canberra Raiders,24,Sydney Roosters,20,1.39,3.00,False
+17 Aug 2012,Brisbane Broncos,18,Melbourne Storm,19,2.33,1.59,False
+17 Aug 2012,Canterbury Bulldogs,23,Wests Tigers,22,1.41,2.87,True
+13 Aug 2012,Newcastle Knights,26,Cronulla Sharks,4,1.78,2.01,False
+12 Aug 2012,Canterbury Bulldogs,22,Brisbane Broncos,14,1.31,3.43,False
+12 Aug 2012,Penrith Panthers,10,Canberra Raiders,20,1.98,1.80,False
+11 Aug 2012,NQ Cowboys,52,New Zealand Warriors,12,1.34,3.15,False
+11 Aug 2012,Wests Tigers,22,St. George Illawarra Dragons,12,1.57,2.36,False
+11 Aug 2012,Parramatta Eels,36,Sydney Roosters,22,1.95,1.83,False
+10 Aug 2012,Melbourne Storm,24,Gold Coast Titans,16,1.33,3.27,False
+10 Aug 2012,South Sydney Rabbitohs,6,Manly Sea Eagles,23,1.86,1.93,False
+06 Aug 2012,Wests Tigers,51,Parramatta Eels,26,1.53,2.47,False
+05 Aug 2012,Gold Coast Titans,18,South Sydney Rabbitohs,22,2.17,1.67,False
+05 Aug 2012,Canberra Raiders,28,Brisbane Broncos,12,2.20,1.65,False
+05 Aug 2012,New Zealand Warriors,4,Cronulla Sharks,45,1.46,2.67,False
+04 Aug 2012,NQ Cowboys,6,Manly Sea Eagles,8,1.71,2.10,False
+04 Aug 2012,Newcastle Knights,10,Canterbury Bulldogs,26,2.33,1.59,False
+04 Aug 2012,Melbourne Storm,46,Penrith Panthers,6,1.24,3.99,False
+03 Aug 2012,Sydney Roosters,26,St. George Illawarra Dragons,10,2.47,1.53,False
+30 Jul 2012,Brisbane Broncos,22,Parramatta Eels,42,1.27,3.73,False
+30 Sep 2012,Canterbury Bulldogs,4,Melbourne Storm,14,2.06,1.80,False
+22 Sep 2012,Canterbury Bulldogs,32,South Sydney Rabbitohs,8,1.45,2.80,False
+21 Sep 2012,Melbourne Storm,40,Manly Sea Eagles,12,1.59,2.39,False
+15 Sep 2012,South Sydney Rabbitohs,38,Canberra Raiders,16,1.40,3.00,False
+14 Sep 2012,Manly Sea Eagles,22,NQ Cowboys,12,1.87,1.96,False
+09 Sep 2012,Canberra Raiders,34,Cronulla Sharks,16,1.63,2.33,False
+08 Sep 2012,NQ Cowboys,33,Brisbane Broncos,16,1.39,3.03,False
+08 Sep 2012,Melbourne Storm,24,South Sydney Rabbitohs,6,1.64,2.31,False
+07 Sep 2012,Canterbury Bulldogs,16,Manly Sea Eagles,10,2.08,1.80,False
+02 Sep 2012,Parramatta Eels,8,St. George Illawarra Dragons,29,2.02,1.84,False
+02 Sep 2012,Cronulla Sharks,22,NQ Cowboys,36,1.51,2.60,False
+02 Sep 2012,New Zealand Warriors,22,Canberra Raiders,42,2.39,1.60,False
+01 Sep 2012,Canterbury Bulldogs,42,Sydney Roosters,10,1.17,5.13,False
+01 Sep 2012,Wests Tigers,6,Melbourne Storm,26,2.30,1.65,False
+01 Sep 2012,Gold Coast Titans,16,Manly Sea Eagles,24,4.16,1.24,False
+31 Aug 2012,Brisbane Broncos,19,Penrith Panthers,12,1.19,4.72,False
+31 Aug 2012,Newcastle Knights,6,South Sydney Rabbitohs,18,2.33,1.62,False
+27 Aug 2012,Melbourne Storm,20,Cronulla Sharks,18,1.36,3.10,False
+26 Aug 2012,South Sydney Rabbitohs,38,Parramatta Eels,6,1.16,5.24,False
+26 Aug 2012,Sydney Roosters,44,Wests Tigers,20,2.55,1.54,False
+25 Aug 2012,NQ Cowboys,22,Newcastle Knights,14,1.32,3.46,False
+25 Aug 2012,St. George Illawarra Dragons,38,New Zealand Warriors,6,1.48,2.61,False
+25 Aug 2012,Penrith Panthers,36,Gold Coast Titans,22,2.41,1.59,False
+24 Aug 2012,Canberra Raiders,34,Canterbury Bulldogs,6,2.45,1.54,False
+24 Aug 2012,Manly Sea Eagles,16,Brisbane Broncos,6,1.45,2.74,False
+20 Aug 2012,St. George Illawarra Dragons,22,NQ Cowboys,32,2.35,1.58,False
+19 Aug 2012,Manly Sea Eagles,42,Newcastle Knights,20,1.34,3.17,False
+19 Aug 2012,Gold Coast Titans,24,Parramatta Eels,16,1.38,3.07,False
+19 Aug 2012,New Zealand Warriors,16,Penrith Panthers,18,1.36,3.12,False
+18 Aug 2012,Cronulla Sharks,20,South Sydney Rabbitohs,7,2.67,1.47,False
+18 Aug 2012,Canberra Raiders,24,Sydney Roosters,20,1.39,3.00,False
+17 Aug 2012,Brisbane Broncos,18,Melbourne Storm,19,2.33,1.59,False
+17 Aug 2012,Canterbury Bulldogs,23,Wests Tigers,22,1.41,2.87,True
+13 Aug 2012,Newcastle Knights,26,Cronulla Sharks,4,1.78,2.01,False
+12 Aug 2012,Canterbury Bulldogs,22,Brisbane Broncos,14,1.31,3.43,False
+12 Aug 2012,Penrith Panthers,10,Canberra Raiders,20,1.98,1.80,False
+11 Aug 2012,NQ Cowboys,52,New Zealand Warriors,12,1.34,3.15,False
+11 Aug 2012,Wests Tigers,22,St. George Illawarra Dragons,12,1.57,2.36,False
+11 Aug 2012,Parramatta Eels,36,Sydney Roosters,22,1.95,1.83,False
+10 Aug 2012,Melbourne Storm,24,Gold Coast Titans,16,1.33,3.27,False
+10 Aug 2012,South Sydney Rabbitohs,6,Manly Sea Eagles,23,1.86,1.93,False
+06 Aug 2012,Wests Tigers,51,Parramatta Eels,26,1.53,2.47,False
+05 Aug 2012,Gold Coast Titans,18,South Sydney Rabbitohs,22,2.17,1.67,False
+05 Aug 2012,Canberra Raiders,28,Brisbane Broncos,12,2.20,1.65,False
+05 Aug 2012,New Zealand Warriors,4,Cronulla Sharks,45,1.46,2.67,False
+04 Aug 2012,NQ Cowboys,6,Manly Sea Eagles,8,1.71,2.10,False
+04 Aug 2012,Newcastle Knights,10,Canterbury Bulldogs,26,2.33,1.59,False
+04 Aug 2012,Melbourne Storm,46,Penrith Panthers,6,1.24,3.99,False
+03 Aug 2012,Sydney Roosters,26,St. George Illawarra Dragons,10,2.47,1.53,False
+30 Jul 2012,Brisbane Broncos,22,Parramatta Eels,42,1.27,3.73,False
+29 Jul 2012,South Sydney Rabbitohs,32,Wests Tigers,6,1.29,3.58,False
+29 Jul 2012,Canberra Raiders,6,Newcastle Knights,36,1.55,2.35,False
+28 Jul 2012,Cronulla Sharks,20,Penrith Panthers,21,1.61,2.30,True
+28 Jul 2012,Manly Sea Eagles,24,New Zealand Warriors,22,1.44,2.80,False
+28 Jul 2012,Canterbury Bulldogs,32,NQ Cowboys,18,1.56,2.36,False
+27 Jul 2012,St. George Illawarra Dragons,26,Melbourne Storm,18,2.88,1.41,False
+27 Jul 2012,Sydney Roosters,16,Gold Coast Titans,36,2.25,1.63,False
+23 Jul 2012,NQ Cowboys,29,Wests Tigers,16,1.57,2.38,False
+22 Jul 2012,Penrith Panthers,28,Sydney Roosters,16,1.75,2.05,False
+22 Jul 2012,Cronulla Sharks,4,Canberra Raiders,36,1.45,2.71,False
+21 Jul 2012,Parramatta Eels,16,Melbourne Storm,10,-1,1.33,False
+21 Jul 2012,South Sydney Rabbitohs,36,St. George Illawarra Dragons,14,1.61,2.27,False
+21 Jul 2012,New Zealand Warriors,19,Newcastle Knights,24,1.25,3.60,False
+20 Jul 2012,Gold Coast Titans,14,Brisbane Broncos,10,2.65,1.47,False
+20 Jul 2012,Manly Sea Eagles,12,Canterbury Bulldogs,20,1.69,2.15,False
+16 Jul 2012,Sydney Roosters,22,South Sydney Rabbitohs,24,3.65,1.28,False
+15 Jul 2012,St. George Illawarra Dragons,18,Cronulla Sharks,10,1.66,2.18,False
+15 Jul 2012,Canberra Raiders,26,Gold Coast Titans,38,1.45,2.60,False
+14 Jul 2012,Wests Tigers,26,Penrith Panthers,18,1.24,3.95,False
+14 Jul 2012,Melbourne Storm,16,NQ Cowboys,20,1.45,2.71,False
+14 Jul 2012,Newcastle Knights,32,Manly Sea Eagles,6,3.03,1.38,False
+13 Jul 2012,Brisbane Broncos,10,New Zealand Warriors,8,1.45,2.71,False
+13 Jul 2012,Canterbury Bulldogs,32,Parramatta Eels,12,1.11,6.15,False
+09 Jul 2012,Cronulla Sharks,14,Sydney Roosters,14,1.50,2.57,True
+08 Jul 2012,Manly Sea Eagles,40,Parramatta Eels,24,1.13,5.40,False
+08 Jul 2012,South Sydney Rabbitohs,34,Newcastle Knights,14,1.24,3.97,False
+07 Jul 2012,Gold Coast Titans,14,New Zealand Warriors,32,2.63,1.45,False
+07 Jul 2012,Melbourne Storm,12,Canberra Raiders,40,1.21,4.24,False
+06 Jul 2012,Wests Tigers,20,Canterbury Bulldogs,32,2.68,1.45,False
+02 Jul 2012,Canberra Raiders,22,St. George Illawarra Dragons,18,2.30,1.60,False
+01 Jul 2012,South Sydney Rabbitohs,38,Penrith Panthers,12,1.16,4.80,False
+01 Jul 2012,New Zealand Warriors,35,NQ Cowboys,18,1.16,4.83,False
+30 Jun 2012,Parramatta Eels,12,Newcastle Knights,20,2.07,1.73,False
+29 Jun 2012,Brisbane Broncos,12,Cronulla Sharks,26,1.56,2.37,False
+25 Jun 2012,Newcastle Knights,38,Wests Tigers,20,2.73,1.44,False
+24 Jun 2012,Sydney Roosters,14,Manly Sea Eagles,52,2.52,1.51,False
+24 Jun 2012,Canterbury Bulldogs,20,Melbourne Storm,4,2.18,1.67,False
+23 Jun 2012,Penrith Panthers,18,Parramatta Eels,19,1.65,2.20,True
+23 Jun 2012,NQ Cowboys,40,Canberra Raiders,18,1.24,3.94,False
+22 Jun 2012,Brisbane Broncos,26,South Sydney Rabbitohs,12,1.44,2.75,False
+22 Jun 2012,St. George Illawarra Dragons,8,Gold Coast Titans,6,1.40,2.87,False
+18 Jun 2012,Manly Sea Eagles,22,Melbourne Storm,26,1.56,2.38,False
+17 Jun 2012,Wests Tigers,28,Sydney Roosters,42,1.38,2.93,False
+17 Jun 2012,Gold Coast Titans,36,Penrith Panthers,18,1.47,2.62,False
+16 Jun 2012,Parramatta Eels,6,South Sydney Rabbitohs,24,2.57,1.49,False
+16 Jun 2012,Cronulla Sharks,20,New Zealand Warriors,19,2.40,1.55,False
+15 Jun 2012,NQ Cowboys,12,Brisbane Broncos,0,1.70,2.13,False
+15 Jun 2012,St. George Illawarra Dragons,20,Canterbury Bulldogs,28,2.25,1.63,False
+11 Jun 2012,Penrith Panthers,16,New Zealand Warriors,30,2.80,1.41,False
+10 Jun 2012,Sydney Roosters,22,Brisbane Broncos,40,1.64,2.23,False
+10 Jun 2012,Cronulla Sharks,22,Gold Coast Titans,12,1.58,2.37,False
+09 Jun 2012,Newcastle Knights,16,Canberra Raiders,32,1.51,2.50,False
+08 Jun 2012,Melbourne Storm,6,Wests Tigers,10,2.77,1.43,False
+04 Jun 2012,Parramatta Eels,29,Cronulla Sharks,20,2.73,1.45,False
+03 Jun 2012,Brisbane Broncos,50,Newcastle Knights,24,1.15,4.85,False
+03 Jun 2012,New Zealand Warriors,12,Melbourne Storm,22,2.42,1.54,False
+02 Jun 2012,Canterbury Bulldogs,23,South Sydney Rabbitohs,18,1.98,1.79,False
+02 Jun 2012,Canberra Raiders,0,Wests Tigers,40,2.63,1.47,False
+01 Jun 2012,Gold Coast Titans,28,NQ Cowboys,12,2.13,1.70,False
+01 Jun 2012,Manly Sea Eagles,20,St. George Illawarra Dragons,8,1.43,2.75,False
+28 May 2012,Sydney Roosters,12,Canterbury Bulldogs,30,2.41,1.55,False
+27 May 2012,Wests Tigers,26,NQ Cowboys,18,1.60,2.29,False
+27 May 2012,Penrith Panthers,22,Manly Sea Eagles,4,3.00,1.38,False
+26 May 2012,St. George Illawarra Dragons,14,Parramatta Eels,12,1.39,2.97,False
+26 May 2012,Newcastle Knights,14,Gold Coast Titans,24,1.52,2.48,False
+25 May 2012,Melbourne Storm,34,Brisbane Broncos,10,1.43,2.80,False
+25 May 2012,South Sydney Rabbitohs,36,Canberra Raiders,18,1.22,4.07,False
+21 May 2012,Canterbury Bulldogs,26,Cronulla Sharks,6,1.41,2.90,False
+20 May 2012,St. George Illawarra Dragons,18,South Sydney Rabbitohs,19,2.00,1.80,True
+20 May 2012,Manly Sea Eagles,18,Sydney Roosters,10,1.43,2.83,False
+19 May 2012,NQ Cowboys,30,Penrith Panthers,28,1.41,2.82,False
+18 May 2012,Wests Tigers,24,New Zealand Warriors,22,1.97,1.84,False
+14 May 2012,Penrith Panthers,13,St. George Illawarra Dragons,12,3.12,1.35,True
+13 May 2012,Cronulla Sharks,12,Melbourne Storm,10,3.52,1.28,False
+13 May 2012,Canberra Raiders,40,Parramatta Eels,34,1.38,2.98,False
+12 May 2012,Newcastle Knights,12,NQ Cowboys,32,2.30,1.59,False
+12 May 2012,New Zealand Warriors,30,Sydney Roosters,26,1.33,3.23,False
+11 May 2012,Canterbury Bulldogs,14,Gold Coast Titans,25,1.30,3.43,False
+11 May 2012,Brisbane Broncos,22,Manly Sea Eagles,24,1.93,1.85,False
+07 May 2012,South Sydney Rabbitohs,34,Cronulla Sharks,28,1.72,2.08,False
+06 May 2012,Sydney Roosters,24,Newcastle Knights,6,1.56,2.36,False
+06 May 2012,Manly Sea Eagles,18,Canberra Raiders,12,1.17,4.61,False
+05 May 2012,Gold Coast Titans,14,Wests Tigers,15,3.58,1.28,True
+05 May 2012,Penrith Panthers,10,Melbourne Storm,44,5.78,1.12,False
+05 May 2012,New Zealand Warriors,30,Brisbane Broncos,20,2.20,1.66,False
+04 May 2012,NQ Cowboys,30,St. George Illawarra Dragons,6,1.58,2.33,False
+04 May 2012,Parramatta Eels,12,Canterbury Bulldogs,46,2.72,1.45,False
+30 Apr 2012,Newcastle Knights,34,Penrith Panthers,14,1.30,3.35,False
+29 Apr 2012,Parramatta Eels,30,Wests Tigers,31,2.71,1.44,False
+29 Apr 2012,Canberra Raiders,22,Cronulla Sharks,44,1.90,1.90,False
+28 Apr 2012,South Sydney Rabbitohs,20,NQ Cowboys,16,1.92,1.88,False
+27 Apr 2012,Brisbane Broncos,26,Gold Coast Titans,6,1.19,4.42,False
+27 Apr 2012,Canterbury Bulldogs,10,Manly Sea Eagles,12,1.96,1.83,False
+25 Apr 2012,Melbourne Storm,32,New Zealand Warriors,14,1.33,3.18,False
+25 Apr 2012,St. George Illawarra Dragons,28,Sydney Roosters,24,1.38,2.95,False
+15 Apr 2012,Penrith Panthers,0,Wests Tigers,30,2.63,1.49,False
+15 Apr 2012,Cronulla Sharks,24,Parramatta Eels,18,1.42,2.80,False
+15 Apr 2012,New Zealand Warriors,44,South Sydney Rabbitohs,22,1.55,2.40,False
+14 Apr 2012,Manly Sea Eagles,14,Gold Coast Titans,26,1.19,4.50,False
+14 Apr 2012,Sydney Roosters,12,NQ Cowboys,50,2.29,1.63,False
+14 Apr 2012,Melbourne Storm,12,Canterbury Bulldogs,6,1.24,3.83,False
+13 Apr 2012,Brisbane Broncos,30,Canberra Raiders,6,1.34,3.18,False
+13 Apr 2012,St. George Illawarra Dragons,12,Newcastle Knights,4,1.54,2.44,False
+09 Apr 2012,Manly Sea Eagles,30,Penrith Panthers,0,1.46,2.65,False
+08 Apr 2012,NQ Cowboys,18,Melbourne Storm,42,2.38,1.55,False
+08 Apr 2012,Newcastle Knights,14,Parramatta Eels,6,1.39,2.97,False
+08 Apr 2012,Canberra Raiders,32,New Zealand Warriors,12,2.17,1.68,False
+07 Apr 2012,Cronulla Sharks,12,St. George Illawarra Dragons,0,2.17,1.66,False
+07 Apr 2012,Gold Coast Titans,12,Sydney Roosters,18,2.07,1.74,False
+06 Apr 2012,Wests Tigers,14,Brisbane Broncos,18,2.43,1.54,False
+06 Apr 2012,South Sydney Rabbitohs,20,Canterbury Bulldogs,10,2.18,1.66,False
+02 Apr 2012,Canberra Raiders,6,NQ Cowboys,22,1.60,2.27,False
+01 Apr 2012,Wests Tigers,16,South Sydney Rabbitohs,17,2.45,1.53,False
+01 Apr 2012,Gold Coast Titans,20,Canterbury Bulldogs,30,2.60,1.48,False
+31 Mar 2012,Parramatta Eels,29,Manly Sea Eagles,20,3.42,1.30,False
+31 Mar 2012,Sydney Roosters,26,New Zealand Warriors,8,2.70,1.45,False
+31 Mar 2012,Penrith Panthers,14,Cronulla Sharks,15,1.74,2.07,False
+30 Mar 2012,Brisbane Broncos,28,St. George Illawarra Dragons,20,1.54,2.40,False
+30 Mar 2012,Melbourne Storm,34,Newcastle Knights,22,1.33,3.20,False
+26 Mar 2012,Wests Tigers,16,Canberra Raiders,30,1.40,2.90,False
+25 Mar 2012,Canterbury Bulldogs,6,Newcastle Knights,20,1.40,2.80,False
+25 Mar 2012,Melbourne Storm,44,Sydney Roosters,4,1.20,4.32,False
+24 Mar 2012,NQ Cowboys,14,Cronulla Sharks,20,1.40,2.88,False
+24 Mar 2012,St. George Illawarra Dragons,17,Manly Sea Eagles,6,1.66,2.18,False
+24 Mar 2012,New Zealand Warriors,26,Gold Coast Titans,6,1.20,4.30,False
+23 Mar 2012,South Sydney Rabbitohs,12,Brisbane Broncos,20,2.08,1.73,False
+23 Mar 2012,Parramatta Eels,6,Penrith Panthers,39,2.01,1.78,False
+19 Mar 2012,Cronulla Sharks,17,Manly Sea Eagles,14,2.72,1.44,False
+18 Mar 2012,Penrith Panthers,24,South Sydney Rabbitohs,40,1.87,1.90,False
+18 Mar 2012,Sydney Roosters,14,Canberra Raiders,8,1.85,1.93,False
+18 Mar 2012,New Zealand Warriors,18,Canterbury Bulldogs,32,1.50,2.54,False
+17 Mar 2012,NQ Cowboys,42,Parramatta Eels,6,1.32,3.23,False
+17 Mar 2012,Gold Coast Titans,6,Melbourne Storm,30,3.05,1.37,False
+16 Mar 2012,Newcastle Knights,10,Brisbane Broncos,24,1.92,1.87,False
+16 Mar 2012,St. George Illawarra Dragons,36,Wests Tigers,12,1.85,1.93,False
+12 Mar 2012,Parramatta Eels,20,New Zealand Warriors,36,2.35,1.58,False
+11 Mar 2012,Melbourne Storm,24,South Sydney Rabbitohs,10,1.42,2.83,False
+11 Mar 2012,Sydney Roosters,0,Penrith Panthers,18,1.53,2.42,False
+11 Mar 2012,Cronulla Sharks,6,Newcastle Knights,18,2.13,1.70,False
+10 Mar 2012,Canterbury Bulldogs,30,St. George Illawarra Dragons,4,2.35,1.58,False
+10 Mar 2012,Gold Coast Titans,12,Canberra Raiders,24,1.69,2.13,False
+09 Mar 2012,Brisbane Broncos,26,NQ Cowboys,28,1.46,2.65,False
+09 Mar 2012,Manly Sea Eagles,22,Wests Tigers,18,1.95,1.84,False
+05 Mar 2012,South Sydney Rabbitohs,20,Sydney Roosters,24,1.74,2.07,False
+04 Mar 2012,Wests Tigers,17,Cronulla Sharks,16,1.45,2.73,True
+04 Mar 2012,New Zealand Warriors,20,Manly Sea Eagles,26,1.67,2.19,False
+03 Mar 2012,NQ Cowboys,0,Gold Coast Titans,18,1.48,2.60,False
+03 Mar 2012,Penrith Panthers,14,Canterbury Bulldogs,22,1.95,1.85,False
+03 Mar 2012,Canberra Raiders,19,Melbourne Storm,24,2.40,1.56,False
+02 Mar 2012,Parramatta Eels,6,Brisbane Broncos,18,2.38,1.56,False
+01 Mar 2012,Newcastle Knights,14,St. George Illawarra Dragons,15,1.60,2.33,True
+06 Oct 2013,Sydney Roosters,26,Manly Sea Eagles,18,1.66,2.35,False
+28 Sep 2013,Sydney Roosters,40,Newcastle Knights,14,1.39,3.34,False
+27 Sep 2013,South Sydney Rabbitohs,20,Manly Sea Eagles,30,1.46,2.89,False
+21 Sep 2013,Melbourne Storm,16,Newcastle Knights,18,1.35,3.45,False
+20 Sep 2013,Manly Sea Eagles,24,Cronulla Sharks,18,1.29,3.86,False
+15 Sep 2013,Canterbury Bulldogs,6,Newcastle Knights,22,1.66,2.31,False
+14 Sep 2013,Sydney Roosters,4,Manly Sea Eagles,0,1.71,2.23,False
+14 Sep 2013,Cronulla Sharks,20,NQ Cowboys,18,1.78,2.10,False
+13 Sep 2013,South Sydney Rabbitohs,20,Melbourne Storm,10,1.93,1.95,False
+08 Sep 2013,Canberra Raiders,18,Cronulla Sharks,38,1.46,2.83,False
+08 Sep 2013,Newcastle Knights,54,Parramatta Eels,6,1.10,7.63,False
+08 Sep 2013,Manly Sea Eagles,26,Penrith Panthers,38,1.26,3.99,False
+07 Sep 2013,NQ Cowboys,50,Wests Tigers,22,1.15,5.68,False
+07 Sep 2013,Melbourne Storm,23,Gold Coast Titans,22,1.14,5.83,True
+07 Sep 2013,St. George Illawarra Dragons,19,New Zealand Warriors,10,3.79,1.29,False
+06 Sep 2013,South Sydney Rabbitohs,12,Sydney Roosters,24,1.51,2.65,False
+05 Sep 2013,Brisbane Broncos,16,Canterbury Bulldogs,11,2.74,1.49,False
+02 Sep 2013,Parramatta Eels,26,St. George Illawarra Dragons,22,2.21,1.72,False
+01 Sep 2013,Sydney Roosters,22,Gold Coast Titans,30,1.04,12.13,False
+01 Sep 2013,Cronulla Sharks,18,NQ Cowboys,31,1.82,2.09,False
+31 Aug 2013,Manly Sea Eagles,28,Melbourne Storm,8,2.30,1.67,False
+31 Aug 2013,Canterbury Bulldogs,34,Penrith Panthers,14,1.44,2.90,False
+31 Aug 2013,New Zealand Warriors,50,Canberra Raiders,16,1.30,3.69,False
+30 Aug 2013,Brisbane Broncos,18,Newcastle Knights,26,1.75,2.16,False
+30 Aug 2013,Wests Tigers,18,South Sydney Rabbitohs,32,11.50,1.04,False
+26 Aug 2013,Cronulla Sharks,32,Sydney Roosters,22,3.33,1.36,False
+25 Aug 2013,Melbourne Storm,64,Parramatta Eels,4,1.03,14.25,False
+25 Aug 2013,Canberra Raiders,22,Manly Sea Eagles,36,2.91,1.44,False
+24 Aug 2013,NQ Cowboys,26,Newcastle Knights,6,1.60,2.45,False
+24 Aug 2013,Gold Coast Titans,22,New Zealand Warriors,24,1.99,1.87,False
+24 Aug 2013,St. George Illawarra Dragons,18,Wests Tigers,34,1.43,2.95,False
+23 Aug 2013,Penrith Panthers,28,Brisbane Broncos,12,2.10,1.78,False
+23 Aug 2013,South Sydney Rabbitohs,28,Canterbury Bulldogs,20,1.36,3.33,False
+19 Aug 2013,Wests Tigers,14,Sydney Roosters,56,10.44,1.06,False
+18 Aug 2013,Newcastle Knights,10,Melbourne Storm,23,2.73,1.49,False
+18 Aug 2013,New Zealand Warriors,24,Penrith Panthers,28,1.15,5.58,False
+17 Aug 2013,St. George Illawarra Dragons,18,Cronulla Sharks,22,4.08,1.26,False
+17 Aug 2013,NQ Cowboys,22,Gold Coast Titans,10,1.32,3.51,False
+17 Aug 2013,Canberra Raiders,16,Canterbury Bulldogs,28,1.87,1.99,False
+16 Aug 2013,Brisbane Broncos,22,Parramatta Eels,12,1.16,5.34,False
+16 Aug 2013,South Sydney Rabbitohs,22,Manly Sea Eagles,10,2.05,1.83,False
+12 Aug 2013,Canterbury Bulldogs,16,Gold Coast Titans,26,1.13,6.01,False
+11 Aug 2013,Penrith Panthers,4,NQ Cowboys,36,2.64,1.51,False
+11 Aug 2013,Brisbane Broncos,26,St. George Illawarra Dragons,24,1.30,3.65,False
+11 Aug 2013,Manly Sea Eagles,27,New Zealand Warriors,12,1.37,3.19,False
+10 Aug 2013,Cronulla Sharks,14,Newcastle Knights,18,1.53,2.60,False
+10 Aug 2013,Sydney Roosters,28,Canberra Raiders,22,1.17,5.21,False
+09 Aug 2013,Melbourne Storm,26,South Sydney Rabbitohs,8,1.33,3.44,False
+09 Aug 2013,Parramatta Eels,26,Wests Tigers,22,1.62,2.38,False
+05 Aug 2013,St. George Illawarra Dragons,20,Canterbury Bulldogs,39,2.83,1.46,False
+06 Oct 2013,Sydney Roosters,26,Manly Sea Eagles,18,1.66,2.35,False
+28 Sep 2013,Sydney Roosters,40,Newcastle Knights,14,1.39,3.34,False
+27 Sep 2013,South Sydney Rabbitohs,20,Manly Sea Eagles,30,1.46,2.89,False
+21 Sep 2013,Melbourne Storm,16,Newcastle Knights,18,1.35,3.45,False
+20 Sep 2013,Manly Sea Eagles,24,Cronulla Sharks,18,1.29,3.86,False
+15 Sep 2013,Canterbury Bulldogs,6,Newcastle Knights,22,1.66,2.31,False
+14 Sep 2013,Sydney Roosters,4,Manly Sea Eagles,0,1.71,2.23,False
+14 Sep 2013,Cronulla Sharks,20,NQ Cowboys,18,1.78,2.10,False
+13 Sep 2013,South Sydney Rabbitohs,20,Melbourne Storm,10,1.93,1.95,False
+08 Sep 2013,Canberra Raiders,18,Cronulla Sharks,38,1.46,2.83,False
+08 Sep 2013,Newcastle Knights,54,Parramatta Eels,6,1.10,7.63,False
+08 Sep 2013,Manly Sea Eagles,26,Penrith Panthers,38,1.26,3.99,False
+07 Sep 2013,NQ Cowboys,50,Wests Tigers,22,1.15,5.68,False
+07 Sep 2013,Melbourne Storm,23,Gold Coast Titans,22,1.14,5.83,True
+07 Sep 2013,St. George Illawarra Dragons,19,New Zealand Warriors,10,3.79,1.29,False
+06 Sep 2013,South Sydney Rabbitohs,12,Sydney Roosters,24,1.51,2.65,False
+05 Sep 2013,Brisbane Broncos,16,Canterbury Bulldogs,11,2.74,1.49,False
+02 Sep 2013,Parramatta Eels,26,St. George Illawarra Dragons,22,2.21,1.72,False
+01 Sep 2013,Sydney Roosters,22,Gold Coast Titans,30,1.04,12.13,False
+01 Sep 2013,Cronulla Sharks,18,NQ Cowboys,31,1.82,2.09,False
+31 Aug 2013,Manly Sea Eagles,28,Melbourne Storm,8,2.30,1.67,False
+31 Aug 2013,Canterbury Bulldogs,34,Penrith Panthers,14,1.44,2.90,False
+31 Aug 2013,New Zealand Warriors,50,Canberra Raiders,16,1.30,3.69,False
+30 Aug 2013,Brisbane Broncos,18,Newcastle Knights,26,1.75,2.16,False
+30 Aug 2013,Wests Tigers,18,South Sydney Rabbitohs,32,11.50,1.04,False
+26 Aug 2013,Cronulla Sharks,32,Sydney Roosters,22,3.33,1.36,False
+25 Aug 2013,Melbourne Storm,64,Parramatta Eels,4,1.03,14.25,False
+25 Aug 2013,Canberra Raiders,22,Manly Sea Eagles,36,2.91,1.44,False
+24 Aug 2013,NQ Cowboys,26,Newcastle Knights,6,1.60,2.45,False
+24 Aug 2013,Gold Coast Titans,22,New Zealand Warriors,24,1.99,1.87,False
+24 Aug 2013,St. George Illawarra Dragons,18,Wests Tigers,34,1.43,2.95,False
+23 Aug 2013,Penrith Panthers,28,Brisbane Broncos,12,2.10,1.78,False
+23 Aug 2013,South Sydney Rabbitohs,28,Canterbury Bulldogs,20,1.36,3.33,False
+19 Aug 2013,Wests Tigers,14,Sydney Roosters,56,10.44,1.06,False
+18 Aug 2013,Newcastle Knights,10,Melbourne Storm,23,2.73,1.49,False
+18 Aug 2013,New Zealand Warriors,24,Penrith Panthers,28,1.15,5.58,False
+17 Aug 2013,St. George Illawarra Dragons,18,Cronulla Sharks,22,4.08,1.26,False
+17 Aug 2013,NQ Cowboys,22,Gold Coast Titans,10,1.32,3.51,False
+17 Aug 2013,Canberra Raiders,16,Canterbury Bulldogs,28,1.87,1.99,False
+16 Aug 2013,Brisbane Broncos,22,Parramatta Eels,12,1.16,5.34,False
+16 Aug 2013,South Sydney Rabbitohs,22,Manly Sea Eagles,10,2.05,1.83,False
+12 Aug 2013,Canterbury Bulldogs,16,Gold Coast Titans,26,1.13,6.01,False
+11 Aug 2013,Penrith Panthers,4,NQ Cowboys,36,2.64,1.51,False
+11 Aug 2013,Brisbane Broncos,26,St. George Illawarra Dragons,24,1.30,3.65,False
+11 Aug 2013,Manly Sea Eagles,27,New Zealand Warriors,12,1.37,3.19,False
+10 Aug 2013,Cronulla Sharks,14,Newcastle Knights,18,1.53,2.60,False
+10 Aug 2013,Sydney Roosters,28,Canberra Raiders,22,1.17,5.21,False
+09 Aug 2013,Melbourne Storm,26,South Sydney Rabbitohs,8,1.33,3.44,False
+09 Aug 2013,Parramatta Eels,26,Wests Tigers,22,1.62,2.38,False
+05 Aug 2013,St. George Illawarra Dragons,20,Canterbury Bulldogs,39,2.83,1.46,False
+04 Aug 2013,Gold Coast Titans,36,Wests Tigers,6,1.68,2.26,False
+04 Aug 2013,Canberra Raiders,4,Melbourne Storm,68,2.36,1.62,False
+03 Aug 2013,NQ Cowboys,30,South Sydney Rabbitohs,12,3.21,1.37,False
+03 Aug 2013,Parramatta Eels,6,Manly Sea Eagles,40,8.06,1.08,False
+03 Aug 2013,New Zealand Warriors,14,Cronulla Sharks,18,1.39,3.11,False
+02 Aug 2013,Newcastle Knights,18,Brisbane Broncos,18,1.52,2.62,True
+02 Aug 2013,Penrith Panthers,6,Sydney Roosters,42,5.05,1.19,False
+29 Jul 2013,Wests Tigers,18,Manly Sea Eagles,36,4.76,1.20,False
+28 Jul 2013,Newcastle Knights,12,Sydney Roosters,28,2.71,1.49,False
+28 Jul 2013,Cronulla Sharks,38,Penrith Panthers,10,1.50,2.66,False
+28 Jul 2013,New Zealand Warriors,30,Melbourne Storm,22,2.14,1.75,False
+27 Jul 2013,Gold Coast Titans,4,South Sydney Rabbitohs,32,3.08,1.40,False
+27 Jul 2013,St. George Illawarra Dragons,18,Canberra Raiders,22,2.11,1.78,False
+26 Jul 2013,Canterbury Bulldogs,40,Parramatta Eels,12,1.07,8.81,False
+26 Jul 2013,NQ Cowboys,16,Brisbane Broncos,18,1.48,2.74,False
+22 Jul 2013,South Sydney Rabbitohs,18,St. George Illawarra Dragons,22,1.12,6.46,True
+21 Jul 2013,Manly Sea Eagles,38,Gold Coast Titans,20,1.12,6.40,False
+21 Jul 2013,Penrith Panthers,14,Newcastle Knights,32,1.97,1.88,False
+20 Jul 2013,Sydney Roosters,40,Cronulla Sharks,0,1.25,4.12,False
+20 Jul 2013,Canberra Raiders,14,Parramatta Eels,0,1.10,6.93,False
+19 Jul 2013,Wests Tigers,14,New Zealand Warriors,24,2.30,1.64,False
+15 Jul 2013,NQ Cowboys,14,Manly Sea Eagles,34,3.28,1.37,False
+14 Jul 2013,Canterbury Bulldogs,39,Melbourne Storm,0,1.22,4.36,False
+13 Jul 2013,Parramatta Eels,10,Penrith Panthers,17,3.84,1.29,False
+12 Jul 2013,Brisbane Broncos,18,Cronulla Sharks,19,2.34,1.64,False
+08 Jul 2013,Manly Sea Eagles,50,Parramatta Eels,10,1.10,7.13,False
+07 Jul 2013,South Sydney Rabbitohs,30,New Zealand Warriors,13,1.29,3.76,False
+07 Jul 2013,Canterbury Bulldogs,12,Newcastle Knights,18,1.52,2.61,False
+07 Jul 2013,Canberra Raiders,26,NQ Cowboys,18,1.64,2.33,False
+06 Jul 2013,Gold Coast Titans,18,Penrith Panthers,40,1.84,1.98,False
+06 Jul 2013,St. George Illawarra Dragons,0,Sydney Roosters,36,4.24,1.24,False
+05 Jul 2013,Cronulla Sharks,36,Wests Tigers,22,1.53,2.59,False
+05 Jul 2013,Melbourne Storm,32,Brisbane Broncos,0,1.29,3.76,False
+01 Jul 2013,Sydney Roosters,18,Manly Sea Eagles,12,1.68,2.24,False
+30 Jun 2013,NQ Cowboys,24,Cronulla Sharks,4,1.48,2.73,False
+30 Jun 2013,New Zealand Warriors,18,Brisbane Broncos,16,1.36,3.26,False
+30 Jun 2013,Newcastle Knights,46,Gold Coast Titans,16,1.58,2.46,False
+29 Jun 2013,Penrith Panthers,25,St. George Illawarra Dragons,10,1.63,2.33,False
+29 Jun 2013,Wests Tigers,22,Melbourne Storm,4,2.58,1.53,False
+28 Jun 2013,South Sydney Rabbitohs,32,Canberra Raiders,2,1.24,4.17,False
+24 Jun 2013,Gold Coast Titans,18,Melbourne Storm,12,1.37,3.23,False
+23 Jun 2013,Parramatta Eels,10,South Sydney Rabbitohs,30,3.85,1.28,False
+22 Jun 2013,Wests Tigers,17,Canberra Raiders,12,3.06,1.40,False
+21 Jun 2013,Canterbury Bulldogs,18,Sydney Roosters,20,1.33,3.48,False
+17 Jun 2013,Brisbane Broncos,32,Wests Tigers,12,1.28,3.88,False
+16 Jun 2013,Sydney Roosters,12,New Zealand Warriors,23,1.28,3.86,False
+16 Jun 2013,Melbourne Storm,16,Newcastle Knights,14,1.21,4.58,False
+16 Jun 2013,South Sydney Rabbitohs,30,Gold Coast Titans,24,1.31,3.56,False
+15 Jun 2013,Cronulla Sharks,32,Parramatta Eels,14,1.16,5.34,False
+15 Jun 2013,Canberra Raiders,24,Penrith Panthers,12,1.24,4.23,False
+14 Jun 2013,Manly Sea Eagles,30,Canterbury Bulldogs,32,1.71,2.24,True
+14 Jun 2013,St. George Illawarra Dragons,16,NQ Cowboys,22,1.52,2.66,False
+10 Jun 2013,Canberra Raiders,30,Brisbane Broncos,18,1.39,3.07,False
+09 Jun 2013,Melbourne Storm,38,Cronulla Sharks,6,1.36,3.27,False
+09 Jun 2013,Penrith Panthers,18,Wests Tigers,20,1.23,4.25,False
+09 Jun 2013,New Zealand Warriors,18,Manly Sea Eagles,16,2.25,1.68,False
+08 Jun 2013,NQ Cowboys,26,Canterbury Bulldogs,36,2.95,1.44,False
+08 Jun 2013,Newcastle Knights,8,St. George Illawarra Dragons,14,1.39,3.08,False
+07 Jun 2013,Parramatta Eels,24,Sydney Roosters,38,5.55,1.16,False
+03 Jun 2013,Brisbane Broncos,18,New Zealand Warriors,56,1.94,1.91,False
+02 Jun 2013,Gold Coast Titans,31,NQ Cowboys,12,1.28,3.83,False
+01 Jun 2013,South Sydney Rabbitohs,25,Newcastle Knights,18,1.40,3.05,False
+31 May 2013,Canterbury Bulldogs,16,St. George Illawarra Dragons,14,1.38,3.13,False
+27 May 2013,Cronulla Sharks,14,South Sydney Rabbitohs,12,3.37,1.34,False
+26 May 2013,Parramatta Eels,4,Gold Coast Titans,42,2.18,1.72,False
+26 May 2013,New Zealand Warriors,28,Newcastle Knights,12,2.30,1.65,False
+25 May 2013,Manly Sea Eagles,16,Canberra Raiders,10,1.44,2.86,False
+25 May 2013,Sydney Roosters,18,Melbourne Storm,26,1.59,2.40,False
+25 May 2013,St. George Illawarra Dragons,0,Penrith Panthers,19,1.42,2.93,False
+24 May 2013,Canterbury Bulldogs,24,Brisbane Broncos,14,1.51,2.62,False
+24 May 2013,Wests Tigers,22,NQ Cowboys,20,3.28,1.36,False
+20 May 2013,Melbourne Storm,10,Manly Sea Eagles,10,1.37,3.23,True
+19 May 2013,Newcastle Knights,44,Canterbury Bulldogs,8,2.32,1.64,False
+19 May 2013,Cronulla Sharks,30,Canberra Raiders,20,1.82,2.05,False
+18 May 2013,NQ Cowboys,8,Sydney Roosters,12,2.03,1.82,False
+18 May 2013,Penrith Panthers,62,New Zealand Warriors,6,1.73,2.14,False
+18 May 2013,St. George Illawarra Dragons,32,Parramatta Eels,12,1.43,2.87,False
+17 May 2013,Brisbane Broncos,32,Gold Coast Titans,6,1.74,2.13,False
+17 May 2013,South Sydney Rabbitohs,54,Wests Tigers,10,1.07,8.92,False
+13 May 2013,Manly Sea Eagles,4,Sydney Roosters,16,2.11,1.76,False
+12 May 2013,Penrith Panthers,12,Melbourne Storm,10,5.28,1.14,False
+12 May 2013,Gold Coast Titans,15,St. George Illawarra Dragons,14,1.50,2.63,False
+12 May 2013,Canberra Raiders,44,Newcastle Knights,14,1.57,2.46,False
+11 May 2013,Parramatta Eels,19,Brisbane Broncos,18,2.77,1.46,False
+11 May 2013,New Zealand Warriors,16,Canterbury Bulldogs,24,2.53,1.54,False
+10 May 2013,South Sydney Rabbitohs,28,NQ Cowboys,10,1.28,3.83,False
+10 May 2013,Wests Tigers,6,Cronulla Sharks,30,2.60,1.52,False
+06 May 2013,St. George Illawarra Dragons,18,Manly Sea Eagles,24,2.60,1.52,False
+05 May 2013,Sydney Roosters,30,Penrith Panthers,6,1.12,6.10,False
+05 May 2013,Newcastle Knights,20,Cronulla Sharks,21,1.32,3.48,True
+05 May 2013,New Zealand Warriors,25,Gold Coast Titans,24,1.48,2.70,False
+04 May 2013,Parramatta Eels,10,NQ Cowboys,14,2.91,1.43,False
+04 May 2013,Melbourne Storm,20,Canberra Raiders,24,1.12,6.02,False
+03 May 2013,Brisbane Broncos,12,South Sydney Rabbitohs,26,2.72,1.48,False
+03 May 2013,Canterbury Bulldogs,40,Wests Tigers,4,1.17,5.17,False
+29 Apr 2013,Penrith Panthers,44,Parramatta Eels,12,2.28,1.67,False
+28 Apr 2013,Cronulla Sharks,8,Canterbury Bulldogs,24,2.08,1.79,False
+28 Apr 2013,Gold Coast Titans,6,Newcastle Knights,30,1.62,2.36,False
+27 Apr 2013,Wests Tigers,10,Brisbane Broncos,20,2.72,1.47,False
+27 Apr 2013,NQ Cowboys,30,Canberra Raiders,12,1.26,3.98,False
+26 Apr 2013,Manly Sea Eagles,12,South Sydney Rabbitohs,20,1.63,2.33,False
+25 Apr 2013,Melbourne Storm,28,New Zealand Warriors,18,1.15,5.52,False
+25 Apr 2013,Sydney Roosters,34,St. George Illawarra Dragons,10,1.32,3.55,False
+14 Apr 2013,Gold Coast Titans,28,Parramatta Eels,22,1.61,2.40,False
+14 Apr 2013,Wests Tigers,12,St. George Illawarra Dragons,13,2.45,1.57,False
+14 Apr 2013,Manly Sea Eagles,25,Cronulla Sharks,18,1.19,4.85,False
+13 Apr 2013,Canberra Raiders,20,New Zealand Warriors,16,1.48,2.73,False
+13 Apr 2013,South Sydney Rabbitohs,10,Melbourne Storm,17,1.89,1.95,False
+13 Apr 2013,Newcastle Knights,8,Penrith Panthers,6,1.16,5.23,False
+12 Apr 2013,Brisbane Broncos,12,NQ Cowboys,10,1.81,2.06,False
+12 Apr 2013,Sydney Roosters,38,Canterbury Bulldogs,0,1.62,2.37,False
+08 Apr 2013,Melbourne Storm,26,Wests Tigers,12,1.14,5.57,False
+07 Apr 2013,Canberra Raiders,24,Sydney Roosters,22,2.97,1.43,False
+07 Apr 2013,St. George Illawarra Dragons,19,Newcastle Knights,16,2.25,1.68,False
+07 Apr 2013,New Zealand Warriors,22,South Sydney Rabbitohs,24,3.25,1.36,False
+06 Apr 2013,NQ Cowboys,30,Penrith Panthers,0,1.21,4.50,False
+06 Apr 2013,Parramatta Eels,13,Cronulla Sharks,6,2.48,1.56,False
+05 Apr 2013,Gold Coast Titans,12,Brisbane Broncos,32,1.58,2.32,False
+05 Apr 2013,Canterbury Bulldogs,6,Manly Sea Eagles,20,2.07,1.80,False
+01 Apr 2013,Sydney Roosters,50,Parramatta Eels,0,1.39,3.08,False
+01 Apr 2013,New Zealand Warriors,20,NQ Cowboys,18,2.77,1.47,False
+31 Mar 2013,Newcastle Knights,28,Canberra Raiders,12,1.38,3.18,False
+31 Mar 2013,Penrith Panthers,10,Gold Coast Titans,28,2.28,1.65,False
+30 Mar 2013,Cronulla Sharks,12,St. George Illawarra Dragons,25,1.32,3.48,False
+29 Mar 2013,Brisbane Broncos,26,Melbourne Storm,32,3.32,1.35,False
+29 Mar 2013,Canterbury Bulldogs,12,South Sydney Rabbitohs,17,1.97,1.87,False
+28 Mar 2013,Manly Sea Eagles,26,Wests Tigers,0,1.38,3.20,False
+25 Mar 2013,Newcastle Knights,34,NQ Cowboys,6,2.30,1.65,False
+24 Mar 2013,Canberra Raiders,30,St. George Illawarra Dragons,17,1.63,2.33,False
+24 Mar 2013,Penrith Panthers,32,South Sydney Rabbitohs,44,4.47,1.22,False
+24 Mar 2013,Cronulla Sharks,28,New Zealand Warriors,4,1.39,3.10,False
+23 Mar 2013,Sydney Roosters,8,Brisbane Broncos,0,1.50,2.64,False
+23 Mar 2013,Gold Coast Titans,16,Manly Sea Eagles,14,2.33,1.64,False
+22 Mar 2013,Wests Tigers,31,Parramatta Eels,18,1.72,2.19,False
+21 Mar 2013,Melbourne Storm,22,Canterbury Bulldogs,18,1.22,4.57,False
+18 Mar 2013,South Sydney Rabbitohs,14,Cronulla Sharks,12,1.29,3.70,False
+17 Mar 2013,Manly Sea Eagles,32,Newcastle Knights,0,1.69,2.21,False
+17 Mar 2013,Wests Tigers,28,Penrith Panthers,18,1.67,2.23,False
+17 Mar 2013,Gold Coast Titans,36,Canberra Raiders,0,1.45,2.74,False
+16 Mar 2013,NQ Cowboys,10,Melbourne Storm,32,1.84,2.01,False
+16 Mar 2013,New Zealand Warriors,14,Sydney Roosters,16,2.22,1.69,False
+15 Mar 2013,St. George Illawarra Dragons,6,Brisbane Broncos,22,2.10,1.76,False
+14 Mar 2013,Parramatta Eels,16,Canterbury Bulldogs,20,2.25,1.67,False
+11 Mar 2013,Newcastle Knights,42,Wests Tigers,10,1.47,2.73,False
+10 Mar 2013,Cronulla Sharks,12,Gold Coast Titans,10,1.54,2.62,False
+10 Mar 2013,Melbourne Storm,30,St. George Illawarra Dragons,10,1.24,4.28,False
+10 Mar 2013,Penrith Panthers,32,Canberra Raiders,10,2.00,1.86,False
+09 Mar 2013,Canterbury Bulldogs,12,NQ Cowboys,24,2.11,1.77,False
+09 Mar 2013,Parramatta Eels,40,New Zealand Warriors,10,1.81,2.05,False
+08 Mar 2013,Brisbane Broncos,14,Manly Sea Eagles,22,1.55,2.53,False
+07 Mar 2013,Sydney Roosters,10,South Sydney Rabbitohs,28,2.33,1.63,False
+05 Oct 2014,South Sydney Rabbitohs,30,Canterbury Bulldogs,6,1.37,3.38,False
+27 Sep 2014,Penrith Panthers,12,Canterbury Bulldogs,18,2.07,1.86,False
+26 Sep 2014,South Sydney Rabbitohs,32,Sydney Roosters,22,1.71,2.27,False
+20 Sep 2014,Manly Sea Eagles,17,Canterbury Bulldogs,18,2.46,1.61,True
+19 Sep 2014,Sydney Roosters,31,NQ Cowboys,30,1.45,2.93,False
+14 Sep 2014,Melbourne Storm,4,Canterbury Bulldogs,28,1.35,3.47,False
+13 Sep 2014,NQ Cowboys,32,Brisbane Broncos,20,1.39,3.19,False
+13 Sep 2014,Sydney Roosters,18,Penrith Panthers,19,1.28,3.87,False
+12 Sep 2014,Manly Sea Eagles,24,South Sydney Rabbitohs,40,2.84,1.47,False
+07 Sep 2014,Penrith Panthers,22,New Zealand Warriors,6,1.73,2.22,False
+07 Sep 2014,Gold Coast Titans,19,Canterbury Bulldogs,18,3.68,1.32,True
+07 Sep 2014,Newcastle Knights,40,St. George Illawarra Dragons,10,1.57,2.55,False
+06 Sep 2014,NQ Cowboys,30,Manly Sea Eagles,16,1.50,2.76,False
+06 Sep 2014,Canberra Raiders,33,Parramatta Eels,20,2.88,1.46,False
+06 Sep 2014,Wests Tigers,26,Cronulla Sharks,10,1.44,2.97,False
+05 Sep 2014,Melbourne Storm,22,Brisbane Broncos,12,1.33,3.59,False
+04 Sep 2014,Sydney Roosters,22,South Sydney Rabbitohs,18,1.59,2.53,False
+01 Sep 2014,NQ Cowboys,20,Cronulla Sharks,19,1.01,17.20,True
+31 Aug 2014,Manly Sea Eagles,26,Penrith Panthers,25,1.20,4.75,False
+31 Aug 2014,New Zealand Warriors,42,Gold Coast Titans,0,1.14,6.24,False
+30 Aug 2014,Sydney Roosters,24,Melbourne Storm,12,1.56,2.57,False
+30 Aug 2014,Canberra Raiders,27,Wests Tigers,12,1.44,2.94,False
+30 Aug 2014,Newcastle Knights,42,Parramatta Eels,12,2.41,1.62,False
+29 Aug 2014,Brisbane Broncos,30,St. George Illawarra Dragons,22,1.44,2.94,False
+28 Aug 2014,Canterbury Bulldogs,14,South Sydney Rabbitohs,21,3.75,1.30,False
+25 Aug 2014,Penrith Panthers,10,Melbourne Storm,24,2.89,1.45,False
+24 Aug 2014,St. George Illawarra Dragons,34,Gold Coast Titans,6,1.33,3.49,False
+24 Aug 2014,Cronulla Sharks,12,Canberra Raiders,22,2.36,1.64,False
+24 Aug 2014,New Zealand Warriors,12,Sydney Roosters,46,2.22,1.71,False
+23 Aug 2014,South Sydney Rabbitohs,10,NQ Cowboys,22,1.37,3.28,False
+23 Aug 2014,Brisbane Broncos,48,Newcastle Knights,6,1.26,4.08,False
+22 Aug 2014,Parramatta Eels,22,Manly Sea Eagles,12,2.79,1.49,False
+21 Aug 2014,Canterbury Bulldogs,30,Wests Tigers,10,1.16,5.43,False
+18 Aug 2014,Penrith Panthers,23,NQ Cowboys,22,2.04,1.84,False
+17 Aug 2014,Gold Coast Titans,12,Manly Sea Eagles,15,3.73,1.30,False
+17 Aug 2014,Newcastle Knights,28,New Zealand Warriors,22,2.41,1.61,False
+16 Aug 2014,Wests Tigers,4,Sydney Roosters,48,4.43,1.23,False
+16 Aug 2014,Melbourne Storm,48,Cronulla Sharks,6,1.10,7.70,False
+16 Aug 2014,Canberra Raiders,16,St. George Illawarra Dragons,34,2.24,1.70,False
+15 Aug 2014,Parramatta Eels,16,Canterbury Bulldogs,18,1.83,2.06,False
+14 Aug 2014,South Sydney Rabbitohs,42,Brisbane Broncos,16,1.36,3.35,False
+11 Aug 2014,Sydney Roosters,26,Gold Coast Titans,18,1.31,3.60,False
+10 Aug 2014,St. George Illawarra Dragons,4,Penrith Panthers,16,1.56,2.56,False
+10 Aug 2014,New Zealand Warriors,16,Cronulla Sharks,12,1.14,5.80,False
+09 Aug 2014,Parramatta Eels,18,Canberra Raiders,10,1.22,4.45,False
+09 Aug 2014,NQ Cowboys,64,Wests Tigers,6,1.12,7.30,False
+09 Aug 2014,Newcastle Knights,32,Melbourne Storm,30,4.44,1.22,False
+08 Aug 2014,Brisbane Broncos,41,Canterbury Bulldogs,10,1.84,2.02,False
+08 Aug 2014,South Sydney Rabbitohs,23,Manly Sea Eagles,4,1.97,1.87,False
+04 Aug 2014,Wests Tigers,6,Melbourne Storm,28,3.88,1.27,False
+05 Oct 2014,South Sydney Rabbitohs,30,Canterbury Bulldogs,6,1.37,3.38,False
+27 Sep 2014,Penrith Panthers,12,Canterbury Bulldogs,18,2.07,1.86,False
+26 Sep 2014,South Sydney Rabbitohs,32,Sydney Roosters,22,1.71,2.27,False
+20 Sep 2014,Manly Sea Eagles,17,Canterbury Bulldogs,18,2.46,1.61,True
+19 Sep 2014,Sydney Roosters,31,NQ Cowboys,30,1.45,2.93,False
+14 Sep 2014,Melbourne Storm,4,Canterbury Bulldogs,28,1.35,3.47,False
+13 Sep 2014,NQ Cowboys,32,Brisbane Broncos,20,1.39,3.19,False
+13 Sep 2014,Sydney Roosters,18,Penrith Panthers,19,1.28,3.87,False
+12 Sep 2014,Manly Sea Eagles,24,South Sydney Rabbitohs,40,2.84,1.47,False
+07 Sep 2014,Penrith Panthers,22,New Zealand Warriors,6,1.73,2.22,False
+07 Sep 2014,Gold Coast Titans,19,Canterbury Bulldogs,18,3.68,1.32,True
+07 Sep 2014,Newcastle Knights,40,St. George Illawarra Dragons,10,1.57,2.55,False
+06 Sep 2014,NQ Cowboys,30,Manly Sea Eagles,16,1.50,2.76,False
+06 Sep 2014,Canberra Raiders,33,Parramatta Eels,20,2.88,1.46,False
+06 Sep 2014,Wests Tigers,26,Cronulla Sharks,10,1.44,2.97,False
+05 Sep 2014,Melbourne Storm,22,Brisbane Broncos,12,1.33,3.59,False
+04 Sep 2014,Sydney Roosters,22,South Sydney Rabbitohs,18,1.59,2.53,False
+01 Sep 2014,NQ Cowboys,20,Cronulla Sharks,19,1.01,17.20,True
+31 Aug 2014,Manly Sea Eagles,26,Penrith Panthers,25,1.20,4.75,False
+31 Aug 2014,New Zealand Warriors,42,Gold Coast Titans,0,1.14,6.24,False
+30 Aug 2014,Sydney Roosters,24,Melbourne Storm,12,1.56,2.57,False
+30 Aug 2014,Canberra Raiders,27,Wests Tigers,12,1.44,2.94,False
+30 Aug 2014,Newcastle Knights,42,Parramatta Eels,12,2.41,1.62,False
+29 Aug 2014,Brisbane Broncos,30,St. George Illawarra Dragons,22,1.44,2.94,False
+28 Aug 2014,Canterbury Bulldogs,14,South Sydney Rabbitohs,21,3.75,1.30,False
+25 Aug 2014,Penrith Panthers,10,Melbourne Storm,24,2.89,1.45,False
+24 Aug 2014,St. George Illawarra Dragons,34,Gold Coast Titans,6,1.33,3.49,False
+24 Aug 2014,Cronulla Sharks,12,Canberra Raiders,22,2.36,1.64,False
+24 Aug 2014,New Zealand Warriors,12,Sydney Roosters,46,2.22,1.71,False
+23 Aug 2014,South Sydney Rabbitohs,10,NQ Cowboys,22,1.37,3.28,False
+23 Aug 2014,Brisbane Broncos,48,Newcastle Knights,6,1.26,4.08,False
+22 Aug 2014,Parramatta Eels,22,Manly Sea Eagles,12,2.79,1.49,False
+21 Aug 2014,Canterbury Bulldogs,30,Wests Tigers,10,1.16,5.43,False
+18 Aug 2014,Penrith Panthers,23,NQ Cowboys,22,2.04,1.84,False
+17 Aug 2014,Gold Coast Titans,12,Manly Sea Eagles,15,3.73,1.30,False
+17 Aug 2014,Newcastle Knights,28,New Zealand Warriors,22,2.41,1.61,False
+16 Aug 2014,Wests Tigers,4,Sydney Roosters,48,4.43,1.23,False
+16 Aug 2014,Melbourne Storm,48,Cronulla Sharks,6,1.10,7.70,False
+16 Aug 2014,Canberra Raiders,16,St. George Illawarra Dragons,34,2.24,1.70,False
+15 Aug 2014,Parramatta Eels,16,Canterbury Bulldogs,18,1.83,2.06,False
+14 Aug 2014,South Sydney Rabbitohs,42,Brisbane Broncos,16,1.36,3.35,False
+11 Aug 2014,Sydney Roosters,26,Gold Coast Titans,18,1.31,3.60,False
+10 Aug 2014,St. George Illawarra Dragons,4,Penrith Panthers,16,1.56,2.56,False
+10 Aug 2014,New Zealand Warriors,16,Cronulla Sharks,12,1.14,5.80,False
+09 Aug 2014,Parramatta Eels,18,Canberra Raiders,10,1.22,4.45,False
+09 Aug 2014,NQ Cowboys,64,Wests Tigers,6,1.12,7.30,False
+09 Aug 2014,Newcastle Knights,32,Melbourne Storm,30,4.44,1.22,False
+08 Aug 2014,Brisbane Broncos,41,Canterbury Bulldogs,10,1.84,2.02,False
+08 Aug 2014,South Sydney Rabbitohs,23,Manly Sea Eagles,4,1.97,1.87,False
+04 Aug 2014,Wests Tigers,6,Melbourne Storm,28,3.88,1.27,False
+03 Aug 2014,South Sydney Rabbitohs,50,Newcastle Knights,10,1.33,3.40,False
+03 Aug 2014,Canberra Raiders,18,New Zealand Warriors,54,2.32,1.64,False
+02 Aug 2014,Sydney Roosters,30,St. George Illawarra Dragons,22,1.40,3.04,False
+02 Aug 2014,NQ Cowboys,28,Gold Coast Titans,8,1.24,4.22,False
+02 Aug 2014,Cronulla Sharks,12,Parramatta Eels,32,2.14,1.74,False
+01 Aug 2014,Canterbury Bulldogs,16,Penrith Panthers,22,1.46,2.84,False
+01 Aug 2014,Manly Sea Eagles,16,Brisbane Broncos,4,1.37,3.21,False
+28 Jul 2014,Canberra Raiders,18,South Sydney Rabbitohs,34,3.51,1.32,False
+27 Jul 2014,Wests Tigers,12,St. George Illawarra Dragons,28,1.71,2.20,False
+27 Jul 2014,New Zealand Warriors,12,Manly Sea Eagles,22,2.27,1.67,False
+26 Jul 2014,Canterbury Bulldogs,12,NQ Cowboys,20,1.59,2.44,False
+26 Jul 2014,Gold Coast Titans,18,Parramatta Eels,24,1.77,2.12,False
+26 Jul 2014,Penrith Panthers,16,Cronulla Sharks,18,1.28,3.83,False
+25 Jul 2014,Brisbane Broncos,8,Melbourne Storm,30,1.85,2.02,False
+25 Jul 2014,Newcastle Knights,16,Sydney Roosters,12,4.28,1.23,False
+21 Jul 2014,St. George Illawarra Dragons,12,Manly Sea Eagles,21,2.83,1.46,False
+20 Jul 2014,Wests Tigers,46,Canterbury Bulldogs,18,3.13,1.38,False
+20 Jul 2014,Newcastle Knights,8,Gold Coast Titans,22,1.21,4.63,False
+19 Jul 2014,Brisbane Broncos,28,New Zealand Warriors,22,1.91,1.93,False
+19 Jul 2014,Melbourne Storm,28,Canberra Raiders,14,1.22,4.50,False
+19 Jul 2014,Sydney Roosters,32,Penrith Panthers,12,1.29,3.65,False
+18 Jul 2014,Cronulla Sharks,18,NQ Cowboys,36,2.44,1.58,False
+18 Jul 2014,Parramatta Eels,12,South Sydney Rabbitohs,32,2.82,1.45,False
+14 Jul 2014,Penrith Panthers,35,Brisbane Broncos,34,1.64,2.34,False
+13 Jul 2014,Cronulla Sharks,18,Newcastle Knights,31,1.98,1.87,False
+13 Jul 2014,Gold Coast Titans,20,Canberra Raiders,36,1.61,2.38,False
+12 Jul 2014,Melbourne Storm,4,Canterbury Bulldogs,6,1.41,2.97,False
+12 Jul 2014,New Zealand Warriors,48,Parramatta Eels,0,1.23,4.30,False
+11 Jul 2014,Manly Sea Eagles,40,Wests Tigers,8,1.23,4.38,False
+07 Jul 2014,South Sydney Rabbitohs,10,Gold Coast Titans,14,1.14,5.88,False
+06 Jul 2014,Wests Tigers,10,Penrith Panthers,26,3.18,1.38,False
+05 Jul 2014,Sydney Roosters,28,Cronulla Sharks,30,1.05,10.48,False
+05 Jul 2014,St. George Illawarra Dragons,27,NQ Cowboys,24,1.27,3.88,False
+04 Jul 2014,Canterbury Bulldogs,23,Manly Sea Eagles,16,3.71,1.29,False
+30 Jun 2014,St. George Illawarra Dragons,24,Melbourne Storm,12,2.64,1.51,False
+29 Jun 2014,Parramatta Eels,10,Newcastle Knights,16,1.48,2.76,False
+29 Jun 2014,New Zealand Warriors,30,Penrith Panthers,20,1.60,2.42,False
+28 Jun 2014,NQ Cowboys,20,South Sydney Rabbitohs,18,2.80,1.47,False
+28 Jun 2014,Wests Tigers,19,Canberra Raiders,18,1.26,3.99,False
+27 Jun 2014,Brisbane Broncos,22,Cronulla Sharks,24,1.23,4.35,False
+27 Jun 2014,Manly Sea Eagles,24,Sydney Roosters,16,1.82,2.05,False
+23 Jun 2014,Newcastle Knights,36,NQ Cowboys,28,1.61,2.41,False
+22 Jun 2014,Gold Coast Titans,18,St. George Illawarra Dragons,19,1.68,2.25,False
+22 Jun 2014,Melbourne Storm,46,Parramatta Eels,20,1.62,2.36,False
+21 Jun 2014,Cronulla Sharks,0,Manly Sea Eagles,26,3.19,1.38,False
+21 Jun 2014,New Zealand Warriors,19,Brisbane Broncos,10,1.43,2.93,False
+20 Jun 2014,Canberra Raiders,14,Canterbury Bulldogs,22,2.36,1.62,False
+16 Jun 2014,Gold Coast Titans,20,Melbourne Storm,24,1.50,2.71,False
+15 Jun 2014,Canterbury Bulldogs,12,Parramatta Eels,22,1.52,2.61,False
+14 Jun 2014,Sydney Roosters,29,Newcastle Knights,12,1.15,5.78,False
+14 Jun 2014,Penrith Panthers,18,St. George Illawarra Dragons,14,1.18,4.95,False
+13 Jun 2014,South Sydney Rabbitohs,32,Wests Tigers,10,1.37,3.21,False
+09 Jun 2014,Canberra Raiders,4,Brisbane Broncos,28,2.46,1.59,False
+08 Jun 2014,Melbourne Storm,12,Sydney Roosters,32,4.10,1.25,False
+08 Jun 2014,Newcastle Knights,20,Wests Tigers,23,1.93,1.92,False
+07 Jun 2014,South Sydney Rabbitohs,34,New Zealand Warriors,18,1.49,2.71,False
+07 Jun 2014,St. George Illawarra Dragons,30,Cronulla Sharks,0,1.37,3.21,False
+07 Jun 2014,Gold Coast Titans,14,Penrith Panthers,36,2.07,1.80,False
+06 Jun 2014,Manly Sea Eagles,32,Canterbury Bulldogs,10,1.65,2.31,False
+06 Jun 2014,Parramatta Eels,18,NQ Cowboys,16,2.08,1.80,False
+02 Jun 2014,South Sydney Rabbitohs,29,St. George Illawarra Dragons,10,1.18,5.00,False
+01 Jun 2014,Brisbane Broncos,36,Manly Sea Eagles,10,1.87,1.99,False
+01 Jun 2014,New Zealand Warriors,38,Newcastle Knights,18,1.34,3.43,False
+31 May 2014,NQ Cowboys,22,Melbourne Storm,0,1.20,4.97,False
+31 May 2014,Sydney Roosters,26,Canberra Raiders,12,1.17,5.30,False
+30 May 2014,Penrith Panthers,38,Parramatta Eels,12,1.48,2.77,False
+26 May 2014,Cronulla Sharks,0,South Sydney Rabbitohs,18,3.90,1.28,False
+25 May 2014,Canberra Raiders,42,NQ Cowboys,12,1.49,2.73,False
+24 May 2014,Wests Tigers,14,Brisbane Broncos,16,2.12,1.77,False
+24 May 2014,Gold Coast Titans,16,New Zealand Warriors,24,3.74,1.29,False
+23 May 2014,Canterbury Bulldogs,12,Sydney Roosters,32,3.00,1.42,False
+19 May 2014,Manly Sea Eagles,15,Newcastle Knights,14,1.23,4.48,False
+18 May 2014,Canberra Raiders,20,Penrith Panthers,26,2.22,1.71,False
+18 May 2014,Canterbury Bulldogs,16,New Zealand Warriors,12,1.76,2.14,False
+17 May 2014,NQ Cowboys,42,Sydney Roosters,10,1.97,1.91,False
+17 May 2014,Cronulla Sharks,20,Wests Tigers,22,1.72,2.20,False
+17 May 2014,Parramatta Eels,36,St. George Illawarra Dragons,0,1.55,2.53,False
+16 May 2014,Brisbane Broncos,22,Gold Coast Titans,8,1.30,3.70,False
+16 May 2014,South Sydney Rabbitohs,14,Melbourne Storm,27,1.46,2.86,False
+12 May 2014,Parramatta Eels,42,Cronulla Sharks,24,1.60,2.42,False
+11 May 2014,St. George Illawarra Dragons,6,Canterbury Bulldogs,38,2.74,1.48,False
+11 May 2014,Newcastle Knights,10,Penrith Panthers,32,1.61,2.39,False
+10 May 2014,Melbourne Storm,22,Manly Sea Eagles,19,1.53,2.61,False
+10 May 2014,Gold Coast Titans,18,South Sydney Rabbitohs,40,2.48,1.58,False
+10 May 2014,New Zealand Warriors,54,Canberra Raiders,12,1.46,2.81,False
+09 May 2014,NQ Cowboys,27,Brisbane Broncos,14,1.78,2.11,False
+09 May 2014,Sydney Roosters,30,Wests Tigers,6,1.17,5.21,False
+27 Apr 2014,Wests Tigers,6,Gold Coast Titans,22,1.79,2.07,False
+27 Apr 2014,Manly Sea Eagles,54,Canberra Raiders,18,1.43,2.91,False
+26 Apr 2014,Canterbury Bulldogs,16,Newcastle Knights,12,1.41,3.04,False
+26 Apr 2014,NQ Cowboys,42,Parramatta Eels,14,1.48,2.75,False
+26 Apr 2014,Cronulla Sharks,24,Penrith Panthers,20,1.76,2.13,False
+25 Apr 2014,Brisbane Broncos,26,South Sydney Rabbitohs,28,2.02,1.85,False
+25 Apr 2014,Melbourne Storm,10,New Zealand Warriors,16,1.39,3.10,False
+25 Apr 2014,St. George Illawarra Dragons,14,Sydney Roosters,34,2.90,1.44,False
+21 Apr 2014,Penrith Panthers,14,Gold Coast Titans,12,1.62,2.37,False
+21 Apr 2014,Parramatta Eels,18,Wests Tigers,21,1.43,2.90,False
+20 Apr 2014,Canberra Raiders,24,Melbourne Storm,22,2.27,1.66,False
+19 Apr 2014,Cronulla Sharks,18,Sydney Roosters,24,3.09,1.39,False
+19 Apr 2014,St. George Illawarra Dragons,20,New Zealand Warriors,10,1.54,2.58,False
+18 Apr 2014,Manly Sea Eagles,26,NQ Cowboys,21,1.46,2.79,False
+18 Apr 2014,Newcastle Knights,6,Brisbane Broncos,32,1.60,2.41,False
+18 Apr 2014,South Sydney Rabbitohs,14,Canterbury Bulldogs,15,1.84,2.02,False
+14 Apr 2014,Melbourne Storm,28,St. George Illawarra Dragons,24,1.32,3.40,False
+13 Apr 2014,Manly Sea Eagles,24,Cronulla Sharks,4,1.25,4.03,False
+13 Apr 2014,New Zealand Warriors,20,Canterbury Bulldogs,21,2.04,1.79,False
+12 Apr 2014,Wests Tigers,16,NQ Cowboys,4,2.12,1.75,False
+12 Apr 2014,Parramatta Eels,14,Sydney Roosters,12,2.92,1.43,False
+12 Apr 2014,Canberra Raiders,12,Newcastle Knights,26,1.60,2.38,False
+11 Apr 2014,Gold Coast Titans,12,Brisbane Broncos,8,2.08,1.76,False
+11 Apr 2014,Penrith Panthers,2,South Sydney Rabbitohs,18,2.33,1.63,False
+07 Apr 2014,NQ Cowboys,28,Newcastle Knights,2,1.47,2.72,False
+06 Apr 2014,Wests Tigers,34,Manly Sea Eagles,18,2.61,1.50,False
+06 Apr 2014,Melbourne Storm,26,Gold Coast Titans,28,1.24,4.06,False
+05 Apr 2014,St. George Illawarra Dragons,6,South Sydney Rabbitohs,26,2.34,1.61,False
+05 Apr 2014,Penrith Panthers,12,Canberra Raiders,6,1.47,2.72,False
+05 Apr 2014,Cronulla Sharks,37,New Zealand Warriors,6,2.31,1.65,False
+04 Apr 2014,Brisbane Broncos,18,Parramatta Eels,25,1.37,3.24,False
+04 Apr 2014,Sydney Roosters,8,Canterbury Bulldogs,9,1.41,2.99,False
+31 Mar 2014,Gold Coast Titans,13,NQ Cowboys,12,2.38,1.62,False
+30 Mar 2014,Newcastle Knights,30,Cronulla Sharks,0,1.44,2.93,False
+30 Mar 2014,South Sydney Rabbitohs,18,Canberra Raiders,30,1.32,3.59,False
+29 Mar 2014,Canterbury Bulldogs,40,Melbourne Storm,12,2.49,1.56,False
+29 Mar 2014,Parramatta Eels,32,Penrith Panthers,16,2.15,1.74,False
+29 Mar 2014,New Zealand Warriors,42,Wests Tigers,18,1.49,2.71,False
+28 Mar 2014,St. George Illawarra Dragons,20,Brisbane Broncos,36,1.80,2.05,False
+28 Mar 2014,Sydney Roosters,0,Manly Sea Eagles,8,1.48,2.75,False
+24 Mar 2014,Melbourne Storm,28,Newcastle Knights,20,1.25,3.99,False
+23 Mar 2014,Canberra Raiders,12,Gold Coast Titans,24,1.45,2.82,False
+23 Mar 2014,Manly Sea Eagles,22,Parramatta Eels,18,1.21,4.51,False
+22 Mar 2014,NQ Cowboys,16,New Zealand Warriors,20,1.36,3.20,False
+22 Mar 2014,Cronulla Sharks,12,St. George Illawarra Dragons,14,2.52,1.53,False
+22 Mar 2014,Penrith Panthers,18,Canterbury Bulldogs,16,1.61,2.39,False
+21 Mar 2014,Brisbane Broncos,26,Sydney Roosters,30,2.73,1.46,False
+21 Mar 2014,Wests Tigers,25,South Sydney Rabbitohs,16,4.58,1.20,False
+17 Mar 2014,Canterbury Bulldogs,42,Cronulla Sharks,4,1.25,4.18,False
+16 Mar 2014,Newcastle Knights,20,Canberra Raiders,26,1.59,2.43,False
+16 Mar 2014,Gold Coast Titans,12,Wests Tigers,42,1.31,3.58,False
+15 Mar 2014,Sydney Roosters,56,Parramatta Eels,4,1.26,3.94,False
+15 Mar 2014,Melbourne Storm,18,Penrith Panthers,17,1.31,3.58,False
+15 Mar 2014,New Zealand Warriors,12,St. George Illawarra Dragons,31,1.37,3.20,False
+14 Mar 2014,Brisbane Broncos,16,NQ Cowboys,12,2.17,1.73,False
+14 Mar 2014,Manly Sea Eagles,14,South Sydney Rabbitohs,12,2.96,1.43,False
+10 Mar 2014,Cronulla Sharks,12,Gold Coast Titans,18,1.78,2.10,False
+09 Mar 2014,Parramatta Eels,36,New Zealand Warriors,16,2.38,1.62,False
+09 Mar 2014,St. George Illawarra Dragons,44,Wests Tigers,24,1.81,2.04,False
+08 Mar 2014,NQ Cowboys,28,Canberra Raiders,22,1.29,3.71,False
+08 Mar 2014,Manly Sea Eagles,22,Melbourne Storm,23,1.50,2.68,True
+08 Mar 2014,Penrith Panthers,30,Newcastle Knights,8,1.81,2.06,False
+07 Mar 2014,Canterbury Bulldogs,12,Brisbane Broncos,18,1.61,2.39,False
+06 Mar 2014,South Sydney Rabbitohs,28,Sydney Roosters,8,2.24,1.67,False
+04 Oct 2015,Brisbane Broncos,16,NQ Cowboys,17,1.93,2.00,True
+26 Sep 2015,Melbourne Storm,12,NQ Cowboys,32,2.08,1.83,False
+25 Sep 2015,Brisbane Broncos,31,Sydney Roosters,12,2.15,1.76,False
+19 Sep 2015,NQ Cowboys,39,Cronulla Sharks,0,1.39,3.17,False
+18 Sep 2015,Sydney Roosters,38,Canterbury Bulldogs,12,1.38,3.23,False
+13 Sep 2015,Cronulla Sharks,28,South Sydney Rabbitohs,12,1.69,2.30,False
+12 Sep 2015,Brisbane Broncos,16,NQ Cowboys,12,1.74,2.18,False
+12 Sep 2015,Canterbury Bulldogs,11,St. George Illawarra Dragons,10,1.36,3.32,True
+11 Sep 2015,Sydney Roosters,18,Melbourne Storm,20,1.38,3.27,False
+06 Sep 2015,Canterbury Bulldogs,26,New Zealand Warriors,22,1.09,7.96,False
+06 Sep 2015,Cronulla Sharks,12,Manly Sea Eagles,14,1.46,2.90,False
+06 Sep 2015,Parramatta Eels,24,Canberra Raiders,28,1.56,2.56,True
+05 Sep 2015,NQ Cowboys,42,Gold Coast Titans,12,1.17,5.52,False
+05 Sep 2015,St. George Illawarra Dragons,32,Wests Tigers,30,1.77,2.15,True
+05 Sep 2015,Penrith Panthers,30,Newcastle Knights,12,2.73,1.51,False
+04 Sep 2015,Sydney Roosters,30,South Sydney Rabbitohs,0,1.29,3.87,False
+03 Sep 2015,Brisbane Broncos,8,Melbourne Storm,15,1.73,2.22,False
+31 Aug 2015,Canberra Raiders,34,Penrith Panthers,18,1.48,2.83,False
+30 Aug 2015,Gold Coast Titans,28,St. George Illawarra Dragons,26,3.59,1.33,False
+30 Aug 2015,Wests Tigers,50,New Zealand Warriors,16,1.27,4.12,False
+29 Aug 2015,Melbourne Storm,14,NQ Cowboys,6,1.74,2.21,False
+29 Aug 2015,Newcastle Knights,18,Canterbury Bulldogs,20,3.03,1.39,False
+29 Aug 2015,Parramatta Eels,28,Cronulla Sharks,35,2.64,1.53,False
+28 Aug 2015,Manly Sea Eagles,10,Sydney Roosters,46,1.94,1.93,False
+27 Aug 2015,South Sydney Rabbitohs,12,Brisbane Broncos,47,2.25,1.70,False
+24 Aug 2015,Melbourne Storm,6,Newcastle Knights,20,1.13,6.33,False
+23 Aug 2015,Manly Sea Eagles,16,Parramatta Eels,20,1.11,7.44,False
+23 Aug 2015,Gold Coast Titans,28,Canberra Raiders,12,3.05,1.42,False
+22 Aug 2015,Sydney Roosters,12,Brisbane Broncos,10,1.49,2.75,False
+22 Aug 2015,New Zealand Warriors,16,NQ Cowboys,50,4.71,1.22,False
+22 Aug 2015,Cronulla Sharks,40,Wests Tigers,18,1.47,2.86,False
+21 Aug 2015,South Sydney Rabbitohs,18,Canterbury Bulldogs,32,1.93,1.96,False
+20 Aug 2015,St. George Illawarra Dragons,19,Penrith Panthers,12,1.41,3.12,False
+17 Aug 2015,Cronulla Sharks,2,Melbourne Storm,30,1.84,2.06,False
+16 Aug 2015,Canterbury Bulldogs,36,Gold Coast Titans,14,1.14,6.12,False
+16 Aug 2015,Canberra Raiders,24,Manly Sea Eagles,26,2.58,1.55,False
+15 Aug 2015,Sydney Roosters,28,Parramatta Eels,18,1.06,9.86,False
+15 Aug 2015,Penrith Panthers,24,New Zealand Warriors,10,1.38,3.27,False
+15 Aug 2015,Wests Tigers,18,Newcastle Knights,24,1.43,2.98,False
+14 Aug 2015,Brisbane Broncos,32,St. George Illawarra Dragons,6,1.27,3.94,False
+13 Aug 2015,NQ Cowboys,18,South Sydney Rabbitohs,31,1.51,2.75,False
+10 Aug 2015,Canberra Raiders,18,Wests Tigers,20,1.44,2.99,False
+09 Aug 2015,Newcastle Knights,22,Sydney Roosters,38,5.96,1.15,False
+09 Aug 2015,Melbourne Storm,36,Gold Coast Titans,14,1.15,5.77,False
+08 Aug 2015,Parramatta Eels,10,Penrith Panthers,4,2.41,1.63,False
+08 Aug 2015,Cronulla Sharks,30,NQ Cowboys,18,2.48,1.59,False
+08 Aug 2015,New Zealand Warriors,0,St. George Illawarra Dragons,36,2.37,1.64,False
+07 Aug 2015,Brisbane Broncos,16,Canterbury Bulldogs,18,1.44,2.99,False
+07 Aug 2015,Manly Sea Eagles,28,South Sydney Rabbitohs,8,2.18,1.76,False
+03 Aug 2015,Gold Coast Titans,24,Parramatta Eels,14,1.55,2.61,False
+04 Oct 2015,Brisbane Broncos,16,NQ Cowboys,17,1.93,2.00,True
+26 Sep 2015,Melbourne Storm,12,NQ Cowboys,32,2.08,1.83,False
+25 Sep 2015,Brisbane Broncos,31,Sydney Roosters,12,2.15,1.76,False
+19 Sep 2015,NQ Cowboys,39,Cronulla Sharks,0,1.39,3.17,False
+18 Sep 2015,Sydney Roosters,38,Canterbury Bulldogs,12,1.38,3.23,False
+13 Sep 2015,Cronulla Sharks,28,South Sydney Rabbitohs,12,1.69,2.30,False
+12 Sep 2015,Brisbane Broncos,16,NQ Cowboys,12,1.74,2.18,False
+12 Sep 2015,Canterbury Bulldogs,11,St. George Illawarra Dragons,10,1.36,3.32,True
+11 Sep 2015,Sydney Roosters,18,Melbourne Storm,20,1.38,3.27,False
+06 Sep 2015,Canterbury Bulldogs,26,New Zealand Warriors,22,1.09,7.96,False
+06 Sep 2015,Cronulla Sharks,12,Manly Sea Eagles,14,1.46,2.90,False
+06 Sep 2015,Parramatta Eels,24,Canberra Raiders,28,1.56,2.56,True
+05 Sep 2015,NQ Cowboys,42,Gold Coast Titans,12,1.17,5.52,False
+05 Sep 2015,St. George Illawarra Dragons,32,Wests Tigers,30,1.77,2.15,True
+05 Sep 2015,Penrith Panthers,30,Newcastle Knights,12,2.73,1.51,False
+04 Sep 2015,Sydney Roosters,30,South Sydney Rabbitohs,0,1.29,3.87,False
+03 Sep 2015,Brisbane Broncos,8,Melbourne Storm,15,1.73,2.22,False
+31 Aug 2015,Canberra Raiders,34,Penrith Panthers,18,1.48,2.83,False
+30 Aug 2015,Gold Coast Titans,28,St. George Illawarra Dragons,26,3.59,1.33,False
+30 Aug 2015,Wests Tigers,50,New Zealand Warriors,16,1.27,4.12,False
+29 Aug 2015,Melbourne Storm,14,NQ Cowboys,6,1.74,2.21,False
+29 Aug 2015,Newcastle Knights,18,Canterbury Bulldogs,20,3.03,1.39,False
+29 Aug 2015,Parramatta Eels,28,Cronulla Sharks,35,2.64,1.53,False
+28 Aug 2015,Manly Sea Eagles,10,Sydney Roosters,46,1.94,1.93,False
+27 Aug 2015,South Sydney Rabbitohs,12,Brisbane Broncos,47,2.25,1.70,False
+24 Aug 2015,Melbourne Storm,6,Newcastle Knights,20,1.13,6.33,False
+23 Aug 2015,Manly Sea Eagles,16,Parramatta Eels,20,1.11,7.44,False
+23 Aug 2015,Gold Coast Titans,28,Canberra Raiders,12,3.05,1.42,False
+22 Aug 2015,Sydney Roosters,12,Brisbane Broncos,10,1.49,2.75,False
+22 Aug 2015,New Zealand Warriors,16,NQ Cowboys,50,4.71,1.22,False
+22 Aug 2015,Cronulla Sharks,40,Wests Tigers,18,1.47,2.86,False
+21 Aug 2015,South Sydney Rabbitohs,18,Canterbury Bulldogs,32,1.93,1.96,False
+20 Aug 2015,St. George Illawarra Dragons,19,Penrith Panthers,12,1.41,3.12,False
+17 Aug 2015,Cronulla Sharks,2,Melbourne Storm,30,1.84,2.06,False
+16 Aug 2015,Canterbury Bulldogs,36,Gold Coast Titans,14,1.14,6.12,False
+16 Aug 2015,Canberra Raiders,24,Manly Sea Eagles,26,2.58,1.55,False
+15 Aug 2015,Sydney Roosters,28,Parramatta Eels,18,1.06,9.86,False
+15 Aug 2015,Penrith Panthers,24,New Zealand Warriors,10,1.38,3.27,False
+15 Aug 2015,Wests Tigers,18,Newcastle Knights,24,1.43,2.98,False
+14 Aug 2015,Brisbane Broncos,32,St. George Illawarra Dragons,6,1.27,3.94,False
+13 Aug 2015,NQ Cowboys,18,South Sydney Rabbitohs,31,1.51,2.75,False
+10 Aug 2015,Canberra Raiders,18,Wests Tigers,20,1.44,2.99,False
+09 Aug 2015,Newcastle Knights,22,Sydney Roosters,38,5.96,1.15,False
+09 Aug 2015,Melbourne Storm,36,Gold Coast Titans,14,1.15,5.77,False
+08 Aug 2015,Parramatta Eels,10,Penrith Panthers,4,2.41,1.63,False
+08 Aug 2015,Cronulla Sharks,30,NQ Cowboys,18,2.48,1.59,False
+08 Aug 2015,New Zealand Warriors,0,St. George Illawarra Dragons,36,2.37,1.64,False
+07 Aug 2015,Brisbane Broncos,16,Canterbury Bulldogs,18,1.44,2.99,False
+07 Aug 2015,Manly Sea Eagles,28,South Sydney Rabbitohs,8,2.18,1.76,False
+03 Aug 2015,Gold Coast Titans,24,Parramatta Eels,14,1.55,2.61,False
+02 Aug 2015,South Sydney Rabbitohs,20,Penrith Panthers,16,1.13,6.21,False
+02 Aug 2015,St. George Illawarra Dragons,46,Newcastle Knights,24,1.38,3.21,False
+01 Aug 2015,Manly Sea Eagles,44,Brisbane Broncos,14,2.77,1.50,False
+01 Aug 2015,NQ Cowboys,32,Canberra Raiders,24,1.25,4.22,False
+01 Aug 2015,New Zealand Warriors,14,Cronulla Sharks,18,1.78,2.14,False
+31 Jul 2015,Sydney Roosters,38,Canterbury Bulldogs,28,1.29,3.87,False
+31 Jul 2015,Wests Tigers,34,Melbourne Storm,16,3.11,1.41,False
+27 Jul 2015,NQ Cowboys,46,Parramatta Eels,4,1.07,9.26,False
+26 Jul 2015,Canterbury Bulldogs,16,Cronulla Sharks,18,1.35,3.38,False
+26 Jul 2015,Penrith Panthers,24,Canberra Raiders,34,1.89,1.99,False
+25 Jul 2015,South Sydney Rabbitohs,52,Newcastle Knights,6,1.15,5.86,False
+25 Jul 2015,Melbourne Storm,22,St. George Illawarra Dragons,4,1.51,2.69,False
+25 Jul 2015,New Zealand Warriors,12,Manly Sea Eagles,32,1.39,3.19,False
+24 Jul 2015,Brisbane Broncos,34,Gold Coast Titans,0,1.12,6.96,False
+24 Jul 2015,Wests Tigers,8,Sydney Roosters,33,6.28,1.14,False
+20 Jul 2015,Manly Sea Eagles,12,NQ Cowboys,30,1.90,1.98,False
+19 Jul 2015,Brisbane Broncos,42,Wests Tigers,16,1.16,5.51,False
+19 Jul 2015,Sydney Roosters,24,New Zealand Warriors,0,1.32,3.63,False
+18 Jul 2015,St. George Illawarra Dragons,8,South Sydney Rabbitohs,24,2.88,1.47,False
+18 Jul 2015,Newcastle Knights,30,Gold Coast Titans,2,1.49,2.77,False
+18 Jul 2015,Canberra Raiders,20,Cronulla Sharks,21,1.60,2.47,True
+17 Jul 2015,Melbourne Storm,52,Penrith Panthers,10,1.38,3.24,False
+17 Jul 2015,Parramatta Eels,4,Canterbury Bulldogs,28,3.01,1.43,False
+13 Jul 2015,Gold Coast Titans,6,Manly Sea Eagles,38,2.98,1.44,False
+12 Jul 2015,Cronulla Sharks,28,St. George Illawarra Dragons,8,1.35,3.33,False
+12 Jul 2015,New Zealand Warriors,28,Melbourne Storm,14,1.63,2.38,False
+11 Jul 2015,Canterbury Bulldogs,8,Brisbane Broncos,16,1.58,2.51,False
+11 Jul 2015,Penrith Panthers,4,Sydney Roosters,24,2.85,1.47,False
+10 Jul 2015,Canberra Raiders,36,Newcastle Knights,22,1.39,3.15,False
+06 Jul 2015,Wests Tigers,16,Parramatta Eels,28,2.98,1.43,False
+05 Jul 2015,Manly Sea Eagles,28,Cronulla Sharks,16,1.39,3.17,False
+04 Jul 2015,St. George Illawarra Dragons,12,NQ Cowboys,18,1.76,2.17,False
+03 Jul 2015,Penrith Panthers,20,South Sydney Rabbitohs,6,2.65,1.53,False
+29 Jun 2015,Canterbury Bulldogs,20,Melbourne Storm,4,1.40,3.18,False
+28 Jun 2015,Wests Tigers,12,Penrith Panthers,35,1.60,2.45,False
+28 Jun 2015,Sydney Roosters,20,Gold Coast Titans,10,1.11,7.05,False
+27 Jun 2015,Parramatta Eels,16,St. George Illawarra Dragons,12,2.26,1.70,False
+27 Jun 2015,NQ Cowboys,18,Cronulla Sharks,24,1.51,2.70,False
+27 Jun 2015,New Zealand Warriors,30,Canberra Raiders,8,1.52,2.67,False
+26 Jun 2015,Brisbane Broncos,44,Newcastle Knights,22,1.17,5.33,False
+26 Jun 2015,South Sydney Rabbitohs,20,Manly Sea Eagles,8,1.36,3.37,False
+22 Jun 2015,St. George Illawarra Dragons,14,Sydney Roosters,19,2.51,1.59,False
+21 Jun 2015,Melbourne Storm,12,Brisbane Broncos,14,2.30,1.67,False
+21 Jun 2015,Newcastle Knights,28,Cronulla Sharks,30,1.78,2.12,False
+20 Jun 2015,Canterbury Bulldogs,24,Penrith Panthers,12,1.56,2.56,False
+20 Jun 2015,Gold Coast Titans,14,New Zealand Warriors,36,2.26,1.69,False
+20 Jun 2015,Canberra Raiders,20,NQ Cowboys,21,1.75,2.17,False
+19 Jun 2015,Manly Sea Eagles,30,Wests Tigers,20,1.56,2.60,False
+15 Jun 2015,Melbourne Storm,22,Parramatta Eels,26,2.26,1.72,False
+14 Jun 2015,Gold Coast Titans,28,Canterbury Bulldogs,14,2.28,1.68,False
+13 Jun 2015,New Zealand Warriors,21,Sydney Roosters,25,1.64,2.36,False
+12 Jun 2015,Wests Tigers,34,South Sydney Rabbitohs,6,3.85,1.29,False
+08 Jun 2015,Parramatta Eels,30,NQ Cowboys,36,2.47,1.59,False
+08 Jun 2015,Canterbury Bulldogs,29,St. George Illawarra Dragons,16,1.75,2.21,False
+07 Jun 2015,Cronulla Sharks,10,Sydney Roosters,4,3.77,1.27,False
+06 Jun 2015,Penrith Panthers,0,Melbourne Storm,20,2.25,1.71,False
+06 Jun 2015,South Sydney Rabbitohs,36,New Zealand Warriors,4,1.61,2.46,False
+06 Jun 2015,Newcastle Knights,22,Canberra Raiders,44,2.01,1.87,False
+05 Jun 2015,Brisbane Broncos,44,Manly Sea Eagles,10,1.45,2.93,False
+05 Jun 2015,Wests Tigers,20,Gold Coast Titans,27,1.88,2.02,False
+01 Jun 2015,Sydney Roosters,24,Melbourne Storm,2,1.44,2.98,False
+31 May 2015,St. George Illawarra Dragons,42,Cronulla Sharks,6,1.42,3.01,False
+31 May 2015,New Zealand Warriors,24,Newcastle Knights,20,1.25,4.11,False
+30 May 2015,NQ Cowboys,18,Manly Sea Eagles,14,1.23,4.49,False
+30 May 2015,Canberra Raiders,12,Brisbane Broncos,24,1.75,2.20,False
+30 May 2015,Gold Coast Titans,16,South Sydney Rabbitohs,22,2.62,1.54,False
+29 May 2015,Penrith Panthers,20,Parramatta Eels,26,1.38,3.25,False
+25 May 2015,Newcastle Knights,18,Brisbane Broncos,31,1.54,2.60,False
+24 May 2015,Canberra Raiders,34,Canterbury Bulldogs,41,1.45,2.90,False
+23 May 2015,Wests Tigers,0,NQ Cowboys,8,1.48,2.80,False
+22 May 2015,South Sydney Rabbitohs,14,Parramatta Eels,12,1.45,2.98,False
+18 May 2015,Manly Sea Eagles,10,Penrith Panthers,11,1.64,2.37,False
+17 May 2015,Newcastle Knights,22,Wests Tigers,12,1.77,2.16,False
+17 May 2015,St. George Illawarra Dragons,32,Canberra Raiders,18,1.51,2.70,False
+16 May 2015,Melbourne Storm,16,South Sydney Rabbitohs,12,1.48,2.80,False
+16 May 2015,Gold Coast Titans,22,Cronulla Sharks,23,1.67,2.30,True
+16 May 2015,Parramatta Eels,13,New Zealand Warriors,17,1.94,1.94,True
+15 May 2015,Canterbury Bulldogs,10,Sydney Roosters,24,2.57,1.57,False
+15 May 2015,NQ Cowboys,31,Brisbane Broncos,20,1.66,2.37,False
+11 May 2015,South Sydney Rabbitohs,16,St. George Illawarra Dragons,10,1.49,2.77,False
+10 May 2015,Parramatta Eels,10,Melbourne Storm,28,2.21,1.73,False
+10 May 2015,Manly Sea Eagles,30,Newcastle Knights,10,1.75,2.15,False
+09 May 2015,NQ Cowboys,23,Canterbury Bulldogs,16,1.39,3.17,False
+09 May 2015,Cronulla Sharks,16,New Zealand Warriors,20,1.97,1.91,False
+09 May 2015,Canberra Raiders,56,Gold Coast Titans,16,1.57,2.50,False
+08 May 2015,Brisbane Broncos,8,Penrith Panthers,5,1.33,3.48,False
+08 May 2015,Sydney Roosters,36,Wests Tigers,4,1.35,3.42,False
+26 Apr 2015,South Sydney Rabbitohs,22,Canberra Raiders,30,1.36,3.34,False
+26 Apr 2015,Penrith Panthers,26,Cronulla Sharks,18,2.27,1.68,False
+25 Apr 2015,Brisbane Broncos,28,Parramatta Eels,16,1.37,3.28,False
+25 Apr 2015,Melbourne Storm,10,Manly Sea Eagles,12,1.29,3.78,False
+25 Apr 2015,Sydney Roosters,12,St. George Illawarra Dragons,14,1.43,3.00,False
+25 Apr 2015,Newcastle Knights,24,NQ Cowboys,26,2.38,1.63,False
+25 Apr 2015,New Zealand Warriors,28,Gold Coast Titans,32,1.32,3.55,False
+24 Apr 2015,Canterbury Bulldogs,14,Wests Tigers,38,1.69,2.27,False
+20 Apr 2015,Cronulla Sharks,18,South Sydney Rabbitohs,10,2.72,1.51,False
+19 Apr 2015,Newcastle Knights,22,Parramatta Eels,28,1.50,2.74,False
+19 Apr 2015,Wests Tigers,22,Canberra Raiders,30,1.34,3.46,False
+18 Apr 2015,Melbourne Storm,17,Sydney Roosters,16,2.24,1.70,False
+18 Apr 2015,NQ Cowboys,28,New Zealand Warriors,24,1.35,3.43,False
+13 Jun 2015,New Zealand Warriors,21,Sydney Roosters,25,1.64,2.36,False
+12 Jun 2015,Wests Tigers,34,South Sydney Rabbitohs,6,3.85,1.29,False
+08 Jun 2015,Parramatta Eels,30,NQ Cowboys,36,2.47,1.59,False
+08 Jun 2015,Canterbury Bulldogs,29,St. George Illawarra Dragons,16,1.75,2.21,False
+07 Jun 2015,Cronulla Sharks,10,Sydney Roosters,4,3.77,1.27,False
+06 Jun 2015,Penrith Panthers,0,Melbourne Storm,20,2.25,1.71,False
+06 Jun 2015,South Sydney Rabbitohs,36,New Zealand Warriors,4,1.61,2.46,False
+06 Jun 2015,Newcastle Knights,22,Canberra Raiders,44,2.01,1.87,False
+05 Jun 2015,Brisbane Broncos,44,Manly Sea Eagles,10,1.45,2.93,False
+05 Jun 2015,Wests Tigers,20,Gold Coast Titans,27,1.88,2.02,False
+01 Jun 2015,Sydney Roosters,24,Melbourne Storm,2,1.44,2.98,False
+31 May 2015,St. George Illawarra Dragons,42,Cronulla Sharks,6,1.42,3.01,False
+31 May 2015,New Zealand Warriors,24,Newcastle Knights,20,1.25,4.11,False
+30 May 2015,NQ Cowboys,18,Manly Sea Eagles,14,1.23,4.49,False
+30 May 2015,Canberra Raiders,12,Brisbane Broncos,24,1.75,2.20,False
+30 May 2015,Gold Coast Titans,16,South Sydney Rabbitohs,22,2.62,1.54,False
+29 May 2015,Penrith Panthers,20,Parramatta Eels,26,1.38,3.25,False
+25 May 2015,Newcastle Knights,18,Brisbane Broncos,31,1.54,2.60,False
+24 May 2015,Canberra Raiders,34,Canterbury Bulldogs,41,1.45,2.90,False
+23 May 2015,Wests Tigers,0,NQ Cowboys,8,1.48,2.80,False
+22 May 2015,South Sydney Rabbitohs,14,Parramatta Eels,12,1.45,2.98,False
+18 May 2015,Manly Sea Eagles,10,Penrith Panthers,11,1.64,2.37,False
+17 May 2015,Newcastle Knights,22,Wests Tigers,12,1.77,2.16,False
+17 May 2015,St. George Illawarra Dragons,32,Canberra Raiders,18,1.51,2.70,False
+16 May 2015,Melbourne Storm,16,South Sydney Rabbitohs,12,1.48,2.80,False
+16 May 2015,Gold Coast Titans,22,Cronulla Sharks,23,1.67,2.30,True
+16 May 2015,Parramatta Eels,13,New Zealand Warriors,17,1.94,1.94,True
+15 May 2015,Canterbury Bulldogs,10,Sydney Roosters,24,2.57,1.57,False
+15 May 2015,NQ Cowboys,31,Brisbane Broncos,20,1.66,2.37,False
+11 May 2015,South Sydney Rabbitohs,16,St. George Illawarra Dragons,10,1.49,2.77,False
+10 May 2015,Parramatta Eels,10,Melbourne Storm,28,2.21,1.73,False
+10 May 2015,Manly Sea Eagles,30,Newcastle Knights,10,1.75,2.15,False
+09 May 2015,NQ Cowboys,23,Canterbury Bulldogs,16,1.39,3.17,False
+09 May 2015,Cronulla Sharks,16,New Zealand Warriors,20,1.97,1.91,False
+09 May 2015,Canberra Raiders,56,Gold Coast Titans,16,1.57,2.50,False
+08 May 2015,Brisbane Broncos,8,Penrith Panthers,5,1.33,3.48,False
+08 May 2015,Sydney Roosters,36,Wests Tigers,4,1.35,3.42,False
+26 Apr 2015,South Sydney Rabbitohs,22,Canberra Raiders,30,1.36,3.34,False
+26 Apr 2015,Penrith Panthers,26,Cronulla Sharks,18,2.27,1.68,False
+25 Apr 2015,Brisbane Broncos,28,Parramatta Eels,16,1.37,3.28,False
+25 Apr 2015,Melbourne Storm,10,Manly Sea Eagles,12,1.29,3.78,False
+25 Apr 2015,Sydney Roosters,12,St. George Illawarra Dragons,14,1.43,3.00,False
+25 Apr 2015,Newcastle Knights,24,NQ Cowboys,26,2.38,1.63,False
+25 Apr 2015,New Zealand Warriors,28,Gold Coast Titans,32,1.32,3.55,False
+24 Apr 2015,Canterbury Bulldogs,14,Wests Tigers,38,1.69,2.27,False
+20 Apr 2015,Cronulla Sharks,18,South Sydney Rabbitohs,10,2.72,1.51,False
+19 Apr 2015,Newcastle Knights,22,Parramatta Eels,28,1.50,2.74,False
+19 Apr 2015,Wests Tigers,22,Canberra Raiders,30,1.34,3.46,False
+18 Apr 2015,Melbourne Storm,17,Sydney Roosters,16,2.24,1.70,False
+18 Apr 2015,NQ Cowboys,28,New Zealand Warriors,24,1.35,3.43,False
+13 Jun 2015,New Zealand Warriors,21,Sydney Roosters,25,1.64,2.36,False
+12 Jun 2015,Wests Tigers,34,South Sydney Rabbitohs,6,3.85,1.29,False
+08 Jun 2015,Parramatta Eels,30,NQ Cowboys,36,2.47,1.59,False
+08 Jun 2015,Canterbury Bulldogs,29,St. George Illawarra Dragons,16,1.75,2.21,False
+07 Jun 2015,Cronulla Sharks,10,Sydney Roosters,4,3.77,1.27,False
+06 Jun 2015,Penrith Panthers,0,Melbourne Storm,20,2.25,1.71,False
+06 Jun 2015,South Sydney Rabbitohs,36,New Zealand Warriors,4,1.61,2.46,False
+06 Jun 2015,Newcastle Knights,22,Canberra Raiders,44,2.01,1.87,False
+05 Jun 2015,Brisbane Broncos,44,Manly Sea Eagles,10,1.45,2.93,False
+05 Jun 2015,Wests Tigers,20,Gold Coast Titans,27,1.88,2.02,False
+01 Jun 2015,Sydney Roosters,24,Melbourne Storm,2,1.44,2.98,False
+31 May 2015,St. George Illawarra Dragons,42,Cronulla Sharks,6,1.42,3.01,False
+31 May 2015,New Zealand Warriors,24,Newcastle Knights,20,1.25,4.11,False
+30 May 2015,NQ Cowboys,18,Manly Sea Eagles,14,1.23,4.49,False
+30 May 2015,Canberra Raiders,12,Brisbane Broncos,24,1.75,2.20,False
+30 May 2015,Gold Coast Titans,16,South Sydney Rabbitohs,22,2.62,1.54,False
+29 May 2015,Penrith Panthers,20,Parramatta Eels,26,1.38,3.25,False
+25 May 2015,Newcastle Knights,18,Brisbane Broncos,31,1.54,2.60,False
+24 May 2015,Canberra Raiders,34,Canterbury Bulldogs,41,1.45,2.90,False
+23 May 2015,Wests Tigers,0,NQ Cowboys,8,1.48,2.80,False
+22 May 2015,South Sydney Rabbitohs,14,Parramatta Eels,12,1.45,2.98,False
+18 May 2015,Manly Sea Eagles,10,Penrith Panthers,11,1.64,2.37,False
+17 May 2015,Newcastle Knights,22,Wests Tigers,12,1.77,2.16,False
+17 May 2015,St. George Illawarra Dragons,32,Canberra Raiders,18,1.51,2.70,False
+16 May 2015,Melbourne Storm,16,South Sydney Rabbitohs,12,1.48,2.80,False
+16 May 2015,Gold Coast Titans,22,Cronulla Sharks,23,1.67,2.30,True
+16 May 2015,Parramatta Eels,13,New Zealand Warriors,17,1.94,1.94,True
+15 May 2015,Canterbury Bulldogs,10,Sydney Roosters,24,2.57,1.57,False
+15 May 2015,NQ Cowboys,31,Brisbane Broncos,20,1.66,2.37,False
+11 May 2015,South Sydney Rabbitohs,16,St. George Illawarra Dragons,10,1.49,2.77,False
+10 May 2015,Parramatta Eels,10,Melbourne Storm,28,2.21,1.73,False
+10 May 2015,Manly Sea Eagles,30,Newcastle Knights,10,1.75,2.15,False
+09 May 2015,NQ Cowboys,23,Canterbury Bulldogs,16,1.39,3.17,False
+09 May 2015,Cronulla Sharks,16,New Zealand Warriors,20,1.97,1.91,False
+09 May 2015,Canberra Raiders,56,Gold Coast Titans,16,1.57,2.50,False
+08 May 2015,Brisbane Broncos,8,Penrith Panthers,5,1.33,3.48,False
+08 May 2015,Sydney Roosters,36,Wests Tigers,4,1.35,3.42,False
+26 Apr 2015,South Sydney Rabbitohs,22,Canberra Raiders,30,1.36,3.34,False
+26 Apr 2015,Penrith Panthers,26,Cronulla Sharks,18,2.27,1.68,False
+25 Apr 2015,Brisbane Broncos,28,Parramatta Eels,16,1.37,3.28,False
+25 Apr 2015,Melbourne Storm,10,Manly Sea Eagles,12,1.29,3.78,False
+25 Apr 2015,Sydney Roosters,12,St. George Illawarra Dragons,14,1.43,3.00,False
+25 Apr 2015,Newcastle Knights,24,NQ Cowboys,26,2.38,1.63,False
+25 Apr 2015,New Zealand Warriors,28,Gold Coast Titans,32,1.32,3.55,False
+24 Apr 2015,Canterbury Bulldogs,14,Wests Tigers,38,1.69,2.27,False
+20 Apr 2015,Cronulla Sharks,18,South Sydney Rabbitohs,10,2.72,1.51,False
+19 Apr 2015,Newcastle Knights,22,Parramatta Eels,28,1.50,2.74,False
+19 Apr 2015,Wests Tigers,22,Canberra Raiders,30,1.34,3.46,False
+18 Apr 2015,Melbourne Storm,17,Sydney Roosters,16,2.24,1.70,False
+18 Apr 2015,NQ Cowboys,28,New Zealand Warriors,24,1.35,3.43,False
+02 Oct 2016,Melbourne Storm,12,Cronulla Sharks,14,1.84,2.05,False
+24 Sep 2016,Melbourne Storm,14,Canberra Raiders,12,1.43,2.94,False
+23 Sep 2016,Cronulla Sharks,32,NQ Cowboys,20,2.00,1.88,False
+17 Sep 2016,Canberra Raiders,22,Penrith Panthers,12,1.63,2.36,False
+16 Sep 2016,NQ Cowboys,26,Brisbane Broncos,20,1.47,2.78,True
+11 Sep 2016,Penrith Panthers,28,Canterbury Bulldogs,12,1.61,2.46,False
+10 Sep 2016,Melbourne Storm,16,NQ Cowboys,10,1.72,2.27,False
+10 Sep 2016,Canberra Raiders,14,Cronulla Sharks,16,1.47,2.91,False
+09 Sep 2016,Brisbane Broncos,44,Gold Coast Titans,28,1.33,3.63,False
+04 Sep 2016,Penrith Panthers,36,Manly Sea Eagles,6,1.16,5.79,False
+04 Sep 2016,New Zealand Warriors,18,Parramatta Eels,40,1.59,2.50,False
+04 Sep 2016,Wests Tigers,10,Canberra Raiders,52,2.66,1.54,False
+03 Sep 2016,Melbourne Storm,26,Cronulla Sharks,6,1.58,2.55,False
+03 Sep 2016,NQ Cowboys,32,Gold Coast Titans,16,1.30,3.87,False
+03 Sep 2016,St. George Illawarra Dragons,28,Newcastle Knights,26,1.28,4.02,False
+02 Sep 2016,Canterbury Bulldogs,10,South Sydney Rabbitohs,28,1.68,2.31,False
+01 Sep 2016,Brisbane Broncos,24,Sydney Roosters,14,1.18,5.28,False
+29 Aug 2016,Parramatta Eels,30,St. George Illawarra Dragons,18,1.46,2.88,False
+28 Aug 2016,Newcastle Knights,12,South Sydney Rabbitohs,34,4.58,1.22,False
+28 Aug 2016,New Zealand Warriors,24,Wests Tigers,36,1.35,3.51,False
+27 Aug 2016,Cronulla Sharks,37,Sydney Roosters,12,1.50,2.79,False
+27 Aug 2016,Gold Coast Titans,14,Penrith Panthers,15,1.81,2.13,False
+27 Aug 2016,Manly Sea Eagles,30,Canberra Raiders,44,2.94,1.45,False
+26 Aug 2016,Melbourne Storm,16,Brisbane Broncos,26,1.42,3.16,False
+25 Aug 2016,Canterbury Bulldogs,16,NQ Cowboys,24,2.51,1.60,False
+22 Aug 2016,South Sydney Rabbitohs,12,Cronulla Sharks,6,2.62,1.55,False
+21 Aug 2016,Sydney Roosters,42,St. George Illawarra Dragons,6,1.49,2.84,False
+21 Aug 2016,Canberra Raiders,28,Parramatta Eels,18,1.17,5.64,False
+20 Aug 2016,NQ Cowboys,34,New Zealand Warriors,6,1.26,4.17,False
+20 Aug 2016,Manly Sea Eagles,18,Melbourne Storm,38,3.94,1.29,False
+20 Aug 2016,Newcastle Knights,6,Gold Coast Titans,26,5.20,1.19,False
+19 Aug 2016,Penrith Panthers,40,Wests Tigers,10,1.39,3.22,False
+18 Aug 2016,Brisbane Broncos,20,Canterbury Bulldogs,10,1.62,2.45,False
+15 Aug 2016,Canberra Raiders,22,Melbourne Storm,8,1.99,1.91,False
+14 Aug 2016,Sydney Roosters,22,NQ Cowboys,10,2.87,1.48,False
+14 Aug 2016,Newcastle Knights,6,Penrith Panthers,42,4.02,1.27,False
+13 Aug 2016,St. George Illawarra Dragons,32,Cronulla Sharks,18,3.85,1.29,False
+13 Aug 2016,New Zealand Warriors,22,South Sydney Rabbitohs,41,1.33,3.64,False
+13 Aug 2016,Wests Tigers,18,Gold Coast Titans,19,1.87,2.04,False
+12 Aug 2016,Brisbane Broncos,38,Parramatta Eels,16,1.20,4.98,False
+11 Aug 2016,Canterbury Bulldogs,20,Manly Sea Eagles,16,1.46,2.90,True
+08 Aug 2016,Penrith Panthers,38,Sydney Roosters,18,1.51,2.68,False
+07 Aug 2016,Wests Tigers,26,NQ Cowboys,14,3.57,1.33,False
+07 Aug 2016,Gold Coast Titans,14,New Zealand Warriors,24,1.58,2.56,False
+06 Aug 2016,Melbourne Storm,15,South Sydney Rabbitohs,14,1.11,7.56,True
+06 Aug 2016,Cronulla Sharks,14,Canberra Raiders,30,1.68,2.28,False
+06 Aug 2016,Newcastle Knights,14,Canterbury Bulldogs,28,5.29,1.18,False
+05 Aug 2016,Parramatta Eels,10,Manly Sea Eagles,9,2.72,1.51,False
+04 Aug 2016,St. George Illawarra Dragons,8,Brisbane Broncos,12,4.07,1.28,False
+01 Aug 2016,Gold Coast Titans,18,Cronulla Sharks,18,3.26,1.38,True
+02 Oct 2016,Melbourne Storm,12,Cronulla Sharks,14,1.84,2.05,False
+24 Sep 2016,Melbourne Storm,14,Canberra Raiders,12,1.43,2.94,False
+23 Sep 2016,Cronulla Sharks,32,NQ Cowboys,20,2.00,1.88,False
+17 Sep 2016,Canberra Raiders,22,Penrith Panthers,12,1.63,2.36,False
+16 Sep 2016,NQ Cowboys,26,Brisbane Broncos,20,1.47,2.78,True
+11 Sep 2016,Penrith Panthers,28,Canterbury Bulldogs,12,1.61,2.46,False
+10 Sep 2016,Melbourne Storm,16,NQ Cowboys,10,1.72,2.27,False
+10 Sep 2016,Canberra Raiders,14,Cronulla Sharks,16,1.47,2.91,False
+09 Sep 2016,Brisbane Broncos,44,Gold Coast Titans,28,1.33,3.63,False
+04 Sep 2016,Penrith Panthers,36,Manly Sea Eagles,6,1.16,5.79,False
+04 Sep 2016,New Zealand Warriors,18,Parramatta Eels,40,1.59,2.50,False
+04 Sep 2016,Wests Tigers,10,Canberra Raiders,52,2.66,1.54,False
+03 Sep 2016,Melbourne Storm,26,Cronulla Sharks,6,1.58,2.55,False
+03 Sep 2016,NQ Cowboys,32,Gold Coast Titans,16,1.30,3.87,False
+03 Sep 2016,St. George Illawarra Dragons,28,Newcastle Knights,26,1.28,4.02,False
+02 Sep 2016,Canterbury Bulldogs,10,South Sydney Rabbitohs,28,1.68,2.31,False
+01 Sep 2016,Brisbane Broncos,24,Sydney Roosters,14,1.18,5.28,False
+29 Aug 2016,Parramatta Eels,30,St. George Illawarra Dragons,18,1.46,2.88,False
+28 Aug 2016,Newcastle Knights,12,South Sydney Rabbitohs,34,4.58,1.22,False
+28 Aug 2016,New Zealand Warriors,24,Wests Tigers,36,1.35,3.51,False
+27 Aug 2016,Cronulla Sharks,37,Sydney Roosters,12,1.50,2.79,False
+27 Aug 2016,Gold Coast Titans,14,Penrith Panthers,15,1.81,2.13,False
+27 Aug 2016,Manly Sea Eagles,30,Canberra Raiders,44,2.94,1.45,False
+26 Aug 2016,Melbourne Storm,16,Brisbane Broncos,26,1.42,3.16,False
+25 Aug 2016,Canterbury Bulldogs,16,NQ Cowboys,24,2.51,1.60,False
+22 Aug 2016,South Sydney Rabbitohs,12,Cronulla Sharks,6,2.62,1.55,False
+21 Aug 2016,Sydney Roosters,42,St. George Illawarra Dragons,6,1.49,2.84,False
+21 Aug 2016,Canberra Raiders,28,Parramatta Eels,18,1.17,5.64,False
+20 Aug 2016,NQ Cowboys,34,New Zealand Warriors,6,1.26,4.17,False
+20 Aug 2016,Manly Sea Eagles,18,Melbourne Storm,38,3.94,1.29,False
+20 Aug 2016,Newcastle Knights,6,Gold Coast Titans,26,5.20,1.19,False
+19 Aug 2016,Penrith Panthers,40,Wests Tigers,10,1.39,3.22,False
+18 Aug 2016,Brisbane Broncos,20,Canterbury Bulldogs,10,1.62,2.45,False
+15 Aug 2016,Canberra Raiders,22,Melbourne Storm,8,1.99,1.91,False
+14 Aug 2016,Sydney Roosters,22,NQ Cowboys,10,2.87,1.48,False
+14 Aug 2016,Newcastle Knights,6,Penrith Panthers,42,4.02,1.27,False
+13 Aug 2016,St. George Illawarra Dragons,32,Cronulla Sharks,18,3.85,1.29,False
+13 Aug 2016,New Zealand Warriors,22,South Sydney Rabbitohs,41,1.33,3.64,False
+13 Aug 2016,Wests Tigers,18,Gold Coast Titans,19,1.87,2.04,False
+12 Aug 2016,Brisbane Broncos,38,Parramatta Eels,16,1.20,4.98,False
+11 Aug 2016,Canterbury Bulldogs,20,Manly Sea Eagles,16,1.46,2.90,True
+08 Aug 2016,Penrith Panthers,38,Sydney Roosters,18,1.51,2.68,False
+07 Aug 2016,Wests Tigers,26,NQ Cowboys,14,3.57,1.33,False
+07 Aug 2016,Gold Coast Titans,14,New Zealand Warriors,24,1.58,2.56,False
+06 Aug 2016,Melbourne Storm,15,South Sydney Rabbitohs,14,1.11,7.56,True
+06 Aug 2016,Cronulla Sharks,14,Canberra Raiders,30,1.68,2.28,False
+06 Aug 2016,Newcastle Knights,14,Canterbury Bulldogs,28,5.29,1.18,False
+05 Aug 2016,Parramatta Eels,10,Manly Sea Eagles,9,2.72,1.51,False
+04 Aug 2016,St. George Illawarra Dragons,8,Brisbane Broncos,12,4.07,1.28,False
+01 Aug 2016,Gold Coast Titans,18,Cronulla Sharks,18,3.26,1.38,True
+31 Jul 2016,Manly Sea Eagles,36,Newcastle Knights,16,1.10,7.91,False
+31 Jul 2016,South Sydney Rabbitohs,4,Canberra Raiders,54,3.55,1.33,False
+30 Jul 2016,NQ Cowboys,8,Melbourne Storm,16,2.28,1.71,False
+30 Jul 2016,Parramatta Eels,8,Wests Tigers,23,3.53,1.34,False
+30 Jul 2016,New Zealand Warriors,20,Penrith Panthers,16,1.59,2.54,True
+29 Jul 2016,Canterbury Bulldogs,13,St. George Illawarra Dragons,10,1.15,5.97,False
+28 Jul 2016,Sydney Roosters,32,Brisbane Broncos,16,2.11,1.82,False
+25 Jul 2016,South Sydney Rabbitohs,12,Manly Sea Eagles,20,2.44,1.63,False
+24 Jul 2016,St. George Illawarra Dragons,12,Wests Tigers,25,2.57,1.57,False
+24 Jul 2016,Cronulla Sharks,36,Newcastle Knights,4,1.09,8.42,False
+23 Jul 2016,Melbourne Storm,26,Sydney Roosters,10,1.28,4.00,False
+23 Jul 2016,Gold Coast Titans,34,Parramatta Eels,14,1.35,3.41,False
+23 Jul 2016,Canberra Raiders,26,New Zealand Warriors,22,1.39,3.23,True
+22 Jul 2016,Brisbane Broncos,12,Penrith Panthers,31,1.27,4.03,False
+21 Jul 2016,NQ Cowboys,36,Canterbury Bulldogs,0,1.41,3.19,False
+18 Jul 2016,Sydney Roosters,20,Cronulla Sharks,32,2.74,1.52,False
+17 Jul 2016,Penrith Panthers,22,Parramatta Eels,18,1.28,4.09,False
+17 Jul 2016,Newcastle Knights,16,Melbourne Storm,20,6.89,1.12,False
+16 Jul 2016,South Sydney Rabbitohs,10,Brisbane Broncos,30,2.64,1.54,False
+16 Jul 2016,Manly Sea Eagles,15,New Zealand Warriors,14,2.40,1.64,True
+15 Jul 2016,St. George Illawarra Dragons,12,Gold Coast Titans,32,2.46,1.61,False
+11 Jul 2016,Canberra Raiders,26,NQ Cowboys,12,1.31,3.71,False
+10 Jul 2016,Penrith Panthers,10,Cronulla Sharks,26,1.54,2.64,False
+09 Jul 2016,Canterbury Bulldogs,32,Wests Tigers,22,1.18,5.51,False
+08 Jul 2016,Parramatta Eels,22,Sydney Roosters,18,1.98,1.93,False
+04 Jul 2016,Manly Sea Eagles,36,St. George Illawarra Dragons,6,1.71,2.23,False
+03 Jul 2016,South Sydney Rabbitohs,0,NQ Cowboys,20,3.54,1.33,False
+03 Jul 2016,Canberra Raiders,29,Newcastle Knights,25,1.06,9.99,True
+02 Jul 2016,Cronulla Sharks,34,Parramatta Eels,24,1.34,3.44,False
+02 Jul 2016,Wests Tigers,34,Penrith Panthers,26,2.13,1.78,False
+02 Jul 2016,New Zealand Warriors,27,Gold Coast Titans,18,1.30,3.77,False
+01 Jul 2016,Brisbane Broncos,6,Melbourne Storm,48,1.62,2.44,False
+30 Jun 2016,Sydney Roosters,20,Canterbury Bulldogs,24,2.62,1.54,False
+27 Jun 2016,NQ Cowboys,30,Manly Sea Eagles,26,1.17,5.52,False
+26 Jun 2016,Melbourne Storm,29,Wests Tigers,20,1.33,3.63,False
+26 Jun 2016,Gold Coast Titans,22,Canberra Raiders,30,2.24,1.73,False
+25 Jun 2016,Canterbury Bulldogs,40,Brisbane Broncos,14,1.84,2.09,False
+25 Jun 2016,Cronulla Sharks,19,New Zealand Warriors,18,1.32,3.59,True
+25 Jun 2016,Newcastle Knights,18,St. George Illawarra Dragons,30,3.50,1.34,False
+24 Jun 2016,Penrith Panthers,28,South Sydney Rabbitohs,26,1.35,3.44,False
+20 Jun 2016,Gold Coast Titans,30,Manly Sea Eagles,10,1.47,2.84,False
+19 Jun 2016,New Zealand Warriors,12,Sydney Roosters,10,1.39,3.18,False
+18 Jun 2016,St. George Illawarra Dragons,20,Melbourne Storm,10,1.49,2.79,False
+17 Jun 2016,South Sydney Rabbitohs,12,Parramatta Eels,30,2.16,1.77,False
+13 Jun 2016,Cronulla Sharks,13,NQ Cowboys,10,1.87,2.02,False
+13 Jun 2016,St. George Illawarra Dragons,16,Canterbury Bulldogs,34,3.28,1.38,False
+12 Jun 2016,Manly Sea Eagles,24,Penrith Panthers,31,2.50,1.60,False
+11 Jun 2016,Sydney Roosters,0,Melbourne Storm,46,3.04,1.42,False
+11 Jun 2016,Parramatta Eels,22,Gold Coast Titans,12,2.25,1.71,False
+11 Jun 2016,Newcastle Knights,14,New Zealand Warriors,50,3.92,1.29,False
+10 Jun 2016,Wests Tigers,30,South Sydney Rabbitohs,14,2.56,1.56,False
+09 Jun 2016,Brisbane Broncos,26,Canberra Raiders,18,1.33,3.55,False
+06 Jun 2016,Canterbury Bulldogs,18,Cronulla Sharks,20,2.49,1.58,False
+05 Jun 2016,South Sydney Rabbitohs,28,Gold Coast Titans,29,1.64,2.39,True
+05 Jun 2016,Sydney Roosters,32,Wests Tigers,18,1.74,2.23,False
+04 Jun 2016,Melbourne Storm,24,Penrith Panthers,6,1.44,3.01,False
+04 Jun 2016,NQ Cowboys,46,Newcastle Knights,16,1.07,9.98,False
+04 Jun 2016,New Zealand Warriors,36,Brisbane Broncos,18,2.52,1.58,False
+03 Jun 2016,Canberra Raiders,30,Manly Sea Eagles,18,1.44,2.97,False
+30 May 2016,Newcastle Knights,18,Parramatta Eels,20,4.29,1.25,False
+29 May 2016,Canberra Raiders,32,Canterbury Bulldogs,20,1.45,2.94,False
+28 May 2016,St. George Illawarra Dragons,14,NQ Cowboys,10,1.66,2.36,False
+27 May 2016,Brisbane Broncos,18,Wests Tigers,19,1.19,5.21,False
+23 May 2016,Parramatta Eels,6,Melbourne Storm,18,2.08,1.83,False
+22 May 2016,Canterbury Bulldogs,32,Sydney Roosters,20,1.69,2.29,False
+22 May 2016,Penrith Panthers,24,Gold Coast Titans,28,1.29,3.82,False
+21 May 2016,Cronulla Sharks,20,Manly Sea Eagles,12,1.29,3.82,False
+21 May 2016,New Zealand Warriors,12,Canberra Raiders,38,1.81,2.10,False
+21 May 2016,Wests Tigers,20,Newcastle Knights,12,1.34,3.45,False
+20 May 2016,NQ Cowboys,19,Brisbane Broncos,18,1.72,2.25,False
+19 May 2016,South Sydney Rabbitohs,34,St. George Illawarra Dragons,24,1.35,3.41,False
+16 May 2016,Gold Coast Titans,26,Sydney Roosters,6,2.87,1.46,False
+15 May 2016,Wests Tigers,4,Canterbury Bulldogs,36,2.78,1.48,False
+15 May 2016,Newcastle Knights,0,Cronulla Sharks,62,5.94,1.15,False
+14 May 2016,Manly Sea Eagles,6,Brisbane Broncos,30,4.82,1.20,False
+14 May 2016,Melbourne Storm,15,NQ Cowboys,14,2.93,1.45,False
+14 May 2016,Penrith Panthers,30,New Zealand Warriors,18,1.60,2.48,False
+13 May 2016,Parramatta Eels,20,South Sydney Rabbitohs,22,1.52,2.71,False
+12 May 2016,St. George Illawarra Dragons,16,Canberra Raiders,12,2.17,1.77,True
+01 May 2016,Cronulla Sharks,30,Brisbane Broncos,28,2.05,1.85,False
+01 May 2016,Gold Coast Titans,0,Melbourne Storm,38,2.16,1.77,False
+01 May 2016,New Zealand Warriors,26,St. George Illawarra Dragons,10,2.43,1.61,False
+30 Apr 2016,Manly Sea Eagles,18,NQ Cowboys,34,3.72,1.30,False
+30 Apr 2016,Sydney Roosters,38,Newcastle Knights,0,1.15,5.97,False
+30 Apr 2016,Penrith Panthers,19,Canberra Raiders,18,1.64,2.37,False
+29 Apr 2016,Parramatta Eels,20,Canterbury Bulldogs,12,2.29,1.71,False
+28 Apr 2016,South Sydney Rabbitohs,22,Wests Tigers,30,1.37,3.26,False
+25 Apr 2016,Melbourne Storm,42,New Zealand Warriors,0,1.66,2.35,False
+25 Apr 2016,St. George Illawarra Dragons,20,Sydney Roosters,18,2.15,1.78,False
+25 Apr 2016,Newcastle Knights,10,Manly Sea Eagles,26,2.89,1.46,False
+24 Apr 2016,Cronulla Sharks,20,Penrith Panthers,18,1.50,2.72,False
+23 Apr 2016,NQ Cowboys,32,Parramatta Eels,16,1.36,3.42,False
+23 Apr 2016,Canberra Raiders,60,Wests Tigers,6,1.43,3.03,False
+23 Apr 2016,Canterbury Bulldogs,21,Gold Coast Titans,20,1.30,3.79,True
+22 Apr 2016,Brisbane Broncos,30,South Sydney Rabbitohs,8,1.18,5.09,False
+18 Apr 2016,Sydney Roosters,16,Penrith Panthers,20,2.52,1.58,False
+17 Apr 2016,Wests Tigers,18,Melbourne Storm,19,2.72,1.50,True
+17 Apr 2016,Canberra Raiders,16,Cronulla Sharks,40,2.05,1.82,False
+16 Apr 2016,Brisbane Broncos,53,Newcastle Knights,0,1.09,7.74,False
+16 Apr 2016,Canterbury Bulldogs,20,New Zealand Warriors,24,1.90,1.99,False
+16 Apr 2016,Gold Coast Titans,14,St. George Illawarra Dragons,19,1.79,2.13,False
+15 Apr 2016,NQ Cowboys,44,South Sydney Rabbitohs,18,1.27,3.92,False
+14 Apr 2016,Manly Sea Eagles,10,Parramatta Eels,22,2.25,1.71,False
+11 Apr 2016,Melbourne Storm,12,Canterbury Bulldogs,18,1.66,2.35,False
+10 Apr 2016,Newcastle Knights,18,Wests Tigers,16,2.11,1.82,False
+10 Apr 2016,Cronulla Sharks,25,Gold Coast Titans,20,1.28,4.04,False
+09 Apr 2016,Penrith Panthers,18,NQ Cowboys,23,2.37,1.67,False
+09 Apr 2016,New Zealand Warriors,18,Manly Sea Eagles,34,1.47,2.86,False
+09 Apr 2016,Parramatta Eels,36,Canberra Raiders,6,1.63,2.41,False
+08 Apr 2016,South Sydney Rabbitohs,10,Sydney Roosters,17,1.48,2.84,False
+07 Apr 2016,Brisbane Broncos,26,St. George Illawarra Dragons,0,1.14,6.17,False
+04 Apr 2016,Canterbury Bulldogs,8,Canberra Raiders,22,1.54,2.61,False
+03 Apr 2016,Parramatta Eels,18,Penrith Panthers,20,1.53,2.67,False
+03 Apr 2016,Sydney Roosters,28,New Zealand Warriors,32,2.29,1.69,True
+02 Apr 2016,NQ Cowboys,36,St. George Illawarra Dragons,0,1.25,4.24,False
+02 Apr 2016,Wests Tigers,26,Cronulla Sharks,34,2.24,1.71,False
+02 Apr 2016,Melbourne Storm,18,Newcastle Knights,14,1.16,5.64,False
+01 Apr 2016,Gold Coast Titans,16,Brisbane Broncos,24,4.52,1.22,False
+31 Mar 2016,Manly Sea Eagles,12,South Sydney Rabbitohs,16,2.53,1.58,False
+28 Mar 2016,Cronulla Sharks,14,Melbourne Storm,6,1.84,2.08,False
+28 Mar 2016,Wests Tigers,0,Parramatta Eels,8,2.52,1.58,False
+28 Mar 2016,New Zealand Warriors,40,Newcastle Knights,18,1.20,4.84,False
+27 Mar 2016,St. George Illawarra Dragons,14,Penrith Panthers,12,1.88,2.00,False
+26 Mar 2016,Sydney Roosters,20,Manly Sea Eagles,22,2.33,1.67,False
+26 Mar 2016,Canberra Raiders,20,Gold Coast Titans,24,1.53,2.64,False
+25 Mar 2016,Brisbane Broncos,21,NQ Cowboys,20,1.65,2.35,True
+25 Mar 2016,South Sydney Rabbitohs,12,Canterbury Bulldogs,42,2.68,1.52,False
+21 Mar 2016,Manly Sea Eagles,22,Cronulla Sharks,12,1.98,1.91,False
+20 Mar 2016,St. George Illawarra Dragons,8,South Sydney Rabbitohs,6,3.07,1.41,False
+20 Mar 2016,New Zealand Warriors,14,Melbourne Storm,21,2.05,1.85,False
+19 Mar 2016,Gold Coast Titans,30,Wests Tigers,18,1.99,1.91,False
+19 Mar 2016,Penrith Panthers,23,Brisbane Broncos,22,3.04,1.42,False
+19 Mar 2016,Newcastle Knights,24,Canberra Raiders,24,2.41,1.63,True
+18 Mar 2016,Canterbury Bulldogs,6,Parramatta Eels,20,1.59,2.48,False
+17 Mar 2016,NQ Cowboys,40,Sydney Roosters,0,1.27,4.02,False
+14 Mar 2016,Wests Tigers,36,Manly Sea Eagles,22,2.21,1.74,False
+13 Mar 2016,Melbourne Storm,34,Gold Coast Titans,16,1.24,4.33,False
+13 Mar 2016,Cronulla Sharks,30,St. George Illawarra Dragons,2,1.61,2.43,False
+12 Mar 2016,Parramatta Eels,20,NQ Cowboys,16,2.28,1.69,False
+12 Mar 2016,South Sydney Rabbitohs,48,Newcastle Knights,6,1.30,3.84,False
+12 Mar 2016,Canberra Raiders,21,Sydney Roosters,20,1.85,2.06,False
+11 Mar 2016,Brisbane Broncos,25,New Zealand Warriors,10,1.34,3.43,False
+10 Mar 2016,Penrith Panthers,16,Canterbury Bulldogs,18,2.34,1.66,False
+07 Mar 2016,Melbourne Storm,18,St. George Illawarra Dragons,16,1.38,3.23,False
+06 Mar 2016,Gold Coast Titans,30,Newcastle Knights,12,1.86,2.03,False
+06 Mar 2016,Sydney Roosters,10,South Sydney Rabbitohs,42,2.07,1.83,False
+05 Mar 2016,NQ Cowboys,20,Cronulla Sharks,14,1.42,3.03,False
+05 Mar 2016,Wests Tigers,34,New Zealand Warriors,26,3.15,1.40,False
+05 Mar 2016,Canberra Raiders,30,Penrith Panthers,22,1.56,2.59,False
+04 Mar 2016,Manly Sea Eagles,6,Canterbury Bulldogs,28,1.60,2.46,False
+03 Mar 2016,Parramatta Eels,4,Brisbane Broncos,17,2.72,1.50,False
+01 Oct 2017,Melbourne Storm,34,NQ Cowboys,6,1.28,3.90,False
+23 Sep 2017,Sydney Roosters,16,NQ Cowboys,29,1.38,3.21,False
+22 Sep 2017,Melbourne Storm,30,Brisbane Broncos,0,1.29,3.81,False
+16 Sep 2017,Parramatta Eels,16,NQ Cowboys,24,1.39,3.10,False
+15 Sep 2017,Brisbane Broncos,13,Penrith Panthers,6,1.42,2.95,False
+10 Sep 2017,Cronulla Sharks,14,NQ Cowboys,15,1.36,3.26,True
+09 Sep 2017,Manly Sea Eagles,10,Penrith Panthers,22,1.58,2.46,False
+09 Sep 2017,Melbourne Storm,18,Parramatta Eels,16,1.18,4.92,False
+08 Sep 2017,Sydney Roosters,24,Brisbane Broncos,22,1.61,2.41,False
+03 Sep 2017,Wests Tigers,28,New Zealand Warriors,16,1.33,3.38,False
+03 Sep 2017,St. George Illawarra Dragons,20,Canterbury Bulldogs,26,1.37,3.14,False
+03 Sep 2017,Newcastle Knights,18,Cronulla Sharks,26,3.25,1.35,False
+02 Sep 2017,Melbourne Storm,32,Canberra Raiders,6,1.27,3.87,False
+02 Sep 2017,Manly Sea Eagles,28,Penrith Panthers,12,1.67,2.28,False
+02 Sep 2017,Sydney Roosters,20,Gold Coast Titans,16,1.06,9.33,False
+01 Sep 2017,Parramatta Eels,22,South Sydney Rabbitohs,16,1.09,7.46,False
+31 Aug 2017,NQ Cowboys,10,Brisbane Broncos,20,2.56,1.54,False
+27 Aug 2017,Penrith Panthers,14,St. George Illawarra Dragons,16,1.53,2.58,False
+27 Aug 2017,New Zealand Warriors,21,Manly Sea Eagles,22,2.46,1.57,True
+26 Aug 2017,Cronulla Sharks,14,Sydney Roosters,16,1.99,1.86,False
+26 Aug 2017,Melbourne Storm,64,South Sydney Rabbitohs,6,1.13,6.14,False
+26 Aug 2017,Gold Coast Titans,14,Canterbury Bulldogs,26,1.85,2.01,False
+25 Aug 2017,Wests Tigers,14,NQ Cowboys,22,2.50,1.57,False
+25 Aug 2017,Canberra Raiders,46,Newcastle Knights,28,1.15,5.53,False
+24 Aug 2017,Brisbane Broncos,34,Parramatta Eels,52,1.26,3.86,False
+20 Aug 2017,Canterbury Bulldogs,30,Manly Sea Eagles,16,4.31,1.23,False
+20 Aug 2017,Canberra Raiders,22,Penrith Panthers,26,1.48,2.73,False
+19 Aug 2017,NQ Cowboys,16,Cronulla Sharks,26,2.19,1.71,False
+19 Aug 2017,Sydney Roosters,22,Wests Tigers,18,1.18,4.84,False
+19 Aug 2017,Newcastle Knights,12,Melbourne Storm,44,3.87,1.26,False
+18 Aug 2017,Brisbane Broncos,24,St. George Illawarra Dragons,12,1.24,4.15,False
+18 Aug 2017,South Sydney Rabbitohs,36,New Zealand Warriors,18,1.37,3.17,False
+17 Aug 2017,Parramatta Eels,30,Gold Coast Titans,8,1.17,5.09,False
+13 Aug 2017,Wests Tigers,30,Manly Sea Eagles,26,2.93,1.42,False
+13 Aug 2017,New Zealand Warriors,16,Canberra Raiders,36,3.49,1.31,False
+12 Aug 2017,Penrith Panthers,24,NQ Cowboys,16,1.51,2.68,False
+12 Aug 2017,Melbourne Storm,16,Sydney Roosters,13,1.36,3.18,False
+12 Aug 2017,St. George Illawarra Dragons,42,Gold Coast Titans,16,1.34,3.26,False
+11 Aug 2017,Brisbane Broncos,32,Cronulla Sharks,10,1.51,2.63,False
+11 Aug 2017,Parramatta Eels,10,Newcastle Knights,29,1.20,4.61,False
+10 Aug 2017,South Sydney Rabbitohs,28,Canterbury Bulldogs,14,1.60,2.39,False
+06 Aug 2017,Penrith Panthers,28,Wests Tigers,14,1.39,3.05,False
+06 Aug 2017,Manly Sea Eagles,36,Sydney Roosters,18,2.00,1.84,False
+05 Aug 2017,Cronulla Sharks,12,Canberra Raiders,30,1.61,2.39,False
+05 Aug 2017,Gold Coast Titans,0,Brisbane Broncos,54,3.05,1.39,False
+05 Aug 2017,Newcastle Knights,26,New Zealand Warriors,10,1.93,1.91,False
+04 Aug 2017,NQ Cowboys,8,Melbourne Storm,26,2.56,1.53,False
+04 Aug 2017,St. George Illawarra Dragons,24,South Sydney Rabbitohs,26,1.45,2.77,False
+03 Aug 2017,Canterbury Bulldogs,4,Parramatta Eels,20,2.76,1.48,False
+30 Jul 2017,Gold Coast Titans,4,Wests Tigers,26,1.38,3.08,False
+01 Oct 2017,Melbourne Storm,34,NQ Cowboys,6,1.28,3.90,False
+23 Sep 2017,Sydney Roosters,16,NQ Cowboys,29,1.38,3.21,False
+22 Sep 2017,Melbourne Storm,30,Brisbane Broncos,0,1.29,3.81,False
+16 Sep 2017,Parramatta Eels,16,NQ Cowboys,24,1.39,3.10,False
+15 Sep 2017,Brisbane Broncos,13,Penrith Panthers,6,1.42,2.95,False
+10 Sep 2017,Cronulla Sharks,14,NQ Cowboys,15,1.36,3.26,True
+09 Sep 2017,Manly Sea Eagles,10,Penrith Panthers,22,1.58,2.46,False
+09 Sep 2017,Melbourne Storm,18,Parramatta Eels,16,1.18,4.92,False
+08 Sep 2017,Sydney Roosters,24,Brisbane Broncos,22,1.61,2.41,False
+03 Sep 2017,Wests Tigers,28,New Zealand Warriors,16,1.33,3.38,False
+03 Sep 2017,St. George Illawarra Dragons,20,Canterbury Bulldogs,26,1.37,3.14,False
+03 Sep 2017,Newcastle Knights,18,Cronulla Sharks,26,3.25,1.35,False
+02 Sep 2017,Melbourne Storm,32,Canberra Raiders,6,1.27,3.87,False
+02 Sep 2017,Manly Sea Eagles,28,Penrith Panthers,12,1.67,2.28,False
+02 Sep 2017,Sydney Roosters,20,Gold Coast Titans,16,1.06,9.33,False
+01 Sep 2017,Parramatta Eels,22,South Sydney Rabbitohs,16,1.09,7.46,False
+31 Aug 2017,NQ Cowboys,10,Brisbane Broncos,20,2.56,1.54,False
+27 Aug 2017,Penrith Panthers,14,St. George Illawarra Dragons,16,1.53,2.58,False
+27 Aug 2017,New Zealand Warriors,21,Manly Sea Eagles,22,2.46,1.57,True
+26 Aug 2017,Cronulla Sharks,14,Sydney Roosters,16,1.99,1.86,False
+26 Aug 2017,Melbourne Storm,64,South Sydney Rabbitohs,6,1.13,6.14,False
+26 Aug 2017,Gold Coast Titans,14,Canterbury Bulldogs,26,1.85,2.01,False
+25 Aug 2017,Wests Tigers,14,NQ Cowboys,22,2.50,1.57,False
+25 Aug 2017,Canberra Raiders,46,Newcastle Knights,28,1.15,5.53,False
+24 Aug 2017,Brisbane Broncos,34,Parramatta Eels,52,1.26,3.86,False
+20 Aug 2017,Canterbury Bulldogs,30,Manly Sea Eagles,16,4.31,1.23,False
+20 Aug 2017,Canberra Raiders,22,Penrith Panthers,26,1.48,2.73,False
+19 Aug 2017,NQ Cowboys,16,Cronulla Sharks,26,2.19,1.71,False
+19 Aug 2017,Sydney Roosters,22,Wests Tigers,18,1.18,4.84,False
+19 Aug 2017,Newcastle Knights,12,Melbourne Storm,44,3.87,1.26,False
+18 Aug 2017,Brisbane Broncos,24,St. George Illawarra Dragons,12,1.24,4.15,False
+18 Aug 2017,South Sydney Rabbitohs,36,New Zealand Warriors,18,1.37,3.17,False
+17 Aug 2017,Parramatta Eels,30,Gold Coast Titans,8,1.17,5.09,False
+13 Aug 2017,Wests Tigers,30,Manly Sea Eagles,26,2.93,1.42,False
+13 Aug 2017,New Zealand Warriors,16,Canberra Raiders,36,3.49,1.31,False
+12 Aug 2017,Penrith Panthers,24,NQ Cowboys,16,1.51,2.68,False
+12 Aug 2017,Melbourne Storm,16,Sydney Roosters,13,1.36,3.18,False
+12 Aug 2017,St. George Illawarra Dragons,42,Gold Coast Titans,16,1.34,3.26,False
+11 Aug 2017,Brisbane Broncos,32,Cronulla Sharks,10,1.51,2.63,False
+11 Aug 2017,Parramatta Eels,10,Newcastle Knights,29,1.20,4.61,False
+10 Aug 2017,South Sydney Rabbitohs,28,Canterbury Bulldogs,14,1.60,2.39,False
+06 Aug 2017,Penrith Panthers,28,Wests Tigers,14,1.39,3.05,False
+06 Aug 2017,Manly Sea Eagles,36,Sydney Roosters,18,2.00,1.84,False
+05 Aug 2017,Cronulla Sharks,12,Canberra Raiders,30,1.61,2.39,False
+05 Aug 2017,Gold Coast Titans,0,Brisbane Broncos,54,3.05,1.39,False
+05 Aug 2017,Newcastle Knights,26,New Zealand Warriors,10,1.93,1.91,False
+04 Aug 2017,NQ Cowboys,8,Melbourne Storm,26,2.56,1.53,False
+04 Aug 2017,St. George Illawarra Dragons,24,South Sydney Rabbitohs,26,1.45,2.77,False
+03 Aug 2017,Canterbury Bulldogs,4,Parramatta Eels,20,2.76,1.48,False
+30 Jul 2017,Gold Coast Titans,4,Wests Tigers,26,1.38,3.08,False
+30 Jul 2017,Melbourne Storm,40,Manly Sea Eagles,6,1.47,2.77,False
+29 Jul 2017,Sydney Roosters,22,NQ Cowboys,16,1.67,2.28,False
+29 Jul 2017,South Sydney Rabbitohs,18,Canberra Raiders,32,1.90,1.96,False
+29 Jul 2017,Newcastle Knights,21,St. George Illawarra Dragons,14,4.01,1.25,False
+28 Jul 2017,Parramatta Eels,28,Brisbane Broncos,14,2.78,1.47,False
+28 Jul 2017,New Zealand Warriors,12,Cronulla Sharks,26,2.38,1.61,False
+27 Jul 2017,Penrith Panthers,16,Canterbury Bulldogs,8,1.46,2.78,False
+23 Jul 2017,Wests Tigers,16,Parramatta Eels,17,3.42,1.33,False
+23 Jul 2017,St. George Illawarra Dragons,52,Manly Sea Eagles,22,2.04,1.81,False
+22 Jul 2017,NQ Cowboys,24,New Zealand Warriors,12,1.28,3.76,False
+22 Jul 2017,Canberra Raiders,14,Melbourne Storm,20,2.82,1.45,False
+22 Jul 2017,Penrith Panthers,24,Gold Coast Titans,16,1.53,2.58,False
+21 Jul 2017,Cronulla Sharks,26,South Sydney Rabbitohs,12,1.34,3.37,False
+21 Jul 2017,Sydney Roosters,28,Newcastle Knights,4,1.18,4.90,False
+20 Jul 2017,Brisbane Broncos,42,Canterbury Bulldogs,12,1.30,3.56,False
+16 Jul 2017,South Sydney Rabbitohs,10,NQ Cowboys,23,2.46,1.58,False
+16 Jul 2017,Manly Sea Eagles,28,Wests Tigers,16,1.17,4.90,False
+15 Jul 2017,Gold Coast Titans,30,Cronulla Sharks,10,2.24,1.69,False
+15 Jul 2017,Newcastle Knights,22,Brisbane Broncos,34,3.41,1.33,False
+14 Jul 2017,Canberra Raiders,18,St. George Illawarra Dragons,14,1.46,2.80,True
+14 Jul 2017,New Zealand Warriors,22,Penrith Panthers,34,1.49,2.71,False
+09 Jul 2017,Canterbury Bulldogs,20,Newcastle Knights,18,1.41,2.96,False
+08 Jul 2017,Melbourne Storm,6,Parramatta Eels,22,2.38,1.60,False
+08 Jul 2017,Penrith Panthers,16,Manly Sea Eagles,8,1.83,2.01,False
+07 Jul 2017,Sydney Roosters,14,South Sydney Rabbitohs,12,2.39,1.61,False
+02 Jul 2017,South Sydney Rabbitohs,42,Penrith Panthers,14,2.28,1.66,False
+02 Jul 2017,Newcastle Knights,12,Wests Tigers,33,1.60,2.39,False
+01 Jul 2017,Canberra Raiders,18,NQ Cowboys,31,1.49,2.68,False
+01 Jul 2017,Manly Sea Eagles,26,New Zealand Warriors,22,1.39,3.06,False
+01 Jul 2017,Sydney Roosters,12,Cronulla Sharks,44,1.76,2.11,False
+30 Jun 2017,Brisbane Broncos,12,Melbourne Storm,42,2.36,1.62,False
+30 Jun 2017,Gold Coast Titans,20,St. George Illawarra Dragons,10,2.00,1.84,False
+29 Jun 2017,Parramatta Eels,13,Canterbury Bulldogs,12,1.42,2.94,True
+25 Jun 2017,Cronulla Sharks,18,Manly Sea Eagles,35,1.65,2.29,False
+25 Jun 2017,St. George Illawarra Dragons,32,Newcastle Knights,28,1.22,4.39,False
+24 Jun 2017,Sydney Roosters,25,Melbourne Storm,24,1.28,3.78,True
+24 Jun 2017,Canberra Raiders,20,Brisbane Broncos,30,1.48,2.74,False
+24 Jun 2017,NQ Cowboys,14,Penrith Panthers,12,2.14,1.75,False
+23 Jun 2017,Wests Tigers,14,Gold Coast Titans,26,2.15,1.73,False
+23 Jun 2017,New Zealand Warriors,21,Canterbury Bulldogs,14,1.59,2.42,False
+18 Jun 2017,Parramatta Eels,24,St. George Illawarra Dragons,10,1.63,2.34,False
+17 Jun 2017,Cronulla Sharks,24,Wests Tigers,22,1.31,3.55,False
+17 Jun 2017,Melbourne Storm,23,NQ Cowboys,22,1.61,2.39,True
+16 Jun 2017,South Sydney Rabbitohs,36,Gold Coast Titans,20,1.32,3.45,False
+12 Jun 2017,Canterbury Bulldogs,16,St. George Illawarra Dragons,2,2.95,1.42,False
+11 Jun 2017,Wests Tigers,18,Sydney Roosters,40,4.55,1.21,False
+10 Jun 2017,Parramatta Eels,6,NQ Cowboys,32,2.06,1.80,False
+10 Jun 2017,Penrith Panthers,24,Canberra Raiders,20,1.81,2.04,False
+10 Jun 2017,Gold Coast Titans,12,New Zealand Warriors,34,1.82,2.02,False
+09 Jun 2017,Brisbane Broncos,24,South Sydney Rabbitohs,18,1.25,4.06,False
+09 Jun 2017,Manly Sea Eagles,18,Newcastle Knights,14,1.15,5.52,False
+08 Jun 2017,Cronulla Sharks,13,Melbourne Storm,18,1.66,2.31,False
+04 Jun 2017,Canterbury Bulldogs,0,Penrith Panthers,38,2.28,1.67,False
+04 Jun 2017,Manly Sea Eagles,21,Canberra Raiders,20,2.02,1.82,True
+03 Jun 2017,NQ Cowboys,20,Gold Coast Titans,8,1.49,2.70,False
+03 Jun 2017,Sydney Roosters,18,Brisbane Broncos,16,1.69,2.23,False
+03 Jun 2017,St. George Illawarra Dragons,16,Wests Tigers,12,1.23,4.25,False
+02 Jun 2017,Parramatta Eels,32,New Zealand Warriors,24,1.72,2.18,False
+02 Jun 2017,Melbourne Storm,40,Newcastle Knights,12,1.16,5.26,False
+28 May 2017,Canberra Raiders,24,Sydney Roosters,16,1.34,3.35,False
+27 May 2017,Cronulla Sharks,9,Canterbury Bulldogs,8,1.64,2.33,False
+27 May 2017,New Zealand Warriors,28,Brisbane Broncos,10,1.38,3.07,False
+26 May 2017,South Sydney Rabbitohs,16,Parramatta Eels,22,1.78,2.07,False
+21 May 2017,South Sydney Rabbitohs,6,Melbourne Storm,14,3.39,1.33,False
+21 May 2017,Canterbury Bulldogs,18,Sydney Roosters,24,3.08,1.39,False
+21 May 2017,Newcastle Knights,20,Penrith Panthers,30,3.66,1.29,False
+20 May 2017,Parramatta Eels,16,Canberra Raiders,22,2.40,1.60,False
+20 May 2017,Gold Coast Titans,10,Manly Sea Eagles,30,1.63,2.32,False
+19 May 2017,Brisbane Broncos,36,Wests Tigers,0,1.13,5.95,False
+19 May 2017,New Zealand Warriors,14,St. George Illawarra Dragons,30,1.59,2.42,False
+18 May 2017,Cronulla Sharks,18,NQ Cowboys,14,1.39,3.06,False
+14 May 2017,Sydney Roosters,48,Parramatta Eels,10,1.49,2.68,False
+14 May 2017,Newcastle Knights,34,Canberra Raiders,20,5.20,1.17,False
+13 May 2017,Manly Sea Eagles,14,Brisbane Broncos,24,2.36,1.62,False
+13 May 2017,Melbourne Storm,36,Gold Coast Titans,38,1.36,3.25,False
+13 May 2017,Penrith Panthers,36,New Zealand Warriors,28,1.63,2.34,False
+12 May 2017,Wests Tigers,8,South Sydney Rabbitohs,28,2.03,1.82,False
+12 May 2017,St. George Illawarra Dragons,14,Cronulla Sharks,18,2.88,1.44,False
+11 May 2017,Canterbury Bulldogs,14,NQ Cowboys,30,1.54,2.52,False
+30 Apr 2017,St. George Illawarra Dragons,22,Melbourne Storm,34,2.76,1.46,False
+30 Apr 2017,New Zealand Warriors,14,Sydney Roosters,13,2.09,1.78,False
+29 Apr 2017,Wests Tigers,16,Cronulla Sharks,22,2.72,1.48,False
+29 Apr 2017,Canterbury Bulldogs,16,Canberra Raiders,10,2.67,1.50,False
+29 Apr 2017,Gold Coast Titans,38,Newcastle Knights,8,1.18,4.88,False
+28 Apr 2017,NQ Cowboys,6,Parramatta Eels,26,1.79,2.08,False
+28 Apr 2017,South Sydney Rabbitohs,8,Manly Sea Eagles,46,2.16,1.72,False
+27 Apr 2017,Brisbane Broncos,32,Penrith Panthers,18,1.47,2.75,False
+25 Apr 2017,Melbourne Storm,20,New Zealand Warriors,14,1.30,3.66,False
+25 Apr 2017,Sydney Roosters,13,St. George Illawarra Dragons,12,1.64,2.32,True
+23 Apr 2017,Wests Tigers,18,Canterbury Bulldogs,12,2.68,1.49,False
+22 Apr 2017,Cronulla Sharks,12,Gold Coast Titans,16,1.30,3.61,False
+22 Apr 2017,NQ Cowboys,24,Newcastle Knights,12,1.29,3.68,False
+22 Apr 2017,Parramatta Eels,18,Penrith Panthers,12,2.23,1.69,False
+21 Apr 2017,South Sydney Rabbitohs,24,Brisbane Broncos,25,3.32,1.34,False
+21 Apr 2017,Canberra Raiders,18,Manly Sea Eagles,20,1.28,3.69,True
+17 Apr 2017,Parramatta Eels,26,Wests Tigers,22,1.62,2.34,False
+16 Apr 2017,Penrith Panthers,2,Cronulla Sharks,28,1.72,2.18,False
+15 Apr 2017,St. George Illawarra Dragons,28,NQ Cowboys,22,1.34,3.35,False
+15 Apr 2017,Canberra Raiders,20,New Zealand Warriors,8,1.32,3.47,False
+15 Apr 2017,Manly Sea Eagles,26,Melbourne Storm,30,2.70,1.49,False
+14 Apr 2017,Brisbane Broncos,24,Gold Coast Titans,22,1.18,4.91,False
+14 Apr 2017,Newcastle Knights,6,Sydney Roosters,24,4.48,1.21,False
+14 Apr 2017,Canterbury Bulldogs,24,South Sydney Rabbitohs,9,1.92,1.93,False
+09 Apr 2017,Melbourne Storm,2,Cronulla Sharks,11,1.56,2.54,False
+09 Apr 2017,New Zealand Warriors,22,Parramatta Eels,10,1.70,2.25,False
+08 Apr 2017,NQ Cowboys,16,Wests Tigers,26,1.16,5.34,False
+08 Apr 2017,Gold Coast Titans,16,Canberra Raiders,42,4.38,1.23,False
+08 Apr 2017,Manly Sea Eagles,10,St. George Illawarra Dragons,35,1.48,2.77,False
+07 Apr 2017,Penrith Panthers,20,South Sydney Rabbitohs,21,1.66,2.36,False
+07 Apr 2017,Newcastle Knights,12,Canterbury Bulldogs,22,2.58,1.53,False
+06 Apr 2017,Brisbane Broncos,32,Sydney Roosters,8,1.77,2.19,False
+02 Apr 2017,Wests Tigers,6,St. George Illawarra Dragons,28,2.57,1.55,False
+02 Apr 2017,New Zealand Warriors,28,Gold Coast Titans,22,1.41,3.06,False
+01 Apr 2017,Melbourne Storm,28,Penrith Panthers,6,1.59,2.47,False
+01 Apr 2017,Canberra Raiders,30,Parramatta Eels,18,1.45,2.88,False
+01 Apr 2017,Cronulla Sharks,19,Newcastle Knights,18,1.11,7.10,False
+31 Mar 2017,NQ Cowboys,20,South Sydney Rabbitohs,6,1.28,3.87,False
+31 Mar 2017,Sydney Roosters,12,Manly Sea Eagles,18,1.35,3.36,False
+30 Mar 2017,Canterbury Bulldogs,10,Brisbane Broncos,7,3.02,1.42,False
+26 Mar 2017,St. George Illawarra Dragons,26,New Zealand Warriors,12,1.81,2.07,False
+26 Mar 2017,Wests Tigers,14,Melbourne Storm,22,2.70,1.50,False
+25 Mar 2017,Gold Coast Titans,26,NQ Cowboys,32,2.28,1.68,False
+25 Mar 2017,Parramatta Eels,6,Cronulla Sharks,20,1.90,2.00,False
+25 Mar 2017,Manly Sea Eagles,36,Canterbury Bulldogs,0,1.93,1.94,False
+24 Mar 2017,Brisbane Broncos,13,Canberra Raiders,12,1.65,2.32,False
+24 Mar 2017,Penrith Panthers,40,Newcastle Knights,0,1.17,5.06,False
+23 Mar 2017,South Sydney Rabbitohs,6,Sydney Roosters,20,2.86,1.46,False
+19 Mar 2017,Cronulla Sharks,10,St. George Illawarra Dragons,16,1.37,3.23,False
+19 Mar 2017,Canberra Raiders,46,Wests Tigers,6,1.34,3.41,False
+18 Mar 2017,NQ Cowboys,8,Manly Sea Eagles,30,1.28,3.81,False
+18 Mar 2017,Penrith Panthers,12,Sydney Roosters,14,1.96,1.92,False
+18 Mar 2017,Newcastle Knights,18,South Sydney Rabbitohs,24,2.52,1.57,False
+17 Mar 2017,Gold Coast Titans,26,Parramatta Eels,14,2.59,1.55,False
+17 Mar 2017,Canterbury Bulldogs,24,New Zealand Warriors,12,2.04,1.83,False
+16 Mar 2017,Melbourne Storm,14,Brisbane Broncos,12,1.53,2.66,False
+12 Mar 2017,St. George Illawarra Dragons,16,Parramatta Eels,34,2.13,1.77,False
+12 Mar 2017,Wests Tigers,2,Penrith Panthers,36,2.03,1.85,False
+11 Mar 2017,Canberra Raiders,16,Cronulla Sharks,42,1.44,2.92,False
+11 Mar 2017,Manly Sea Eagles,18,South Sydney Rabbitohs,38,1.80,2.07,False
+11 Mar 2017,Newcastle Knights,34,Gold Coast Titans,26,2.26,1.69,False
+10 Mar 2017,Brisbane Broncos,20,NQ Cowboys,21,1.80,2.13,True
+10 Mar 2017,New Zealand Warriors,10,Melbourne Storm,26,2.12,1.78,False
+09 Mar 2017,Sydney Roosters,28,Canterbury Bulldogs,24,1.45,2.92,False
+05 Mar 2017,Manly Sea Eagles,12,Parramatta Eels,20,1.97,1.92,False
+05 Mar 2017,New Zealand Warriors,26,Newcastle Knights,22,1.19,4.96,False
+04 Mar 2017,Gold Coast Titans,18,Sydney Roosters,32,2.41,1.62,False
+04 Mar 2017,NQ Cowboys,20,Canberra Raiders,16,1.37,3.19,True
+04 Mar 2017,St. George Illawarra Dragons,42,Penrith Panthers,10,2.90,1.44,False
+03 Mar 2017,South Sydney Rabbitohs,18,Wests Tigers,34,1.76,2.20,False
+03 Mar 2017,Canterbury Bulldogs,6,Melbourne Storm,12,2.09,1.82,False
+02 Mar 2017,Cronulla Sharks,18,Brisbane Broncos,26,2.13,1.78,False

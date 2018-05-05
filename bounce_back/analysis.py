@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 
 df = pd.read_csv('../data/NRL_cleaned.csv')
+odds_df = pd.read_csv('../data/odds_data.csv', encoding = "ISO-8859-1")
+
 
 def losing_amount(row):
     if row['HomeWin'] == 1.0:
@@ -34,7 +36,8 @@ def losing_thresehold(losing_column, thresehold):
         return False
 
 def bounce_back_win_percent(df, thresehold):
-    ''' Add in code so it only goes 1 round not between seasons or even fortnights
+    ''' 
+    Add in code so it only goes 1 round not between seasons or even fortnights
     '''
     df['big_loss'] = np.vectorize(losing_thresehold)(df['losing_margin'], thresehold)
     
@@ -82,8 +85,38 @@ def bounce_back_win_percent(df, thresehold):
     print(win_loss['L'])
     print(round(float(win_loss['W'])/(float(win_loss['W']) + float(win_loss['L'])),2),'\n')
     
-bounce_back_win_percent(df, five_percent_value)
-bounce_back_win_percent(df, ten_percent_value)
-bounce_back_win_percent(df, twenty_percent_value)
+#bounce_back_win_percent(df, five_percent_value)
+#bounce_back_win_percent(df, ten_percent_value)
+#bounce_back_win_percent(df, twenty_percent_value)
+#
+#df.to_csv('losing_margin.csv', index = False)
 
-df.to_csv('losing_margin.csv', index = False)
+odds_df['year'] = (odds_df['date'].str[-4:]).str.strip().astype(int)
+odds_df['month'] = odds_df['date'].str[3:6]
+odds_df['day'] = odds_df['date'].str[0:3].str.lstrip('0')
+
+odds_df['date'] = odds_df['month'] + '-' + odds_df['day']
+odds_df['date'] = odds_df['date'].str.strip()
+
+odds_df.drop(['month', 'day'], axis = 1, inplace = True)
+
+odds_df.drop_duplicates(inplace = True)
+
+# Rename teams for odds_df
+rename_mapper = {'Melbourne Storm': 'Melbourne','Brisbane Broncos': 'Brisbane','Parramatta Eels': 'Parramatta', \
+                 'St. George Illawarra Dragons': 'St George Illawarra','Gold Coast Titans': 'Gold Coast Titans', \
+                 'Newcastle Knights': 'Newcastle','Manly Sea Eagles': 'Manly Warringah','Canberra Raiders': 'Canberra', \
+                 'Penrith Panthers': 'Penrith','NQ Cowboys': 'North Queensland','South Sydney Rabbitohs': 'South Sydney', \
+                 'Canterbury Bulldogs': 'Canterbury','New Zealand Warriors': 'Warriors','Cronulla Sharks': 'Cronulla', \
+                 'Sydney Roosters': 'Sydney','Wests Tigers': 'Wests Tigers'}
+
+odds_df['home'] = odds_df['home'].map(rename_mapper)
+odds_df['away'] = odds_df['away'].map(rename_mapper)
+
+# Merge dataframes
+odds_df = odds_df[['year', 'date', 'home', 'away', 'home_odds', 'away_odds']]
+odds_df.rename(columns = {'year':'Year', 'date':'Date', 'home':'Home', 'away':'Away'}, inplace = True)
+df_full = df.merge(odds_df, how = 'left', on = ['Year', 'Date', 'Home', 'Away'])
+df_full = df_full.loc[df_full['Year'] != 2008, :].reset_index() # No odds data from 2008
+
+print(df_full.head())
